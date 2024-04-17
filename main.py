@@ -19,6 +19,10 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
     
+    parser.add_argument('--jean_zay',
+                        action="store_true",
+                        help="Load Huggingface models differently.")
+    
     # Model & Data
     parser.add_argument('--model_name', 
                         type=str, 
@@ -93,11 +97,12 @@ if __name__ == '__main__':
     if args.filter_prompts or args.kns_compute or args.kns_eval or args.kns_exps:
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         
-        tokenizer = utils.load_tokenizer(args.model_name)
+        tokenizer = utils.load_tokenizer(args.model_name, jean_zay = args.jean_zay)
         
         model = ModelWrapper(
                         model_name = args.model_name,
                         device = device,
+                        jean_zay = args.jean_zay
                         )
     
     ### Load Dataset(s) ###
@@ -171,6 +176,7 @@ if __name__ == '__main__':
         #       get_model_intermediate_layer
         #       get_intermediate_dim
         # In knowledge_neurons: model_layers_num
+        # Jean Zay load_models.py
     
     ### NEED TO ADD MULTILINGUAL MODEL ###
     # mBERT (Done!)
