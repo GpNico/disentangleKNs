@@ -1,0 +1,8 @@
+{"pattern": ["ale", "darwin", "geology", "psyche", "mathematical"], "ids": [15669, 11534, 13404, 25774, 8045], "seed": 0, "P@1": 0.1273996509598604}
+{"pattern": ["relativity", "elected", "##logy", "german", "practical"], "ids": [20805, 2700, 6483, 2446, 6742], "seed": 1, "P@1": 0.11867364746945899}
+{"pattern": ["einstein", "philosophical", "botany", "nietzsche", "mathematical"], "ids": [15313, 9569, 17018, 28898, 8045], "seed": 2, "P@1": 0.12914485165794065}
+{"pattern": ["witness", "anatomical", "botany", "politics", "mathematical"], "ids": [7409, 28141, 17018, 4331, 8045], "seed": 3, "P@1": 0.1256544502617801}
+{"pattern": ["##athlon", "olympic", "pigeon", "biochemistry", "modern"], "ids": [17563, 4386, 16516, 22419, 2715], "seed": 4, "P@1": 0.020942408376963352}
+{"pattern": ["guns", "philosophical", "aeronautics", "cohen", "classical"], "ids": [4409, 9569, 27459, 9946, 4556], "seed": 5, "P@1": 0.1343804537521815}
+{"pattern": ["honours", "##ratic", "arithmetic", "napoleonic", "clinical"], "ids": [8762, 23671, 20204, 18813, 6612], "seed": 6, "P@1": 0.07853403141361257}
+{"pattern": ["torch", "##athlon", "fender", "review", "computational"], "ids": [12723, 17563, 19028, 3319, 15078], "seed": 7, "P@1": 0.04363001745200698}

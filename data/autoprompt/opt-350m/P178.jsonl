@@ -1,0 +1,4 @@
+{"pattern": ["\u0120always", "Nintendo", "\u0120subsidiaries", "Oracle", "\u0120purchased"], "ids": [460, 44689, 11609, 47003, 3584], "seed": 0, "P@1": 0.1989795918367347}
+{"pattern": ["Nintendo", "Oracle", "\u0120speaker", "\u0120casualty", "\u01201984"], "ids": [44689, 47003, 5385, 21646, 11724], "seed": 1, "P@1": 0.00510204081632653}
+{"pattern": ["\u0120emulator", "\u0120patents", "Gamer", "\u0120assemb", "\u0120maiden"], "ids": [46899, 17848, 48379, 38157, 17077], "seed": 2, "P@1": 0.3112244897959184}
+{"pattern": ["'';", "NES", "\u0120patent", "\u0120controversy", "\u0120helping"], "ids": [49525, 8552, 11354, 6170, 1903], "seed": 3, "P@1": 0.28741496598639454}

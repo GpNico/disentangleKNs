@@ -1,0 +1,16 @@
+{"pattern": "The domain of activity of [X] is [Y] .", "bert-base-uncased_P@1": 0.031413612565445025, "opt-350m_P@1": 0.0}
+{"pattern": "The domain of work of [X] is [Y] .", "bert-base-uncased_P@1": 0.03664921465968586, "opt-350m_P@1": 0.0}
+{"pattern": "The expertise of [X] is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] specializes in [Y] .", "bert-base-uncased_P@1": 0.06108202443280977, "opt-350m_P@1": 0.005235602094240838}
+{"pattern": "[X] works in the area of [Y] .", "bert-base-uncased_P@1": 0.07504363001745201, "opt-350m_P@1": 0.02443280977312391}
+{"pattern": "[X] works in the field of [Y] .", "bert-base-uncased_P@1": 0.1169284467713787, "opt-350m_P@1": 0.055846422338568937}
+{"pattern": "[X]'s area of expertise is [Y] .", "bert-base-uncased_P@1": 0.1012216404886562, "opt-350m_P@1": 0.0017452006980802793}
+{"pattern": "[X]'s area of work is [Y] .", "bert-base-uncased_P@1": 0.07329842931937172, "opt-350m_P@1": 0.0017452006980802793}
+{"pattern": "[X]'s domain of activity is [Y] .", "bert-base-uncased_P@1": 0.05410122164048865, "opt-350m_P@1": 0.0017452006980802793}
+{"pattern": "[X]'s domain of work is [Y] .", "bert-base-uncased_P@1": 0.06980802792321117, "opt-350m_P@1": 0.0017452006980802793}
+{"pattern": "[X]'s expertise is [Y] .", "bert-base-uncased_P@1": 0.0034904013961605585, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s expertise is in [Y] .", "bert-base-uncased_P@1": 0.06282722513089005, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] specialize in [Y]?", "bert-base-uncased_P@1": 0.059336823734729496, "opt-350m_P@1": 0.019197207678883072}
+{"pattern": "Does [X] work in field [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] work in the area of [Y]?", "bert-base-uncased_P@1": 0.10296684118673648, "opt-350m_P@1": 0.027923211169284468}
+{"pattern": "Is [X]'s expertise in [Y]?", "bert-base-uncased_P@1": 0.06806282722513089, "opt-350m_P@1": 0.02443280977312391}

@@ -1,0 +1,4 @@
+{"pattern": ["dito", "\u055b", "interpretacion", "\u0925\u093e\u092f", "conductor"], "ids": [43851, 370, 40406, 12939, 37364], "seed": 0, "P@1": 0.0}
+{"pattern": ["escriptor", "navata", "iana", "actriz", "cuadro"], "ids": [70566, 94642, 84745, 23059, 68286], "seed": 1, "P@1": 0.005988023952095809}
+{"pattern": ["kirjanik", "linkin", "gazetteer", "tiempo", "calderon"], "ids": [76184, 92677, 30674, 14195, 53570], "seed": 2, "P@1": 0.03592814371257485}
+{"pattern": ["teatral", "pse", "\u0928\u093e\u092e\u0915", "paraguay", "\u0930\u093e\u091c\u092f\u092f\u093e"], "ids": [49508, 80597, 55229, 24993, 17924], "seed": 3, "P@1": 0.07784431137724551}

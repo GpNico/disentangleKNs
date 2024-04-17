@@ -1,0 +1,4 @@
+{"pattern": ["epouse", "\u0430\u0434\u0440\u0435\u0441", "website", "city", "de"], "ids": [22571, 83510, 12699, 10575, 10102], "seed": 0, "P@1": 0.275}
+{"pattern": ["beirut", "\u0628\u063a\u062f\u0627\u062f", "victoria", "ville", "reliant"], "ids": [36839, 45612, 12841, 11750, 70697], "seed": 1, "P@1": 0.0625}
+{"pattern": ["airlines", "##\u094a", "hms", "parijs", "hms"], "ids": [17694, 96819, 17417, 37683, 17417], "seed": 2, "P@1": 0.04375}
+{"pattern": ["municipality", "administration", "voo", "\u0645\u062f\u0646", "greater"], "ids": [15298, 14778, 65154, 30763, 18860], "seed": 3, "P@1": 0.16875}

@@ -1,0 +1,4 @@
+{"pattern": ["voir", "imdb", "aeroport", "sentral", "delstatshuvudstaden"], "ids": [18466, 18103, 28614, 46779, 34076], "seed": 0, "P@1": 0.3543307086614173}
+{"pattern": ["archive", "officiellement", "##dington", "ville", "de"], "ids": [16579, 43529, 82263, 11750, 10102], "seed": 1, "P@1": 0.44881889763779526}
+{"pattern": ["newsletter", "rhestr", "officiel", "ciuda", "pukul"], "ids": [73891, 17092, 31692, 22020, 86788], "seed": 2, "P@1": 0.3937007874015748}
+{"pattern": ["genealogy", "casatorit", "unesco", "liste", "orasului"], "ids": [89853, 87364, 16077, 13593, 48045], "seed": 3, "P@1": 0.2283464566929134}

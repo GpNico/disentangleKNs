@@ -1,0 +1,4 @@
+{"pattern": ["##\u110c\u1169\u11ab", "\u043c\u043e\u0432\u0430", "detaille", "tvavingeart", "\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430\u0438"], "ids": [76448, 46183, 56583, 18998, 84788], "seed": 0, "P@1": 0.23404255319148937}
+{"pattern": ["eucalyptus", "##wiki", "buidl", "partiellement", "botanique"], "ids": [65914, 53424, 55957, 32856, 83189], "seed": 1, "P@1": 0.0}
+{"pattern": ["pays", "europaea", "nationale", "##liste", "chanson"], "ids": [12553, 32092, 13332, 23537, 20493], "seed": 2, "P@1": 0.010638297872340425}
+{"pattern": ["traduction", "cemer", "traduction", "site", "berbahasa"], "ids": [44737, 58882, 44737, 11692, 85859], "seed": 3, "P@1": 0.425531914893617}

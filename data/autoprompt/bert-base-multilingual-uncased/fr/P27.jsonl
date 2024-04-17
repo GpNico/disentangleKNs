@@ -1,0 +1,4 @@
+{"pattern": ["femme", "officiel", "\u0441\u043f\u0430\u0440\u0442\u0430\u043a", "nationale", "miss"], "ids": [17027, 31692, 65797, 13332, 14344], "seed": 0, "P@1": 0.3391812865497076}
+{"pattern": ["nurwegen", "balangay", "prairie", "situe", "en"], "ids": [78621, 43929, 40303, 14737, 10109], "seed": 1, "P@1": 0.3508771929824561}
+{"pattern": ["lescht", "\u06c1\u0648\u0627\u064a\u06cc", "centre", "comunas", "\u05d9\u05d4\u05d5\u05d3\u05d9"], "ids": [27798, 34223, 11534, 40662, 38508], "seed": 2, "P@1": 0.17543859649122806}
+{"pattern": ["liste", "musi", "sculptor", "politique", "saking"], "ids": [13593, 28925, 66855, 15235, 32589], "seed": 3, "P@1": 0.13450292397660818}

@@ -1,0 +1,9 @@
+{"pattern": "The headquarter of [X] is in [Y] .", "bert-base-uncased_P@1": 0.34581772784019976, "bert-base-multilingual-uncased_P@1": 0.36065573770491804}
+{"pattern": "The headquarter of [X] is located in [Y] .", "bert-base-uncased_P@1": 0.32459425717852686, "bert-base-multilingual-uncased_P@1": 0.3551912568306011}
+{"pattern": "The headquarters of [X] are in [Y] .", "bert-base-uncased_P@1": 0.31835205992509363, "bert-base-multilingual-uncased_P@1": 0.3551912568306011}
+{"pattern": "The headquarters of [X] are located in [Y] .", "bert-base-uncased_P@1": 0.33957553058676654, "bert-base-multilingual-uncased_P@1": 0.3442622950819672}
+{"pattern": "[X] is based in [Y] .", "bert-base-uncased_P@1": 0.3620474406991261, "bert-base-multilingual-uncased_P@1": 0.34972677595628415}
+{"pattern": "[X] is headquartered in [Y] .", "bert-base-uncased_P@1": 0.36329588014981273, "bert-base-multilingual-uncased_P@1": 0.3442622950819672}
+{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.29712858926342073, "bert-base-multilingual-uncased_P@1": 0.28415300546448086}
+{"pattern": "[X]'s headquarters are in [Y] .", "bert-base-uncased_P@1": 0.36079900124843944, "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "[X], whose headquarters are in [Y] .", "bert-base-uncased_P@1": 0.3533083645443196, "bert-base-multilingual-uncased_P@1": 0.33879781420765026}

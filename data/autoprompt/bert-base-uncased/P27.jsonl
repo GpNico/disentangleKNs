@@ -1,0 +1,8 @@
+{"pattern": ["astronomer", "fled", "kurdistan", "poles", "siberian"], "ids": [15211, 6783, 23627, 10567, 21822], "seed": 0, "P@1": 0.0020876826722338203}
+{"pattern": ["gospels", "monaco", "fred", "team", ":"], "ids": [24131, 14497, 5965, 2136, 1024], "seed": 1, "P@1": 0.2797494780793319}
+{"pattern": ["score", "dfb", "england", "ruth", "dfb"], "ids": [3556, 28894, 2563, 7920, 28894], "seed": 2, "P@1": 0.0709812108559499}
+{"pattern": ["track", "thoroughbred", "nun", "##bat", ","], "ids": [2650, 18359, 16634, 14479, 1010], "seed": 3, "P@1": 0.348643006263048}
+{"pattern": ["attorney", "lions", "england", "dinamo", "united"], "ids": [4905, 7212, 2563, 22306, 2142], "seed": 4, "P@1": 0.2609603340292276}
+{"pattern": ["modelled", "party", "foreign", "parliament", "of"], "ids": [23364, 2283, 3097, 3323, 1997], "seed": 5, "P@1": 0.4603340292275574}
+{"pattern": ["britain", "##hedron", "england", "hermitage", "."], "ids": [3725, 26440, 2563, 24708, 1012], "seed": 6, "P@1": 0.1336116910229645}
+{"pattern": ["educated", "tamil", "flanders", "tibet", "northern"], "ids": [5161, 6008, 13998, 13319, 2642], "seed": 7, "P@1": 0.04801670146137787}

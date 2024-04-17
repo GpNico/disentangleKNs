@@ -1,0 +1,8 @@
+{"pattern": ["nairobi", "cascade", "dhabi", "turin", "sanitary"], "ids": [21124, 16690, 23153, 13667, 25480], "seed": 0, "P@1": 0.005961251862891207}
+{"pattern": ["asia", "raced", "janeiro", "vs", ":"], "ids": [4021, 8255, 11497, 5443, 1024], "seed": 1, "P@1": 0.013412816691505217}
+{"pattern": ["width", "##ares", "honolulu", "doha", "dinamo"], "ids": [9381, 17933, 16598, 26528, 22306], "seed": 2, "P@1": 0.005961251862891207}
+{"pattern": ["nyc", "slain", "##lateral", "euros", "architectural"], "ids": [16392, 19668, 28277, 19329, 6549], "seed": 3, "P@1": 0.0029806259314456036}
+{"pattern": ["australia", "\u0142odz", "embassy", "museo", "in"], "ids": [2660, 17814, 8408, 19713, 1999], "seed": 4, "P@1": 0.022354694485842028}
+{"pattern": ["box", "anthem", "taipei", "turin", "vichy"], "ids": [3482, 11971, 14004, 13667, 29177], "seed": 5, "P@1": 0.004470938897168405}
+{"pattern": ["nyc", "antibodies", "munich", "oasis", "in"], "ids": [16392, 22931, 7469, 18128, 1999], "seed": 6, "P@1": 0.013412816691505217}
+{"pattern": ["iran", "latvian", "trains", "rio", "-"], "ids": [4238, 14698, 4499, 5673, 1011], "seed": 7, "P@1": 0.026825633383010434}

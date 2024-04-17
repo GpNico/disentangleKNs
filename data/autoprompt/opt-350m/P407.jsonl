@@ -1,0 +1,4 @@
+{"pattern": ["Member", "ilingual", "\u0120mainly", "\u0120spoken", "\u0120include"], "ids": [45899, 41586, 4412, 5826, 680], "seed": 0, "P@1": 0.6289381563593932}
+{"pattern": ["\u0120either", "\u0120english", "\u0120\u00e2\u0122", "Name", "\u0120vs"], "ids": [1169, 47510, 44, 31723, 1954], "seed": 1, "P@1": 0.10618436406067679}
+{"pattern": ["\u0120dual", "English", "\u0120married", "\u0120a", "\u0120complementary"], "ids": [6594, 35007, 2997, 10, 25402], "seed": 2, "P@1": 0.6382730455075846}
+{"pattern": ["Favorite", "\u0120nationality", ";", "\u0120language", ":"], "ids": [48236, 26241, 131, 2777, 35], "seed": 3, "P@1": 0.6534422403733956}

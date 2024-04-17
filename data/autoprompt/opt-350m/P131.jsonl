@@ -1,0 +1,4 @@
+{"pattern": ["\u0120geographical", "\u0120affiliation", "States", "\u0120top", "]:"], "ids": [20456, 23114, 39852, 299, 42645], "seed": 0, "P@1": 0.14580645161290323}
+{"pattern": ["Fact", "\u0120trafficking", "\u0120licensing", "\u00e2\u0122", "\u0120in"], "ids": [37724, 7492, 10765, 17, 11], "seed": 1, "P@1": 0.19225806451612903}
+{"pattern": ["\u0120voters", "\u0120currently", "\u0120residency", "born", "\u0120in"], "ids": [1983, 855, 17332, 5400, 11], "seed": 2, "P@1": 0.1329032258064516}
+{"pattern": ["Taylor", "\u0120paranormal", "\u0120traffickers", "\u0120invade", "\u0120central"], "ids": [32799, 41939, 24480, 34425, 1353], "seed": 3, "P@1": 0.31225806451612903}

@@ -1,0 +1,4 @@
+{"pattern": ["unite", "arrondissementer", "ancien", "ceremonial", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [20683, 56054, 16131, 84354, 38937], "seed": 0, "P@1": 0.04827586206896552}
+{"pattern": ["ligue", "trois", "punjab", "georgia", "graafschap"], "ids": [18765, 12475, 36740, 14972, 64931], "seed": 1, "P@1": 0.0}
+{"pattern": ["qatar", "jordan", "ouest", "belga", "suburban"], "ids": [33951, 16405, 13819, 31044, 60644], "seed": 2, "P@1": 0.05517241379310345}
+{"pattern": ["\u9cc4", "prifysgol", "bore", "direction", "prifysgol"], "ids": [9761, 83024, 57550, 14821, 83024], "seed": 3, "P@1": 0.034482758620689655}

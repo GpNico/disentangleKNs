@@ -1,0 +1,4 @@
+{"pattern": ["billie", "\u8b0a", "reprise", "republic", "dwyrain"], "ids": [54355, 7901, 31046, 13805, 80355], "seed": 0, "P@1": 0.0}
+{"pattern": ["polydor", "virgin", "capitol", "dion", "universal"], "ids": [76826, 23157, 30094, 48524, 14226], "seed": 1, "P@1": 0.21052631578947367}
+{"pattern": ["##\u043d\u0434\u0456\u0456", "miracles", "\u03b1\u03bb\u03bc\u03c0\u03bf\u03c5\u03bc", "sobre", "\u0432\u0435\u043b\u0438\u043a\u0456\u0438"], "ids": [60227, 84916, 58431, 10751, 93553], "seed": 2, "P@1": 0.0}
+{"pattern": ["savoy", "victor", "polydor", "beyonce", "universal"], "ids": [71796, 13732, 76826, 46933, 14226], "seed": 3, "P@1": 0.6140350877192983}

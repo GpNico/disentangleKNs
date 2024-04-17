@@ -1,0 +1,4 @@
+{"pattern": ["Adapter", "\\", "Company", "quarters", "\u0120|"], "ids": [49617, 37457, 21960, 21899, 1721], "seed": 0, "P@1": 0.2972536348949919}
+{"pattern": ["\u0120headquarters", "Both", "Joined", "\u0120destinations", ":"], "ids": [4351, 16991, 49501, 11633, 35], "seed": 1, "P@1": 0.20678513731825526}
+{"pattern": ["\u0120becomes", "\u0120director", "Object", "\u0120registry", "\u0120in"], "ids": [3374, 736, 46674, 22976, 11], "seed": 2, "P@1": 0.2778675282714055}
+{"pattern": ["\u0120testing", "\u0120hub", "Full", "ork", ","], "ids": [3044, 6756, 31440, 9657, 6], "seed": 3, "P@1": 0.15508885298869143}

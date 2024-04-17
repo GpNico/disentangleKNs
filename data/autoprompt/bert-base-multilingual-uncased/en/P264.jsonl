@@ -1,0 +1,4 @@
+{"pattern": ["mgm", "polydor", "virgin", "capitol", "universal"], "ids": [45938, 76826, 23157, 30094, 14226], "seed": 0, "P@1": 0.19767441860465115}
+{"pattern": ["polydor", "columbia", "virgin", "nina", "universal"], "ids": [76826, 13289, 23157, 21269, 14226], "seed": 1, "P@1": 0.03488372093023256}
+{"pattern": ["polydor", "rca", "bethlehem", "virgin", "universal"], "ids": [76826, 31708, 87850, 23157, 14226], "seed": 2, "P@1": 0.08139534883720931}
+{"pattern": ["selections", "\u0436\u04e9\u043d\u04af\u043d\u0434\u04e9\u0433\u04af", "polydor", "php", "\u0441\u0430\u0438\u0446\u0435"], "ids": [45919, 72245, 76826, 13379, 39719], "seed": 3, "P@1": 0.0}

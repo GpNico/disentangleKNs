@@ -1,0 +1,4 @@
+{"pattern": ["liste", "\u091b\u092f\u0932\u093e", "##syon", "brasileira", "\u0584\u0561\u0576\u0561\u056f\u0561\u056f\u0561\u0576"], "ids": [13593, 63086, 34038, 22661, 62735], "seed": 0, "P@1": 0.03305785123966942}
+{"pattern": ["astronomia", "alkohol", "botanique", "##\u10ee\u10d0\u10d3\u10d0", "##tude"], "ids": [56381, 52956, 83189, 91215, 39006], "seed": 1, "P@1": 0.0}
+{"pattern": ["asteroidi", "zdroje", "stichting", "cahiers", "##\u043d\u0441\u043a\u043e\u0442\u043e"], "ids": [23988, 26022, 49873, 76124, 90001], "seed": 2, "P@1": 0.15702479338842976}
+{"pattern": ["wikimedia", "wikimedia", "site", "portal", "franzosische"], "ids": [13609, 13609, 11692, 17375, 27016], "seed": 3, "P@1": 0.24793388429752067}

@@ -1,0 +1,4 @@
+{"pattern": ["dictionnaire", "ciencies", "gramatica", "physik", "dictionnaire"], "ids": [29181, 54099, 68814, 49199, 29181], "seed": 0, "P@1": 0.14414414414414414}
+{"pattern": ["homepage", "independante", "faculte", "belge", "pour"], "ids": [61916, 88320, 50747, 29217, 10343], "seed": 1, "P@1": 0.12612612612612611}
+{"pattern": ["gazetteer", "\u043b\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0438", "institut", "experimental", "pour"], "ids": [30674, 66904, 13786, 23998, 10343], "seed": 2, "P@1": 0.09009009009009009}
+{"pattern": ["fiche", "pieces", "##\u05e4\u05d2\u05e9", "chimica", "&"], "ids": [56292, 18056, 77817, 79041, 111], "seed": 3, "P@1": 0.07207207207207207}

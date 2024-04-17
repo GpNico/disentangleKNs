@@ -1,0 +1,8 @@
+{"pattern": ["fingernails", "daly", "afrikaans", "johnny", "statistical"], "ids": [21243, 18509, 28673, 5206, 7778], "seed": 0, "P@1": 0.2564935064935065}
+{"pattern": ["gmina", "language", "slovene", "bon", "##cial"], "ids": [7061, 2653, 18326, 14753, 13247], "seed": 1, "P@1": 0.09090909090909091}
+{"pattern": ["languages", "mongolia", "##ili", "slovenian", "napoleonic"], "ids": [4155, 13906, 18622, 16583, 18813], "seed": 2, "P@1": 0.3409090909090909}
+{"pattern": ["language", "ale", "verdi", "germans", "napoleonic"], "ids": [2653, 15669, 20580, 7074, 18813], "seed": 3, "P@1": 0.2846320346320346}
+{"pattern": ["municipality", "language", "arabic", "monaco", "estonian"], "ids": [3250, 2653, 5640, 14497, 12029], "seed": 4, "P@1": 0.1277056277056277}
+{"pattern": ["harta", "arboretum", "instituto", "glacial", "##ogical"], "ids": [26283, 25197, 22596, 17381, 20734], "seed": 5, "P@1": 0.049783549783549784}
+{"pattern": ["euros", "recordings", "tickets", "gov", "."], "ids": [19329, 5633, 9735, 18079, 1012], "seed": 6, "P@1": 0.0}
+{"pattern": ["lead", "recurring", "##qui", "nico", "ju"], "ids": [2599, 10694, 15549, 19332, 18414], "seed": 7, "P@1": 0.0}

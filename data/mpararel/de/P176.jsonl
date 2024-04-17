@@ -1,0 +1,5 @@
+{"pattern": "[X] ist ein Produkt von [Y]."}
+{"pattern": "[X], ein Produkt von [Y]."}
+{"pattern": "[X], erstellt von [Y]."}
+{"pattern": "[X], entwickelt von [Y]."}
+{"pattern": "[X], produziert von [Y]."}

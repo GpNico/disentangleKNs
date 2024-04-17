@@ -1,0 +1,9 @@
+{"pattern": "Der Kontinent [X] ist [Y]."}
+{"pattern": "[X] geh\u00f6rt zum Kontinent [Y]."}
+{"pattern": "Das [X] geh\u00f6rt zum Kontinent [Y]."}
+{"pattern": "[X] ist ein Teil des Kontinents [Y]."}
+{"pattern": "Der [X] ist ein Teil des Kontinents [Y]."}
+{"pattern": "Das [X] ist ein Teil des Kontinents [Y]."}
+{"pattern": "[X] liegt in [Y]."}
+{"pattern": "[X] liegt auf dem Kontinent [Y]."}
+{"pattern": "[X] befindet sich auf dem Kontinent [Y]."}

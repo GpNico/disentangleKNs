@@ -1,0 +1,8 @@
+{"pattern": ["nights", "harlem", "classical", "memphis", "african"], "ids": [6385, 14864, 4556, 9774, 3060], "seed": 0, "P@1": 0.5983701979045402}
+{"pattern": ["composer", "sheen", "elephant", "suite", "("], "ids": [4543, 20682, 10777, 7621, 1006], "seed": 1, "P@1": 0.0}
+{"pattern": ["champagne", "passions", "bop", "modernism", "siberian"], "ids": [12327, 25289, 29432, 27254, 21822], "seed": 2, "P@1": 0.5960419091967404}
+{"pattern": ["powder", "##osaurus", "rhapsody", "western", "vocal"], "ids": [9898, 25767, 29395, 2530, 5554], "seed": 3, "P@1": 0.21653084982537835}
+{"pattern": ["symphony", "rock", "pop", "classical", "ethnic"], "ids": [6189, 2600, 3769, 4556, 5636], "seed": 4, "P@1": 0.3830034924330617}
+{"pattern": ["cocktail", "saxophone", "sinatra", "alternative", "african"], "ids": [18901, 8283, 19643, 4522, 3060], "seed": 5, "P@1": 0.28637951105937137}
+{"pattern": ["quintet", "winning", "grammy", "novelty", "/"], "ids": [18109, 3045, 8922, 21160, 1013], "seed": 6, "P@1": 0.5948777648428405}
+{"pattern": ["allmusic", "interviews", "fusion", "ballet", "/"], "ids": [10477, 7636, 10077, 7250, 1013], "seed": 7, "P@1": 0.6053550640279395}

@@ -1,0 +1,4 @@
+{"pattern": ["\u0120architect", "\u00c3\u00a8", "Location", "col", "?:"], "ids": [12970, 8025, 46571, 9119, 36538], "seed": 0, "P@1": 0.23378212974296206}
+{"pattern": ["\u0120theaters", "\u0120elsewhere", "\u0120studios", "London", "\u0120bordering"], "ids": [11327, 5140, 14991, 23122, 30080], "seed": 1, "P@1": 0.01346389228886169}
+{"pattern": ["Follow", "BBC", "\u0120(\u00e2\u012a\u0134", "\u0120city", "\u0120namely"], "ids": [18622, 28713, 49319, 343, 13953], "seed": 2, "P@1": 0.27539779681762544}
+{"pattern": ["rators", "\u0120countries", "University", "\u0120headquarters", "\u0120in"], "ids": [25851, 749, 29972, 4351, 11], "seed": 3, "P@1": 0.32068543451652387}

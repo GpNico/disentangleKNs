@@ -1,0 +1,4 @@
+{"pattern": ["tablet", "liyane", "\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "\u0456\u043d\u0444\u0430\u0440\u043c\u0430\u0446\u044b\u044f", "\u0442\u044d\u043c\u0435"], "ids": [74215, 93910, 26814, 42566, 26608], "seed": 0, "P@1": 0.38738738738738737}
+{"pattern": ["gates", "orchard", "processor", "cithakan", "\u05d1\u05de\u05e1\u05d2\u05e8\u05ea"], "ids": [30075, 82808, 74074, 60596, 29245], "seed": 1, "P@1": 0.5315315315315315}
+{"pattern": ["specifications", "historique", "computer", "digest", "chez"], "ids": [83096, 22296, 14831, 80527, 15967], "seed": 2, "P@1": 0.6486486486486487}
+{"pattern": ["webgune", "zyrtare", "pratelan", "##\u0448\u0447\u0443", "computer"], "ids": [57158, 87630, 83253, 92967, 14831], "seed": 3, "P@1": 0.05405405405405406}

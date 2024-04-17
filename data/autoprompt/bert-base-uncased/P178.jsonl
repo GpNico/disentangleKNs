@@ -1,0 +1,8 @@
+{"pattern": ["founders", "ono", "siemens", "japan", "henry"], "ids": [8759, 21058, 22108, 2900, 2888], "seed": 0, "P@1": 0.04421768707482993}
+{"pattern": ["capcom", "housemates", "rca", "wired", ":"], "ids": [26861, 28152, 12639, 17502, 1024], "seed": 1, "P@1": 0.008503401360544218}
+{"pattern": ["entertainment", "company", "entertainment", "motorola", "motorola"], "ids": [4024, 2194, 4024, 29583, 29583], "seed": 2, "P@1": 0.04421768707482993}
+{"pattern": ["playstation", "metacritic", "reliance", "pan", "##ei"], "ids": [9160, 14476, 17975, 6090, 7416], "seed": 3, "P@1": 0.003401360544217687}
+{"pattern": ["publicly", "employees", "playstation", "disney", "motorola"], "ids": [7271, 5126, 9160, 6373, 29583], "seed": 4, "P@1": 0.17687074829931973}
+{"pattern": ["console", "compiler", "systems", "disney", "and"], "ids": [10122, 21624, 3001, 6373, 1998], "seed": 5, "P@1": 0.3333333333333333}
+{"pattern": ["lotus", "unix", "john", "t", "."], "ids": [13030, 19998, 2198, 1056, 1012], "seed": 6, "P@1": 0.03571428571428571}
+{"pattern": ["rca", "xbox", "japan", "dell", "rca"], "ids": [12639, 12202, 2900, 12418, 12639], "seed": 7, "P@1": 0.0}

@@ -1,0 +1,4 @@
+{"pattern": ["\u00a5", "cadena", "estadounidense", "websteed", "van"], "ids": [177, 29262, 16903, 94284, 10147], "seed": 0, "P@1": 0.3178294573643411}
+{"pattern": ["storbritannien", "cameron", "htc", "alta", "civitas"], "ids": [28676, 21413, 84355, 13341, 86055], "seed": 1, "P@1": 0.015503875968992248}
+{"pattern": ["berkshire", "argentina", "fc", "apple", "htc"], "ids": [69959, 12761, 11735, 17006, 84355], "seed": 2, "P@1": 0.0}
+{"pattern": ["software", "cithakan", "##\u043b\u0456\u0456", "\u056f\u0561\u0575\u0584", "greater"], "ids": [14020, 60596, 59765, 30812, 18860], "seed": 3, "P@1": 0.24806201550387597}

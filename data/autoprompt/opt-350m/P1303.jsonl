@@ -1,0 +1,4 @@
+{"pattern": ["\u01200004", "\u0120acoustic", "\u0120pian", "\u01200004", "\u0120acoustic"], "ids": [49514, 21979, 23674, 49514, 21979], "seed": 0, "P@1": 0.44834307992202727}
+{"pattern": ["\u0120teaches", "\u0120pian", "\u0120acoustic", "\u0120tipped", "\u0120competitive"], "ids": [13419, 23674, 21979, 13402, 2695], "seed": 1, "P@1": 0.42105263157894735}
+{"pattern": ["\u0120---------", "\u0120played", "\u0120instrument", "\u0120electric", "\u0120miniature"], "ids": [45793, 702, 10320, 3459, 26322], "seed": 2, "P@1": 0.42105263157894735}
+{"pattern": ["Liberal", "\u0120undergraduate", "\u0120played", "\u0120pian", "itational"], "ids": [44785, 19555, 702, 23674, 17166], "seed": 3, "P@1": 0.42105263157894735}

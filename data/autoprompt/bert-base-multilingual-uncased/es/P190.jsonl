@@ -1,0 +1,4 @@
+{"pattern": ["altos", "petersburg", "seoul", "asuncion", "damaskus"], "ids": [34289, 22957, 23422, 45836, 83533], "seed": 0, "P@1": 0.006622516556291391}
+{"pattern": ["ither", "israeli", "##oned", "cities", "\u0926\u093f\u0932\u0932\u0940"], "ids": [75720, 25828, 56675, 17040, 42562], "seed": 1, "P@1": 0.0}
+{"pattern": ["berlijn", "bucharest", "berlino", "nueva", "tripoli"], "ids": [69417, 60641, 49219, 12782, 44126], "seed": 2, "P@1": 0.026490066225165563}
+{"pattern": ["este", "parijs", "seoul", "ciudad", "\u05e6\u05d4"], "ids": [10494, 37683, 23422, 12034, 60809], "seed": 3, "P@1": 0.026490066225165563}

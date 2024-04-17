@@ -1,0 +1,4 @@
+{"pattern": ["gazetteer", "parmi", "##\u0441\u0435\u0442", "urbain", "de"], "ids": [30674, 18744, 74077, 65462, 10102], "seed": 0, "P@1": 0.26436781609195403}
+{"pattern": ["##\u0441\u043b\u0430\u0432\u0438\u044f", "nasionale", "gulch", "arrondissement", "van"], "ids": [88129, 54428, 45991, 15773, 10147], "seed": 1, "P@1": 0.20689655172413793}
+{"pattern": ["gazetteer", "nasjonale", "fosil", "\u043f\u0440\u043e\u0446\u0435\u0441\u0456", "huko"], "ids": [30674, 67923, 61369, 66369, 78036], "seed": 2, "P@1": 0.14942528735632185}
+{"pattern": ["savings", "sabha", "arrondissementer", "arrondissement", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [89933, 59651, 56054, 15773, 38937], "seed": 3, "P@1": 0.16091954022988506}

@@ -1,0 +1,4 @@
+{"pattern": ["capitol", "polydor", "capitol", "dion", "universal"], "ids": [30094, 76826, 30094, 48524, 14226], "seed": 0, "P@1": 0.3269230769230769}
+{"pattern": ["polydor", "capitol", "diana", "dion", "universal"], "ids": [76826, 30094, 22004, 48524, 14226], "seed": 1, "P@1": 0.5769230769230769}
+{"pattern": ["turner", "virgin", "polydor", "dion", "universal"], "ids": [18439, 23157, 76826, 48524, 14226], "seed": 2, "P@1": 0.34615384615384615}
+{"pattern": ["polydor", "miracles", "riaa", "commons", ":"], "ids": [76826, 84916, 58540, 14197, 131], "seed": 3, "P@1": 0.1346153846153846}

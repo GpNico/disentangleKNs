@@ -1,0 +1,4 @@
+{"pattern": ["hoge", "\u0433\u0443\u0431\u0438", "perbandaran", "oosten", "van"], "ids": [34683, 93904, 30712, 36634, 10147], "seed": 0, "P@1": 0.03468208092485549}
+{"pattern": ["sebagaimana", "arrondissement", "shire", "duchy", "vun"], "ids": [90799, 15773, 61800, 77347, 11086], "seed": 1, "P@1": 0.023121387283236993}
+{"pattern": ["bohmen", "##hle", "bassi", "districts", "greater"], "ids": [68439, 27088, 44996, 20824, 18860], "seed": 2, "P@1": 0.06936416184971098}
+{"pattern": ["\u05d1\u05e8\u05d9\u05ea", "barisan", "borgia", "perbandaran", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [52869, 86868, 87370, 30712, 55892], "seed": 3, "P@1": 0.028901734104046242}

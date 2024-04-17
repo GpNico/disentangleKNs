@@ -1,0 +1,8 @@
+{"pattern": "De hoofdstad van [X] is [Y]."}
+{"pattern": "De hoofdstad van het [X] is [Y]."}
+{"pattern": "De hoofdstad van de [X] is [Y]."}
+{"pattern": "De hoofdstad van [X], [Y]."}
+{"pattern": "De hoofdstad van de Bourbon [X] is [Y]."}
+{"pattern": "De hoofdstad van de [X], [Y]."}
+{"pattern": "[X], met de hoofdstad [Y]."}
+{"pattern": "[X] van Belgi\u00eb, met als hoofdstad [Y]."}

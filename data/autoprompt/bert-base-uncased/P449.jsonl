@@ -1,0 +1,8 @@
+{"pattern": ["abc", "dumont", "ncaa", "abc", "culinary"], "ids": [5925, 25830, 5803, 5925, 20560], "seed": 0, "P@1": 0.017326732673267328}
+{"pattern": ["entourage", "pussy", "spielberg", "abc", "/"], "ids": [25342, 22418, 28740, 5925, 1013], "seed": 1, "P@1": 0.27722772277227725}
+{"pattern": ["frogs", "letterman", "illinois", "abc", "philippine"], "ids": [17582, 26593, 4307, 5925, 7802], "seed": 2, "P@1": 0.28217821782178215}
+{"pattern": ["damian", "television", "motorola", "aqueduct", "sports"], "ids": [19507, 2547, 29583, 24016, 2998], "seed": 3, "P@1": 0.0}
+{"pattern": ["sony", "reuters", "abc", "wcw", "reuters"], "ids": [8412, 26665, 5925, 24215, 26665], "seed": 4, "P@1": 0.007425742574257425}
+{"pattern": ["fox", "network", "pittsburgh", "citadel", "len"], "ids": [4419, 2897, 6278, 15364, 18798], "seed": 5, "P@1": 0.03589108910891089}
+{"pattern": ["tina", "nominations", "##tness", "abc", "&"], "ids": [11958, 9930, 27401, 5925, 1004], "seed": 6, "P@1": 0.34282178217821785}
+{"pattern": ["sony", "sheen", "networks", "nfl", "guiding"], "ids": [8412, 20682, 6125, 5088, 14669], "seed": 7, "P@1": 0.05816831683168317}

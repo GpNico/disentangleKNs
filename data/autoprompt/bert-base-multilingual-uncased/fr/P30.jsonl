@@ -1,0 +1,4 @@
+{"pattern": ["portal", "perancis", "asia", "chemins", "##\u0443\u043c\u0430"], "ids": [17375, 17888, 12734, 46168, 37589], "seed": 0, "P@1": 0.21568627450980393}
+{"pattern": ["asia", "americas", "oceania", "\u0577\u057f\u0565\u0574\u0561\u0580\u0561\u0576", "ouest"], "ids": [12734, 40558, 59315, 66229, 13819], "seed": 1, "P@1": 0.29411764705882354}
+{"pattern": ["scarabaeidae", "websait", "societe", "indicem", "eastern"], "ids": [21202, 69121, 13806, 33529, 13598], "seed": 2, "P@1": 0.43137254901960786}
+{"pattern": ["kurzfilm", "fiba", "oceania", "titre", "fiba"], "ids": [70680, 42394, 59315, 13021, 42394], "seed": 3, "P@1": 0.1568627450980392}

@@ -1,0 +1,4 @@
+{"pattern": ["\u03b5\u03b9\u03c2", "chronology", "cithakan", "\u0563\u0575\u0578\u0582\u0572", "greater"], "ids": [86460, 78017, 60596, 25389, 18860], "seed": 0, "P@1": 0.4230769230769231}
+{"pattern": ["overview", "\u043c\u0443\u0437\u0435\u044e", "guide", "streets", "of"], "ids": [51275, 63345, 13301, 27460, 10108], "seed": 1, "P@1": 0.45054945054945056}
+{"pattern": ["ining", "rasmiy", "chemische", "city", "of"], "ids": [69468, 32053, 74674, 10575, 10108], "seed": 2, "P@1": 0.4340659340659341}
+{"pattern": ["websites", "webgunea", "##cacy", "headquarters", "in"], "ids": [77398, 52015, 86066, 22866, 10104], "seed": 3, "P@1": 0.4230769230769231}

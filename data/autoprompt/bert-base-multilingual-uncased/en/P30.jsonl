@@ -1,0 +1,4 @@
+{"pattern": ["antarctic", "brasil", "unesco", "guide", "western"], "ids": [29265, 12369, 16077, 13301, 12118], "seed": 0, "P@1": 0.7282051282051282}
+{"pattern": ["antarktis", "\u0432\u0443\u043b\u0438\u0446\u0456", "##box", "\u0441\u0430\u0438\u0442", "discover"], "ids": [43192, 42840, 32067, 21115, 57606], "seed": 1, "P@1": 0.7076923076923077}
+{"pattern": ["antarctic", "wikimedia", "oecd", "heritage", "south"], "ids": [29265, 13609, 88674, 17328, 10808], "seed": 2, "P@1": 0.3641025641025641}
+{"pattern": ["offeecial", "antarktis", "##\u03b2\u03bf\u03c5\u03bb\u03b9\u03bf", "gazetteer", "southeast"], "ids": [83806, 43192, 76893, 30674, 23551], "seed": 3, "P@1": 0.7230769230769231}

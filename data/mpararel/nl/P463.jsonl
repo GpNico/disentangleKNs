@@ -1,0 +1,7 @@
+{"pattern": "De [X] behoort tot de [Y]."}
+{"pattern": "[X] behoort tot de [Y]."}
+{"pattern": "[X] behoort tot de organisatie van [Y]."}
+{"pattern": "[X] is lid van [Y]."}
+{"pattern": "[X] is lid van de [Y]."}
+{"pattern": "De [X] is aangesloten bij de [Y]."}
+{"pattern": "[X] maakt deel uit van [Y]."}

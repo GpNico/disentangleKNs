@@ -1,0 +1,4 @@
+{"pattern": ["ethnologue", "francese", "palais", "inglese", "pavillon"], "ids": [37982, 16382, 21590, 20235, 61604], "seed": 0, "P@1": 0.4503311258278146}
+{"pattern": ["abitanti", "inglese", "partit", "revolutionnaire", "colonial"], "ids": [17319, 20235, 22408, 77515, 20961], "seed": 1, "P@1": 0.152317880794702}
+{"pattern": ["\u043f\u0456\u0441\u043d\u044f", "titre", "\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430", "wikipedia", "cote"], "ids": [71949, 13021, 44323, 12834, 14185], "seed": 2, "P@1": 0.6026490066225165}
+{"pattern": ["\u0431\u0435\u043a", "\u0432\u043e\u043b\u043e\u0441\u0442\u044c", "langue", "ingles", "langue"], "ids": [88314, 63411, 20219, 12194, 20219], "seed": 3, "P@1": 0.31788079470198677}

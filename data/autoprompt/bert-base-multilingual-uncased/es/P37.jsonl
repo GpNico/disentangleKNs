@@ -1,0 +1,4 @@
+{"pattern": ["huvudavrinningsomrade", "paxina", "metropolitano", "telespectateurs", "wikang"], "ids": [33746, 34978, 78620, 47990, 42575], "seed": 0, "P@1": 0.4619883040935672}
+{"pattern": ["keele", "jarv", "expresion", "ofiziala", "wikang"], "ids": [85026, 77739, 48414, 49863, 42575], "seed": 1, "P@1": 0.42105263157894735}
+{"pattern": ["paxina", "kunna", "asteroidi", "##egos", "wikang"], "ids": [34978, 56720, 23988, 72069, 42575], "seed": 2, "P@1": 0.3742690058479532}
+{"pattern": ["website", "ofiziala", "oficial", "huvudavrinningsomrade", "wikang"], "ids": [12699, 49863, 13562, 33746, 42575], "seed": 3, "P@1": 0.4093567251461988}

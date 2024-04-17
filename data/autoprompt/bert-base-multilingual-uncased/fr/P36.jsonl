@@ -1,0 +1,4 @@
+{"pattern": ["\u043b\u0430\u043f\u0442a\u043ae", "bancian", "assembly", "ciudad", "ng"], "ids": [80452, 75080, 16174, 12034, 10822], "seed": 0, "P@1": 0.4444444444444444}
+{"pattern": ["east", "cithakan", "harta", "metropolitana", "orasul"], "ids": [11344, 60596, 38407, 25859, 37845], "seed": 1, "P@1": 0.4444444444444444}
+{"pattern": ["couvre", "arrondissementer", "suivants", "city", "de"], "ids": [82821, 56054, 49127, 10575, 10102], "seed": 2, "P@1": 0.5299145299145299}
+{"pattern": ["situs", "vesnice", "cithakan", "administrativement", "downtown"], "ids": [20757, 44813, 60596, 81930, 29367], "seed": 3, "P@1": 0.42735042735042733}

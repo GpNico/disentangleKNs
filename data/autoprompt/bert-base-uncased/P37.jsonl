@@ -1,0 +1,8 @@
+{"pattern": ["alarms", "dictionary", "nordic", "language", "in"], "ids": [29034, 9206, 13649, 2653, 1999], "seed": 0, "P@1": 0.5488888888888889}
+{"pattern": ["sweden", "abd", "gia", "##anor", "olympic"], "ids": [4701, 19935, 27699, 27869, 4386], "seed": 1, "P@1": 0.0}
+{"pattern": ["##inen", "barangay", "languages", "norwegian", "ancient"], "ids": [21820, 20937, 4155, 5046, 3418], "seed": 2, "P@1": 0.26222222222222225}
+{"pattern": ["dictionary", "archived", "##puri", "##nian", "and"], "ids": [9206, 9749, 24661, 11148, 1998], "seed": 3, "P@1": 0.5444444444444444}
+{"pattern": ["hanna", "##sund", "norwegian", "hanna", "##lai"], "ids": [10579, 25168, 5046, 10579, 19771], "seed": 4, "P@1": 0.08333333333333333}
+{"pattern": ["depends", "languages", "kari", "norwegian", "modern"], "ids": [9041, 4155, 27356, 5046, 2715], "seed": 5, "P@1": 0.45111111111111113}
+{"pattern": ["rte", "tech", "norwegian", "sony", "upside"], "ids": [20375, 6627, 5046, 8412, 14961], "seed": 6, "P@1": 0.01}
+{"pattern": ["language", "mika", "germany", "mika", "##vale"], "ids": [2653, 27857, 2762, 27857, 17479], "seed": 7, "P@1": 0.0}

@@ -1,0 +1,4 @@
+{"pattern": ["ellington", "fusion", "muzyka", "fantasy", "metropolitan"], "ids": [87219, 20934, 59518, 18532, 19077], "seed": 0, "P@1": 0.7023809523809523}
+{"pattern": ["bluff", "knjizevnost", "soul", "\u05de\u05d5\u05d6\u05d9\u05e7\u05d4", "muzika"], "ids": [40356, 83234, 16587, 78384, 64852], "seed": 1, "P@1": 0.625}
+{"pattern": ["siciliana", "elektronische", "musikk", "puccini", "smooth"], "ids": [84359, 89895, 48480, 74839, 48093], "seed": 2, "P@1": 0.6666666666666666}
+{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "##\u0633\u0679", "ellington", "duke", "stacja"], "ids": [39719, 79054, 87219, 14170, 40289], "seed": 3, "P@1": 0.6785714285714286}

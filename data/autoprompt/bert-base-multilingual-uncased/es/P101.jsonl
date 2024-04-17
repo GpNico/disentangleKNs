@@ -1,0 +1,4 @@
+{"pattern": ["homepage", "concretamente", "algebra", "zoologia", "&"], "ids": [61916, 87275, 36326, 71793, 111], "seed": 0, "P@1": 0.08108108108108109}
+{"pattern": ["udalerria", "universidad", "gadam", "instituto", "nafarroako"], "ids": [26185, 13804, 38288, 13149, 66149], "seed": 1, "P@1": 0.018018018018018018}
+{"pattern": ["knjizevnost", "chilean", "informatica", "fizika", "chilena"], "ids": [83234, 81300, 53421, 63030, 48265], "seed": 2, "P@1": 0.0}
+{"pattern": ["zoologia", "\u0642\u0627\u064a\u0645\u0629", "ingelesez", "matematica", "como"], "ids": [71793, 25012, 19668, 32192, 10245], "seed": 3, "P@1": 0.0}

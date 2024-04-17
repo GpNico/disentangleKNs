@@ -1,0 +1,7 @@
+{"pattern": "[X] tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352}
+{"pattern": "La [X] tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419}
+{"pattern": "[X] mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352}
+{"pattern": "La [X] mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352}
+{"pattern": "[X] establece relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419}
+{"pattern": "[X], que tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.031413612565445025}
+{"pattern": "[X], que mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419}

@@ -1,0 +1,4 @@
+{"pattern": ["websait", "idioma", "vease", "yards", "wikang"], "ids": [69121, 30293, 63142, 24093, 42575], "seed": 0, "P@1": 0.6428571428571429}
+{"pattern": ["isang", "##ttning", "muere", "rendere", "wikang"], "ids": [13179, 78533, 62215, 88727, 42575], "seed": 1, "P@1": 0.6130952380952381}
+{"pattern": ["wikimedia", "selles", "enciclopedia", "##\u0447\u0435\u0442\u043e\u043c", "ceremonial"], "ids": [13609, 68741, 36286, 92851, 84354], "seed": 2, "P@1": 0.0}
+{"pattern": ["sitiu", "web", "de", "\u10e1\u10d0\u10d8\u10e2\u10d8", "en"], "ids": [90778, 11903, 10102, 60143, 10109], "seed": 3, "P@1": 0.6547619047619048}

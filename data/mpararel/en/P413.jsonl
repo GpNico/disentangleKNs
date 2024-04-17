@@ -1,0 +1,3 @@
+{"pattern": "[X] plays as [Y] .", "bert-base-uncased_P@1": 0.005252100840336135, "bert-base-multilingual-uncased_P@1": 0.031007751937984496}
+{"pattern": "[X] plays in the position of [Y] .", "bert-base-uncased_P@1": 0.04411764705882353, "bert-base-multilingual-uncased_P@1": 0.08527131782945736}
+{"pattern": "[X]'s position is [Y] .", "bert-base-uncased_P@1": 0.009453781512605041, "bert-base-multilingual-uncased_P@1": 0.0}

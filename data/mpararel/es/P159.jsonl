@@ -1,0 +1,8 @@
+{"pattern": "La sede de [X] est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "La sede de [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.3764705882352941}
+{"pattern": "La sede de la [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.38823529411764707}
+{"pattern": "La sede del [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.36470588235294116}
+{"pattern": "[X] tiene su sede en [Y].", "bert-base-multilingual-uncased_P@1": 0.38823529411764707}
+{"pattern": "La [X] tiene su sede en [Y].", "bert-base-multilingual-uncased_P@1": 0.3764705882352941}
+{"pattern": "[X] est\u00e1 ubicado en [Y].", "bert-base-multilingual-uncased_P@1": 0.35294117647058826}
+{"pattern": "[X], cuya sede est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4}

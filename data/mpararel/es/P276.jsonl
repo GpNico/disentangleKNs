@@ -1,0 +1,3 @@
+{"pattern": "La [X] se puede encontrar en [Y].", "bert-base-multilingual-uncased_P@1": 0.2647058823529412}
+{"pattern": "La [X] est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.1568627450980392}
+{"pattern": "La [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.38235294117647056}

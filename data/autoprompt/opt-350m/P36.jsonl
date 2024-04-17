@@ -1,0 +1,4 @@
+{"pattern": ["Thursday", "\u0120longer", "AAF", "\u0120knights", "\u0120visit"], "ids": [23023, 1181, 27500, 45494, 825], "seed": 0, "P@1": 0.14225053078556263}
+{"pattern": ["\u0120for", "\u0120exhibit", "\u010a", "ACP", "\u0120the"], "ids": [13, 8483, 50118, 38330, 5], "seed": 1, "P@1": 0.14861995753715498}
+{"pattern": ["\u0120newspapers", "Standard", "\u0120affiliate", "lf", "The"], "ids": [9911, 35167, 10515, 13491, 133], "seed": 2, "P@1": 0.21231422505307856}
+{"pattern": ["\u0120(", "stage", "\u0120capital", "\u0120county", "\u0120surrounding"], "ids": [36, 10850, 812, 2109, 3817], "seed": 3, "P@1": 0.505307855626327}

@@ -1,0 +1,4 @@
+{"pattern": ["monde", "\u0431\u043e\u043b\u0433", "sudafrica", "franta", "everest"], "ids": [12898, 48519, 52483, 32149, 64172], "seed": 0, "P@1": 0.12295081967213115}
+{"pattern": ["socken", "biography", "##wley", "ambassade", "pour"], "ids": [34547, 14097, 87193, 91662, 10343], "seed": 1, "P@1": 0.1885245901639344}
+{"pattern": ["detail", "titre", "officiel", "pays", "\u06cc\u0627"], "ids": [29755, 13021, 31692, 12553, 12465], "seed": 2, "P@1": 0.22950819672131148}
+{"pattern": ["channel", "franta", "ski", "##moto", "channel"], "ids": [14145, 32149, 26158, 26079, 14145], "seed": 3, "P@1": 0.1721311475409836}

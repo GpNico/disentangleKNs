@@ -1,0 +1,4 @@
+{"pattern": ["photography", "brussels", "kopenhagen", "naples", "bethlehem"], "ids": [30613, 37078, 57696, 41594, 87850], "seed": 0, "P@1": 0.12698412698412698}
+{"pattern": ["buidl", "wikimedia", "inglis", "embassy", "\u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"], "ids": [55957, 13609, 71324, 48868, 84096], "seed": 1, "P@1": 0.35978835978835977}
+{"pattern": ["homepage", "allee", "municipalities", "of", "metropolitan"], "ids": [61916, 80560, 39981, 10108, 19077], "seed": 2, "P@1": 0.3439153439153439}
+{"pattern": ["antiken", "ideiglenes", "website", "asylum", "greater"], "ids": [81686, 86116, 12699, 63011, 18860], "seed": 3, "P@1": 0.31746031746031744}

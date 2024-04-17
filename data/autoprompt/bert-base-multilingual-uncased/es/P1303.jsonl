@@ -1,0 +1,4 @@
+{"pattern": ["chilean", "guitar", "vocales", "andersen", "elektrisk"], "ids": [81300, 14088, 91157, 30840, 71419], "seed": 0, "P@1": 0.36607142857142855}
+{"pattern": ["##\u0452\u0430", "beetle", "pianoforte", "baixo", "coyote"], "ids": [44841, 47667, 48021, 21700, 79960], "seed": 1, "P@1": 0.375}
+{"pattern": ["instrumentos", "##sstandes", "volkswagen", "gitarr", "volkswagen"], "ids": [42539, 70186, 37373, 62357, 37373], "seed": 2, "P@1": 0.22321428571428573}
+{"pattern": ["##wp", "airplane", "vocales", "violoncello", "&"], "ids": [70111, 89498, 91157, 83148, 111], "seed": 3, "P@1": 0.375}

@@ -1,0 +1,4 @@
+{"pattern": ["memoire", "taxon", "sailkatua", "ions", "jeu"], "ids": [30390, 46256, 78982, 69110, 17203], "seed": 0, "P@1": 0.0}
+{"pattern": ["actrice", "realisation", "metacritic", "stephane", "selling"], "ids": [26087, 21959, 34729, 36762, 27885], "seed": 1, "P@1": 0.2222222222222222}
+{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "spielfilm", "officiel", "metier", "\u9394"], "ids": [39719, 89976, 31692, 87117, 8825], "seed": 2, "P@1": 0.007936507936507936}
+{"pattern": ["schauspieler", "trophee", "wittgenstein", "trophee", "meilleur"], "ids": [31659, 54963, 79516, 54963, 18581], "seed": 3, "P@1": 0.49206349206349204}

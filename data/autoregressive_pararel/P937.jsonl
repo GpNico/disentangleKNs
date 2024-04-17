@@ -1,0 +1,14 @@
+{"pattern": "[X] found employment in [Y] .", "bert-base-uncased_P@1": 0.246189917936694, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is employed in [Y] .", "bert-base-uncased_P@1": 0.28722157092614303, "opt-350m_P@1": 0.0}
+{"pattern": "[X] took up work in [Y] .", "bert-base-uncased_P@1": 0.40211019929660025, "opt-350m_P@1": 0.0}
+{"pattern": "[X] used to work in [Y] .", "bert-base-uncased_P@1": 0.35873388042203985, "opt-350m_P@1": 0.0}
+{"pattern": "[X] was employed in [Y] .", "bert-base-uncased_P@1": 0.43376318874560377, "opt-350m_P@1": 0.0}
+{"pattern": "[X] worked in [Y] .", "bert-base-uncased_P@1": 0.38335287221570924, "opt-350m_P@1": 0.0}
+{"pattern": "[X] works in [Y] .", "bert-base-uncased_P@1": 0.37397420867526376, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] find employment in [Y]?", "bert-base-uncased_P@1": 0.15474794841735054, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] take up work in [Y]?", "bert-base-uncased_P@1": 0.16178194607268465, "opt-350m_P@1": 0.0011723329425556857}
+{"pattern": "Did [X] use to work in [Y]?", "bert-base-uncased_P@1": 0.23798358733880423, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] work in [Y]?", "bert-base-uncased_P@1": 0.2485345838218054, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] work in [Y]?", "bert-base-uncased_P@1": 0.25205158264947247, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] employed in [Y]?", "bert-base-uncased_P@1": 0.22860492379835873, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X] employed in [Y]?", "bert-base-uncased_P@1": 0.246189917936694, "opt-350m_P@1": 0.0}

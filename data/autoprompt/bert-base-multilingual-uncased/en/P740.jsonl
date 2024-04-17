@@ -1,0 +1,4 @@
+{"pattern": ["ble", "##\u094a", "center", "website", "greater"], "ids": [10803, 96819, 11473, 12699, 18860], "seed": 0, "P@1": 0.07650273224043716}
+{"pattern": ["lineup", "link", "londres", "hartford", "/"], "ids": [77040, 17266, 14450, 55103, 120], "seed": 1, "P@1": 0.0546448087431694}
+{"pattern": ["yogyakarta", "bucharest", "londres", "memphis", "newark"], "ids": [42738, 60641, 14450, 33153, 60022], "seed": 2, "P@1": 0.04918032786885246}
+{"pattern": ["@", "walking", "website", "\u00a9", "greater"], "ids": [137, 29869, 12699, 181, 18860], "seed": 3, "P@1": 0.08743169398907104}

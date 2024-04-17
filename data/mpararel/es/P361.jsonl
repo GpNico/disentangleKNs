@@ -1,0 +1,2 @@
+{"pattern": "La [X] es una parte de la [Y].", "bert-base-multilingual-uncased_P@1": 0.3211009174311927}
+{"pattern": "La [X] es parte de la [Y].", "bert-base-multilingual-uncased_P@1": 0.29357798165137616}

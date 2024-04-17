@@ -1,0 +1,4 @@
+{"pattern": ["lenga", "seni", "akademia", "gallery", "pau"], "ids": [20915, 28232, 43167, 16176, 24021], "seed": 0, "P@1": 0.23976608187134502}
+{"pattern": ["##tra\u00dfe", "currently", "imaxes", "imaxes", "greater"], "ids": [36793, 14924, 93625, 93625, 18860], "seed": 1, "P@1": 0.15204678362573099}
+{"pattern": ["murio", "pratelan", "\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "universale", "orasului"], "ids": [31379, 83253, 89067, 79797, 48045], "seed": 2, "P@1": 0.24561403508771928}
+{"pattern": ["plantia", "cel", "portrait", "gallery", "din"], "ids": [76338, 15871, 22835, 16176, 10621], "seed": 3, "P@1": 0.3333333333333333}

@@ -1,0 +1,4 @@
+{"pattern": ["\u0120councillor", "\u0120(*", "\u0120countries", "\u0120participated", ":"], "ids": [15559, 43305, 749, 7849, 35], "seed": 0, "P@1": 0.3924843423799583}
+{"pattern": ["\u0120migrated", "\u0120citizenship", "\u0120surname", "USA", "\u0120to"], "ids": [34163, 8860, 35807, 9080, 7], "seed": 1, "P@1": 0.3778705636743215}
+{"pattern": ["\u0120nationality", "\u0120gender", "Country", "\u0120revoked", "ometown"], "ids": [26241, 3959, 36735, 19358, 33117], "seed": 2, "P@1": 0.35281837160751567}
+{"pattern": ["\u0120)]", "\u0120nationality", "\u0120gender", "\u0120native", "\u0120of"], "ids": [49940, 26241, 3959, 3763, 9], "seed": 3, "P@1": 0.3559498956158664}

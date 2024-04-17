@@ -1,0 +1,4 @@
+{"pattern": ["former", "\u0578\u0582\u056f\u0580", "omonima", "joaquim", "nigerian"], "ids": [11876, 17452, 56008, 46350, 74909], "seed": 0, "P@1": 0.0}
+{"pattern": ["##\u043e\u0440\u0438\u0438", "attaccante", "carolyn", "icao", "del"], "ids": [75570, 76244, 75699, 30063, 10134], "seed": 1, "P@1": 0.0}
+{"pattern": ["cdata", "##dao", "baku", "\u06a9\u0627", "\u0561\u056f\u0578\u0582\u0574\u0562\u056b"], "ids": [26141, 45354, 32465, 11731, 77450], "seed": 2, "P@1": 0.0}
+{"pattern": ["eredivisie", "\u043e\u0437\u043d\u0430\u0447\u0430\u0432\u0430", "##gue", "spisak", "zvanicni"], "ids": [55882, 80046, 17734, 13990, 77263], "seed": 3, "P@1": 0.0}

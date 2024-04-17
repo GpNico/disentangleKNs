@@ -1,0 +1,5 @@
+{"pattern": "[X] grenzt an [Y]."}
+{"pattern": "Die [X] grenzt an [Y]."}
+{"pattern": "[X] teilt eine gemeinsame Grenze mit [Y]."}
+{"pattern": "Die [X] grenzt an die [Y]."}
+{"pattern": "[X] grenzt an den [Y]."}

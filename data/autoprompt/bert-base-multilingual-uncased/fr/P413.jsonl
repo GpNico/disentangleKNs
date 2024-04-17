@@ -1,0 +1,4 @@
+{"pattern": ["verdun", "\u540e", "atualmente", "omonima", "defending"], "ids": [58426, 2435, 25120, 56008, 49026], "seed": 0, "P@1": 0.0}
+{"pattern": ["bundesliga", "##timet", "##\u0924\u092e\u093e", "\u0443\u0432\u0430\u0433\u0443", "pieds"], "ids": [21646, 87869, 81967, 63370, 57712], "seed": 1, "P@1": 0.0}
+{"pattern": ["liste", "centrocampista", "liberte", "\u0440\u0443\u0441\u0438\u044f", "milieu"], "ids": [13593, 55753, 33681, 13314, 20783], "seed": 2, "P@1": 0.0}
+{"pattern": ["tackles", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "website", "ligue", "\u59e6"], "ids": [77831, 28937, 12699, 18765, 3062], "seed": 3, "P@1": 0.0}

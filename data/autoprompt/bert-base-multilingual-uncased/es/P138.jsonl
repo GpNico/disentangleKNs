@@ -1,0 +1,4 @@
+{"pattern": ["wikimedia", "seds", "comun", "tales", "hilagang"], "ids": [13609, 32224, 17341, 17249, 81883], "seed": 0, "P@1": 0.6710526315789473}
+{"pattern": ["wikimedia", "asteroide", "pagina", "lugares", "##\u043d\u0438\u0432"], "ids": [13609, 15915, 16833, 24338, 55817], "seed": 1, "P@1": 0.6710526315789473}
+{"pattern": ["wiki", "names", "sitio", "ceremonial", "de"], "ids": [25883, 12276, 22045, 84354, 10102], "seed": 2, "P@1": 0.7368421052631579}
+{"pattern": ["commune", "capbaix", "indicem", "communium", "\u0645\u0642\u0627\u0637\u0639\u0629"], "ids": [11556, 63141, 33529, 24058, 29534], "seed": 3, "P@1": 0.6578947368421053}

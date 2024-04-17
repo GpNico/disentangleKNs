@@ -1,0 +1,4 @@
+{"pattern": ["website", "\u00a9", "ciudaes", "shilling", "de"], "ids": [12699, 181, 84812, 71159, 10102], "seed": 0, "P@1": 0.35294117647058826}
+{"pattern": ["lliure", "genomics", "naitional", "metropolitana", "o"], "ids": [63382, 57812, 87207, 25859, 157], "seed": 1, "P@1": 0.3627450980392157}
+{"pattern": ["paxina", "britannica", "metro", "##roes", "de"], "ids": [34978, 14221, 11340, 69992, 10102], "seed": 2, "P@1": 0.39215686274509803}
+{"pattern": ["##market", "##web", "botanico", "ciudat", "\u05de\u05dc\u05da"], "ids": [54856, 39620, 33344, 56823, 42512], "seed": 3, "P@1": 0.37254901960784315}

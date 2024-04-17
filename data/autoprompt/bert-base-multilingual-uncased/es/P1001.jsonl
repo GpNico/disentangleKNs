@@ -1,0 +1,4 @@
+{"pattern": ["pagina", "elecciones", "deelstaat", "representantes", "\u2208"], "ids": [16833, 24747, 44839, 40524, 1371], "seed": 0, "P@1": 0.9230769230769231}
+{"pattern": ["\u0440\u0435\u0441\u043c\u0438", "census", "zyrtare", "gobierno", "##\u0438\u043a\u0430\u043b\u044b\u049b"], "ids": [27787, 11457, 87630, 14740, 75608], "seed": 1, "P@1": 0.8846153846153846}
+{"pattern": ["pagina", "svetovno", "database", "universidad", "republiki"], "ids": [16833, 75654, 10326, 13804, 53793], "seed": 2, "P@1": 0.8333333333333334}
+{"pattern": ["plantia", "rasmiy", "astronomical", "ciudadanos", "de"], "ids": [76338, 32053, 18394, 53422, 10102], "seed": 3, "P@1": 0.9102564102564102}

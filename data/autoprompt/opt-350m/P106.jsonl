@@ -1,0 +1,4 @@
+{"pattern": ["\u0120screenplay", "reportprint", "\u0120disgr", "former", "aced"], "ids": [26735, 50170, 25425, 22098, 8988], "seed": 0, "P@1": 0.11571254567600488}
+{"pattern": ["################", "\u0120populist", "\u0120lawmaker", "EA", "\u0120comedic"], "ids": [49806, 16144, 10302, 14684, 29045], "seed": 1, "P@1": 0.27040194884287455}
+{"pattern": ["\u0120(", "Fin", "later", "ussian", "\u0120independent"], "ids": [36, 34027, 36600, 42472, 2222], "seed": 2, "P@1": 0.14129110840438489}
+{"pattern": ["\u0120assassinated", "\u0120\u00e2\u0122", "ollywood", "Turkish", "\u0120top"], "ids": [31762, 44, 9718, 37300, 299], "seed": 3, "P@1": 0.0097442143727162}

@@ -1,0 +1,4 @@
+{"pattern": ["oboe", "glottolog", "cithakan", "thay", "boogie"], "ids": [84571, 72555, 60596, 14933, 58195], "seed": 0, "P@1": 0.18032786885245902}
+{"pattern": ["tocando", "rummut", "\u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044c", "belgian", "tocando"], "ids": [93022, 60410, 85723, 35447, 93022], "seed": 1, "P@1": 0.16393442622950818}
+{"pattern": ["oboe", "glottolog", "ethnologue", "##\u092d\u0935", "boogie"], "ids": [84571, 72555, 37982, 55494, 58195], "seed": 2, "P@1": 0.0273224043715847}
+{"pattern": ["vocals", "surf", "pianist", "oboe", "acoustic"], "ids": [15377, 60529, 35175, 84571, 30773], "seed": 3, "P@1": 0.18032786885245902}

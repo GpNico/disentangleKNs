@@ -1,0 +1,7 @@
+{"pattern": "Le lieu de naissance de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.018292682926829267}
+{"pattern": "Le lieu de naissance d'[X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.006097560975609756}
+{"pattern": "[X] est originaire de [Y].", "bert-base-multilingual-uncased_P@1": 0.17682926829268292}
+{"pattern": "[X] est originaire d'[Y].", "bert-base-multilingual-uncased_P@1": 0.018292682926829267}
+{"pattern": "[X] est n\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.16463414634146342}
+{"pattern": "[X] \u00e9tait originaire de [Y].", "bert-base-multilingual-uncased_P@1": 0.18902439024390244}
+{"pattern": "[X] \u00e9tait originaire d'[Y].", "bert-base-multilingual-uncased_P@1": 0.018292682926829267}

@@ -1,0 +1,6 @@
+{"pattern": "[X] counts as a legal term in [Y] .", "bert-base-uncased_P@1": 0.6280120481927711, "opt-350m_P@1": 0.23343373493975902}
+{"pattern": "[X] is a legal term in [Y] .", "bert-base-uncased_P@1": 0.7243975903614458, "opt-350m_P@1": 0.4367469879518072}
+{"pattern": "[X] is a valid legal term in [Y] .", "bert-base-uncased_P@1": 0.7349397590361446, "opt-350m_P@1": 0.4186746987951807}
+{"pattern": "Does [X] count as a legal term in [Y]?", "bert-base-uncased_P@1": 0.5798192771084337, "opt-350m_P@1": 0.3358433734939759}
+{"pattern": "Is [X] a legal term in [Y]?", "bert-base-uncased_P@1": 0.5662650602409639, "opt-350m_P@1": 0.44126506024096385}
+{"pattern": "Is [X] a valid legal term in [Y]?", "bert-base-uncased_P@1": 0.6927710843373494, "opt-350m_P@1": 0.49849397590361444}

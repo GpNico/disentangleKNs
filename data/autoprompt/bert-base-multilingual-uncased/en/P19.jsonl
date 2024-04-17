@@ -1,0 +1,4 @@
+{"pattern": ["\u05e0\u05e4\u05d8\u05e8", "timeline", "hospital", "harta", "kutha"], "ids": [53805, 80182, 13532, 38407, 34730], "seed": 0, "P@1": 0.1388888888888889}
+{"pattern": ["conservatory", "architects", "english", "centre", "in"], "ids": [80674, 46067, 11807, 11534, 10104], "seed": 1, "P@1": 0.2111111111111111}
+{"pattern": ["brewery", "museet", "pension", "architects", "in"], "ids": [86108, 57366, 45501, 46067, 10104], "seed": 2, "P@1": 0.21666666666666667}
+{"pattern": ["\u0440\u0456\u0447\u043d\u0430", "centre", "\u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8", "museum", "in"], "ids": [87460, 11534, 82512, 11217, 10104], "seed": 3, "P@1": 0.2111111111111111}

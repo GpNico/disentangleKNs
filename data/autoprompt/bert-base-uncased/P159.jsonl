@@ -1,0 +1,8 @@
+{"pattern": ["amp", "sony", "##eye", "theatre", "in"], "ids": [23713, 8412, 17683, 3004, 1999], "seed": 0, "P@1": 0.3433208489388265}
+{"pattern": ["tel", "ireland", "harrisburg", "unesco", "hilton"], "ids": [10093, 3163, 24569, 12239, 15481], "seed": 1, "P@1": 0.1111111111111111}
+{"pattern": ["threat", "pageant", "kunst", "biennial", "miss"], "ids": [5081, 12438, 28145, 20313, 3335], "seed": 2, "P@1": 0.12609238451935081}
+{"pattern": ["editorial", "tactics", "gov", "city", "of"], "ids": [8368, 9887, 18079, 2103, 1997], "seed": 3, "P@1": 0.36079900124843944}
+{"pattern": ["invitational", "programmes", "airport", "greater", "_"], "ids": [20129, 8497, 3199, 3618, 1035], "seed": 4, "P@1": 0.31335830212234705}
+{"pattern": ["dance", "rob", "biennale", "sony", "medical"], "ids": [3153, 6487, 21140, 8412, 2966], "seed": 5, "P@1": 0.049937578027465665}
+{"pattern": ["wroc\u0142aw", "##life", "finalist", "tourism", "greater"], "ids": [25160, 15509, 9914, 6813, 3618], "seed": 6, "P@1": 0.2634207240948814}
+{"pattern": ["organising", "city", "hillary", "visit", "greater"], "ids": [21317, 2103, 18520, 3942, 3618], "seed": 7, "P@1": 0.264669163545568}

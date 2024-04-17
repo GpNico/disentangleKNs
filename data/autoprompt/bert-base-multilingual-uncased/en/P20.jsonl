@@ -1,0 +1,4 @@
+{"pattern": ["\u043f\u0430\u0440\u0438\u0436\u0435", "\u0445\u0430\u043d\u0442\u044b", "barcelone", "londen", "danube"], "ids": [56801, 72074, 55367, 35196, 57357], "seed": 0, "P@1": 0.12234042553191489}
+{"pattern": ["\u043c\u043e\u0433\u0438\u043b\u0430", "obituary", "hopital", "ofisiel", "stad"], "ids": [86484, 76504, 37691, 63620, 13740], "seed": 1, "P@1": 0.09574468085106383}
+{"pattern": ["website", "##\u043d\u043e\u0432\u0435", "philosophical", "apartment", "in"], "ids": [12699, 74182, 37446, 46099, 10104], "seed": 2, "P@1": 0.31382978723404253}
+{"pattern": ["mural", "website", "renaissance", "mairie", "south"], "ids": [76640, 12699, 16682, 46902, 10808], "seed": 3, "P@1": 0.0}

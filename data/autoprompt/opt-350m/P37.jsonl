@@ -1,0 +1,4 @@
+{"pattern": ["teen", "\u0120pronunciation", "pmwiki", "\u0120nationality", ":"], "ids": [13665, 44919, 50062, 26241, 35], "seed": 0, "P@1": 0.34555555555555556}
+{"pattern": ["Sports", "onen", "qv", "\u0120joined", "\u0120sensational"], "ids": [10554, 19938, 22638, 1770, 16851], "seed": 1, "P@1": 0.31}
+{"pattern": ["onen", "\u0120(", "song", "ography", "\u0120in"], "ids": [19938, 36, 17481, 10486, 11], "seed": 2, "P@1": 0.51}
+{"pattern": ["inki", "British", "\u0120(-", "\u0120phon", "?),"], "ids": [46524, 24270, 15611, 43676, 37398], "seed": 3, "P@1": 0.34555555555555556}

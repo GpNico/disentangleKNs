@@ -1,0 +1,8 @@
+{"pattern": ["commemorative", "multiplayer", "##graphs", "passport", "@"], "ids": [17524, 17762, 27341, 12293, 1030], "seed": 0, "P@1": 0.19547657512116318}
+{"pattern": ["source", "##tila", "website", "headquarters", ":"], "ids": [3120, 26065, 4037, 4075, 1024], "seed": 1, "P@1": 0.1518578352180937}
+{"pattern": ["facebook", "jerusalem", "ireland", "monte", "revenue"], "ids": [9130, 6744, 3163, 10125, 6599], "seed": 2, "P@1": 0.004846526655896607}
+{"pattern": ["guinness", "wikipedia", "hardware", "department", "of"], "ids": [17323, 16948, 8051, 2533, 1997], "seed": 3, "P@1": 0.3360258481421648}
+{"pattern": ["capcom", "motors", "monaco", "tesla", "##media"], "ids": [26861, 9693, 14497, 26060, 16969], "seed": 4, "P@1": 0.01615508885298869}
+{"pattern": ["sprinter", "ruby", "sweden", "yves", "territorial"], "ids": [19938, 10090, 4701, 19687, 7894], "seed": 5, "P@1": 0.0032310177705977385}
+{"pattern": ["loki", "code", "wikipedia", "www", "."], "ids": [24143, 3642, 16948, 7479, 1012], "seed": 6, "P@1": 0.11954765751211632}
+{"pattern": ["sales", "##group", "phil", "metro", "of"], "ids": [4341, 17058, 6316, 6005, 1997], "seed": 7, "P@1": 0.2407108239095315}

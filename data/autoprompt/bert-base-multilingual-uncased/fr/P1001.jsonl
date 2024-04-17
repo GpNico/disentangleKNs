@@ -1,0 +1,4 @@
+{"pattern": ["parliament", "oppidum", "assemblee", "autonome", "en"], "ids": [17026, 50770, 29214, 39373, 10109], "seed": 0, "P@1": 0.7549019607843137}
+{"pattern": ["detaille", "websteed", "\u0441\u0430\u0438\u0442\u0435", "constitution", "de"], "ids": [56583, 94284, 39947, 18673, 10102], "seed": 1, "P@1": 0.7450980392156863}
+{"pattern": ["offeecial", "##\u043d\u0438\u0446\u0430\u0442\u0430", "meilleur", "vegetation", "de"], "ids": [83806, 95823, 18581, 45712, 10102], "seed": 2, "P@1": 0.7843137254901961}
+{"pattern": ["udens", "archive", "franceza", "regions", "din"], "ids": [94351, 16579, 70307, 14946, 10621], "seed": 3, "P@1": 0.7843137254901961}

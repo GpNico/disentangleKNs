@@ -1,0 +1,4 @@
+{"pattern": ["\u0120noun", "\u0120religion", "country", "\u0120oldest", ":"], "ids": [44875, 6825, 12659, 7763, 35], "seed": 0, "P@1": 0.7228915662650602}
+{"pattern": ["\u0120fuels", "\u0120tourist", "Re", "\u0120outburst", "outheast"], "ids": [12174, 8376, 9064, 28999, 40440], "seed": 1, "P@1": 0.6686746987951807}
+{"pattern": ["\u0120stakeholders", "\u0120(\"", "China", "\u0120letter", "\u0120accusing"], "ids": [7193, 6697, 8481, 1601, 8601], "seed": 2, "P@1": 0.7469879518072289}
+{"pattern": ["\u0120citizenship", "\u0120destinations", "\u0120itiner", "OAD", "edIn"], "ids": [8860, 11633, 26785, 43021, 49556], "seed": 3, "P@1": 0.7605421686746988}

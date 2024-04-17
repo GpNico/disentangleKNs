@@ -1,0 +1,8 @@
+{"pattern": ["mao", "relativity", "burma", "vegetarian", "linear"], "ids": [15158, 20805, 11050, 23566, 7399], "seed": 0, "P@1": 0.18826135105204872}
+{"pattern": ["koppen", "##mia", "quran", "desert", "##osomal"], "ids": [20139, 10092, 21288, 5532, 27642], "seed": 1, "P@1": 0.2336655592469546}
+{"pattern": ["alex", "##fish", "soto", "iso", "##osomal"], "ids": [4074, 7529, 22768, 11163, 27642], "seed": 2, "P@1": 0.16168327796234774}
+{"pattern": ["bmw", "##life", "brazilian", "alpha", "##logical"], "ids": [13154, 15509, 6142, 6541, 9966], "seed": 3, "P@1": 0.17386489479512734}
+{"pattern": ["entrepreneur", "##logy", "iso", "##kali", "your"], "ids": [10670, 6483, 11163, 28613, 2115], "seed": 4, "P@1": 0.07308970099667775}
+{"pattern": ["kazakh", "koppen", "quran", "##bolic", "maternal"], "ids": [25907, 20139, 21288, 18647, 11062], "seed": 5, "P@1": 0.2823920265780731}
+{"pattern": ["effort", "##cino", "##bilis", "##cture", "their"], "ids": [3947, 21081, 27965, 14890, 2037], "seed": 6, "P@1": 0.059800664451827246}
+{"pattern": ["gia", "##omy", "functional", "allied", "african"], "ids": [27699, 16940, 8360, 6035, 3060], "seed": 7, "P@1": 0.1583610188261351}

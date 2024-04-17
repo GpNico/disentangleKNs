@@ -1,0 +1,4 @@
+{"pattern": ["synopsis", "clasificacion", "partido", "comunas", "\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e"], "ids": [20918, 27970, 13115, 40662, 62479], "seed": 0, "P@1": 0.38461538461538464}
+{"pattern": ["inglaterra", "prusia", "corea", "aru", "##gao"], "ids": [19686, 68310, 28739, 85404, 44544], "seed": 1, "P@1": 0.125}
+{"pattern": ["bajo", "franciaorszag", "surat", "##burgo", "\u0441\u0430\u0438\u0442\u044b\u043d\u0434\u0430\u0493\u044b"], "ids": [14039, 95556, 31431, 32801, 45778], "seed": 2, "P@1": 0.07692307692307693}
+{"pattern": ["\u05de\u05d5\u05ea\u05d5", "relaciones", "youtube", "##ziune", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [51012, 27426, 15665, 89176, 55892], "seed": 3, "P@1": 0.28846153846153844}

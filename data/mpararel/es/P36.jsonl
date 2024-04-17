@@ -1,0 +1,8 @@
+{"pattern": "La capital de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.5740740740740741}
+{"pattern": "La capital del [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.5833333333333334}
+{"pattern": "La capital de la [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.5648148148148148}
+{"pattern": "La capital de [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.42592592592592593}
+{"pattern": "La capital del condado de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.5648148148148148}
+{"pattern": "La capital de la [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.4351851851851852}
+{"pattern": "[X], que tiene la capital [Y].", "bert-base-multilingual-uncased_P@1": 0.25925925925925924}
+{"pattern": "[X], que tiene la ciudad capital [Y].", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}

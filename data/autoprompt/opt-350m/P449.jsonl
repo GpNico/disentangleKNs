@@ -1,0 +1,4 @@
+{"pattern": ["\u0120audition", "Band", "\u0120both", "NBC", "\u0120and"], "ids": [17476, 36283, 258, 19542, 8], "seed": 0, "P@1": 0.34282178217821785}
+{"pattern": ["NBC", "\u0120remake", "Rated", "\u0120broadcaster", ":"], "ids": [19542, 21280, 47131, 10901, 35], "seed": 1, "P@1": 0.37623762376237624}
+{"pattern": ["\u0120filename", "\u0120subtitles", "\u0120scores", "NBC", "\u0120or"], "ids": [48786, 41794, 4391, 19542, 50], "seed": 2, "P@1": 0.3650990099009901}
+{"pattern": ["CBS", "\u0120pressures", "NBC", "\u0120prevailed", "\u0120pressures"], "ids": [8949, 9985, 19542, 23164, 9985], "seed": 3, "P@1": 0.07425742574257425}

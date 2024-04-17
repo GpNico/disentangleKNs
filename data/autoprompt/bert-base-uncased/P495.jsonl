@@ -1,0 +1,8 @@
+{"pattern": ["hyderabad", "copa", "kingdom", "britain", "copa"], "ids": [13624, 10613, 2983, 3725, 10613], "seed": 0, "P@1": 0.10386740331491713}
+{"pattern": ["taxonomy", "caledonia", "mountains", "prussia", "peninsular"], "ids": [25274, 19305, 4020, 10724, 22682], "seed": 1, "P@1": 0.10828729281767956}
+{"pattern": ["injury", "history", "embassy", "raf", "/"], "ids": [4544, 2381, 8408, 7148, 1013], "seed": 2, "P@1": 0.26850828729281767}
+{"pattern": ["inning", "uncredited", "cyclist", "federation", "of"], "ids": [12994, 8104, 14199, 4657, 1997], "seed": 3, "P@1": 0.3679558011049724}
+{"pattern": ["teams", "jonah", "china", "slovakia", "clarence"], "ids": [2780, 15617, 2859, 10991, 11805], "seed": 4, "P@1": 0.06961325966850829}
+{"pattern": ["serie", "czech", "estonia", "tel", "asian"], "ids": [8668, 5569, 10692, 10093, 4004], "seed": 5, "P@1": 0.08508287292817679}
+{"pattern": ["cartoons", "spaghetti", "national", "animation", "of"], "ids": [13941, 26666, 2120, 7284, 1997], "seed": 6, "P@1": 0.37900552486187844}
+{"pattern": ["cannabis", "zealand", "usa", "fifa", "motors"], "ids": [17985, 3414, 3915, 5713, 9693], "seed": 7, "P@1": 0.015469613259668509}

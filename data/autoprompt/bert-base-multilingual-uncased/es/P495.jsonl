@@ -1,0 +1,4 @@
+{"pattern": ["##parade", "\u0d67", "imperial", "gobierno", "de"], "ids": [79792, 1006, 15815, 14740, 10102], "seed": 0, "P@1": 0.3119266055045872}
+{"pattern": ["actrice", "actualmente", "depute", "\u0441\u0430\u0438\u0446\u0435", "miss"], "ids": [26087, 17783, 32048, 39719, 14344], "seed": 1, "P@1": 0.1743119266055046}
+{"pattern": ["vfl", "orodha", "una", "entidad", "bansang"], "ids": [51651, 45482, 10155, 46252, 43459], "seed": 2, "P@1": 0.3119266055045872}
+{"pattern": ["muere", "censo", "hivatalos", "##sreform", "din"], "ids": [62215, 16048, 24151, 66045, 10621], "seed": 3, "P@1": 0.12844036697247707}

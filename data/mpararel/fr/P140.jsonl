@@ -1,0 +1,4 @@
+{"pattern": "La religion de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 1.0}
+{"pattern": "[X] croit au [Y].", "bert-base-multilingual-uncased_P@1": 0.11764705882352941}
+{"pattern": "[X] est un croyant de l'[Y].", "bert-base-multilingual-uncased_P@1": 0.9607843137254902}
+{"pattern": "[X] est un adepte de l'[Y].", "bert-base-multilingual-uncased_P@1": 1.0}

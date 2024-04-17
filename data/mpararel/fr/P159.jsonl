@@ -1,0 +1,9 @@
+{"pattern": "Le si\u00e8ge de [X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
+{"pattern": "Le si\u00e8ge de [X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
+{"pattern": "Le si\u00e8ge de l'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
+{"pattern": "Le si\u00e8ge de l'[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
+{"pattern": "[X] est bas\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3375}
+{"pattern": "[X] a son si\u00e8ge \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.28125}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.35}
+{"pattern": "Le si\u00e8ge d'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
+{"pattern": "[X], dont le si\u00e8ge est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}

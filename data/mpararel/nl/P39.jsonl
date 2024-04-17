@@ -1,0 +1,35 @@
+{"pattern": "[X] had de positie van [Y]."}
+{"pattern": "[X] had de publieke positie van [Y]."}
+{"pattern": "[X] had de publieke rol van [Y]."}
+{"pattern": "[X] heeft de offici\u00eble positie van [Y]."}
+{"pattern": "[X] heeft de positie van [Y]."}
+{"pattern": "[X] heeft de openbare positie van [Y]."}
+{"pattern": "[X] heeft de publieke rol van [Y]."}
+{"pattern": "[X] bekleedde de offici\u00eble positie van [Y]."}
+{"pattern": "[X] bekleedde de functie van [Y]."}
+{"pattern": "[X] bekleedde de openbare positie van [Y]."}
+{"pattern": "[X] bekleedde de publieke rol van [Y]."}
+{"pattern": "[X] bekleedt de offici\u00eble functie van [Y]."}
+{"pattern": "[X] heeft de offici\u00eble rol van [Y]."}
+{"pattern": "[X] bekleedt de positie van [Y]."}
+{"pattern": "[X] bekleedt de openbare positie van [Y]."}
+{"pattern": "[X] bekleedt de openbare rol van [Y]."}
+{"pattern": "[X] heeft de rol van [Y]."}
+{"pattern": "[X] bekleedde officieel de functie van [Y]."}
+{"pattern": "[X] bekleedt officieel de positie van [Y]."}
+{"pattern": "[X] heeft officieel de rol van [Y]."}
+{"pattern": "[X]'s offici\u00eble positie is [Y]."}
+{"pattern": "[X]'s offici\u00eble positie was [Y]."}
+{"pattern": "[X]'s offici\u00eble rol is [Y]."}
+{"pattern": "[X]'s offici\u00eble rol was [Y]."}
+{"pattern": "[X]'s positie is [Y]."}
+{"pattern": "[X]'s positie was [Y]."}
+{"pattern": "[X]'s publieke positie is [Y]."}
+{"pattern": "[X]'s publieke positie was [Y]."}
+{"pattern": "[X]'s publieke rol is [Y]."}
+{"pattern": "[X]'s publieke rol was [Y]."}
+{"pattern": "[X]'s rol is [Y]."}
+{"pattern": "[X]'s rol was [Y]."}
+{"pattern": "[X], wiens offici\u00eble positie is die van [Y]."}
+{"pattern": "[X], wiens positie is die van [Y]."}
+{"pattern": "[X], wiens functie was die van [Y]."}

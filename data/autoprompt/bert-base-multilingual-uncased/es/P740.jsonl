@@ -1,0 +1,4 @@
+{"pattern": ["hyde", "este", "baloncesto", "baseada", "\u0634\u0647\u0631\u0647\u0627\u06cc"], "ids": [39091, 10494, 42064, 69360, 70495], "seed": 0, "P@1": 0.02027027027027027}
+{"pattern": ["regia", "britton", "conservato", "conservatory", "##\u05d0\u05d5\u05e1"], "ids": [11951, 63591, 93448, 80674, 88273], "seed": 1, "P@1": 0.0}
+{"pattern": ["halifax", "honolulu", "\u0628\u0627\u0631\u064a\u0633", "christiania", "everton"], "ids": [48275, 51401, 70285, 89613, 56139], "seed": 2, "P@1": 0.013513513513513514}
+{"pattern": ["ps2", "konsert", "##ariu", "universiteti", "di"], "ids": [88585, 69667, 44697, 57962, 10120], "seed": 3, "P@1": 0.060810810810810814}

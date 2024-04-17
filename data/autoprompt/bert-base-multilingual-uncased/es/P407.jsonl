@@ -1,0 +1,4 @@
+{"pattern": ["havana", "\u0438\u0441\u043f\u0430\u043d\u0438", "turing", "variedades", "englannin"], "ids": [54410, 37810, 68678, 73081, 81385], "seed": 0, "P@1": 0.4927536231884058}
+{"pattern": ["mosses", "mosses", "myspace", "gobiernu", "botanique"], "ids": [91492, 91492, 58292, 29824, 83189], "seed": 1, "P@1": 0.08695652173913043}
+{"pattern": ["isopoda", "rasmiy", "sitio", "entomologist", "wikang"], "ids": [38280, 32053, 22045, 59446, 42575], "seed": 2, "P@1": 0.7318840579710145}
+{"pattern": ["imdb", "\u0441\u0430\u0438\u0442\u0435", "sitio", "literalmente", "en"], "ids": [18103, 39947, 22045, 88735, 10109], "seed": 3, "P@1": 0.782608695652174}

@@ -1,0 +1,4 @@
+{"pattern": ["japonia", "norteamerica", "espanha", "sweden", "somalia"], "ids": [65603, 86176, 31887, 21113, 36764], "seed": 0, "P@1": 0.010471204188481676}
+{"pattern": ["poland", "espainia", "japan", "##\u043e\u043d\u043d\u044b\u0438", "dhabi"], "ids": [18209, 69912, 11937, 96419, 69515], "seed": 1, "P@1": 0.1256544502617801}
+{"pattern": ["romania", "espainia", "japao", "\u043c\u0435\u043a\u0441\u0438\u043a\u0443", "zealand"], "ids": [12764, 69912, 41346, 13964, 14192], "seed": 2, "P@1": 0.11518324607329843}
+{"pattern": ["diarsipan", "sudafrica", "japonia", "unidos", "hungary"], "ids": [22622, 52483, 65603, 11212, 24738], "seed": 3, "P@1": 0.07853403141361257}

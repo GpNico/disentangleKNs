@@ -1,0 +1,19 @@
+{"pattern": "Das Musiklabel, das [X] repr\u00e4sentiert, ist [Y]."}
+{"pattern": "Das Musiklabel, das [X] repr\u00e4sentierte, war [Y]."}
+{"pattern": "Das Musiklabel, das [X] vertritt, ist [Y]."}
+{"pattern": "Das Musiklabel, das [X] vertrat, war [Y]."}
+{"pattern": "Das Plattenlabel, das [X] repr\u00e4sentiert, ist [Y]."}
+{"pattern": "Das Plattenlabel, das [X] repr\u00e4sentierte, war [Y]."}
+{"pattern": "Das Plattenlabel, das [X] vertritt, ist [Y]."}
+{"pattern": "[X] hat einen Vertrag mit [Y]."}
+{"pattern": "[X] Label: [Y]."}
+{"pattern": "[X]-Platten f\u00fcr [Y]."}
+{"pattern": "[X]s Label ist [Y]."}
+{"pattern": "[X]s Label war [Y]."}
+{"pattern": "[X]s Musiklabel ist [Y]."}
+{"pattern": "[X]s Musiklabel war [Y]."}
+{"pattern": "[X]s Plattenfirma ist [Y]."}
+{"pattern": "[X]s Plattenfirma war [Y]."}
+{"pattern": "[X]s Plattenlabel ist [Y]."}
+{"pattern": "[X]s Plattenlabel war [Y]."}
+{"pattern": "[X], ver\u00f6ffentlicht von [Y]."}

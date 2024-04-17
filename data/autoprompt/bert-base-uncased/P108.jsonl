@@ -1,0 +1,8 @@
+{"pattern": ["twitter", "twitter", "siemens", "mcdonnell", "lotus"], "ids": [10474, 10474, 22108, 23149, 13030], "seed": 0, "P@1": 0.018518518518518517}
+{"pattern": ["spreads", "##hony", "atp", "sinclair", "-"], "ids": [20861, 27629, 12649, 11881, 1011], "seed": 1, "P@1": 0.005291005291005291}
+{"pattern": ["ralph", "packard", "linux", "oricon", "clark"], "ids": [6798, 24100, 11603, 22237, 5215], "seed": 2, "P@1": 0.0}
+{"pattern": ["lotus", "website", "excel", "bea", "artificial"], "ids": [13030, 4037, 24970, 26892, 7976], "seed": 3, "P@1": 0.0}
+{"pattern": ["please", "nobel", "software", "nato", "judicial"], "ids": [3531, 10501, 4007, 10079, 8268], "seed": 4, "P@1": 0.0}
+{"pattern": ["trump", "sports", "nike", "aaron", "bell"], "ids": [8398, 2998, 18368, 7158, 4330], "seed": 5, "P@1": 0.0}
+{"pattern": ["steven", "twitter", "motorola", "steven", "cash"], "ids": [7112, 10474, 29583, 7112, 5356], "seed": 6, "P@1": 0.0026455026455026454}
+{"pattern": ["gunnery", "sony", "airbus", "sony", ":"], "ids": [27919, 8412, 20901, 8412, 1024], "seed": 7, "P@1": 0.007936507936507936}

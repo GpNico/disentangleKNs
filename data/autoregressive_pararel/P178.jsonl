@@ -1,0 +1,23 @@
+{"pattern": "[X] and its product [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] builds [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] develops [Y] .", "bert-base-uncased_P@1": 0.0017006802721088435, "opt-350m_P@1": 0.0}
+{"pattern": "[X] makes [Y] .", "bert-base-uncased_P@1": 0.0017006802721088435, "opt-350m_P@1": 0.0}
+{"pattern": "[X] manufactures [Y] .", "bert-base-uncased_P@1": 0.003401360544217687, "opt-350m_P@1": 0.0}
+{"pattern": "[X] produces [Y] .", "bert-base-uncased_P@1": 0.015306122448979591, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that builds [Y] .", "bert-base-uncased_P@1": 0.015306122448979591, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that created [Y] .", "bert-base-uncased_P@1": 0.11394557823129252, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that developed [Y] .", "bert-base-uncased_P@1": 0.01020408163265306, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that develops [Y] .", "bert-base-uncased_P@1": 0.022108843537414966, "opt-350m_P@1": 0.0017006802721088435}
+{"pattern": "[X], that makes [Y] .", "bert-base-uncased_P@1": 0.003401360544217687, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that manufactures [Y] .", "bert-base-uncased_P@1": 0.01870748299319728, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that produces [Y] .", "bert-base-uncased_P@1": 0.03231292517006803, "opt-350m_P@1": 0.0}
+{"pattern": "[X], the creator of the [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.15476190476190477}
+{"pattern": "Did [X] create [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] develop [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] make [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] manufacture [Y]?", "bert-base-uncased_P@1": 0.0017006802721088435, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] produce [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] the creator of [Y]?", "bert-base-uncased_P@1": 0.14795918367346939, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] the creator of the [Y]?", "bert-base-uncased_P@1": 0.008503401360544218, "opt-350m_P@1": 0.08843537414965986}
+{"pattern": "Was [X] the creator of [Y]?", "bert-base-uncased_P@1": 0.12244897959183673, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X] the creator of the [Y]?", "bert-base-uncased_P@1": 0.0017006802721088435, "opt-350m_P@1": 0.05272108843537415}

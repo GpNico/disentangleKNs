@@ -1,0 +1,8 @@
+{"pattern": ["dialect", "plume", "germans", "cascade", "oral"], "ids": [9329, 26888, 7074, 16690, 8700], "seed": 0, "P@1": 0.6583242655059848}
+{"pattern": ["biography", "##mie", "hellenic", "##ches", "("], "ids": [8308, 9856, 23122, 8376, 1006], "seed": 1, "P@1": 0.0}
+{"pattern": ["austrian", "jessica", "\u1d58", "sufi", "##rill"], "ids": [6161, 8201, 1506, 21845, 24714], "seed": 2, "P@1": 0.4961915125136017}
+{"pattern": ["##iot", "##optera", "##ard", "wikipedia", "in"], "ids": [25185, 25324, 4232, 16948, 1999], "seed": 3, "P@1": 0.8073993471164309}
+{"pattern": ["marino", "##sian", "slovene", "celine", "##lian"], "ids": [17185, 17043, 18326, 24550, 15204], "seed": 4, "P@1": 0.6126224156692056}
+{"pattern": ["centimetres", "pronunciation", "intermediate", "franco", "-"], "ids": [13935, 15498, 7783, 9341, 1011], "seed": 5, "P@1": 0.7366702937976061}
+{"pattern": ["louis", "aggregator", "tablets", "gov", "."], "ids": [3434, 24089, 17596, 18079, 1012], "seed": 6, "P@1": 0.00544069640914037}
+{"pattern": ["inland", "##hy", "belarusian", "nico", "gilbert"], "ids": [9514, 10536, 15626, 19332, 7664], "seed": 7, "P@1": 0.6322089227421109}

@@ -1,0 +1,4 @@
+{"pattern": ["\u0120pornographic", "\u0120sciences", "\u0120", "ophys", "ministic"], "ids": [38739, 17874, 1437, 44677, 47907], "seed": 0, "P@1": 0.13089005235602094}
+{"pattern": ["\u0120astronomer", "OLOGY", "\u0120mathematical", "OLOGY", "\u0120pipe"], "ids": [40369, 41819, 30412, 41819, 11397], "seed": 1, "P@1": 0.12390924956369982}
+{"pattern": ["English", "\u0120scriptures", "\u0120sciences", "\u0120physicists", "ometry"], "ids": [35007, 44838, 17874, 41739, 40899], "seed": 2, "P@1": 0.11867364746945899}
+{"pattern": ["\u0120physicists", "general", "rology", "\u0120chaos", "professional"], "ids": [41739, 15841, 27895, 7724, 23878], "seed": 3, "P@1": 0.11343804537521815}

@@ -1,0 +1,4 @@
+{"pattern": ["\u0120sectarian", "\u0120mosque", "AFP", "NE", ","], "ids": [25454, 12958, 11528, 9009, 6], "seed": 0, "P@1": 0.4166666666666667}
+{"pattern": ["\u0120referendum", "\u0120shakes", "\u0120knife", "\u0120exports", "\u0120from"], "ids": [5047, 25229, 7023, 4302, 31], "seed": 1, "P@1": 0.4166666666666667}
+{"pattern": ["\u0120fascism", "ews", "look", "\u0120nationality", "\u0120country"], "ids": [36065, 10269, 13724, 26241, 247], "seed": 2, "P@1": 0.3958333333333333}
+{"pattern": ["\u0120travellers", "\\\",", "\u0120terrorism", "\u0120suspect", "\u0120entering"], "ids": [18268, 49778, 4952, 1985, 4201], "seed": 3, "P@1": 0.42653508771929827}

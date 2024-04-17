@@ -1,0 +1,4 @@
+{"pattern": ["\u0120continent", "\u0120holiest", "\u0120next", "\u0120decade", "\u0120claims"], "ids": [9183, 42520, 220, 2202, 1449], "seed": 0, "P@1": 0.3054187192118227}
+{"pattern": ["\u0120heritage", "\u0120qualifies", "\u0120continent", "atically", "\u0120for"], "ids": [7788, 31714, 9183, 23050, 13], "seed": 1, "P@1": 0.2660098522167488}
+{"pattern": ["\u0120museums", "\u0120world", "'';", "IFA", "\u0120and"], "ids": [19773, 232, 49525, 28673, 8], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120decides", "\u0120archaeologists", "Japanese", "\u0120counterpart", "\u0120of"], "ids": [11703, 37325, 35655, 10255, 9], "seed": 3, "P@1": 0.09359605911330049}

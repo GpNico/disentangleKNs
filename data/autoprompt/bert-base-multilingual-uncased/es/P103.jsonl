@@ -1,0 +1,4 @@
+{"pattern": ["pagina", "homonima", "escritor", "recensements", "politico"], "ids": [16833, 76565, 21250, 55016, 14243], "seed": 0, "P@1": 0.648936170212766}
+{"pattern": ["\u0440\u043e\u0434\u0438\u043b\u0430\u0441\u044c", "\u09b9\u09b2\u09c7\u09be", "petersburg", "lenga", "del"], "ids": [47301, 92065, 22957, 20915, 10134], "seed": 1, "P@1": 0.6648936170212766}
+{"pattern": ["aquesta", "pagina", "photographic", "##\u10e0\u10d6\u10d4", "idioma"], "ids": [13339, 16833, 71535, 71655, 30293], "seed": 2, "P@1": 0.7553191489361702}
+{"pattern": ["comunautat", "cavendish", "oficial", "langue", "du"], "ids": [73157, 69048, 13562, 20219, 10169], "seed": 3, "P@1": 0.6063829787234043}

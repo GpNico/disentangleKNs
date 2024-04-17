@@ -1,0 +1,6 @@
+{"pattern": "[X] ist die Hauptstadt von [Y]."}
+{"pattern": "[X] ist die Hauptstadt des [Y]."}
+{"pattern": "[X], das ist die Hauptstadt von [Y]."}
+{"pattern": "[X], das ist die Hauptstadt des [Y]."}
+{"pattern": "[X], die Hauptstadt von [Y]."}
+{"pattern": "[X], die Hauptstadt des [Y]."}

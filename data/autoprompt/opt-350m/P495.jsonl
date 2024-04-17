@@ -1,0 +1,4 @@
+{"pattern": ["\u0120embryo", "\u0120decriminal", "\u0120officially", "\u0120taboo", "\u0120in"], "ids": [37961, 33926, 4142, 31041, 11], "seed": 0, "P@1": 0.3160220994475138}
+{"pattern": ["\u0120\u00e2\u012a\u0134", "\u0120sushi", "\u0120region", "North", "orthern"], "ids": [42736, 28287, 976, 11073, 44963], "seed": 1, "P@1": 0.26298342541436465}
+{"pattern": ["shop", "\u0120tourist", "(*", "In", "\u0120northern"], "ids": [22799, 8376, 49570, 1121, 3285], "seed": 2, "P@1": 0.3104972375690608}
+{"pattern": ["\u0120sparks", "\u0120deforestation", "\u0120south", "\u00e2\u0124\u00ac", "western"], "ids": [30555, 35552, 2077, 10851, 16507], "seed": 3, "P@1": 0.3116022099447514}

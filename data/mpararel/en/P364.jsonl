@@ -1,0 +1,10 @@
+{"pattern": "The language of [X] is [Y] .", "bert-base-uncased_P@1": 0.4166666666666667, "bert-base-multilingual-uncased_P@1": 0.4152046783625731}
+{"pattern": "The language of [X] was [Y] .", "bert-base-uncased_P@1": 0.3611111111111111, "bert-base-multilingual-uncased_P@1": 0.3157894736842105}
+{"pattern": "The original language of [X] is [Y] .", "bert-base-uncased_P@1": 0.4523809523809524, "bert-base-multilingual-uncased_P@1": 0.45614035087719296}
+{"pattern": "The original language of [X] was [Y] .", "bert-base-uncased_P@1": 0.48148148148148145, "bert-base-multilingual-uncased_P@1": 0.45614035087719296}
+{"pattern": "[X] was originally performed in [Y] .", "bert-base-uncased_P@1": 0.19444444444444445, "bert-base-multilingual-uncased_P@1": 0.029239766081871343}
+{"pattern": "[X] was originally performed in language [Y] .", "bert-base-uncased_P@1": 0.0013227513227513227, "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] was originally performed in the following language: [Y] .", "bert-base-uncased_P@1": 0.5119047619047619, "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
+{"pattern": "[X] was originally played in [Y] .", "bert-base-uncased_P@1": 0.17724867724867724, "bert-base-multilingual-uncased_P@1": 0.011695906432748537}
+{"pattern": "[X] was originally played in language [Y] .", "bert-base-uncased_P@1": 0.0013227513227513227, "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] was originally played in the following language: [Y] .", "bert-base-uncased_P@1": 0.48412698412698413, "bert-base-multilingual-uncased_P@1": 0.47953216374269003}

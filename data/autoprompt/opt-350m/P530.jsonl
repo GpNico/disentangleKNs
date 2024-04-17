@@ -1,0 +1,4 @@
+{"pattern": ["\u0120countries", "Egypt", "borg", "orea", "\u0120and"], "ids": [749, 37552, 28659, 33594, 8], "seed": 0, "P@1": 0.008421052631578947}
+{"pattern": ["\u0120limit", "\u0120infertility", "\u00c2\u0142\u00c2\u0142", "Turkey", "\u0120and"], "ids": [3000, 36694, 50142, 33133, 8], "seed": 1, "P@1": 0.03263157894736842}
+{"pattern": ["\u0120countries", "\u0120recognizing", "LOG", "asia", "ain"], "ids": [749, 16257, 45403, 19036, 1851], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120refugee", "\u0120territory", "\u0120island", "\u00e2\u0122", "\u0120between"], "ids": [7220, 4284, 2946, 17, 227], "seed": 3, "P@1": 0.017894736842105262}

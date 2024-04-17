@@ -1,0 +1,9 @@
+{"pattern": "[X] est limitrophe de [Y].", "bert-base-multilingual-uncased_P@1": 0.1310344827586207}
+{"pattern": "[X] partage une fronti\u00e8re avec [Y].", "bert-base-multilingual-uncased_P@1": 0.04827586206896552}
+{"pattern": "[X] partage une fronti\u00e8re commune avec [Y].", "bert-base-multilingual-uncased_P@1": 0.04827586206896552}
+{"pattern": "Le [X] partage une fronti\u00e8re avec le [Y].", "bert-base-multilingual-uncased_P@1": 0.08275862068965517}
+{"pattern": "[X] partage des fronti\u00e8res avec [Y].", "bert-base-multilingual-uncased_P@1": 0.07586206896551724}
+{"pattern": "[X] partage sa fronti\u00e8re avec [Y].", "bert-base-multilingual-uncased_P@1": 0.04827586206896552}
+{"pattern": "[X] partage ses fronti\u00e8res avec [Y].", "bert-base-multilingual-uncased_P@1": 0.09655172413793103}
+{"pattern": "[X] partage la fronti\u00e8re avec [Y].", "bert-base-multilingual-uncased_P@1": 0.041379310344827586}
+{"pattern": "[X] partage les fronti\u00e8res avec [Y].", "bert-base-multilingual-uncased_P@1": 0.07586206896551724}

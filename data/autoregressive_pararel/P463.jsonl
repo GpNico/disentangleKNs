@@ -1,0 +1,14 @@
+{"pattern": "[X] belongs to [Y] .", "bert-base-uncased_P@1": 0.28078817733990147, "opt-350m_P@1": 0.0}
+{"pattern": "[X] belongs to the [Y] .", "bert-base-uncased_P@1": 0.009852216748768473, "opt-350m_P@1": 0.014778325123152709}
+{"pattern": "[X] belongs to the organization of [Y] .", "bert-base-uncased_P@1": 0.5517241379310345, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a member of [Y] .", "bert-base-uncased_P@1": 0.5073891625615764, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a member of the [Y] .", "bert-base-uncased_P@1": 0.009852216748768473, "opt-350m_P@1": 0.06896551724137931}
+{"pattern": "[X] is affiliated with [Y] .", "bert-base-uncased_P@1": 0.5911330049261084, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is part of [Y] .", "bert-base-uncased_P@1": 0.43842364532019706, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] belong to [Y]?", "bert-base-uncased_P@1": 0.4482758620689655, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] belong to the [Y]?", "bert-base-uncased_P@1": 0.024630541871921183, "opt-350m_P@1": 0.009852216748768473}
+{"pattern": "Does [X] belong to the organization of [Y]?", "bert-base-uncased_P@1": 0.6059113300492611, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a member of [Y]?", "bert-base-uncased_P@1": 0.7142857142857143, "opt-350m_P@1": 0.024630541871921183}
+{"pattern": "Is [X] a member of the [Y]?", "bert-base-uncased_P@1": 0.03940886699507389, "opt-350m_P@1": 0.10837438423645321}
+{"pattern": "Is [X] affiliated with [Y]?", "bert-base-uncased_P@1": 0.7586206896551724, "opt-350m_P@1": 0.0049261083743842365}
+{"pattern": "Is [X] part of [Y]?", "bert-base-uncased_P@1": 0.6847290640394089, "opt-350m_P@1": 0.0}

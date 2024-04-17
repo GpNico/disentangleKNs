@@ -1,0 +1,14 @@
+{"pattern": "[X] is a product of [Y] .", "bert-base-uncased_P@1": 0.8265412748171369, "bert-base-multilingual-uncased_P@1": 0.8186813186813187}
+{"pattern": "[X] is created by [Y] .", "bert-base-uncased_P@1": 0.7147335423197492, "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] is developed by [Y] .", "bert-base-uncased_P@1": 0.8505747126436781, "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] is produced by [Y] .", "bert-base-uncased_P@1": 0.8652037617554859, "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X] was created by [Y] .", "bert-base-uncased_P@1": 0.709508881922675, "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] was developed by [Y] .", "bert-base-uncased_P@1": 0.8547544409613375, "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X] was produced by [Y] .", "bert-base-uncased_P@1": 0.8652037617554859, "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X], a product created by [Y] .", "bert-base-uncased_P@1": 0.8526645768025078, "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X], a product developed by [Y] .", "bert-base-uncased_P@1": 0.8631138975966562, "bert-base-multilingual-uncased_P@1": 0.8461538461538461}
+{"pattern": "[X], a product manufactured by [Y] .", "bert-base-uncased_P@1": 0.8808777429467085, "bert-base-multilingual-uncased_P@1": 0.8516483516483516}
+{"pattern": "[X], a product of [Y] .", "bert-base-uncased_P@1": 0.786833855799373, "bert-base-multilingual-uncased_P@1": 0.8461538461538461}
+{"pattern": "[X], created by [Y] .", "bert-base-uncased_P@1": 0.6792058516196448, "bert-base-multilingual-uncased_P@1": 0.7967032967032966}
+{"pattern": "[X], developed by [Y] .", "bert-base-uncased_P@1": 0.8484848484848485, "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X], produced by [Y] .", "bert-base-uncased_P@1": 0.8505747126436781, "bert-base-multilingual-uncased_P@1": 0.8131868131868132}

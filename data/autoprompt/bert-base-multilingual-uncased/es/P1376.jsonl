@@ -1,0 +1,4 @@
+{"pattern": ["\u03bc\u03bf\u03c5\u03c3\u03b5\u03b9\u03bf", "opgenomen", "pratelan", "\u0645\u0642\u0627\u0637\u0639\u0629", "van"], "ids": [82680, 36860, 83253, 29534, 10147], "seed": 0, "P@1": 0.3235294117647059}
+{"pattern": ["ang", "##hore", "imaxes", "gobernador", "bansang"], "ids": [10113, 56633, 93625, 27028, 43459], "seed": 1, "P@1": 0.38235294117647056}
+{"pattern": ["llista", "administratibo", "\u0458\u0435\u0434\u0438\u043d\u0438\u0446\u0430", "estau", "de"], "ids": [31324, 42812, 74453, 30896, 10102], "seed": 2, "P@1": 0.5882352941176471}
+{"pattern": ["wikimedia", "\u0438\u0441\u0442\u043e\u0440\u0438\u043a\u043e", "provins", "arrondissementer", "dwyrain"], "ids": [13609, 57391, 57108, 56054, 80355], "seed": 3, "P@1": 0.3235294117647059}

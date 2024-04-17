@@ -1,0 +1,8 @@
+{"pattern": ["twinned", "association", "forum", "##ural", "western"], "ids": [25901, 2523, 7057, 11137, 2530], "seed": 0, "P@1": 0.3162393162393162}
+{"pattern": ["allmusic", "theo", "potsdam", "atlantis", "sidney"], "ids": [10477, 14833, 26554, 16637, 11430], "seed": 1, "P@1": 0.06623931623931624}
+{"pattern": ["tourism", "pride", "footprint", "##ages", "metropolitan"], "ids": [6813, 6620, 24319, 13923, 4956], "seed": 2, "P@1": 0.32051282051282054}
+{"pattern": ["twinned", "website", "your", "##lings", "of"], "ids": [25901, 4037, 2115, 11227, 1997], "seed": 3, "P@1": 0.6196581196581197}
+{"pattern": ["\u2020", "passports", "##nesia", "jacob", "\u2192"], "ids": [1526, 19494, 21509, 6213, 1585], "seed": 4, "P@1": 0.3076923076923077}
+{"pattern": ["townland", "latin", "temeraire", "smashwords", "~"], "ids": [23635, 3763, 23611, 25151, 1066], "seed": 5, "P@1": 0.0}
+{"pattern": ["stadium", "www", "##elt", "mt", "."], "ids": [3346, 7479, 20042, 11047, 1012], "seed": 6, "P@1": 0.35683760683760685}
+{"pattern": ["fc", "grammy", "rfc", "club", "of"], "ids": [4429, 8922, 14645, 2252, 1997], "seed": 7, "P@1": 0.6047008547008547}

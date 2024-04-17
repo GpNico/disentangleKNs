@@ -1,0 +1,4 @@
+{"pattern": ["\u043e\u0434\u043d\u043e\u0441\u0438", "ncbi", "cithakan", "detaille", "petite"], "ids": [88426, 61322, 60596, 56583, 19214], "seed": 0, "P@1": 0.39325842696629215}
+{"pattern": ["orile", "##bold", "hindi", "dieux", "##euse"], "ids": [57671, 44702, 18465, 90234, 29750], "seed": 1, "P@1": 0.11235955056179775}
+{"pattern": ["\u0444\u0440\u0430\u043d\u0446\u0456\u0456", "database", "liste", "complexe", "afrikaanse"], "ids": [25532, 10326, 13593, 41760, 25349], "seed": 2, "P@1": 0.1797752808988764}
+{"pattern": ["\u091a\u0932\u091a\u093f\u0924\u0930", "genoemd", "guidelines", "francaise", "sur"], "ids": [78073, 22441, 69087, 13903, 10344], "seed": 3, "P@1": 0.34831460674157305}

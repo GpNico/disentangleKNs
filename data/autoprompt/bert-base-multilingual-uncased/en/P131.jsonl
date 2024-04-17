@@ -1,0 +1,4 @@
+{"pattern": ["arrondissementer", "http", "coal", "\u0435\u043a\u0442", "greater"], "ids": [56054, 10635, 28203, 60800, 18860], "seed": 0, "P@1": 0.23295454545454544}
+{"pattern": ["database", "##olina", "perbandaran", "parke", "din"], "ids": [10326, 86237, 30712, 27302, 10621], "seed": 1, "P@1": 0.3068181818181818}
+{"pattern": ["wikimedia", "polka", "##ografie", "perbandaran", "rural"], "ids": [13609, 77341, 87252, 30712, 14982], "seed": 2, "P@1": 0.25}
+{"pattern": ["samband", "stad", "lugha", "website", "van"], "ids": [37757, 13740, 22052, 12699, 10147], "seed": 3, "P@1": 0.2784090909090909}

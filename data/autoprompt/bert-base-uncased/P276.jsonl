@@ -1,0 +1,8 @@
+{"pattern": ["##arium", "archive", "city", "guides", "of"], "ids": [17285, 8756, 2103, 12468, 1997], "seed": 0, "P@1": 0.391644908616188}
+{"pattern": ["embassy", "museum", "tourism", "historic", "greater"], "ids": [8408, 2688, 6813, 3181, 3618], "seed": 1, "P@1": 0.4086161879895561}
+{"pattern": ["stadium", "phoenix", "tunisia", "azure", "##post"], "ids": [3346, 6708, 13437, 24296, 19894], "seed": 2, "P@1": 0.0013054830287206266}
+{"pattern": ["\u00b0c", "website", "masonic", "residences", "in"], "ids": [6362, 4037, 21152, 14094, 1999], "seed": 3, "P@1": 0.40992167101827676}
+{"pattern": ["amtrak", "waterloo", "leeds", "suez", "western"], "ids": [20208, 13784, 7873, 21974, 2530], "seed": 4, "P@1": 0.0639686684073107}
+{"pattern": ["laureate", "minogue", "mayor", "winner", "miss"], "ids": [17656, 27736, 3664, 3453, 3335], "seed": 5, "P@1": 0.2519582245430809}
+{"pattern": ["##riated", "administration", "club", "museums", "in"], "ids": [25475, 3447, 2252, 9941, 1999], "seed": 6, "P@1": 0.40992167101827676}
+{"pattern": ["museum", "gasoline", "forgotten", "charities", "in"], "ids": [2688, 13753, 6404, 15430, 1999], "seed": 7, "P@1": 0.402088772845953}

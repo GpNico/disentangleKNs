@@ -1,0 +1,4 @@
+{"pattern": ["argent", "frantei", "singapura", "cour", "##\u0430\u0446\u0438\u0458\u0430"], "ids": [21236, 47996, 40396, 23100, 64200], "seed": 0, "P@1": 0.0058823529411764705}
+{"pattern": ["prantsusmaa", "danmark", "india", "homme", "siria"], "ids": [87148, 17652, 11166, 14591, 30602], "seed": 1, "P@1": 0.10588235294117647}
+{"pattern": ["bulgaria", "amerique", "guinee", "blaise", "##goslavie"], "ids": [20152, 27974, 76077, 84342, 82966], "seed": 2, "P@1": 0.023529411764705882}
+{"pattern": ["\u0441\u044a\u0435\u043c\u043a\u0438", "lieu", "finaliste", "egypt", "\u0441\u0431\u043e\u0440\u043d\u0430\u044f"], "ids": [93052, 13097, 47713, 20589, 62451], "seed": 3, "P@1": 0.0058823529411764705}

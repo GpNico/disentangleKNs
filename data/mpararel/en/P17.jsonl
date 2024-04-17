@@ -1,0 +1,7 @@
+{"pattern": "The country [X] is located in is [Y] .", "bert-base-uncased_P@1": 0.021929824561403508, "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The state [X] is located in is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.26096491228070173, "bert-base-multilingual-uncased_P@1": 0.3783783783783784}
+{"pattern": "[X] is located in the following country: [Y] .", "bert-base-uncased_P@1": 0.49890350877192985, "bert-base-multilingual-uncased_P@1": 0.5297297297297298}
+{"pattern": "[X] is located in the following state: [Y] .", "bert-base-uncased_P@1": 0.23903508771929824, "bert-base-multilingual-uncased_P@1": 0.42702702702702705}
+{"pattern": "[X], located in [Y] .", "bert-base-uncased_P@1": 0.2576754385964912, "bert-base-multilingual-uncased_P@1": 0.35135135135135137}
+{"pattern": "[X], which is located in [Y] .", "bert-base-uncased_P@1": 0.16337719298245615, "bert-base-multilingual-uncased_P@1": 0.372972972972973}

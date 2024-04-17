@@ -1,0 +1,4 @@
+{"pattern": ["VIDIA", "microsoft", "\u0120crit", "ram", "ishes"], "ids": [49935, 48048, 28024, 4040, 10776], "seed": 0, "P@1": 0.05026455026455026}
+{"pattern": ["\u0120abolition", "NBC", "\u012000000000", "Microsoft", "\u0120and"], "ids": [34117, 19542, 49524, 35460, 8], "seed": 1, "P@1": 0.07936507936507936}
+{"pattern": ["Microsoft", "Compat", "\":\"\"},{\"", "Business", "\u0120thanked"], "ids": [35460, 49697, 50020, 18562, 9079], "seed": 2, "P@1": 0.06349206349206349}
+{"pattern": ["\u0120hearings", "Microsoft", "\u0120antitrust", "\u0120fined", "'';"], "ids": [9445, 35460, 18849, 10110, 49525], "seed": 3, "P@1": 0.07142857142857142}

@@ -1,0 +1,4 @@
+{"pattern": ["Congress", "ciplinary", "\u0120striker", "Defense", "ensive"], "ids": [25997, 35569, 5955, 39049, 17355], "seed": 0, "P@1": 0.4170168067226891}
+{"pattern": ["\u0120soccer", "\u0120pinch", "ender", "North", "urdue"], "ids": [4191, 15168, 7232, 11073, 46420], "seed": 1, "P@1": 0.0}
+{"pattern": ["axter", "Sphere", "\u0120midfield", "\u0120midfield", "ith"], "ids": [45819, 45097, 9979, 9979, 3432], "seed": 2, "P@1": 0.005252100840336135}
+{"pattern": ["utenant", "\u0120midfield", "\u0120hitter", "\u0120custod", "itional"], "ids": [47397, 9979, 14005, 22790, 24176], "seed": 3, "P@1": 0.41386554621848737}

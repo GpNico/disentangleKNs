@@ -1,0 +1,8 @@
+{"pattern": "[X] is the capital city of [Y] .", "bert-base-uncased_P@1": 0.8166666666666667, "opt-350m_P@1": 0.6833333333333333}
+{"pattern": "[X] is the capital of [Y] .", "bert-base-uncased_P@1": 0.8222222222222222, "opt-350m_P@1": 0.6388888888888888}
+{"pattern": "[X], that is the capital city of [Y] .", "bert-base-uncased_P@1": 0.8166666666666667, "opt-350m_P@1": 0.6888888888888889}
+{"pattern": "[X], that is the capital of [Y] .", "bert-base-uncased_P@1": 0.7944444444444444, "opt-350m_P@1": 0.6444444444444445}
+{"pattern": "[X], the capital city of [Y] .", "bert-base-uncased_P@1": 0.8055555555555556, "opt-350m_P@1": 0.7333333333333333}
+{"pattern": "[X], the capital of [Y] .", "bert-base-uncased_P@1": 0.7944444444444444, "opt-350m_P@1": 0.6944444444444444}
+{"pattern": "Is [X] the capital city of [Y]?", "bert-base-uncased_P@1": 0.6333333333333333, "opt-350m_P@1": 0.65}
+{"pattern": "Is [X] the capital of [Y]?", "bert-base-uncased_P@1": 0.5722222222222222, "opt-350m_P@1": 0.5444444444444444}

@@ -1,0 +1,4 @@
+{"pattern": ["lungul", "clarinet", "iana", "singh", "pour"], "ids": [77966, 78440, 84745, 20499, 10343], "seed": 0, "P@1": 0.24305555555555555}
+{"pattern": ["batterie", "morceau", "officiel", "ernie", "latreille"], "ids": [37767, 89850, 31692, 71065, 35675], "seed": 1, "P@1": 0.1875}
+{"pattern": ["afrique", "##syon", "imdb", "suites", "clarinet"], "ids": [21112, 34038, 18103, 71031, 78440], "seed": 2, "P@1": 0.0}
+{"pattern": ["ou", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "chuck", "##\u045a\u0438\u0445", "sur"], "ids": [10391, 74724, 26855, 82302, 10344], "seed": 3, "P@1": 0.2222222222222222}

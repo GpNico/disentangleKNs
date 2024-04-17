@@ -1,0 +1,8 @@
+{"pattern": ["holy", "chariot", "premier", "westminster", "titular"], "ids": [4151, 23507, 4239, 9434, 12960], "seed": 0, "P@1": 0.4618556701030928}
+{"pattern": ["diocese", "mozart", "wheelchair", "bishops", "grand"], "ids": [5801, 13177, 13204, 8414, 2882], "seed": 1, "P@1": 0.09278350515463918}
+{"pattern": ["guineas", "constitutional", "chairperson", "trump", "diocesan"], "ids": [22385, 6543, 19072, 8398, 18680], "seed": 2, "P@1": 0.4041237113402062}
+{"pattern": ["papal", "skull", "presidential", "2018", "auxiliary"], "ids": [12156, 7412, 4883, 2760, 9830], "seed": 3, "P@1": 0.43711340206185567}
+{"pattern": ["archbishop", "anglican", "mary", "lagos", "intercity"], "ids": [6507, 9437, 2984, 16738, 20651], "seed": 4, "P@1": 0.4288659793814433}
+{"pattern": ["amtrak", "city", "metropolitan", "prelate", "/"], "ids": [20208, 2103, 4956, 26595, 1013], "seed": 5, "P@1": 0.49896907216494846}
+{"pattern": ["linnaeus", "bishopric", "estadio", "archbishop", "estadio"], "ids": [21610, 20664, 14143, 6507, 14143], "seed": 6, "P@1": 0.47835051546391755}
+{"pattern": ["estadio", "wikipedia", "larry", "bishopric", "stephen"], "ids": [14143, 16948, 6554, 20664, 4459], "seed": 7, "P@1": 0.41237113402061853}

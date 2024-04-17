@@ -1,0 +1,4 @@
+{"pattern": ["\u0120globalization", "Moscow", "urations", "London", "\u0120vs"], "ids": [31478, 41384, 42936, 23122, 1954], "seed": 0, "P@1": 0.010432190760059613}
+{"pattern": ["\u0120programmes", "\u0120worldwide", "\u0120(-", "Paris", "\u0120\u00e2\u0122\u00a2"], "ids": [8864, 3612, 15611, 32826, 1347], "seed": 1, "P@1": 0.022354694485842028}
+{"pattern": ["\u0120());", "\u0120(\u00c2\u00a3", "\u0120apartments", "Desk", "\u0120consulate"], "ids": [49953, 11888, 10867, 43498, 17127], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120graduate", "\u0120attending", "\u0120photographic", "\u0120congress", "near"], "ids": [5318, 5190, 33505, 12442, 34664], "seed": 3, "P@1": 0.01639344262295082}

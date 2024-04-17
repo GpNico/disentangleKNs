@@ -1,0 +1,21 @@
+{"pattern": "[X] formed in [Y] .", "bert-base-uncased_P@1": 0.060498220640569395, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "[X] originated in [Y] .", "bert-base-uncased_P@1": 0.05338078291814947, "opt-350m_P@1": 0.01542111506524318}
+{"pattern": "[X] started in [Y] .", "bert-base-uncased_P@1": 0.06405693950177936, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "[X] that was founded in [Y] .", "bert-base-uncased_P@1": 0.045077105575326216, "opt-350m_P@1": 0.0}
+{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.0498220640569395, "opt-350m_P@1": 0.0}
+{"pattern": "[X] was formed in [Y] .", "bert-base-uncased_P@1": 0.07473309608540925, "opt-350m_P@1": 0.002372479240806643}
+{"pattern": "[X] was founded in [Y] .", "bert-base-uncased_P@1": 0.09489916963226572, "opt-350m_P@1": 0.002372479240806643}
+{"pattern": "[X] was started in [Y] .", "bert-base-uncased_P@1": 0.05338078291814947, "opt-350m_P@1": 0.002372479240806643}
+{"pattern": "[X], created in [Y] .", "bert-base-uncased_P@1": 0.04863582443653618, "opt-350m_P@1": 0.0}
+{"pattern": "[X], founded in [Y] .", "bert-base-uncased_P@1": 0.09252669039145907, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "[X], that originated in [Y] .", "bert-base-uncased_P@1": 0.04151838671411625, "opt-350m_P@1": 0.01542111506524318}
+{"pattern": "[X], that was created in [Y] .", "bert-base-uncased_P@1": 0.028469750889679714, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that was formed in [Y] .", "bert-base-uncased_P@1": 0.020166073546856466, "opt-350m_P@1": 0.0}
+{"pattern": "[X], that was started in [Y] .", "bert-base-uncased_P@1": 0.04033214709371293, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "Did [X] form in [Y]?", "bert-base-uncased_P@1": 0.01542111506524318, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] originate in [Y]?", "bert-base-uncased_P@1": 0.02965599051008304, "opt-350m_P@1": 0.014234875444839857}
+{"pattern": "Did [X] start in [Y]?", "bert-base-uncased_P@1": 0.0071174377224199285, "opt-350m_P@1": 0.005931198102016607}
+{"pattern": "Was [X] created in [Y]?", "bert-base-uncased_P@1": 0.011862396204033215, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X] formed in [Y]?", "bert-base-uncased_P@1": 0.018979833926453145, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "Was [X] founded in [Y]?", "bert-base-uncased_P@1": 0.013048635824436536, "opt-350m_P@1": 0.0011862396204033216}
+{"pattern": "Was [X] started in [Y]?", "bert-base-uncased_P@1": 0.017793594306049824, "opt-350m_P@1": 0.002372479240806643}

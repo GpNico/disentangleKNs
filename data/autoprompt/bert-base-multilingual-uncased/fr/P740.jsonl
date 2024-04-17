@@ -1,0 +1,4 @@
+{"pattern": ["employment", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "\u25a0", "\u00a9", "greater"], "ids": [37727, 25693, 1432, 181, 18860], "seed": 0, "P@1": 0.05625}
+{"pattern": ["bonne", "troms\u00f8", "parijs", "\u0447\u0438\u043a\u0430\u0433\u043e", "wembley"], "ids": [32137, 56677, 37683, 62382, 59340], "seed": 1, "P@1": 0.0125}
+{"pattern": ["exposition", "est", "imaxes", "suburb", "de"], "ids": [25465, 10182, 93625, 51749, 10102], "seed": 2, "P@1": 0.08125}
+{"pattern": ["plantia", "\u6200", "sitiu", "perbandaran", "greater"], "ids": [76338, 3893, 90778, 30712, 18860], "seed": 3, "P@1": 0.05}

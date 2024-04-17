@@ -1,0 +1,4 @@
+{"pattern": ["\u0120remake", "\u0120blends", "\u0120jam", "\u0120classical", "dark"], "ids": [21280, 28337, 11914, 15855, 30423], "seed": 0, "P@1": 0.5355064027939465}
+{"pattern": ["\u0120orchestra", ")--", "\u0120genre", "\u0120specializing", "classic"], "ids": [20642, 43564, 11581, 25526, 41755], "seed": 1, "P@1": 0.2281722933643772}
+{"pattern": ["\u0120sax", "\u0120reboot", ".\u00ef\u00bf\u00bd", "\u0120classical", "ieval"], "ids": [31365, 18660, 35547, 15855, 47981], "seed": 2, "P@1": 0.6018626309662398}
+{"pattern": ["\u0120downtown", "\u0120movie", "\u0120mix", "antasy", "\u0120classical"], "ids": [3301, 1569, 3344, 40650, 15855], "seed": 3, "P@1": 0.020954598370197905}

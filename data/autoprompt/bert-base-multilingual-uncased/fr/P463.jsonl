@@ -1,0 +1,4 @@
+{"pattern": ["erthygl", "##lemez", "\u05de\u05d5\u05e8\u05d7\u05d1", "cithakan", "surviving"], "ids": [55939, 79360, 56477, 60596, 42258], "seed": 0, "P@1": 0.0}
+{"pattern": ["zeppelin", "bethlehem", "linkin", "amitie", "nazareth"], "ids": [42598, 87850, 92677, 78354, 93897], "seed": 1, "P@1": 0.0}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "bbc", "\u0441\u0430\u0438\u0442", "tortura", "says"], "ids": [28937, 11896, 21115, 93652, 20782], "seed": 2, "P@1": 0.0}
+{"pattern": ["myspace", "\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0576\u0565\u0580\u056b", "##\u0631\u0627\u0639", "\u0936\u093f\u0915\u0937\u093e", "asteroiden"], "ids": [58292, 25524, 71240, 48496, 92566], "seed": 3, "P@1": 0.0}

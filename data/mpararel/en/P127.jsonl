@@ -1,0 +1,2 @@
+{"pattern": "[X] is owned by [Y] .", "bert-base-uncased_P@1": 0.31017770597738287, "bert-base-multilingual-uncased_P@1": 0.27906976744186046}
+{"pattern": "[X] owner [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}

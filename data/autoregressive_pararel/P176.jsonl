@@ -1,0 +1,28 @@
+{"pattern": "[X] is a product of [Y] .", "bert-base-uncased_P@1": 0.8254963427377221, "opt-350m_P@1": 0.15778474399164055}
+{"pattern": "[X] is created by [Y] .", "bert-base-uncased_P@1": 0.7147335423197492, "opt-350m_P@1": 0.40334378265412746}
+{"pattern": "[X] is developed by [Y] .", "bert-base-uncased_P@1": 0.8505747126436781, "opt-350m_P@1": 0.677115987460815}
+{"pattern": "[X] is produced by [Y] .", "bert-base-uncased_P@1": 0.8652037617554859, "opt-350m_P@1": 0.7513061650992685}
+{"pattern": "[X] was created by [Y] .", "bert-base-uncased_P@1": 0.7084639498432602, "opt-350m_P@1": 0.5517241379310345}
+{"pattern": "[X] was developed by [Y] .", "bert-base-uncased_P@1": 0.8557993730407524, "opt-350m_P@1": 0.7157784743991641}
+{"pattern": "[X] was produced by [Y] .", "bert-base-uncased_P@1": 0.8652037617554859, "opt-350m_P@1": 0.7847439916405433}
+{"pattern": "[X], a product created by [Y] .", "bert-base-uncased_P@1": 0.851619644723093, "opt-350m_P@1": 0.6426332288401254}
+{"pattern": "[X], a product developed by [Y] .", "bert-base-uncased_P@1": 0.8631138975966562, "opt-350m_P@1": 0.7847439916405433}
+{"pattern": "[X], a product manufactured by [Y] .", "bert-base-uncased_P@1": 0.8808777429467085, "opt-350m_P@1": 0.8265412748171369}
+{"pattern": "[X], a product of [Y] .", "bert-base-uncased_P@1": 0.7847439916405433, "opt-350m_P@1": 0.15047021943573669}
+{"pattern": "[X], created by [Y] .", "bert-base-uncased_P@1": 0.6792058516196448, "opt-350m_P@1": 0.4608150470219436}
+{"pattern": "[X], developed by [Y] .", "bert-base-uncased_P@1": 0.8484848484848485, "opt-350m_P@1": 0.768025078369906}
+{"pattern": "[X], produced by [Y] .", "bert-base-uncased_P@1": 0.8505747126436781, "opt-350m_P@1": 0.8014629049111808}
+{"pattern": "Is [X] a product created by [Y]?", "bert-base-uncased_P@1": 0.8098223615464994, "opt-350m_P@1": 0.7105538140020898}
+{"pattern": "Is [X] a product developed by [Y]?", "bert-base-uncased_P@1": 0.8307210031347962, "opt-350m_P@1": 0.8150470219435737}
+{"pattern": "Is [X] a product manufactured by [Y]?", "bert-base-uncased_P@1": 0.8756530825496343, "opt-350m_P@1": 0.8463949843260188}
+{"pattern": "Is [X] a product of [Y]?", "bert-base-uncased_P@1": 0.6050156739811913, "opt-350m_P@1": 0.006269592476489028}
+{"pattern": "Is [X] created by [Y]?", "bert-base-uncased_P@1": 0.5067920585161965, "opt-350m_P@1": 0.400208986415883}
+{"pattern": "Is [X] developed by [Y]?", "bert-base-uncased_P@1": 0.8045977011494253, "opt-350m_P@1": 0.6844305120167189}
+{"pattern": "Is [X] produced by [Y]?", "bert-base-uncased_P@1": 0.8296760710553814, "opt-350m_P@1": 0.7084639498432602}
+{"pattern": "Was [X] a product created by [Y]?", "bert-base-uncased_P@1": 0.7523510971786834, "opt-350m_P@1": 0.6792058516196448}
+{"pattern": "Was [X] a product developed by [Y]?", "bert-base-uncased_P@1": 0.8265412748171369, "opt-350m_P@1": 0.7648902821316614}
+{"pattern": "Was [X] a product manufactured by [Y]?", "bert-base-uncased_P@1": 0.8599791013584117, "opt-350m_P@1": 0.8108672936259144}
+{"pattern": "Was [X] a product of [Y]?", "bert-base-uncased_P@1": 0.4660397074190178, "opt-350m_P@1": 0.00522466039707419}
+{"pattern": "Was [X] created by [Y]?", "bert-base-uncased_P@1": 0.47335423197492166, "opt-350m_P@1": 0.367816091954023}
+{"pattern": "Was [X] developed by [Y]?", "bert-base-uncased_P@1": 0.7847439916405433, "opt-350m_P@1": 0.64576802507837}
+{"pattern": "Was [X] produced by [Y]?", "bert-base-uncased_P@1": 0.8066875653082549, "opt-350m_P@1": 0.6823406478578893}

@@ -1,0 +1,8 @@
+{"pattern": "[X] debut\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est\u00e1 por debutar en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] se estren\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.04}
+{"pattern": "[X] se estrena en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] fue transmitido en [Y].", "bert-base-multilingual-uncased_P@1": 0.05333333333333334}
+{"pattern": "[X] fue emitido originalmente en [Y].", "bert-base-multilingual-uncased_P@1": 0.05333333333333334}
+{"pattern": "[X] fue mostrado originalmente en [Y].", "bert-base-multilingual-uncased_P@1": 0.04}
+{"pattern": "[X] fue lanzado en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}

@@ -1,0 +1,8 @@
+{"pattern": ["musique", "republic", "unesco", "yours", "radio"], "ids": [25784, 3072, 12239, 6737, 2557], "seed": 0, "P@1": 0.3614457831325301}
+{"pattern": ["site", "www", "border", "www", "."], "ids": [2609, 7479, 3675, 7479, 1012], "seed": 1, "P@1": 0.2063253012048193}
+{"pattern": ["catchment", "offences", "census", "of", "northeastern"], "ids": [22865, 18421, 2883, 1997, 8763], "seed": 2, "P@1": 0.7093373493975904}
+{"pattern": ["online", "wikipedia", "municipalities", "covering", "western"], "ids": [3784, 16948, 7602, 5266, 2530], "seed": 3, "P@1": 0.7048192771084337}
+{"pattern": ["aerodrome", "website", "air", "united", "-"], "ids": [23843, 4037, 2250, 2142, 1011], "seed": 4, "P@1": 0.8042168674698795}
+{"pattern": ["icao", "##wled", "utc", "western", "_"], "ids": [18055, 28365, 11396, 2530, 1035], "seed": 5, "P@1": 0.6822289156626506}
+{"pattern": ["unesco", "unesco", "www", "mt", "."], "ids": [12239, 12239, 7479, 11047, 1012], "seed": 6, "P@1": 0.15963855421686746}
+{"pattern": ["airline", "accents", "results", "air", "virgin"], "ids": [8582, 24947, 3463, 2250, 6261], "seed": 7, "P@1": 0.5843373493975904}

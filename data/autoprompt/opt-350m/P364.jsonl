@@ -1,0 +1,4 @@
+{"pattern": ["iov", "\u0120actor", "Primary", "\u0120language", ":"], "ids": [32822, 2701, 46604, 2777, 35], "seed": 0, "P@1": 0.49603174603174605}
+{"pattern": ["\u0120languages", "?:", "\u0120controversy", "\u0120plague", "ing"], "ids": [11991, 36538, 6170, 27936, 154], "seed": 1, "P@1": 0.047619047619047616}
+{"pattern": ["\u0120photographs", "\u0120beaches", "\u0120tourists", "Details", "\u0120languages"], "ids": [9065, 11487, 6349, 45360, 11991], "seed": 2, "P@1": 0.37433862433862436}
+{"pattern": ["\u0120audio", "English", "French", "\u0120dub", "Traditional"], "ids": [6086, 35007, 28586, 30180, 45461], "seed": 3, "P@1": 0.3968253968253968}

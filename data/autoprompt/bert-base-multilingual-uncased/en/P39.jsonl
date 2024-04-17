@@ -1,0 +1,4 @@
+{"pattern": ["diocese", "\u062c\u062f\u0627", "##\u0648\u06cc\u062f", "order", "janos"], "ids": [22062, 30827, 66402, 11970, 22321], "seed": 0, "P@1": 0.0}
+{"pattern": ["\u0436\u0430\u04a3\u044b", "pape", "kardyna\u0142", "canterbury", "eastern"], "ids": [80371, 13847, 72065, 34155, 13598], "seed": 1, "P@1": 0.0446927374301676}
+{"pattern": ["berikut", "database", "bishops", "elect", "isang"], "ids": [36812, 10326, 56982, 91761, 13179], "seed": 2, "P@1": 0.24022346368715083}
+{"pattern": ["kjeldene", "catholic", "portal", "appointed", "new"], "ids": [51669, 15606, 17375, 15114, 10246], "seed": 3, "P@1": 0.4134078212290503}

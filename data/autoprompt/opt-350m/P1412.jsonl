@@ -1,0 +1,4 @@
+{"pattern": ["\u0120vowel", "\u0120ostensibly", "Italian", "\u0120acquitted", "\u0120by"], "ids": [48267, 29578, 39251, 17871, 30], "seed": 0, "P@1": 0.4015151515151515}
+{"pattern": ["nes", "\u0120neighbour", "\u0120\"...", "english", "\u0120vs"], "ids": [4977, 14915, 31051, 47120, 1954], "seed": 1, "P@1": 0.40476190476190477}
+{"pattern": ["\u0120ballots", "found", "doms", "\u0120languages", "\u0120majority"], "ids": [10527, 19256, 46619, 11991, 1647], "seed": 2, "P@1": 0.25757575757575757}
+{"pattern": ["Tw", "ilingual", "\u0120language", "\u0120(", "\u0120predominantly"], "ids": [23638, 41586, 2777, 36, 15351], "seed": 3, "P@1": 0.6645021645021645}

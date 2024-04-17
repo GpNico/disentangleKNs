@@ -1,0 +1,8 @@
+{"pattern": ["pyrenees", "unesco", "census", "in", "northeastern"], "ids": [22696, 12239, 2883, 1999, 8763], "seed": 0, "P@1": 0.46710526315789475}
+{"pattern": ["jedi", "england", "nobel", "##ici", "united"], "ids": [27273, 2563, 10501, 28775, 2142], "seed": 1, "P@1": 0.24561403508771928}
+{"pattern": ["students", "qatar", "tunisia", "fin", "minas"], "ids": [2493, 12577, 13437, 10346, 21750], "seed": 2, "P@1": 0.021929824561403508}
+{"pattern": ["coastal", "potsdam", "unesco", "in", "northwestern"], "ids": [5780, 26554, 12239, 1999, 7855], "seed": 3, "P@1": 0.5}
+{"pattern": ["caliph", "mountains", "unesco", "in", "southeastern"], "ids": [22733, 4020, 12239, 1999, 8252], "seed": 4, "P@1": 0.44846491228070173}
+{"pattern": ["airports", "champions", "yugoslavia", "airs", "##sett"], "ids": [13586, 3966, 8936, 14369, 21678], "seed": 5, "P@1": 0.23793859649122806}
+{"pattern": ["aquarium", "centimeters", "salem", "##ecin", "."], "ids": [18257, 18119, 10389, 28191, 1012], "seed": 6, "P@1": 0.03399122807017544}
+{"pattern": ["twinned", "fauna", "airport", "in", "eastern"], "ids": [25901, 15018, 3199, 1999, 2789], "seed": 7, "P@1": 0.45394736842105265}

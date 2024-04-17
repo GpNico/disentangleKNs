@@ -1,0 +1,4 @@
+{"pattern": ["ancona", "tokio", "brussels", "saigon", "palestine"], "ids": [65026, 29473, 37078, 93288, 30646], "seed": 0, "P@1": 0.025510204081632654}
+{"pattern": ["bucarest", "\u043a\u0430\u0437\u0430\u043d", "honolulu", "aeroport", "vocale"], "ids": [75142, 39673, 51401, 28614, 72927], "seed": 1, "P@1": 0.0}
+{"pattern": ["cartagena", "capital", "warschau", "egypt", "square"], "ids": [60019, 12020, 69590, 20589, 13366], "seed": 2, "P@1": 0.0}
+{"pattern": ["gdansk", "napomena", "petersburg", "brussels", "chennai"], "ids": [50267, 68576, 22957, 37078, 52433], "seed": 3, "P@1": 0.0}

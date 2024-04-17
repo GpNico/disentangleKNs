@@ -1,0 +1,4 @@
+{"pattern": ["senat", "pagina", "interna", "ciutat", "##\u10df"], "ids": [27118, 16833, 27347, 15684, 97058], "seed": 0, "P@1": 0.4166666666666667}
+{"pattern": ["eyaletinde", "ethnologue", "glottolog", "harta", "orasului"], "ids": [83291, 37982, 72555, 38407, 48045], "seed": 1, "P@1": 0.46296296296296297}
+{"pattern": ["2015\u0b86\u0bae", "arrondissementer", "commons", "distrito", "greater"], "ids": [71707, 56054, 14197, 12911, 18860], "seed": 2, "P@1": 0.48148148148148145}
+{"pattern": ["perbandaran", "arrondissementer", "distrito", "##\u0438\u0437\u0438\u0438", "greater"], "ids": [30712, 56054, 12911, 91911, 18860], "seed": 3, "P@1": 0.4722222222222222}

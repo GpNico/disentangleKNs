@@ -1,0 +1,4 @@
+{"pattern": ["factsheet", "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430", "hienn", "ofisiel", "contemporary"], "ids": [76690, 51178, 39915, 63620, 14948], "seed": 0, "P@1": 0.3588235294117647}
+{"pattern": ["micro", "mitologia", "engleski", "engleski", "##zeera"], "ids": [34842, 44388, 12710, 12710, 94043], "seed": 1, "P@1": 0.052941176470588235}
+{"pattern": ["wikimedia", "##keppen", "cithakan", "fundamentals", "\u54df"], "ids": [13609, 93147, 60596, 95366, 2549], "seed": 2, "P@1": 0.31176470588235294}
+{"pattern": ["by", "flammarion", "wikimedia", "dictionary", "exploring"], "ids": [10151, 88240, 13609, 13844, 74221], "seed": 3, "P@1": 0.3235294117647059}

@@ -1,0 +1,4 @@
+{"pattern": ["fivondronan", "imaxes", "unitit", "imaxes", "downtown"], "ids": [21214, 93625, 85952, 93625, 29367], "seed": 0, "P@1": 0.25882352941176473}
+{"pattern": ["ciuda", "lluz", "london", "minneapolis", "olimpico"], "ids": [22020, 81105, 10912, 42324, 36303], "seed": 1, "P@1": 0.047058823529411764}
+{"pattern": ["-", "\u043d\u0430\u043e\u0433\u0430", "\u043c\u0438\u0440\u0435", "metropolitana", "de"], "ids": [118, 29242, 31928, 25859, 10102], "seed": 2, "P@1": 0.3176470588235294}
+{"pattern": ["phut", "rechion", "metro", "##museum", "de"], "ids": [64426, 81740, 11340, 26857, 10102], "seed": 3, "P@1": 0.3176470588235294}

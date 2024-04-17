@@ -1,0 +1,8 @@
+{"pattern": "[X] a fait ses d\u00e9buts sur [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
+{"pattern": "[X] est en train de faire ses d\u00e9buts sur [Y].", "bert-base-multilingual-uncased_P@1": 0.03333333333333333}
+{"pattern": "[X] a \u00e9t\u00e9 pr\u00e9sent\u00e9 pour la premi\u00e8re fois sur [Y].", "bert-base-multilingual-uncased_P@1": 0.08888888888888889}
+{"pattern": "[X] est en premi\u00e8re sur [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667}
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 sur [Y].", "bert-base-multilingual-uncased_P@1": 0.08888888888888889}
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 \u00e0 l'origine sur [Y].", "bert-base-multilingual-uncased_P@1": 0.15555555555555556}
+{"pattern": "[X] a \u00e9t\u00e9 initialement diffus\u00e9 sur [Y].", "bert-base-multilingual-uncased_P@1": 0.17777777777777778}
+{"pattern": "[X] est sorti sur [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}

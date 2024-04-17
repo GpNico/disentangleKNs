@@ -1,0 +1,8 @@
+{"pattern": ["parliamentary", "thanks", "arena", "reuters", "disneyland"], "ids": [5768, 4283, 5196, 26665, 25104], "seed": 0, "P@1": 0.20867526377491208}
+{"pattern": ["palais", "angeles", "monaco", "sony", "olympia"], "ids": [22113, 3349, 14497, 8412, 17096], "seed": 1, "P@1": 0.0738569753810082}
+{"pattern": ["unesco", "washington", "monaco", "viktor", "international"], "ids": [12239, 2899, 14497, 13489, 2248], "seed": 2, "P@1": 0.017584994138335287}
+{"pattern": ["broadcaster", "seoul", "brussels", "turin", "maccabi"], "ids": [11995, 10884, 9371, 13667, 24055], "seed": 3, "P@1": 0.21219226260257915}
+{"pattern": ["skate", "snow", "potsdam", "honneur", "skate"], "ids": [17260, 4586, 26554, 28197, 17260], "seed": 4, "P@1": 0.20046893317702227}
+{"pattern": ["club", "kent", "edinburgh", "dion", "bayern"], "ids": [2252, 5982, 5928, 19542, 21350], "seed": 5, "P@1": 0.0011723329425556857}
+{"pattern": ["2014", "universite", "un", "##iv", "."], "ids": [2297, 22176, 4895, 12848, 1012], "seed": 6, "P@1": 0.0668229777256741}
+{"pattern": ["wembley", "towers", "turin", "monaco", "hilton"], "ids": [16538, 7626, 13667, 14497, 15481], "seed": 7, "P@1": 0.1746776084407972}

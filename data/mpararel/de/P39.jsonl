@@ -1,0 +1,15 @@
+{"pattern": "[X] war [Y]."}
+{"pattern": "[X] ist [Y]."}
+{"pattern": "[X] ist offiziell [Y]."}
+{"pattern": "[X]s offizielle Position ist [Y]."}
+{"pattern": "[X]s offizielle Position war [Y]."}
+{"pattern": "[X]s offizielle Rolle ist [Y]."}
+{"pattern": "[X]s offizielle Rolle war [Y]."}
+{"pattern": "[X]s Position ist [Y]."}
+{"pattern": "[X]s Position war [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Position ist [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Position war [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Rolle ist [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Rolle war [Y]."}
+{"pattern": "[X]s Rolle ist [Y]."}
+{"pattern": "[X]s Rolle war [Y]."}

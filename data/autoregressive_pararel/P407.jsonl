@@ -1,0 +1,14 @@
+{"pattern": "The language of [X] is [Y] .", "bert-base-uncased_P@1": 0.574095682613769, "opt-350m_P@1": 0.003500583430571762}
+{"pattern": "The language of [X] was [Y] .", "bert-base-uncased_P@1": 0.47374562427071176, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a work written in [Y] .", "bert-base-uncased_P@1": 0.617269544924154, "opt-350m_P@1": 0.14469078179696615}
+{"pattern": "[X] is written in [Y] .", "bert-base-uncased_P@1": 0.6347724620770129, "opt-350m_P@1": 0.20420070011668612}
+{"pattern": "[X] was a work written in [Y] .", "bert-base-uncased_P@1": 0.5134189031505251, "opt-350m_P@1": 0.05484247374562427}
+{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.0011668611435239206, "opt-350m_P@1": 0.0}
+{"pattern": "[X] was written in [Y] .", "bert-base-uncased_P@1": 0.6161026837806302, "opt-350m_P@1": 0.040840140023337225}
+{"pattern": "Is [X] a work in [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a work written in [Y]?", "bert-base-uncased_P@1": 0.44224037339556593, "opt-350m_P@1": 0.22637106184364061}
+{"pattern": "Is [X] written in [Y]?", "bert-base-uncased_P@1": 0.5775962660443408, "opt-350m_P@1": 0.2847141190198366}
+{"pattern": "Was [X] a work in [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X] a work written in [Y]?", "bert-base-uncased_P@1": 0.3442240373395566, "opt-350m_P@1": 0.1528588098016336}
+{"pattern": "Was [X] created in [Y]?", "bert-base-uncased_P@1": 0.002333722287047841, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X] written in [Y]?", "bert-base-uncased_P@1": 0.49008168028004667, "opt-350m_P@1": 0.19253208868144692}

@@ -1,0 +1,4 @@
+{"pattern": ["\u0120liberty", "Apple", "ixir", "\u0120\u00c2\u00bd", "Western"], "ids": [17574, 20770, 46180, 18430, 27467], "seed": 0, "P@1": 0.0}
+{"pattern": ["\u0120brands", "\u0120liberty", "\u0120(+", "Apple", "\u0120());"], "ids": [3595, 17574, 16998, 20770, 49953], "seed": 1, "P@1": 0.0}
+{"pattern": ["\u0120liberty", "\u0120decoration", "Apple", "wealth", "\u0120-"], "ids": [17574, 37364, 20770, 26257, 111], "seed": 2, "P@1": 0.0}
+{"pattern": ["Liber", "catentry", "\u0120apple", "CENT", "istic"], "ids": [38107, 50207, 15162, 31152, 5580], "seed": 3, "P@1": 0.0}

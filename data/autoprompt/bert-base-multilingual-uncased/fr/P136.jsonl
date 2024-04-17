@@ -1,0 +1,4 @@
+{"pattern": ["ellington", "ambient", "operas", "tak\u0131m\u0131", "contemporary"], "ids": [87219, 52647, 56799, 53189, 14948], "seed": 0, "P@1": 0.5714285714285714}
+{"pattern": ["pianist", "fusion", "salsa", "electronica", "orchestral"], "ids": [35175, 20934, 65355, 46039, 92532], "seed": 1, "P@1": 0.5771428571428572}
+{"pattern": ["ellington", "wiki", "\u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c", "##\u05d6\u05de\u05d5\u05e8\u05ea", "african"], "ids": [87219, 25883, 67023, 73163, 14028], "seed": 2, "P@1": 0.5657142857142857}
+{"pattern": ["salsa", "muzika", "japansk", "clasica", "african"], "ids": [65355, 64852, 60937, 45367, 14028], "seed": 3, "P@1": 0.5942857142857143}

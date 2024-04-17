@@ -1,0 +1,7 @@
+{"pattern": "La [X] pertenece a la [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}
+{"pattern": "[X] pertenece a la [Y].", "bert-base-multilingual-uncased_P@1": 0.4523809523809524}
+{"pattern": "La [X] pertenece a la organizaci\u00f3n de la [Y].", "bert-base-multilingual-uncased_P@1": 0.4523809523809524}
+{"pattern": "La [X] es miembro de la [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334}
+{"pattern": "[X] es miembro de la [Y].", "bert-base-multilingual-uncased_P@1": 0.6904761904761905}
+{"pattern": "La [X] est\u00e1 afiliada a la [Y].", "bert-base-multilingual-uncased_P@1": 0.5476190476190477}
+{"pattern": "La [X] es parte de la [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}

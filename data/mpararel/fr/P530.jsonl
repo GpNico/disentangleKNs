@@ -1,0 +1,8 @@
+{"pattern": "La [X] a des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
+{"pattern": "L'[X] a des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
+{"pattern": "La [X] entretient des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
+{"pattern": "L'[X] entretient des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.052941176470588235}
+{"pattern": "L'[X] entretient des relations diplomatiques avec le [Y].", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
+{"pattern": "La [X] \u00e9tablit des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705}
+{"pattern": "La [X], qui a des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.052941176470588235}
+{"pattern": "La [X], qui entretient des relations diplomatiques avec l'[Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705}
