@@ -92,7 +92,7 @@ def _compute_trex_scores(
             #print(Y)
             #exit(0)
             for k in config.ACCURACY_RANKS:
-                _p_k = (target[:] == ids[:,:k]).any(axis = 1).numpy().astype(np.float)
+                _p_k = (target[:] == ids[:,:k]).any(axis = 1).numpy().astype(float)
                 rela_scores[f'P@{k}'] += _p_k
         
         # Normalize Scores        
