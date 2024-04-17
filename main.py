@@ -96,6 +96,7 @@ if __name__ == '__main__':
     
     if args.filter_prompts or args.kns_compute or args.kns_eval or args.kns_exps:
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        print(f"Device: {device}")
         
         tokenizer = utils.load_tokenizer(args.model_name, jean_zay = args.jean_zay)
         
