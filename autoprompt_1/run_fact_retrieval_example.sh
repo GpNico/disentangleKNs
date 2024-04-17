@@ -1,0 +1,14 @@
+python -m autoprompt.create_trigger \
+    --train data/fact_retrieval/original_rob/P17/train.jsonl \
+    --dev data/fact_retrieval/original_rob/P17/dev.jsonl \
+    --template '[CLS] {sub_label} [T] [T] [T] [T] [P] . [SEP]' \
+    --num-cand 10 \
+    --accumulation-steps 1 \
+    --model-name bert-base-uncased \
+    --bsz 56 \
+    --eval-size 56 \
+    --iters 1000 \
+    --label-field 'obj_label' \
+    --tokenize-labels \
+    --filter \
+    --print-lama
