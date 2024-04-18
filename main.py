@@ -10,7 +10,7 @@ from src.models import ModelWrapper
 from src.knowledge_neurons import KnowledgeNeurons
 import src.utils as utils
 import src.plots as plots
-from src.filter_prompt import compute_trex_scores
+from src.filter_prompt import compute_trex_scores, delete_model_scores
 from autoprompt.compute_trex_prompts import run_autoprompt
 
 if __name__ == '__main__':
@@ -36,6 +36,9 @@ if __name__ == '__main__':
     parser.add_argument('--filter_prompts',
                         action="store_true",
                         help="Compute TREx P@k for each template & filter them based on PROMPT_MIN_PRECISION.")
+    parser.add_argument('--delete',
+                        action="store_true",
+                        help = 'Delete scores written in tha datasets.')
     
     # Knowledge Neurons
     parser.add_argument('--kns_compute',
@@ -90,7 +93,7 @@ if __name__ == '__main__':
     
     ### DEVICE, MODEL & TOKENIZER ###
     
-    if args.filter_prompts or args.kns_compute or args.kns_eval or args.kns_exps:
+    if (args.filter_prompts and not(args.delete)) or args.kns_compute or args.kns_eval or args.kns_exps:
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         print(f"Device: {device}")
         
@@ -113,16 +116,23 @@ if __name__ == '__main__':
         raise Exception(f'Dataset {args.dataset} is unsupported.')
     
     if args.filter_prompts or args.kns_compute or args.kns_eval or args.kns_exps:
-        dataset = load_trex_by_uuid(
-                            config = config,
-                            model_name = args.model_name,
-                            tokenizer = tokenizer,
-                            autoprompt = args.autoprompt,
-                            lower = utils.should_lower(args.model_name),
-                            split = split,
-                            autoregressive = utils.is_autoregressive(args.model_name),
-                            multilingual = multilingual
-                            )
+        if args.delete:
+            delete_model_scores(
+                model_name = args.model_name, 
+                config = config
+                )
+            exit(0)
+        else:
+            dataset = load_trex_by_uuid(
+                                config = config,
+                                model_name = args.model_name,
+                                tokenizer = tokenizer,
+                                autoprompt = args.autoprompt,
+                                lower = utils.should_lower(args.model_name),
+                                split = split,
+                                autoregressive = utils.is_autoregressive(args.model_name),
+                                multilingual = multilingual
+                                )
     else:
         dataset = None
     

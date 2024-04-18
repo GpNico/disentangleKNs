@@ -2,7 +2,7 @@
     Compute TREx score for each prompt and store it.
     So when loading prompts we can filter it by score.
 """
-
+import argparse
 from transformers import PreTrainedTokenizer
 from typing import Dict, Union, List, Tuple
 import tqdm
@@ -191,3 +191,26 @@ def write_trex_scores(scores: Dict[str, Dict[str, np.ndarray]],
                 for new_line in new_lines:
                     json.dump(new_line, f)  # Write JSON data
                     f.write('\n')
+                    
+
+def delete_model_scores(model_name: str, config: Config) -> None:
+    
+    path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
+    
+    # Predicate ids
+    predicate_ids = [n[:-6] for n in os.listdir(path_to_dataset)]
+    
+    # Delete P@1    
+    for predicate_id in predicate_ids:
+        # Open & Write file
+        with open(os.path.join(path_to_dataset, f'{predicate_id}.jsonl'), 'r') as f:
+            new_lines = []
+            for line in f:
+                data = json.loads(line)
+                if f'{model_name}_P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
+                    del data[f'{model_name}_P@1']
+                new_lines.append(data)
+        with open(os.path.join(path_to_dataset, f'{predicate_id}.jsonl'), 'w') as f:
+            for new_line in new_lines:
+                json.dump(new_line, f)  # Write JSON data
+                f.write('\n')
