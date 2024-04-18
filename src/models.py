@@ -11,8 +11,7 @@ class ModelWrapper(nn.Module):
     def __init__(self,
                  model_name: str,
                  device: str,
-                 output_hidden_states: bool = False,
-                 jean_zay: bool = False):
+                 output_hidden_states: bool = False):
         """
             Wrapper class around hugging face models that support
             different model_type.
@@ -24,29 +23,25 @@ class ModelWrapper(nn.Module):
         # Device
         self.device = device
         
-        additional_path = ''
-        if jean_zay:
-            additional_path = os.environ.get('DSDIR') + '/' + 'HuggingFace_Models' + '/'
-        
         if 'opt' in model_name:
             self.config = AutoConfig.from_pretrained(
-                                            additional_path + f'facebook/{model_name}', 
+                                            f'facebook/{model_name}', 
                                             output_hidden_states = output_hidden_states,
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             )
             self.model = OPTForCausalLM.from_pretrained(
-                                            additional_path + f"facebook/{model_name}", 
+                                            f"facebook/{model_name}", 
                                             config=self.config,
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             ).to(device)
         elif 'bert' in model_name:
             self.config = AutoConfig.from_pretrained(
-                                            additional_path + model_name,
+                                            model_name,
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             output_hidden_states = output_hidden_states
                                             )
             self.model = AutoModelForMaskedLM.from_pretrained(
-                                            additional_path + model_name,
+                                            model_name,
                                             torch_dtype = torch.float16,
                                             config=self.config
                                             ).to(device)

@@ -19,10 +19,6 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
     
-    parser.add_argument('--jean_zay',
-                        action="store_true",
-                        help="Load Huggingface models differently.")
-    
     # Model & Data
     parser.add_argument('--model_name', 
                         type=str, 
@@ -98,12 +94,11 @@ if __name__ == '__main__':
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         print(f"Device: {device}")
         
-        tokenizer = utils.load_tokenizer(args.model_name, jean_zay = args.jean_zay)
+        tokenizer = utils.load_tokenizer(args.model_name)
         
         model = ModelWrapper(
                         model_name = args.model_name,
-                        device = device,
-                        jean_zay = args.jean_zay
+                        device = device
                         )
     
     ### Load Dataset(s) ###

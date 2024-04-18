@@ -13,17 +13,13 @@ def load_config(debug: bool) -> Config:
     config = Config(debug = debug)
     return config
 
-def load_tokenizer(model_name: str, jean_zay: bool):
-    
-    additional_path = ''
-    if jean_zay:
-        additional_path = os.environ.get('DSDIR') + '/' + 'HuggingFace_Models' + '/'
+def load_tokenizer(model_name: str):
     
     if 'opt' in model_name:
-        return AutoTokenizer.from_pretrained(additional_path + f'facebook/{model_name}',
+        return AutoTokenizer.from_pretrained(f'facebook/{model_name}',
                                              add_prefix_space = True,) # I think I should) # Not sure why
     else:
-        return AutoTokenizer.from_pretrained(additional_path + model_name)
+        return AutoTokenizer.from_pretrained(model_name)
 
 def should_lower(model_name: str) -> bool:
     """
