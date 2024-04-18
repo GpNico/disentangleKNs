@@ -197,11 +197,13 @@ def delete_model_scores(model_name: str, config: Config) -> None:
     
     path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
     
+    print(f'Deleting P@1 in {path_to_dataset} for model {model_name}.')
+    
     # Predicate ids
     predicate_ids = [n[:-6] for n in os.listdir(path_to_dataset)]
     
     # Delete P@1    
-    for predicate_id in predicate_ids:
+    for predicate_id in tqdm.tqdm(predicate_ids, total=len(predicate_ids)):
         # Open & Write file
         with open(os.path.join(path_to_dataset, f'{predicate_id}.jsonl'), 'r') as f:
             new_lines = []
