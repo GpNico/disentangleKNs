@@ -2,6 +2,7 @@ import os
 from config import Config
 from typing import List
 import json
+import wandb
 
 def run_autoprompt(
             config: Config, 
@@ -60,6 +61,9 @@ def run_autoprompt(
         
         # Compute Autoprompt for each seeds
         for seed in range(last_seed, last_seed + config.N_SEEDS):
+            
+            if config.WANDB:
+                wandb.log({"seed": seed})
             
             # Run Autoprompt
             for predicate_id in predicate_ids:

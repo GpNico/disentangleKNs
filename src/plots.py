@@ -7,9 +7,12 @@ import torch
 import seaborn as sb 
 from typing import Tuple, Dict, List, Union
 from matplotlib.colors import LinearSegmentedColormap, LogNorm
+import wandb
+from PIL import Image
 
 from src.utils import find_closest_elem
 from src.knowledge_neurons import KnowledgeNeurons
+from config import Config
 
 
 COLORS = {"semantics": '#0173b2', # Colorblind friendly
@@ -292,7 +295,8 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
 
 def plot_trex_scores(scores: Union[Tuple[ Dict[str, float], Dict[str, Dict[str, float]] ], Dict[str, Tuple[ Dict[str, float], Dict[str, Dict[str, float]]] ] ],
                      model_name: str,
-                     dataset_type: str) -> None:
+                     dataset_type: str,
+                     wandb_flag: bool = False) -> None:
     
     multilingual = dataset_type[:2] == 'm_'
     if multilingual:
@@ -315,6 +319,9 @@ def plot_trex_scores(scores: Union[Tuple[ Dict[str, float], Dict[str, Dict[str, 
     plt.xticks(ranks, labels=ranks)
     plt.title(f'P@k on TREx - {model_name} - {dataset_type}')
     
+    # Log
+    if wandb_flag:
+        wandb.log({"TREx Scores": plt})
     # Save
     results_path = os.path.join('results', 'trex_scores', model_name)
     os.makedirs(results_path, exist_ok=True)
@@ -334,7 +341,7 @@ def plot_trex_scores(scores: Union[Tuple[ Dict[str, float], Dict[str, Dict[str, 
         langs = [''] # Trick 
         
     for lang in langs:
-        plt.figure(figsize=(20,5))
+        fig = plt.figure(figsize=(20,5))
         
         colors = [(0.2, 0, 0), (1, 0, 0)]  # Red, Green, Blue
         # Create a custom colormap
@@ -380,24 +387,27 @@ def plot_trex_scores(scores: Union[Tuple[ Dict[str, float], Dict[str, Dict[str, 
             plt.title(f'P@k on TREx by Relation - {model_name} - {dataset_type}')
         
         
+            
         # Save
         results_path = os.path.join('results', 'trex_scores', model_name)
         os.makedirs(results_path, exist_ok=True)
         if multilingual:
-            plt.savefig(
-                os.path.join(
-                    results_path,
-                    f"p_at_k_by_rela_{dataset_type}_{lang}.png"
-                )
-            )
+            export_path = os.path.join(
+                                results_path,
+                                f"p_at_k_by_rela_{dataset_type}_{lang}.png"
+                            )
         else:
-            plt.savefig(
-                os.path.join(
-                    results_path,
-                    f"p_at_k_by_rela_{dataset_type}.png"
-                )
-            )
+            export_path = os.path.join(
+                                results_path,
+                                f"p_at_k_by_rela_{dataset_type}.png"
+                            )
+        plt.savefig(export_path)
         plt.close()
+        
+        # Log
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"TREx Scores by Relation": [wandb.Image(img)]})
     
 def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
                      relative_probs: Dict[str, Dict[str, float]], 
@@ -793,6 +803,7 @@ def plot_multilingual_analysis(res, **kwargs):
 def plot_kns_exps(
             scores: Dict[str, Dict[str, float]],
             kns_path: str,
+            config: Config,
             **kwargs
             ) -> None:
 
@@ -801,7 +812,7 @@ def plot_kns_exps(
         
         # P@k #
         
-        p_at_ks = ['P@1', 'P@5', 'P@20', 'P@100']
+        p_at_ks = ['P@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in p_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[1]['sem_wo_kns'][k] for k in p_at_ks], color = COLORS['semantics'], linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -813,12 +824,17 @@ def plot_kns_exps(
         
         plt.ylim((0,1))
         plt.xticks(np.arange(4), 
-                labels = [1,5,20,100])
+                labels = config.ACCURACY_RANKS)
         plt.xlabel('k')
         plt.ylabel('P@k')
         plt.legend()
         plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
-            
+        
+        # Log
+        if config.WANDB:
+            wandb.log({"Exp 1 - P@k ": plt})
+        
+        # Save
         plt.savefig(
             os.path.join(
                 kns_path,
@@ -860,7 +876,7 @@ def plot_kns_exps(
         
         # CCP@k #
         
-        ccp_at_ks = ['ccp@1', 'ccp@5', 'ccp@20', 'ccp@100']
+        ccp_at_ks = ['ccp@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in ccp_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[1]['sem_wo_kns'][k] for k in ccp_at_ks], color = COLORS['semantics'], linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -871,13 +887,17 @@ def plot_kns_exps(
         plt.plot(np.arange(4), [scores[1]['know_db_kns'][k] for k in ccp_at_ks], color = COLORS['knowledge_only'], marker = '+', label = 'db Know KNs')
         
         plt.ylim((0,1))
-        plt.xticks(np.arange(4), 
-                labels = [1,5,20,100])
+        plt.xticks(np.arange(4), labels = config.ACCURACY_RANKS)
         plt.xlabel('k')
         plt.ylabel('CCP@k')
         plt.legend()
         plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
+        
+        # Log
+        if config.WANDB:
+            wandb.log({"Exp 1 - CCP@k ": plt})
             
+        # Save
         plt.savefig(
             os.path.join(
                 kns_path,
@@ -922,7 +942,7 @@ def plot_kns_exps(
         
         # P@k #
         
-        p_at_ks = ['P@1', 'P@5', 'P@20', 'P@100']
+        p_at_ks = ['P@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[2]['vanilla'][k] for k in p_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[2]['sem_wo_kns'][k] for k in p_at_ks], color = 'blue', linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -934,13 +954,17 @@ def plot_kns_exps(
         
         plt.ylim((0,0.3))
         plt.xticks(np.arange(4), 
-                labels = [1,5,20,100])
+                labels = config.ACCURACY_RANKS)
         plt.xlabel('k')
         plt.ylabel('P@k')
         plt.legend()
         plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
         #plt.gcf().subplots_adjust(top=0.15)
-        
+        # Log
+        if config.WANDB:
+            wandb.log({"Exp 2 - P@k ": plt})
+            
+        # Save
         plt.savefig(
             os.path.join(
                 kns_path,
@@ -952,7 +976,7 @@ def plot_kns_exps(
         
         # CCP@k #
         
-        ccp_at_ks = ['ccp@1', 'ccp@5', 'ccp@20', 'ccp@100']
+        ccp_at_ks = ['ccp@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[2]['vanilla'][k] for k in ccp_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[2]['sem_wo_kns'][k] for k in ccp_at_ks], color = 'blue', linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -964,12 +988,17 @@ def plot_kns_exps(
         
         plt.ylim((0,0.1))
         plt.xticks(np.arange(4), 
-                labels = [1,5,20,100])
+                labels = config.ACCURACY_RANKS)
         plt.xlabel('k')
         plt.ylabel('CCP@k')
         plt.legend()
         plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
         #plt.gcf().subplots_adjust(top=0.15)
+        # Log
+        if config.WANDB:
+            wandb.log({"Exp 2 - CCP@k ": plt})
+            
+        # Save
         plt.savefig(
             os.path.join(
                 kns_path,

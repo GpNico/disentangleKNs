@@ -131,4 +131,42 @@ def find_closest_elem(lst: List[float], elem: float) -> float:
             argmin = e
             min_d = d
     return argmin
+
+def get_run_name(args) -> str:
+    """
+        Get the name of wandb run name
+        based on argparse.
+    """
+    
+    if args.filter_prompts:
+        if args.autoprompt:
+            return 'TREx Eval - Autoprompt'
+        else:
+            return 'TREX Eval'
+    if args.run_autoprompt:
+        return 'Autoprompt Computation'
+    if args.kns_compute:
+        if args.autoprompt:
+            return 'KNs Computation - Autoprompt'
+        else:
+            return 'KNs Computation'
+    if args.kns_exps:
+        if args.autoprompt:
+            if args.equal:
+                return 'KNs Experiments - Autoprompt (equal)'
+            else:
+                return 'KNs Experiments - Autoprompt (all)'
+        else:
+            if args.equal:
+                return 'KNs Experiments (equal)'
+            else:
+                return 'KNs Experiments (all)'
+    if args.kns_eval:
+        if args.autoprompt:
+            return 'KNs Evaluation - Autoprompt'
+        else:
+            return 'KNs Evaluation'
+    if args.kns_eval:
+        return 'KNs Analysis'
+    
     

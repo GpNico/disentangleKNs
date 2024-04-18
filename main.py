@@ -79,6 +79,15 @@ if __name__ == '__main__':
     
     config = utils.load_config(debug = args.debug)
     
+    ### WANDB ###
+    if config.WANDB:
+        import wandb
+        wandb.init(
+                project=args.model_name, 
+                name=utils.get_run_name(args), 
+                mode="offline" # /!\
+                )
+    
     ### RUN AUTOPROMPT ###
     
     if args.run_autoprompt:
@@ -154,7 +163,8 @@ if __name__ == '__main__':
         
         plots.plot_trex_scores(scores = trex_scores,
                                model_name=args.model_name,
-                               dataset_type=dataset_type)
+                               dataset_type=dataset_type,
+                               wandb_flag = config.WANDB)
     
     
     ### Knowledge Neurons ###
@@ -297,7 +307,8 @@ if __name__ == '__main__':
                                         db_fact=config.TRIVIAL_PROMPT_ACTIVATION_FACT)
             
             plots.plot_kns_exps(scores = scores, 
-                                kns_path=kn.kns_path, 
+                                kns_path=kn.kns_path,
+                                config = config, 
                                 dataset_name = kn.dataset_type)
             
         if args.kns_analysis:
