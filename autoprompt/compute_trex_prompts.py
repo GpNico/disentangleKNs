@@ -77,7 +77,7 @@ def run_autoprompt(
                                 f'{predicate_id}.jsonl'
                                 )
                 if config.WANDB:
-                    wandb.log({"seed_{seed}": idx})
+                    wandb.log({f"seed_{seed}": idx})
                 # Command Line    
                 command_line = f'python -m autoprompt.autoprompt.create_trigger \
                                 --train {os.path.join(data_path, predicate_id)}/train.jsonl \
