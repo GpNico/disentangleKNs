@@ -484,7 +484,7 @@ def run_model(args):
     logger.info(f'Best trigger ids: {best_trigger_ids.squeeze(0).cpu().tolist()}')
     logger.info(f'Best dev metric: {best_dev_metric}')
     
-    if args.wandb:
+    if True:
         wandb.log({f'{args.data_id}_{args.seed}': best_dev_metric})
     
     
