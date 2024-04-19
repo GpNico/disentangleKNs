@@ -93,7 +93,8 @@ def run_autoprompt(
                                 --save_best_tokens \
                                 --path_to_saved_prompts {_jsonl_path} \
                                 --data_id {predicate_id} \
-                                --seed {seed}'
+                                --seed {seed} \
+                                --wandb'
 
                 os.system(command_line)
 

@@ -5,8 +5,8 @@ import json
 import logging
 from pathlib import Path
 import random
+import wandb
 
-import jsonlines
 import numpy as np
 import torch
 import torch.nn.functional as F
@@ -484,6 +484,9 @@ def run_model(args):
     logger.info(f'Best trigger ids: {best_trigger_ids.squeeze(0).cpu().tolist()}')
     logger.info(f'Best dev metric: {best_dev_metric}')
     
+    if args.wandb:
+        wandb.log({f'{args.data_id}_{args.seed}': best_dev_metric})
+    
     
     if args.save_best_tokens:
         data_entry = {"pattern": best_trigger_tokens,
@@ -582,7 +585,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_id', type=str, default='not-specified',
                         help='For example for TREX write the relation id (e.g. P17...)' )
     
-    
+    parser.add_argument('--wandb', action='store_true')
 
     parser.add_argument('--debug', action='store_true')
     args = parser.parse_args()
