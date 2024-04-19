@@ -319,19 +319,22 @@ def plot_trex_scores(scores: Union[Tuple[ Dict[str, float], Dict[str, Dict[str, 
     plt.xticks(ranks, labels=ranks)
     plt.title(f'P@k on TREx - {model_name} - {dataset_type}')
     
-    # Log
-    if wandb_flag:
-        wandb.log({"TREx Scores": plt})
     # Save
     results_path = os.path.join('results', 'trex_scores', model_name)
     os.makedirs(results_path, exist_ok=True)
+    export_path = os.path.join(
+                    results_path,
+                    f"p_at_k_{dataset_type}.png"
+                )
     plt.savefig(
-        os.path.join(
-            results_path,
-            f"p_at_k_{dataset_type}.png"
-        )
+        export_path
     )
     plt.close()
+    
+    # Log
+    if wandb_flag:
+        img = Image.open(export_path)
+        wandb.log({"TREx Scores": [wandb.Image(img)]})
     
     ### P@k by rela ###
     
