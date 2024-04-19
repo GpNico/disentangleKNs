@@ -63,17 +63,21 @@ def run_autoprompt(
         for seed in range(last_seed, last_seed + config.N_SEEDS):
             
             if config.WANDB:
+                wandb_flag = '--wandb'
                 wandb.log({"seed": seed})
+            else:
+                wandb_flag = ''
             
             # Run Autoprompt
-            for predicate_id in predicate_ids:
+            for idx, predicate_id in enumerate(predicate_ids):
                 # Create seed model name
                 _jsonl_path = os.path.join(
                                 jsonl_path, 
                                 lang_specific_path,
                                 f'{predicate_id}.jsonl'
                                 )
-            
+                if config.WANDB:
+                    wandb.log({"seed_{seed}": idx})
                 # Command Line    
                 command_line = f'python -m autoprompt.autoprompt.create_trigger \
                                 --train {os.path.join(data_path, predicate_id)}/train.jsonl \
@@ -94,7 +98,7 @@ def run_autoprompt(
                                 --path_to_saved_prompts {_jsonl_path} \
                                 --data_id {predicate_id} \
                                 --seed {seed} \
-                                --wandb'
+                                {wandb_flag}'
 
                 os.system(command_line)
 
