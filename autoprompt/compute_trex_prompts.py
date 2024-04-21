@@ -63,8 +63,13 @@ def run_autoprompt(
         for seed in range(last_seed, last_seed + config.N_SEEDS):
             
             if config.WANDB:
+                ### WANDB ###
+                wandb.init(
+                        project=model_name, 
+                        name=f"Autoprompt - Seed {seed}", 
+                        mode="offline" # /!\
+                        )
                 wandb_flag = '--wandb'
-                wandb.log({"seed": seed})
             else:
                 wandb_flag = ''
             
@@ -77,7 +82,7 @@ def run_autoprompt(
                                 f'{predicate_id}.jsonl'
                                 )
                 if config.WANDB:
-                    wandb.log({f"seed_{seed}": idx})
+                    wandb.log({f"Predicate Ids Completion (max. {len(predicate_ids)})": idx})
                 # Command Line    
                 command_line = f'python -m autoprompt.autoprompt.create_trigger \
                                 --train {os.path.join(data_path, predicate_id)}/train.jsonl \

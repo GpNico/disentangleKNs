@@ -72,7 +72,8 @@ class KnowledgeNeurons:
                 "bert-base-uncased": 12,
                 "bert-large-uncased": 24,
                 "bert-base-multilingual-uncased": 12,
-                "opt-350m": 24
+                "opt-350m": 24,
+                "opt-6.7b": 32
                 }
     
     

@@ -462,6 +462,9 @@ def run_model(args):
         logger.info(f'Trigger tokens: {tokenizer.convert_ids_to_tokens(trigger_ids.squeeze(0))}')
         logger.info(f'Trigger ids: {trigger_ids.squeeze(0).cpu().tolist()}')
         logger.info(f'Dev metric: {dev_metric}')
+        
+        if args.wandb:
+            wandb.log({f'Dev. Metric': dev_metric})
 
         # TODO: Something cleaner. LAMA templates can't have mask tokens, so if
         # there are still mask tokens in the trigger then set the current score
@@ -483,9 +486,6 @@ def run_model(args):
     logger.info(f'Best tokens: {best_trigger_tokens}')
     logger.info(f'Best trigger ids: {best_trigger_ids.squeeze(0).cpu().tolist()}')
     logger.info(f'Best dev metric: {best_dev_metric}')
-    
-    if True:
-        wandb.log({f'{args.data_id}_{args.seed}': best_dev_metric})
     
     
     if args.save_best_tokens:
@@ -595,5 +595,12 @@ if __name__ == '__main__':
     else:
         level = logging.INFO
     logging.basicConfig(level=level)
+    
+    if args.wandb:
+        wandb.init(
+                project=args.model_name, 
+                name=f'{args.data_id} - Seed {args.seed}', 
+                mode="offline" # /!\
+                )
 
     run_model(args)

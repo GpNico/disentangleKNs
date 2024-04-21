@@ -9,7 +9,7 @@ class Config:
     
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True
-    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m']
+    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b']
     MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased']
     
     # Data
@@ -41,7 +41,7 @@ class Config:
     # Autoprompt
     N_SEEDS = 10
     N_TRIGGER_TOKENS = 5
-    AUTOPROMPT_ITERS = 1000
+    AUTOPROMPT_ITERS = 500
     AUTOPROMPT_BATCH_SIZE = 56 # default
     
     

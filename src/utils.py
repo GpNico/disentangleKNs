@@ -28,7 +28,7 @@ def should_lower(model_name: str) -> bool:
     if model_name in ['bert-base-uncased',
                       'bert-large-uncased']:
         return True
-    elif model_name in ['opt-350m']:
+    elif model_name in ['opt-350m', 'opt-6.7b']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")
@@ -143,8 +143,6 @@ def get_run_name(args) -> str:
             return 'TREx Eval - Autoprompt'
         else:
             return 'TREX Eval'
-    if args.run_autoprompt:
-        return 'Autoprompt Computation'
     if args.kns_compute:
         if args.autoprompt:
             return 'KNs Computation - Autoprompt'

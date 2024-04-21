@@ -79,14 +79,7 @@ if __name__ == '__main__':
     
     config = utils.load_config(debug = args.debug)
     
-    ### WANDB ###
-    if config.WANDB:
-        import wandb
-        wandb.init(
-                project=args.model_name, 
-                name=utils.get_run_name(args), 
-                mode="offline" # /!\
-                )
+    
     
     ### RUN AUTOPROMPT ###
     
@@ -98,6 +91,15 @@ if __name__ == '__main__':
         )
         # For now end here
         exit(0)
+        
+    ### WANDB ###
+    if config.WANDB:
+        import wandb
+        wandb.init(
+                project=args.model_name, 
+                name=utils.get_run_name(args), 
+                mode="offline" # /!\
+                )
     
     
     ### DEVICE, MODEL & TOKENIZER ###
@@ -192,7 +194,6 @@ if __name__ == '__main__':
         #       get_model_intermediate_layer
         #       get_intermediate_dim
         # In knowledge_neurons: model_layers_num
-        # Jean Zay load_models.py
     
     ### NEED TO ADD MULTILINGUAL MODEL ###
     # mBERT (Done!)
