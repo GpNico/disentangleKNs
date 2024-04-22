@@ -135,16 +135,18 @@ class KnowledgeNeurons:
         
             
         already_computed_kns = {}
+        seen_uuids = {}
         for p in self.config.P_THRESHS:
             if os.path.exists(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json')):
                 with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json'), 'r') as f:
                     p_already_computed_kns = json.load(f)
-                seen_uuids = list(already_computed_kns.keys())
+                p_seen_uuids = list(p_already_computed_kns.keys())
             else:
                 os.makedirs(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}'), exist_ok=True)
                 p_already_computed_kns = {}
                 seen_uuids = []
             already_computed_kns[p] = p_already_computed_kns
+            seen_uuids[p] = p_seen_uuids
 
         kns_rela = self.compute_knowledge_neurons_by_uuid(
                             predicate_id=predicate_id,
@@ -1107,7 +1109,13 @@ class KnowledgeNeurons:
         # Compute IG attributions
         kns = {p: {} for p in p_threshs} # key p thresh, values dict, keys uuid
         for progess_idx, uuid in tqdm.tqdm(enumerate(dataset.keys()), total = len(dataset)):
-            if seen_uuids and uuid in seen_uuids:
+            seen_bool = True
+            for p in p_threshs:
+                if seen_uuids[p] and uuid in seen_uuids[p]:
+                    pass
+                else:
+                    seen_bool = False
+            if seen_bool:
                 continue
             
             # Log
