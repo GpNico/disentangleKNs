@@ -21,7 +21,7 @@ COLORS = {"semantics": '#0173b2', # Colorblind friendly
           "knowledge_shared": '#ece133'}
 
 
-def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool):
+def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool, wandb_flag: bool):
     """
         Plot for a threshold (set in config) the different KNs category:
             - sem KNs
@@ -50,8 +50,8 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool):
         # Pararel
         axs[0].bar(k, pararel_res[0], color = COLORS['semantics'], label = 'sem.')
         if plot_error_bars:
-            axs[0].errorbar(k + 1/20, pararel_res[0], yerr = pararel_res_std[0], color =COLORS['semantics'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[0].errorbar(k + 1/20, pararel_res[0], yerr = pararel_res_std[0], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[0].errorbar(k - 1/10, pararel_res[0], yerr = pararel_res_std[0], color =COLORS['semantics'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[0].errorbar(k - 1/10, pararel_res[0], yerr = pararel_res_std[0], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
         
         axs[0].bar(k, pararel_res[1], bottom = pararel_res[0], color = COLORS['syntax'], label = 'syn.')
         if plot_error_bars:
@@ -60,19 +60,19 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool):
         
         axs[0].bar(k, pararel_res[3], bottom = pararel_res[0] + pararel_res[1], color = COLORS['knowledge_only'], label = 'know. mono')
         if plot_error_bars:
-            axs[0].errorbar(k + 1/10, pararel_res[3] + pararel_res[0] + pararel_res[1], yerr = pararel_res_std[3], color = COLORS['knowledge_only'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[0].errorbar(k + 1/10, pararel_res[3] + pararel_res[0] + pararel_res[1],  yerr = pararel_res_std[3], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[0].errorbar(k + 1/20, pararel_res[3] + pararel_res[0] + pararel_res[1], yerr = pararel_res_std[3], color = COLORS['knowledge_only'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[0].errorbar(k + 1/20, pararel_res[3] + pararel_res[0] + pararel_res[1],  yerr = pararel_res_std[3], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
         
         axs[0].bar(k, pararel_res[4], bottom = pararel_res[0] + pararel_res[1] + pararel_res[3], color = COLORS['knowledge_shared'], label = 'know. shared')
         if plot_error_bars:
-            axs[0].errorbar(k - 1/10, pararel_res[4] +  pararel_res[0] + pararel_res[1] + pararel_res[3], yerr = pararel_res_std[4], color =COLORS['knowledge_shared'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[0].errorbar(k - 1/10, pararel_res[4] + pararel_res[0] + pararel_res[1] + pararel_res[3], yerr = pararel_res_std[4], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[0].errorbar(k + 1/10, pararel_res[4] +  pararel_res[0] + pararel_res[1] + pararel_res[3], yerr = pararel_res_std[4], color =COLORS['knowledge_shared'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[0].errorbar(k + 1/10, pararel_res[4] + pararel_res[0] + pararel_res[1] + pararel_res[3], yerr = pararel_res_std[4], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
         
         # Autoprompt
         axs[1].bar(k, autoprompt_res[0], color = COLORS['semantics'], label = 'sem.')
         if plot_error_bars:
-            axs[1].errorbar(k + 1/20, autoprompt_res[0], yerr = autoprompt_res_std[0], color =COLORS['semantics'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[1].errorbar(k + 1/20, autoprompt_res[0], yerr = autoprompt_res_std[0], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[1].errorbar(k - 1/10, autoprompt_res[0], yerr = autoprompt_res_std[0], color =COLORS['semantics'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[1].errorbar(k - 1/10, autoprompt_res[0], yerr = autoprompt_res_std[0], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
             
         axs[1].bar(k, autoprompt_res[1], bottom = autoprompt_res[0], color = COLORS['syntax'], label = 'syn.')
         if plot_error_bars:
@@ -81,13 +81,13 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool):
             
         axs[1].bar(k, autoprompt_res[3], bottom = autoprompt_res[0] + autoprompt_res[1], color = COLORS['knowledge_only'], label = 'know. mono')
         if plot_error_bars:
-            axs[1].errorbar(k + 1/10, autoprompt_res[3] + autoprompt_res[0] + autoprompt_res[1], yerr = autoprompt_res_std[3], color = COLORS['knowledge_only'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[1].errorbar(k + 1/10, autoprompt_res[3] + autoprompt_res[0] + autoprompt_res[1],  yerr = autoprompt_res_std[3], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[1].errorbar(k + 1/20, autoprompt_res[3] + autoprompt_res[0] + autoprompt_res[1], yerr = autoprompt_res_std[3], color = COLORS['knowledge_only'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[1].errorbar(k + 1/20, autoprompt_res[3] + autoprompt_res[0] + autoprompt_res[1],  yerr = autoprompt_res_std[3], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
             
         axs[1].bar(k, autoprompt_res[4], bottom = autoprompt_res[0] + autoprompt_res[1] + autoprompt_res[3], color = COLORS['knowledge_shared'], label = 'know. shared')
         if plot_error_bars:
-            axs[1].errorbar(k - 1/10, autoprompt_res[4] +  autoprompt_res[0] + autoprompt_res[1] + autoprompt_res[3], yerr = autoprompt_res_std[4], color =COLORS['knowledge_shared'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
-            axs[1].errorbar(k - 1/10, autoprompt_res[4] + autoprompt_res[0] + autoprompt_res[1] + autoprompt_res[3], yerr = autoprompt_res_std[4], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
+            axs[1].errorbar(k + 1/10, autoprompt_res[4] +  autoprompt_res[0] + autoprompt_res[1] + autoprompt_res[3], yerr = autoprompt_res_std[4], color =COLORS['knowledge_shared'],  elinewidth=2, capsize = 3, capthick = 2, zorder = 10, fmt = 'o')
+            axs[1].errorbar(k + 1/10, autoprompt_res[4] + autoprompt_res[0] + autoprompt_res[1] + autoprompt_res[3], yerr = autoprompt_res_std[4], color = 'black',  elinewidth=4, capsize = 4, capthick = 4, zorder = 5, fmt = 'o')
         
         # for ylim
         max_y = max(
@@ -108,18 +108,25 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool):
     axs[1].set_ylim((0,1.1*max_y))
     plt.legend()
         
-    # Save
-    plt.savefig(
-        os.path.join(
+    export_path = os.path.join(
             kns_path,
             f"kns_types_all_models.png"
-        ),
+        )
+    # Save
+    plt.savefig(
+        export_path,
         dpi = 300
     )
+        
     plt.close()
+    
+    # Log
+    if wandb_flag:
+        img = Image.open(export_path)
+        wandb.log({"KNs Types": [wandb.Image(img)]})
         
         
-def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_path: str):
+def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_path: str, wandb_flag: bool):
     
     for model_name in models_analysis.keys():
         threshold = find_closest_elem(models_analysis[model_name]['sem_kns'].keys(), threshold)
@@ -235,58 +242,87 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
         
         # SAVING
         
-        fig_sem.savefig(
-            os.path.join(
+        #Sem
+        export_path = os.path.join(
                 kns_path,
                 model_name,
                 'pararel',
                 f"sem_kns_layer_dist.png"
                 )
-            )
         fig_sem.savefig(
-            os.path.join(
+                export_path
+            )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Sem. Layer Distribution": [wandb.Image(img)]})
+        
+        export_path = os.path.join(
                 kns_path,
                 model_name,
                 'autoprompt',
                 f"sem_kns_layer_dist.png"
                 )
+        fig_sem.savefig(
+            export_path
             )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Sem. Layer Distribution (Autoprompt)": [wandb.Image(img)]})
         
+        #Syn
+        export_path=os.path.join(
+                kns_path,
+                model_name,
+                'pararel',
+                f"syn_kns_layer_dist.png"
+                )
         fig_syn_pararel.savefig(
-            os.path.join(
+            export_path
+            )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Syn. Layer Distribution": [wandb.Image(img)]})
+        
+        export_path=os.path.join(
                 kns_path,
                 model_name,
-                'pararel',
+                'autoprompt',
                 f"syn_kns_layer_dist.png"
                 )
-            )
         fig_syn_autoprompt.savefig(
-            os.path.join(
-                kns_path,
-                model_name,
-                'autoprompt',
-                f"syn_kns_layer_dist.png"
-                )
+            export_path
             )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Syn. Layer Distribution (Autoprompt)": [wandb.Image(img)]})
         
         
-        fig_know_pararel.savefig(
-            os.path.join(
+        #Know
+        export_path=os.path.join(
                 kns_path,
                 model_name,
                 'pararel',
                 f"know_kns_layer_dist.png"
                 )
+        fig_know_pararel.savefig(
+            export_path
             )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Know. Layer Distribution": [wandb.Image(img)]})
         
-        fig_know_autoprompt.savefig(
-            os.path.join(
+        export_path=os.path.join(
                 kns_path,
                 model_name,
                 'autoprompt',
                 f"know_kns_layer_dist.png"
                 )
+        fig_know_autoprompt.savefig(
+            export_path
             )
+        if wandb_flag:
+            img = Image.open(export_path)
+            wandb.log({"Know. Layer Distribution (Autoprompt)": [wandb.Image(img)]})
         
         plt.close('all')
         

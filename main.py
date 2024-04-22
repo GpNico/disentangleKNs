@@ -316,19 +316,22 @@ if __name__ == '__main__':
             
             models_analysis = {}
             for model_name in config.MODELS_TO_PLOT:
-                kn = KnowledgeNeurons(
-                            model = None,
-                            tokenizer = None,
-                            data = None,
-                            dataset_type = None,
-                            model_name = model_name,
-                            device = None,
-                            config = config
-                        )
+                if os.path.exists(os.path.join(config.PATH_TO_KNS_DIR, model_name)): # Allow to avoid an error as we run models in //
+                    kn = KnowledgeNeurons(
+                                model = None,
+                                tokenizer = None,
+                                data = None,
+                                dataset_type = None,
+                                model_name = model_name,
+                                device = None,
+                                config = config
+                            )
+                    
                 
-            
-                analysis_res = kn.compute_kns_analysis()
-                models_analysis[model_name] = analysis_res
+                    analysis_res = kn.compute_kns_analysis()
+                    models_analysis[model_name] = analysis_res
+                else:
+                    print(f"Do not have the KNs results for {model_name} yet! Skipping analysis.")
                 
             
             
@@ -337,12 +340,14 @@ if __name__ == '__main__':
             plots.plot_KNs_types_all_models(
                                         models_analysis,
                                         kns_path = config.PATH_TO_KNS_DIR,
-                                        plot_error_bars = config.PLOT_ERROR_BARS
+                                        plot_error_bars = config.PLOT_ERROR_BARS,
+                                        wandb_flag=config.WANDB
                                         ) 
             plots.plot_sem_syn_know_layer_distribution(
                                         models_analysis,
                                         threshold = config.ACCROSS_UUIDS_THRESHOLD,
-                                        kns_path=config.PATH_TO_KNS_DIR
+                                        kns_path=config.PATH_TO_KNS_DIR,
+                                        wandb_flag=config.WANDB
                                         )
             
             
