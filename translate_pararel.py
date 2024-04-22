@@ -7,7 +7,7 @@ from typing import Dict, List, Tuple
 import wandb
 
 import torch
-from transformers import AutoProcessor, SeamlessM4TModel, SeamlessM4Tv2Model
+from transformers import AutoProcessor, SeamlessM4TModel
 
 SUPPORTED_LANGS = {
                  'af': 'afr',
