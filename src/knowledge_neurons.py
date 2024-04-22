@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 import torch
 import tqdm
+import wandb
 from typing import Dict, List, Tuple, Union
 
 from transformers import PreTrainedModel, PreTrainedTokenizer
@@ -110,40 +111,60 @@ class KnowledgeNeurons:
         
         
         
+    def _compute_kns_one_predicate_id(self, predicate_id: str):
+        """
+            This function was origally contained in the 
+            compute_knowledge_neurons. But as we need speed
+            we need to parallelize, hence we need to access
+            the computation of a single predicate_id. 
+        
+        """
+        if self.config.WANDB:
+            run_name = f"KNs {predicate_id} "
+            if self.multilingual:
+                run_name += self.dataset_type
+                run_name += f' ({self.lang.upper()})'
+            else:
+                run_name += self.dataset_type
+            wandb.init(
+                    project=self.model_name, 
+                    name=run_name, 
+                    mode="offline" # /!\
+                    )
+        
+        
+            
+        already_computed_kns = {}
+        for p in self.config.P_THRESHS:
+            if os.path.exists(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json')):
+                with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json'), 'r') as f:
+                    p_already_computed_kns = json.load(f)
+                seen_uuids = list(already_computed_kns.keys())
+            else:
+                os.makedirs(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}'), exist_ok=True)
+                p_already_computed_kns = {}
+                seen_uuids = []
+            already_computed_kns[p] = p_already_computed_kns
+
+        kns_rela = self.compute_knowledge_neurons_by_uuid(
+                            predicate_id=predicate_id,
+                            seen_uuids = seen_uuids,
+                            t_thresh=self.config.T_THRESH,
+                            p_threshs=self.config.P_THRESHS
+                            )
+        if kns_rela:
+            for p in self.config.P_THRESHS:
+                if len(already_computed_kns[p]) > 0:
+                    kns_rela[p].update(already_computed_kns[p])
+                
+                with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', f'{predicate_id}.json'), 'w') as f:
+                    json.dump(kns_rela[p], f)
         
     def compute_knowledge_neurons(self) -> None:
         
         for k, predicate_id in enumerate(self.data.keys()):
-            if predicate_id[0] != 'P':
-                continue
-            
-            already_computed_kns = {}
-            for p in self.config.P_THRESHS:
-                if os.path.exists(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json')):
-                    with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', predicate_id + '.json'), 'r') as f:
-                        p_already_computed_kns = json.load(f)
-                    seen_uuids = list(already_computed_kns.keys())
-                else:
-                    os.makedirs(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}'), exist_ok=True)
-                    p_already_computed_kns = {}
-                    seen_uuids = []
-                already_computed_kns[p] = p_already_computed_kns
-                
-            print(f"Computing {predicate_id} ({k+1}/{len(self.data)-1})") # Because there's a "type" key
-
-            kns_rela = self.compute_knowledge_neurons_by_uuid(
-                                predicate_id=predicate_id,
-                                seen_uuids = seen_uuids,
-                                t_thresh=self.config.T_THRESH,
-                                p_threshs=self.config.P_THRESHS
-                                )
-            if kns_rela:
-                for p in self.config.P_THRESHS:
-                    if len(already_computed_kns[p]) > 0:
-                        kns_rela[p].update(already_computed_kns[p])
-                    
-                    with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', f'{predicate_id}.json'), 'w') as f:
-                        json.dump(kns_rela[p], f)  
+            self._compute_kns_one_predicate_id(predicate_id=predicate_id)
+              
                     
                     
     def knowledge_neurons_surgery(self,
@@ -1071,16 +1092,27 @@ class KnowledgeNeurons:
         """
         
         # Get Dataset
-        dataset = self.data[predicate_id]
+        if predicate_id in self.data.keys():
+            dataset = self.data[predicate_id]
+        else:
+            print(f"Relation {predicate_id} doesn't have enought prompts to compute KNs.")
+            return None
         
         if dataset is None:
             return None
+        
+        if self.config.WANDB:
+            vs = []
 
         # Compute IG attributions
         kns = {p: {} for p in p_threshs} # key p thresh, values dict, keys uuid
-        for uuid in tqdm.tqdm(dataset.keys(), total = len(dataset)):
+        for progess_idx, uuid in tqdm.tqdm(enumerate(dataset.keys()), total = len(dataset)):
             if seen_uuids and uuid in seen_uuids:
                 continue
+            
+            # Log
+            if self.config.WANDB:
+                wandb.log({"Remaining uuids": len(dataset) - progess_idx})
             
             # Get template Tokens & Y 
             sentences_tok = dataset[uuid]['sentences_tok']    
@@ -1170,6 +1202,22 @@ class KnowledgeNeurons:
                 uuid_kns = [k for k,v in neuron2prompt.items() if v >= dataset[uuid]['num_prompts']*p_thresh]
 
                 kns[p_thresh][uuid] = uuid_kns
+                
+            if self.config.WANDB:
+                if progess_idx%50 == 10:
+                    columns = ['uuid']
+                    for p_thresh in p_threshs:
+                        columns.append(f'num. KNs (p={p_thresh})')
+                    table = wandb.Table(data = vs, columns=columns)
+                    wandb.log({'Examples': table})
+                    vs = []
+                        
+                else:
+                    v = [uuid]
+                    for p_thresh in p_threshs:
+                        v.append(len(kns[p_thresh][uuid]))
+                    vs.append(v)
+                    
 
         return kns
         
