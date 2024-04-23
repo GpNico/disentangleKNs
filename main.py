@@ -40,6 +40,11 @@ if __name__ == '__main__':
                         action="store_true",
                         help = 'Delete scores written in tha datasets.')
     
+    # ToBeTested
+    parser.add_argument('--add_prefix',
+                        action="store_true",
+                        help="Add a prefix 'Answer in one word:' to ParaRel prompts.")
+    
     # Knowledge Neurons
     parser.add_argument('--kns_compute',
                         action="store_true",
@@ -121,7 +126,8 @@ if __name__ == '__main__':
         if args.delete:
             delete_model_scores(
                 model_name = args.model_name, 
-                config = config
+                config = config,
+                multilingual = multilingual
                 )
             exit(0)
         else:
@@ -133,7 +139,8 @@ if __name__ == '__main__':
                                 lower = utils.should_lower(args.model_name),
                                 split = split,
                                 autoregressive = utils.is_autoregressive(args.model_name),
-                                multilingual = multilingual
+                                multilingual = multilingual,
+                                add_prefix = args.add_prefix
                                 )
     else:
         dataset = None

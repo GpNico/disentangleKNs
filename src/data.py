@@ -20,6 +20,7 @@ def load_trex_by_uuid(
                     split: str = 'test',
                     autoregressive: bool = False,
                     multilingual: bool = False,
+                    add_prefix: bool = False
                     ) -> Union[Dict[str, Dict[str, Union[torch.Tensor, str, int]]], Dict[str, Dict[str, Dict[str, Union[torch.Tensor, str, int]]]]]:
     
     
@@ -105,7 +106,13 @@ def load_trex_by_uuid(
                         else:
                             print(f"\tWARNING: {predicate_id} doesn't have P@1 scores written.")
                             warning_flag = True
-                        prompts.append(data['pattern'])
+                        _prompt = data['pattern']
+                        if not(multilingual):
+                            if add_prefix:
+                                _prompt = "Answer in only one word: " + _prompt
+                        else:
+                            raise Exception("Adding Prefix is not supported for multilingual.")
+                        prompts.append(_prompt)
                 num_prompts = len(prompts)
 
             # Load Xs, Ys

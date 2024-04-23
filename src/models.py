@@ -3,7 +3,7 @@
 import os
 import torch
 import torch.nn as nn
-from transformers import AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel
+from transformers import AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM
 
 
 class ModelWrapper(nn.Module):
@@ -32,6 +32,16 @@ class ModelWrapper(nn.Module):
             self.model = OPTForCausalLM.from_pretrained(
                                             f"facebook/{model_name}", 
                                             config=self.config,
+                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            ).to(device)
+        elif 'Llama' in model_name:
+            self.config = AutoConfig.from_pretrained(
+                                            f'meta-llama/{model_name}', 
+                                            output_hidden_states = output_hidden_states,
+                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            )
+            self.model = LlamaForCausalLM.from_pretrained(
+                                            f"meta-llama/{model_name}",
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             ).to(device)
         elif 'bert' in model_name:
@@ -106,7 +116,7 @@ class ModelWrapper(nn.Module):
                                                                                                           # mask tokens so this only focus on the last one
             return masked_logits[:,-1,:]
         
-        elif self.config.model_type == 'opt':
+        elif self.config.model_type in ['opt', 'llama']:
             return logits[torch.arange(input_ids.shape[0]),
                           attention_mask.sum(dim=-1)-1] # that's a neat trick!
             

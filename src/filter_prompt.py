@@ -193,26 +193,34 @@ def write_trex_scores(scores: Dict[str, Dict[str, np.ndarray]],
                     f.write('\n')
                     
 
-def delete_model_scores(model_name: str, config: Config) -> None:
+def delete_model_scores(model_name: str, config: Config, multilingual: bool) -> None:
     
-    path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
+    if multilingual:
+        path_to_dataset = config.PATH_TO_MPARAREL
+        langs = os.listdir(path_to_dataset) # could use config.LANGS but here we are sure
+    else:
+        path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
+        langs = ['']
     
-    print(f'Deleting P@1 in {path_to_dataset} for model {model_name}.')
     
-    # Predicate ids
-    predicate_ids = [n[:-6] for n in os.listdir(path_to_dataset)]
-    
-    # Delete P@1    
-    for predicate_id in tqdm.tqdm(predicate_ids, total=len(predicate_ids)):
-        # Open & Write file
-        with open(os.path.join(path_to_dataset, f'{predicate_id}.jsonl'), 'r') as f:
-            new_lines = []
-            for line in f:
-                data = json.loads(line)
-                if f'{model_name}_P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
-                    del data[f'{model_name}_P@1']
-                new_lines.append(data)
-        with open(os.path.join(path_to_dataset, f'{predicate_id}.jsonl'), 'w') as f:
-            for new_line in new_lines:
-                json.dump(new_line, f)  # Write JSON data
-                f.write('\n')
+    for lang in langs:
+        _path_to_dataset = os.path.join(path_to_dataset, lang)
+        print(f'Deleting P@1 in {_path_to_dataset} for model {model_name}.')
+        
+        # Predicate ids
+        predicate_ids = [n[:-6] for n in os.listdir(_path_to_dataset)]
+        
+        # Delete P@1    
+        for predicate_id in tqdm.tqdm(predicate_ids, total=len(predicate_ids)):
+            # Open & Write file
+            with open(os.path.join(_path_to_dataset, f'{predicate_id}.jsonl'), 'r') as f:
+                new_lines = []
+                for line in f:
+                    data = json.loads(line)
+                    if f'{model_name}_P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
+                        del data[f'{model_name}_P@1']
+                    new_lines.append(data)
+            with open(os.path.join(_path_to_dataset, f'{predicate_id}.jsonl'), 'w') as f:
+                for new_line in new_lines:
+                    json.dump(new_line, f)  # Write JSON data
+                    f.write('\n')

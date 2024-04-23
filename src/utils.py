@@ -18,6 +18,8 @@ def load_tokenizer(model_name: str):
     if 'opt' in model_name:
         return AutoTokenizer.from_pretrained(f'facebook/{model_name}',
                                              add_prefix_space = True,) # I think I should) # Not sure why
+    if 'Llama' in model_name:
+        return AutoTokenizer.from_pretrained(f'meta-llama/{model_name}')
     else:
         return AutoTokenizer.from_pretrained(model_name)
 
@@ -26,9 +28,10 @@ def should_lower(model_name: str) -> bool:
     In fact very important function: for cased-sensitive models like OPT "Tokyo" is 1 token but "tokyo" is 3!
     """
     if model_name in ['bert-base-uncased',
-                      'bert-large-uncased']:
+                      'bert-large-uncased',
+                      'bert-base-multilingual-uncased']:
         return True
-    elif model_name in ['opt-350m', 'opt-6.7b']:
+    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")
@@ -37,6 +40,8 @@ def is_autoregressive(model_name):
     if 'bert' in model_name:
         return False
     if 'gpt' in model_name:
+        return True
+    if 'Llama' in model_name:
         return True
     if 'opt' in model_name:
         return True
@@ -48,6 +53,14 @@ def get_model_intermediate_layer(model: nn.Module,
         return model.bert.encoder.layer[layer_num].intermediate
     elif 'opt' in model_name:
         return model.model.decoder.layers[layer_num].fc1
+    elif 'Llama' in model_name:
+        # This is a bit tricky as LlaMa formula for the MLP is:
+        # down_proj(act_fn(gate_proj(input))*up_proj(input))
+        # where as in a classical transformer we have:
+        # down_proj(act_fn(up_proj(input))
+        # But gate_proj act as gating values that modulate the strength
+        # of up_proj so that might lead to some weird things...
+        return model.model.layers[layer_num].mlp.up_proj
     else:
         raise Exception("Don't forget to put your model in the get_model_intermediate_layer function :'(")
     
@@ -57,6 +70,8 @@ def get_intermediate_dim(model: nn.Module,
         return model.bert.encoder.layer[0].intermediate.dense.out_features
     elif 'opt' in model_name:
         return model.model.decoder.layers[0].fc1.out_features
+    elif 'Llama' in model_name:
+        return model.model.layers[0].mlp.up_proj.out_features
     else:
         raise Exception("Don't forget to put your model in the get_model_intermediate_layer function :'(")
     

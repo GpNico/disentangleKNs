@@ -74,7 +74,8 @@ class KnowledgeNeurons:
                 "bert-large-uncased": 24,
                 "bert-base-multilingual-uncased": 12,
                 "opt-350m": 24,
-                "opt-6.7b": 32
+                "opt-6.7b": 32,
+                'Llama-2-7b-hf': 32
                 }
     
     

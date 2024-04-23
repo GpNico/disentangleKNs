@@ -9,7 +9,7 @@ class Config:
     
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True
-    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b']
+    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']
     MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased']
     
     # Data
@@ -36,7 +36,7 @@ class Config:
     ACCURACY_RANKS = [1,5,10,20,50,100] # ks in P@k
     
     # MultiLingual
-    LANGS = ['en', 'fr', 'es']
+    LANGS = ['en', 'fr', 'es', 'ca', 'da', 'de', 'fi', 'it', 'nl', 'pl', 'pt', 'ru', 'sv']
     
     # Autoprompt
     N_SEEDS = 10
