@@ -193,13 +193,19 @@ def write_trex_scores(scores: Dict[str, Dict[str, np.ndarray]],
                     f.write('\n')
                     
 
-def delete_model_scores(model_name: str, config: Config, multilingual: bool) -> None:
+def delete_model_scores(model_name: str, config: Config, multilingual: bool, autoprompt: bool) -> None:
     
     if multilingual:
-        path_to_dataset = config.PATH_TO_MPARAREL
+        if autoprompt:
+            path_to_dataset = os.path.join(config.PATH_TO_SAVED_PROMPTS, model_name)
+        else:
+            path_to_dataset = config.PATH_TO_MPARAREL
         langs = os.listdir(path_to_dataset) # could use config.LANGS but here we are sure
     else:
-        path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
+        if autoprompt:
+            path_to_dataset = os.path.join(config.PATH_TO_SAVED_PROMPTS, model_name)
+        else:
+            path_to_dataset = config.PATH_TO_AUTOREGRESSIVE_PARAREL
         langs = ['']
     
     

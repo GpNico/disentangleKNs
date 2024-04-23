@@ -127,7 +127,8 @@ if __name__ == '__main__':
             delete_model_scores(
                 model_name = args.model_name, 
                 config = config,
-                multilingual = multilingual
+                multilingual = multilingual,
+                autoprompt = args.autoprompt
                 )
             exit(0)
         else:
