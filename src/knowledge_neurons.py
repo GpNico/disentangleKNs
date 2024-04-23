@@ -161,6 +161,9 @@ class KnowledgeNeurons:
                 
                 with open(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}', f'{predicate_id}.json'), 'w') as f:
                     json.dump(kns_rela[p], f)
+                    
+        if self.config.WANDB:
+            wandb.finish()
         
     def compute_knowledge_neurons(self) -> None:
         

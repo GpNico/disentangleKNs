@@ -537,6 +537,9 @@ def run_model(args):
             'template': template
         }
         print(json.dumps(out))
+        
+    if args.wandb:
+        wandb.finish()
 
 
 if __name__ == '__main__':

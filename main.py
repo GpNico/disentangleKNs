@@ -91,15 +91,6 @@ if __name__ == '__main__':
         )
         # For now end here
         exit(0)
-        
-    ### WANDB ###
-    if config.WANDB:
-        import wandb
-        wandb.init(
-                project=args.model_name, 
-                name=utils.get_run_name(args), 
-                mode="offline" # /!\
-                )
     
     
     ### DEVICE, MODEL & TOKENIZER ###
@@ -148,6 +139,16 @@ if __name__ == '__main__':
         dataset = None
     
     
+    
+    ### WANDB ###
+    if config.WANDB:
+        import wandb
+        wandb.init(
+                project=args.model_name, 
+                name=utils.get_run_name(args), 
+                mode="offline" # /!\
+                )
+    
     ### Filter Prompts Based on TREx P@1 ###
     
     if args.filter_prompts:
@@ -167,6 +168,9 @@ if __name__ == '__main__':
                                model_name=args.model_name,
                                dataset_type=dataset_type,
                                wandb_flag = config.WANDB)
+        
+        if config.WANDB:
+            wandb.finish()
     
     
     ### Knowledge Neurons ###
@@ -296,6 +300,10 @@ if __name__ == '__main__':
                                 os.path.join(kn.kns_path, kn.dataset_type), 
                                 kns_match = not(args.kns_unmatch))
             
+            if config.WANDB:
+                wandb.finish()
+            exit(0)
+            
     
         if args.kns_exps:
             
@@ -311,6 +319,10 @@ if __name__ == '__main__':
                                 kns_path=kn.kns_path,
                                 config = config, 
                                 dataset_name = kn.dataset_type)
+            
+            if config.WANDB:
+                wandb.finish()
+            exit(0)
             
         if args.kns_analysis:
             
@@ -349,6 +361,10 @@ if __name__ == '__main__':
                                         kns_path=config.PATH_TO_KNS_DIR,
                                         wandb_flag=config.WANDB
                                         )
+            
+            if config.WANDB:
+                wandb.finish()
+            exit(0)
             
             
             ### Below Depreciated ###

@@ -107,6 +107,9 @@ def run_autoprompt(
                                 {wandb_flag}'
 
                 os.system(command_line)
+                
+            if config.WANDB:
+                wandb.finish()
 
     
 
