@@ -588,6 +588,8 @@ if __name__ == '__main__':
     parser.add_argument('--data_id', type=str, default='not-specified',
                         help='For example for TREX write the relation id (e.g. P17...)' )
     
+    parser.add_argument('--lang', type=str, default='not-specified',
+                        help='For logging purposes!' )
     parser.add_argument('--wandb', action='store_true')
 
     parser.add_argument('--debug', action='store_true')
@@ -600,10 +602,17 @@ if __name__ == '__main__':
     logging.basicConfig(level=level)
     
     if args.wandb:
-        wandb.init(
-                project=args.model_name, 
-                name=f'{args.data_id} - Seed {args.seed}', 
-                mode="offline" # /!\
-                )
+        if args.lang != 'not-specified':
+            wandb.init(
+                    project=args.model_name, 
+                    name=f'{args.lang.upper()} - {args.data_id} - Seed {args.seed}', 
+                    mode="offline" # /!\
+                    )
+        else:
+            wandb.init(
+                    project=args.model_name, 
+                    name=f'{args.data_id} - Seed {args.seed}', 
+                    mode="offline" # /!\
+                    )
 
     run_model(args)
