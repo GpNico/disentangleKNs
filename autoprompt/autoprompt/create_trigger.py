@@ -130,6 +130,7 @@ def load_pretrained(model_name):
         config = AutoConfig.from_pretrained(f'meta-llama/{model_name}', torch_dtype = torch.float16)
         model = LlamaForCausalLM.from_pretrained(f"meta-llama/{model_name}", torch_dtype = torch.float16)
         tokenizer = AutoTokenizer.from_pretrained(f"meta-llama/{model_name}")
+        tokenizer.pad_token = "[PAD]"
     else:
         config = AutoConfig.from_pretrained(model_name, torch_dtype = torch.float16)
         model = AutoModelWithLMHead.from_pretrained(model_name, torch_dtype = torch.float16)
@@ -212,6 +213,9 @@ def isupper(idx, tokenizer):
     Determines whether a token (e.g., word piece) begins with a capital letter.
     """
     _isupper = False
+    if len(tokenizer.decode([idx])) == 0:
+      # Llama has a token '' so you know...
+      return True
     # We only want to check tokens that begin words. Since byte-pair encoding
     # captures a prefix space, we need to check that the decoded token begins
     # with a space, and has a capitalized second character.

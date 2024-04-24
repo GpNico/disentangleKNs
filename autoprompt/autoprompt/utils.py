@@ -6,6 +6,7 @@ from multiprocessing.sharedctypes import Value
 import random
 from collections import defaultdict
 import transformers
+import re
 
 import torch
 from torch.nn.utils.rnn import pad_sequence
@@ -149,7 +150,14 @@ class TriggerTemplatizer:
 
     @property
     def num_trigger_tokens(self):
-        return sum(token == '[T]' for token in self._template.split())
+        #return sum(token == '[T]' for token in self._template.split())
+        # Define pattern to match '[T]' surrounded by optional whitespace
+        pattern = r'\[T\]\s*'
+        # Find all occurrences of '[T]' in the template
+        matches = re.findall(pattern, self._template)
+        # Return the count of matches
+        return len(matches)
+    
 
     def __call__(self, format_kwargs):
         # Format the template string
