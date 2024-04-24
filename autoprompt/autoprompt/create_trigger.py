@@ -12,7 +12,7 @@ import torch
 import torch.nn.functional as F
 from torch.utils.data import DataLoader
 import transformers
-from transformers import AutoConfig, AutoModelWithLMHead, AutoTokenizer, OPTForCausalLM, XLMWithLMHeadModel
+from transformers import AutoConfig, AutoModelWithLMHead, AutoTokenizer, OPTForCausalLM, XLMWithLMHeadModel, LlamaForCausalLM
 from tqdm import tqdm
 
 import autoprompt.autoprompt.utils as utils
@@ -57,7 +57,7 @@ class PredictWrapper:
         if model_type in ['bert', 'xlm']:
             # Here predict mask is usefull
             predict_logits = logits.masked_select(predict_mask.unsqueeze(-1)).view(logits.size(0), -1)
-        elif model_type == 'opt':
+        elif model_type in ['opt', 'llama']:
             # For OPT there is no predict token so we focus on the last trigger token which 
             # contains the next token prediction logits
             predict_logits = logits.masked_select(trigger_mask.unsqueeze(-1)).view(logits.size(0), trigger_mask[0].sum(), -1)[:,-1,:]
@@ -119,16 +119,20 @@ def load_pretrained(model_name):
     initialization steps to facilitate working with triggers.
     """
     if 'opt' in model_name:
-        config = AutoConfig.from_pretrained('facebook/' + model_name)
-        model = OPTForCausalLM.from_pretrained(f"facebook/{model_name}")
+        config = AutoConfig.from_pretrained('facebook/' + model_name, torch_dtype = torch.float16)
+        model = OPTForCausalLM.from_pretrained(f"facebook/{model_name}", torch_dtype = torch.float16)
         tokenizer = AutoTokenizer.from_pretrained(f"facebook/{model_name}", add_prefix_space=True)
     elif 'xlm' in model_name:
         config = AutoConfig.from_pretrained(f'FacebookAI/{model_name}')
         tokenizer = AutoTokenizer.from_pretrained(f"FacebookAI/{model_name}", add_prefix_space=True)
         model = XLMWithLMHeadModel.from_pretrained(f"FacebookAI/{model_name}")
+    elif 'Llama' in model_name:
+        config = AutoConfig.from_pretrained(f'meta-llama/{model_name}', torch_dtype = torch.float16)
+        model = LlamaForCausalLM.from_pretrained(f"meta-llama/{model_name}", torch_dtype = torch.float16)
+        tokenizer = AutoTokenizer.from_pretrained(f"meta-llama/{model_name}")
     else:
-        config = AutoConfig.from_pretrained(model_name)
-        model = AutoModelWithLMHead.from_pretrained(model_name)
+        config = AutoConfig.from_pretrained(model_name, torch_dtype = torch.float16)
+        model = AutoModelWithLMHead.from_pretrained(model_name, torch_dtype = torch.float16)
         tokenizer = AutoTokenizer.from_pretrained(model_name, add_prefix_space=True)
     model.eval()
     utils.add_task_specific_tokens(tokenizer) # Important
@@ -155,6 +159,8 @@ def get_embeddings(model, config):
         embeddings = model.model.decoder.embed_tokens
     elif 'xlm' in config.model_type:
         embeddings = model.transformer.embeddings
+    elif 'llama' in config.model_type:
+        embeddings = model.model.embed_tokens
     return embeddings
 
 
@@ -260,7 +266,7 @@ def run_model(args):
     else: # Again for fact retrieval (or default behavior we are here)
         if config.model_type in ['bert', 'xlm']:
             trigger_ids = [tokenizer.mask_token_id] * templatizer.num_trigger_tokens
-        elif config.model_type == 'opt':
+        elif config.model_type in ['opt', 'llama']:
             trigger_ids = [tokenizer.unk_token_id] * templatizer.num_trigger_tokens # = </s>
     trigger_ids = torch.tensor(trigger_ids, device=device).unsqueeze(0)
     best_trigger_ids = trigger_ids.clone()
@@ -433,7 +439,7 @@ def run_model(args):
             if config.model_type in ['bert', 'xlm']:
                 if trigger_ids.eq(tokenizer.mask_token_id).any():
                     current_score = float('-inf')
-            elif config.model_type == 'opt':
+            elif config.model_type in ['opt', 'llama']:
                 if trigger_ids.eq(tokenizer.unk_token_id).any():
                     current_score = float('-inf')
 
@@ -473,7 +479,7 @@ def run_model(args):
             if config.model_type in ['bert', 'xlm']:
                 if best_trigger_ids.eq(tokenizer.mask_token_id).any():
                     best_dev_metric = float('-inf')
-            elif config.model_type == 'opt':
+            elif config.model_type in ['opt', 'llama']:
                 if best_trigger_ids.eq(tokenizer.unk_token_id).any():
                     best_dev_metric = float('-inf')
 
@@ -529,7 +535,7 @@ def run_model(args):
         else:
             if config.model_type in ['bert', 'xlm']:
                 template = tokenizer.decode(lama_template.squeeze(0)[1:-1]).replace('[ X ]', '[X]')
-            elif config.model_type == 'opt':
+            elif config.model_type in ['opt', 'llama']:
                 template = tokenizer.decode(lama_template.squeeze(0)[1:]).replace('[ X ]', '[X]')
                 template += ' [Y]'
         out = {

@@ -20,6 +20,8 @@ def run_autoprompt(
         template = '</s> {sub_label} ' + '[T] '*config.N_TRIGGER_TOKENS + '[P]'
     elif 'xlm' in model_name:
         template = '<s> {sub_label} ' + '[T] '*config.N_TRIGGER_TOKENS + '[P] </s>'
+    elif 'Llama' in model_name:
+        template = '<s> {sub_label}' + '[T]'*config.N_TRIGGER_TOKENS + '[P]'
     
     
     # Create csv folder
@@ -85,6 +87,7 @@ def run_autoprompt(
                     wandb.log({f"Predicate Ids Completion (max. {len(predicate_ids)})": idx})
                     
                 print(os.path.join(data_path, predicate_id))
+                print(predicate_ids)
                 exit(0)
                 # Command Line    
                 command_line = f'python -m autoprompt.autoprompt.create_trigger \
