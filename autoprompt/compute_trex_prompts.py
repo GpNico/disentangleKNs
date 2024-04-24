@@ -86,9 +86,6 @@ def run_autoprompt(
                 if config.WANDB:
                     wandb.log({f"Predicate Ids Completion (max. {len(predicate_ids)})": idx})
                     
-                print(os.path.join(data_path, predicate_id))
-                print(predicate_ids)
-                exit(0)
                 # Command Line    
                 command_line = f'python -m autoprompt.autoprompt.create_trigger \
                                 --train {os.path.join(data_path, predicate_id)}/train.jsonl \
