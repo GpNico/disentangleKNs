@@ -1,14 +1,14 @@
-{"pattern": "[X] heeft klasse [Y]."}
-{"pattern": "[X] is een [Y]."}
-{"pattern": "[X] is een soort [Y]."}
-{"pattern": "[X] is een subklasse van [Y]."}
-{"pattern": "[X] is een type [Y]."}
-{"pattern": "[X] is van de klasse [Y]."}
-{"pattern": "[X], een subklasse van [Y]."}
-{"pattern": "[X], een soort [Y]."}
-{"pattern": "Heeft [X] klas[Y]?"}
-{"pattern": "Is [X] een [Y]?"}
-{"pattern": "Is [X] een soort [Y]?"}
-{"pattern": "Is [X] een subklasse van [Y]?"}
-{"pattern": "Is een [X] een soort [Y]?"}
-{"pattern": "Is [X] van de klasse [Y]?"}
+{"pattern": "[X] heeft klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is een [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857}
+{"pattern": "[X] is een soort [Y].", "bert-base-multilingual-uncased_P@1": 0.30952380952380953}
+{"pattern": "[X] is een subklasse van [Y].", "bert-base-multilingual-uncased_P@1": 0.38095238095238093}
+{"pattern": "[X] is een type [Y].", "bert-base-multilingual-uncased_P@1": 0.47619047619047616}
+{"pattern": "[X] is van de klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.09523809523809523}
+{"pattern": "[X], een subklasse van [Y].", "bert-base-multilingual-uncased_P@1": 0.38095238095238093}
+{"pattern": "[X], een soort [Y].", "bert-base-multilingual-uncased_P@1": 0.35714285714285715}
+{"pattern": "Heeft [X] klas[Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] een [Y]?", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
+{"pattern": "Is [X] een soort [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "Is [X] een subklasse van [Y]?", "bert-base-multilingual-uncased_P@1": 0.40476190476190477}
+{"pattern": "Is een [X] een soort [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "Is [X] van de klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

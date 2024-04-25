@@ -3,7 +3,7 @@
 import os
 import torch
 import torch.nn as nn
-from transformers import AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM
+from transformers import T5ForConditionalGeneration, AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM
 
 
 class ModelWrapper(nn.Module):
@@ -64,6 +64,16 @@ class ModelWrapper(nn.Module):
                                             f"FacebookAI/{model_name}",
                                             config=self.config
                                             ).to(device)
+        elif 't5' in model_name:
+            self.config = AutoConfig.from_pretrained(
+                                            f"google/{model_name}",
+                                            torch_dtype = torch.float16,
+                                            )
+            self.model = T5ForConditionalGeneration.from_pretrained(
+                                            f"google/{model_name}",
+                                            torch_dtype = torch.float16,
+                                            config=self.config
+                                            ).to(device)
         self.model.eval()
         
         
@@ -102,16 +112,17 @@ class ModelWrapper(nn.Module):
         """
         
         # forward pass
-        with torch.no_grad():
-            logits = self.forward(
-                        input_ids = input_ids.to(self.device),
-                        attention_mask = attention_mask.to(self.device)
-                        ) # the .logits is in the wrapper class
+        if self.config.model_type != 't5':
+            with torch.no_grad():
+                logits = self.forward(
+                            input_ids = input_ids.to(self.device),
+                            attention_mask = attention_mask.to(self.device)
+                            ) # the .logits is in the wrapper class
         
         # Model Specific
         if self.config.model_type in ['bert', 'xlm']:
             mask_pos_i, mask_pos_j = torch.where(input_ids == tokenizer.mask_token_id)
-
+            
             masked_logits = logits[mask_pos_i, mask_pos_j].view(input_ids.shape[0], -1, logits.shape[-1]) # Because in early Autoprompt there's multiple
                                                                                                           # mask tokens so this only focus on the last one
             return masked_logits[:,-1,:]
@@ -119,4 +130,13 @@ class ModelWrapper(nn.Module):
         elif self.config.model_type in ['opt', 'llama']:
             return logits[torch.arange(input_ids.shape[0]),
                           attention_mask.sum(dim=-1)-1] # that's a neat trick!
-            
+        elif self.config.model_type == 't5':
+            prediction_logits = self.model.generate(
+                      input_ids=input_ids,
+                      attention_mask=attention_mask,
+                      max_length=10,
+                      output_scores=True,
+                      return_dict_in_generate=True
+                      ).scores[0] # get only first token logits
+            # Shape [Batch Size, Voc Size]
+            return prediction_logits

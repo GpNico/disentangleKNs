@@ -75,7 +75,8 @@ class KnowledgeNeurons:
                 "bert-base-multilingual-uncased": 12,
                 "opt-350m": 24,
                 "opt-6.7b": 32,
-                'Llama-2-7b-hf': 32
+                'Llama-2-7b-hf': 32,
+                'flan-t5-xl': 24
                 }
     
     
@@ -1291,7 +1292,8 @@ class KnowledgeNeurons:
             intermediate_layer = get_model_intermediate_layer(
                                         model = self.model,
                                         model_name = self.model_name,
-                                        layer_num = layer_num
+                                        layer_num = layer_num,
+                                        t5_part=self.config.T5_PART
                                         )
             hook_handle = intermediate_layer.register_forward_hook(_custom_hook)
             #hook_handle = self.model.bert.encoder.layer[layer_num].intermediate.register_forward_hook(_custom_hook)
@@ -1318,7 +1320,8 @@ class KnowledgeNeurons:
                         get_model_intermediate_layer(
                             model = self.model,
                             model_name = self.model_name,
-                            layer_num = layer_num
+                            layer_num = layer_num,
+                            t5_part=self.config.T5_PART
                             )
                         )
         hidden_states = la.attribute(
@@ -1423,7 +1426,7 @@ class KnowledgeNeurons:
                                             batch_size = input_ids.shape[0],
                                             sequence_length = input_ids.shape[1],
                                             db_fact = db_fact,
-                                            num_neurons = get_intermediate_dim(self.model, self.model_name)
+                                            num_neurons = get_intermediate_dim(self.model, self.model_name, t5_part = self.config.T5_PART)
                                             )
 
             # Forward pass
@@ -1561,7 +1564,8 @@ class KnowledgeNeurons:
             intermediate_layer = get_model_intermediate_layer(
                                         model = self.model,
                                         model_name = self.model_name,
-                                        layer_num = layer
+                                        layer_num = layer,
+                                        t5_part=self.config.T5_PART
                                         )
             hook_handle = intermediate_layer.register_forward_hook(
                                         lambda module,input,output,fact=layer2fact[layer]: _hook_template(module, input, output, fact)

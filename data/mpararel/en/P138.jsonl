@@ -1,21 +1,21 @@
-{"pattern": "[X] is called after [Y] ."}
-{"pattern": "[X] is named after [Y] ."}
-{"pattern": "[X] is named for [Y] ."}
-{"pattern": "[X] was called after [Y] ."}
-{"pattern": "[X] was named after [Y] ."}
-{"pattern": "[X] was named for [Y] ."}
-{"pattern": "[X], called after [Y] ."}
-{"pattern": "[X], named after [Y] ."}
-{"pattern": "[X], named for [Y] ."}
-{"pattern": "[X], which is called after [Y] ."}
-{"pattern": "[X], which is named after [Y] ."}
-{"pattern": "[X], which is named for [Y] ."}
-{"pattern": "[X], which was called after [Y] ."}
-{"pattern": "[X], which was named after [Y] ."}
-{"pattern": "[X], which was named for [Y] ."}
-{"pattern": "Is [X] called after [Y]?"}
-{"pattern": "Is [X] named after [Y]?"}
-{"pattern": "Is [X] named for [Y]?"}
-{"pattern": "Was [X] called after [Y]?"}
-{"pattern": "Was [X] named after [Y]?"}
-{"pattern": "Was [X] named for [Y]?"}
+{"pattern": "[X] is called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787}
+{"pattern": "[X] is named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.035398230088495575}
+{"pattern": "[X] was called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894}
+{"pattern": "[X] was named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894}
+{"pattern": "[X] was named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.07079646017699115}
+{"pattern": "[X], named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.07964601769911504}
+{"pattern": "[X], named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.09734513274336283}
+{"pattern": "[X], which is called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894}
+{"pattern": "[X], which is named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787}
+{"pattern": "[X], which is named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787}
+{"pattern": "[X], which was called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], which was named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787}
+{"pattern": "[X], which was named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894}
+{"pattern": "Is [X] called after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] named after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] named for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] called after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] named after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] named for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

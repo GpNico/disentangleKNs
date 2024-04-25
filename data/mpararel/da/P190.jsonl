@@ -1,9 +1,9 @@
-{"pattern": "[X] og dens s\u00f8sterby [Y]."}
-{"pattern": "[X] og dens tvillingeby [Y]."}
-{"pattern": "[X] har s\u00f8sterby [Y]."}
-{"pattern": "[X] har en tvillingeby, [Y]."}
-{"pattern": "[X] er en tvillingeby med [Y]."}
-{"pattern": "[X]s s\u00f8sterby er [Y]."}
-{"pattern": "[X]s tvillingeby er [Y]."}
-{"pattern": "Er [X] s\u00f8sterby til [Y]?"}
-{"pattern": "Er [X] tvillingestaden til [Y]?"}
+{"pattern": "[X] og dens s\u00f8sterby [Y].", "bert-base-multilingual-uncased_P@1": 0.016042780748663103}
+{"pattern": "[X] og dens tvillingeby [Y].", "bert-base-multilingual-uncased_P@1": 0.016042780748663103}
+{"pattern": "[X] har s\u00f8sterby [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] har en tvillingeby, [Y].", "bert-base-multilingual-uncased_P@1": 0.0213903743315508}
+{"pattern": "[X] er en tvillingeby med [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]s s\u00f8sterby er [Y].", "bert-base-multilingual-uncased_P@1": 0.0213903743315508}
+{"pattern": "[X]s tvillingeby er [Y].", "bert-base-multilingual-uncased_P@1": 0.0213903743315508}
+{"pattern": "Er [X] s\u00f8sterby til [Y]?", "bert-base-multilingual-uncased_P@1": 0.016042780748663103}
+{"pattern": "Er [X] tvillingestaden til [Y]?", "bert-base-multilingual-uncased_P@1": 0.0053475935828877}

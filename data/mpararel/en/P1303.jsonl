@@ -1,5 +1,5 @@
-{"pattern": "[X] plays [Y] ."}
-{"pattern": "[X] plays the [Y] ."}
-{"pattern": "[X] plays the music instrument [Y] ."}
-{"pattern": "Does [X] play [Y]?"}
-{"pattern": "Does [X] play the [Y]?"}
+{"pattern": "[X] plays [Y] .", "bert-base-multilingual-uncased_P@1": 0.08196721311475409}
+{"pattern": "[X] plays the [Y] .", "bert-base-multilingual-uncased_P@1": 0.04371584699453552}
+{"pattern": "[X] plays the music instrument [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Does [X] play [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Does [X] play the [Y]?", "bert-base-multilingual-uncased_P@1": 0.01092896174863388}

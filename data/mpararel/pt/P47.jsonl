@@ -1,15 +1,15 @@
-{"pattern": "[X] faz fronteira com [Y]."}
-{"pattern": "A [X] faz fronteira com a [Y]."}
-{"pattern": "[X] compartilha uma fronteira comum com [Y]."}
-{"pattern": "O [X] faz fronteira com a [Y]."}
-{"pattern": "A [X] faz fronteira com [Y]."}
-{"pattern": "[X] compartilha suas fronteiras com [Y]."}
-{"pattern": "[X] compartilha as fronteiras com [Y]."}
-{"pattern": "[X] faz fronteira com [Y]?"}
-{"pattern": "A [X] faz fronteira com a [Y]?"}
-{"pattern": "[X] compartilha uma fronteira comum com [Y]?"}
-{"pattern": "O [X] faz fronteira com a [Y]?"}
-{"pattern": "A [X] faz fronteira com o [Y]?"}
-{"pattern": "A [X] partilha a sua fronteira com a [Y]?"}
-{"pattern": "[X] compartilha suas fronteiras com [Y]?"}
-{"pattern": "[X] compartilha as fronteiras com [Y]?"}
+{"pattern": "[X] faz fronteira com [Y].", "bert-base-multilingual-uncased_P@1": 0.050724637681159424}
+{"pattern": "A [X] faz fronteira com a [Y].", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
+{"pattern": "[X] compartilha uma fronteira comum com [Y].", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
+{"pattern": "O [X] faz fronteira com a [Y].", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
+{"pattern": "A [X] faz fronteira com [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043}
+{"pattern": "[X] compartilha suas fronteiras com [Y].", "bert-base-multilingual-uncased_P@1": 0.050724637681159424}
+{"pattern": "[X] compartilha as fronteiras com [Y].", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
+{"pattern": "[X] faz fronteira com [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] faz fronteira com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
+{"pattern": "[X] compartilha uma fronteira comum com [Y]?", "bert-base-multilingual-uncased_P@1": 0.06521739130434782}
+{"pattern": "O [X] faz fronteira com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
+{"pattern": "A [X] faz fronteira com o [Y]?", "bert-base-multilingual-uncased_P@1": 0.021739130434782608}
+{"pattern": "A [X] partilha a sua fronteira com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
+{"pattern": "[X] compartilha suas fronteiras com [Y]?", "bert-base-multilingual-uncased_P@1": 0.007246376811594203}
+{"pattern": "[X] compartilha as fronteiras com [Y]?", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}

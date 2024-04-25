@@ -1,30 +1,30 @@
-{"pattern": "[X] kwam uit [Y]."}
-{"pattern": "[X] is opgericht in [Y]."}
-{"pattern": "[X] komt uit [Y]."}
-{"pattern": "[X] is afkomstig uit [Y]."}
-{"pattern": "[X] is gemaakt in [Y]."}
-{"pattern": "[X] is ontwikkeld in [Y]."}
-{"pattern": "[X] werd voor het eerst gecre\u00eberd in [Y]."}
-{"pattern": "[X] werd voor het eerst geproduceerd in [Y]."}
-{"pattern": "[X] werd opgericht in [Y]."}
-{"pattern": "[X] werd geformuleerd in [Y]."}
-{"pattern": "[X], gemaakt in [Y]."}
-{"pattern": "[X], geformuleerd in [Y]."}
-{"pattern": "[X], die zijn oorsprong heeft in [Y]."}
-{"pattern": "[X], dat is gemaakt in [Y]."}
-{"pattern": "[X], dat is ontwikkeld in [Y]."}
-{"pattern": "[X], dat werd gevormd in [Y]."}
-{"pattern": "[X], dat is geformuleerd in [Y]."}
-{"pattern": "Komt [X] uit [Y]?"}
-{"pattern": "Is [X] ontstaan in [Y]?"}
-{"pattern": "Is [X] afkomstig uit [Y]?"}
-{"pattern": "Komen [X] uit [Y]?"}
-{"pattern": "Is [X] van oorsprong in [Y]?"}
-{"pattern": "Is [X] geformuleerd in [Y]?"}
-{"pattern": "Is [X] uit [Y]?"}
-{"pattern": "Is [X] ontwikkeld in [Y]?"}
-{"pattern": "Is [X] voor het eerst gemaakt in [Y]?"}
-{"pattern": "Werd [X] voor het eerst gemaakt in [Y]?"}
-{"pattern": "Is [X] voor het eerst geproduceerd in [Y]?"}
-{"pattern": "Werd [X] opgericht in [Y]?"}
-{"pattern": "Werd [X] geformuleerd in [Y]?"}
+{"pattern": "[X] kwam uit [Y].", "bert-base-multilingual-uncased_P@1": 0.2689075630252101}
+{"pattern": "[X] is opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.23529411764705882}
+{"pattern": "[X] komt uit [Y].", "bert-base-multilingual-uncased_P@1": 0.20168067226890757}
+{"pattern": "[X] is afkomstig uit [Y].", "bert-base-multilingual-uncased_P@1": 0.24369747899159663}
+{"pattern": "[X] is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.23529411764705882}
+{"pattern": "[X] is ontwikkeld in [Y].", "bert-base-multilingual-uncased_P@1": 0.3025210084033613}
+{"pattern": "[X] werd voor het eerst gecre\u00eberd in [Y].", "bert-base-multilingual-uncased_P@1": 0.11764705882352941}
+{"pattern": "[X] werd voor het eerst geproduceerd in [Y].", "bert-base-multilingual-uncased_P@1": 0.2773109243697479}
+{"pattern": "[X] werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.226890756302521}
+{"pattern": "[X] werd geformuleerd in [Y].", "bert-base-multilingual-uncased_P@1": 0.24369747899159663}
+{"pattern": "[X], gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.2184873949579832}
+{"pattern": "[X], geformuleerd in [Y].", "bert-base-multilingual-uncased_P@1": 0.18487394957983194}
+{"pattern": "[X], die zijn oorsprong heeft in [Y].", "bert-base-multilingual-uncased_P@1": 0.226890756302521}
+{"pattern": "[X], dat is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.25210084033613445}
+{"pattern": "[X], dat is ontwikkeld in [Y].", "bert-base-multilingual-uncased_P@1": 0.21008403361344538}
+{"pattern": "[X], dat werd gevormd in [Y].", "bert-base-multilingual-uncased_P@1": 0.226890756302521}
+{"pattern": "[X], dat is geformuleerd in [Y].", "bert-base-multilingual-uncased_P@1": 0.15126050420168066}
+{"pattern": "Komt [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.06722689075630252}
+{"pattern": "Is [X] ontstaan in [Y]?", "bert-base-multilingual-uncased_P@1": 0.10084033613445378}
+{"pattern": "Is [X] afkomstig uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.2605042016806723}
+{"pattern": "Komen [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] van oorsprong in [Y]?", "bert-base-multilingual-uncased_P@1": 0.24369747899159663}
+{"pattern": "Is [X] geformuleerd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.24369747899159663}
+{"pattern": "Is [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.06722689075630252}
+{"pattern": "Is [X] ontwikkeld in [Y]?", "bert-base-multilingual-uncased_P@1": 0.226890756302521}
+{"pattern": "Is [X] voor het eerst gemaakt in [Y]?", "bert-base-multilingual-uncased_P@1": 0.2184873949579832}
+{"pattern": "Werd [X] voor het eerst gemaakt in [Y]?", "bert-base-multilingual-uncased_P@1": 0.25210084033613445}
+{"pattern": "Is [X] voor het eerst geproduceerd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.31092436974789917}
+{"pattern": "Werd [X] opgericht in [Y]?", "bert-base-multilingual-uncased_P@1": 0.058823529411764705}
+{"pattern": "Werd [X] geformuleerd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.03361344537815126}

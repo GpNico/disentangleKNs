@@ -1,14 +1,14 @@
-{"pattern": "La llengua de [X] \u00e9s l'[Y]."}
-{"pattern": "La llengua de [X] era l'[Y]."}
-{"pattern": "[X] \u00e9s una obra escrita en [Y]."}
-{"pattern": "[X] est\u00e0 escrit en [Y]."}
-{"pattern": "[X] va ser una obra escrita en [Y]."}
-{"pattern": "[X] va ser creat en [Y]."}
-{"pattern": "[X] va ser escrit en [Y]."}
-{"pattern": "[X] \u00e9s una obra en [Y]?"}
-{"pattern": "[X] \u00e9s una obra escrita en [Y]?"}
-{"pattern": "[X] s'escriu en [Y]?"}
-{"pattern": "[X] era una obra en [Y]?"}
-{"pattern": "[X] va ser una obra escrita en [Y]?"}
-{"pattern": "[X] va ser creat en [Y]?"}
-{"pattern": "[X] va ser escrit en [Y]?"}
+{"pattern": "La llengua de [X] \u00e9s l'[Y].", "bert-base-multilingual-uncased_P@1": 0.4084507042253521}
+{"pattern": "La llengua de [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.39436619718309857}
+{"pattern": "[X] \u00e9s una obra escrita en [Y].", "bert-base-multilingual-uncased_P@1": 0.1267605633802817}
+{"pattern": "[X] est\u00e0 escrit en [Y].", "bert-base-multilingual-uncased_P@1": 0.1267605633802817}
+{"pattern": "[X] va ser una obra escrita en [Y].", "bert-base-multilingual-uncased_P@1": 0.352112676056338}
+{"pattern": "[X] va ser creat en [Y].", "bert-base-multilingual-uncased_P@1": 0.014084507042253521}
+{"pattern": "[X] va ser escrit en [Y].", "bert-base-multilingual-uncased_P@1": 0.49295774647887325}
+{"pattern": "[X] \u00e9s una obra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.11267605633802817}
+{"pattern": "[X] \u00e9s una obra escrita en [Y]?", "bert-base-multilingual-uncased_P@1": 0.09859154929577464}
+{"pattern": "[X] s'escriu en [Y]?", "bert-base-multilingual-uncased_P@1": 0.323943661971831}
+{"pattern": "[X] era una obra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.09859154929577464}
+{"pattern": "[X] va ser una obra escrita en [Y]?", "bert-base-multilingual-uncased_P@1": 0.49295774647887325}
+{"pattern": "[X] va ser creat en [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] va ser escrit en [Y]?", "bert-base-multilingual-uncased_P@1": 0.08450704225352113}

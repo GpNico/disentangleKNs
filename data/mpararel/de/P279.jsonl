@@ -1,14 +1,14 @@
-{"pattern": "[X] hat die Klasse [Y]."}
-{"pattern": "[X] ist ein [Y]."}
-{"pattern": "[X] ist eine Art [Y]."}
-{"pattern": "[X] ist eine Unterklasse von [Y]."}
-{"pattern": "Ein [X] ist eine Art [Y]."}
-{"pattern": "[X] ist der Klasse [Y]."}
-{"pattern": "[X], eine Unterklasse von [Y]."}
-{"pattern": "[X], eine Art [Y]."}
-{"pattern": "Hat die [X] eine Klasse der [Y]?"}
-{"pattern": "Ist [X] ein [Y]?"}
-{"pattern": "Ist [X] eine Art [Y]?"}
-{"pattern": "Ist [X] eine Unterklasse von [Y]?"}
-{"pattern": "Ist ein [X] eine Art [Y]?"}
-{"pattern": "Ist [X] der Klasse [Y]?"}
+{"pattern": "[X] hat die Klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] ist ein [Y].", "bert-base-multilingual-uncased_P@1": 0.1774193548387097}
+{"pattern": "[X] ist eine Art [Y].", "bert-base-multilingual-uncased_P@1": 0.3709677419354839}
+{"pattern": "[X] ist eine Unterklasse von [Y].", "bert-base-multilingual-uncased_P@1": 0.24193548387096775}
+{"pattern": "Ein [X] ist eine Art [Y].", "bert-base-multilingual-uncased_P@1": 0.4032258064516129}
+{"pattern": "[X] ist der Klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.016129032258064516}
+{"pattern": "[X], eine Unterklasse von [Y].", "bert-base-multilingual-uncased_P@1": 0.22580645161290322}
+{"pattern": "[X], eine Art [Y].", "bert-base-multilingual-uncased_P@1": 0.27419354838709675}
+{"pattern": "Hat die [X] eine Klasse der [Y]?", "bert-base-multilingual-uncased_P@1": 0.16129032258064516}
+{"pattern": "Ist [X] ein [Y]?", "bert-base-multilingual-uncased_P@1": 0.0967741935483871}
+{"pattern": "Ist [X] eine Art [Y]?", "bert-base-multilingual-uncased_P@1": 0.27419354838709675}
+{"pattern": "Ist [X] eine Unterklasse von [Y]?", "bert-base-multilingual-uncased_P@1": 0.20967741935483872}
+{"pattern": "Ist ein [X] eine Art [Y]?", "bert-base-multilingual-uncased_P@1": 0.27419354838709675}
+{"pattern": "Ist [X] der Klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

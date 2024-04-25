@@ -51,23 +51,36 @@ def load_trex_by_uuid(
     else:
         bos_tok_id, eos_tok_id = None, None # e.g. GPT2
     
-    # Get relation predicates ids
-    predicate_ids = list(
-                        set(
-                            [n for n in os.listdir(os.path.join(config.PATH_TO_TREX))]
-                            ).intersection(
-                                    set(
-                                        [n[:-6] for n in os.listdir(os.path.join(config.PATH_TO_AUTOREGRESSIVE_PARAREL))]
-                                        )
-                                    )
-                        )
-
+    
     # Load Data
     full_dataset = {}
     for lang in langs:
         
+        
+        
         if multilingual:
             print(f'Loading {lang}...')
+            # Get relation predicates ids
+            predicate_ids = list(
+                                set(
+                                    [n for n in os.listdir(os.path.join(config.PATH_TO_MLAMA, lang))]
+                                    ).intersection(
+                                            set(
+                                                [n[:-6] for n in os.listdir(os.path.join(config.PATH_TO_MPARAREL, lang))]
+                                                )
+                                            )
+                                )
+        else:
+            # Get relation predicates ids
+            predicate_ids = list(
+                                set(
+                                    [n for n in os.listdir(os.path.join(config.PATH_TO_TREX))]
+                                    ).intersection(
+                                            set(
+                                                [n[:-6] for n in os.listdir(os.path.join(config.PATH_TO_AUTOREGRESSIVE_PARAREL))]
+                                                )
+                                            )
+                                )
         
         dataset = {}
         warning_flag = False # If we couldn't filter prompts
@@ -111,7 +124,8 @@ def load_trex_by_uuid(
                             if add_prefix:
                                 _prompt = "Answer in only one word: " + _prompt
                         else:
-                            raise Exception("Adding Prefix is not supported for multilingual.")
+                            if add_prefix:
+                                raise Exception("Adding Prefix is not supported for multilingual.")
                         prompts.append(_prompt)
                 num_prompts = len(prompts)
 

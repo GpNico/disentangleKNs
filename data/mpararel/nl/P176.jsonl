@@ -1,28 +1,28 @@
-{"pattern": "[X] is een product van [Y]."}
-{"pattern": "[X] is gemaakt door [Y]."}
-{"pattern": "[X] is ontwikkeld door [Y]."}
-{"pattern": "[X] wordt geproduceerd door [Y]."}
-{"pattern": "[X] werd gemaakt door [Y]."}
-{"pattern": "[X] werd ontwikkeld door [Y]."}
-{"pattern": "[X] werd geproduceerd door [Y]."}
-{"pattern": "[X], een product gemaakt door [Y]."}
-{"pattern": "[X], een product ontwikkeld door [Y]."}
-{"pattern": "[X], een product vervaardigd door [Y]."}
-{"pattern": "[X], een product van [Y]."}
-{"pattern": "[X], gemaakt door [Y]."}
-{"pattern": "[X], ontwikkeld door [Y]."}
-{"pattern": "[X], geproduceerd door [Y]."}
-{"pattern": "Is [X] een product gemaakt door [Y]?"}
-{"pattern": "Is [X] een product ontwikkeld door [Y]?"}
-{"pattern": "Is de [X] een product van [Y]?"}
-{"pattern": "Is [X] een product van [Y]?"}
-{"pattern": "Is de [X] gemaakt door [Y]?"}
-{"pattern": "Is [X] ontwikkeld door [Y]?"}
-{"pattern": "Wordt de [X] geproduceerd door [Y]?"}
-{"pattern": "Was de [X] een product gemaakt door [Y]?"}
-{"pattern": "Was de [X] een product ontwikkeld door [Y]?"}
-{"pattern": "Was de [X] een product van [Y]?"}
-{"pattern": "Was [X] een product van [Y]?"}
-{"pattern": "Is [X] gemaakt door [Y]?"}
-{"pattern": "Is de [X] ontwikkeld door [Y]?"}
-{"pattern": "Is de [X] geproduceerd door [Y]?"}
+{"pattern": "[X] is een product van [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "[X] is gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129}
+{"pattern": "[X] is ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "[X] wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129}
+{"pattern": "[X] werd gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.8548387096774194}
+{"pattern": "[X] werd ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "[X] werd geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.9112903225806451}
+{"pattern": "[X], een product gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129}
+{"pattern": "[X], een product ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129}
+{"pattern": "[X], een product vervaardigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "[X], een product van [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "[X], gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.8629032258064516}
+{"pattern": "[X], ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.9112903225806451}
+{"pattern": "[X], geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "Is [X] een product gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "Is [X] een product ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194}
+{"pattern": "Is de [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8467741935483871}
+{"pattern": "Is [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8870967741935484}
+{"pattern": "Is de [X] gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8467741935483871}
+{"pattern": "Is [X] ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7983870967741935}
+{"pattern": "Wordt de [X] geproduceerd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7096774193548387}
+{"pattern": "Was de [X] een product gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8709677419354839}
+{"pattern": "Was de [X] een product ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8870967741935484}
+{"pattern": "Was de [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194}
+{"pattern": "Was [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8951612903225806}
+{"pattern": "Is [X] gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8306451612903226}
+{"pattern": "Is de [X] ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7580645161290323}
+{"pattern": "Is de [X] geproduceerd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194}

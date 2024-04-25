@@ -1,8 +1,8 @@
-{"pattern": "[X]n kieli on [Y]."}
-{"pattern": "[X]n kieli oli [Y]."}
-{"pattern": "[X]n alkuper\u00e4inen kieli on [Y]."}
-{"pattern": "[X]n alkuper\u00e4inen kieli oli [Y]."}
-{"pattern": "[X] esitettiin alun perin seuraavalla kielell\u00e4: [Y]."}
-{"pattern": "[X] pelattiin alun perin seuraavalla kielell\u00e4: [Y]."}
-{"pattern": "Oliko [X] alun perin esitetty seuraavalla kielell\u00e4: [Y]?"}
-{"pattern": "Pelattiinko [X] alun perin seuraavalla kielell\u00e4: [Y]?"}
+{"pattern": "[X]n kieli on [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X]n kieli oli [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X]n alkuper\u00e4inen kieli on [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "[X]n alkuper\u00e4inen kieli oli [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "[X] esitettiin alun perin seuraavalla kielell\u00e4: [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] pelattiin alun perin seuraavalla kielell\u00e4: [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "Oliko [X] alun perin esitetty seuraavalla kielell\u00e4: [Y]?", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "Pelattiinko [X] alun perin seuraavalla kielell\u00e4: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

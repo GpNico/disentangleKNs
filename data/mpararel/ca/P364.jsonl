@@ -1,16 +1,16 @@
-{"pattern": "La llengua de [X] \u00e9s l'[Y]."}
-{"pattern": "La llengua de [X] era l'[Y]."}
-{"pattern": "La llengua original de [X] \u00e9s l'[Y]."}
-{"pattern": "La llengua original de [X] era l'[Y]."}
-{"pattern": "[X] va ser interpretat originalment en [Y]."}
-{"pattern": "[X] va ser interpretat originalment en llengua [Y]."}
-{"pattern": "[X] va ser interpretat originalment en el seg\u00fcent idioma: [Y]."}
-{"pattern": "[X] es va jugar originalment en [Y]."}
-{"pattern": "[X] es va interpretar originalment en [Y]."}
-{"pattern": "[X] es va jugar originalment en el seg\u00fcent idioma: [Y]."}
-{"pattern": "[X] va ser interpretat originalment en [Y]?"}
-{"pattern": "[X] va ser interpretada originalment en [Y]?"}
-{"pattern": "[X] va ser interpretat originalment en el seg\u00fcent idioma: [Y]?"}
-{"pattern": "[X] es va jugar originalment en [Y]?"}
-{"pattern": "[X] va ser jugat originalment en [Y]?"}
-{"pattern": "[X] es va jugar originalment en el seg\u00fcent idioma: [Y]?"}
+{"pattern": "La llengua de [X] \u00e9s l'[Y].", "bert-base-multilingual-uncased_P@1": 0.2826086956521739}
+{"pattern": "La llengua de [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.2608695652173913}
+{"pattern": "La llengua original de [X] \u00e9s l'[Y].", "bert-base-multilingual-uncased_P@1": 0.30434782608695654}
+{"pattern": "La llengua original de [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.2826086956521739}
+{"pattern": "[X] va ser interpretat originalment en [Y].", "bert-base-multilingual-uncased_P@1": 0.41304347826086957}
+{"pattern": "[X] va ser interpretat originalment en llengua [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043}
+{"pattern": "[X] va ser interpretat originalment en el seg\u00fcent idioma: [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X] es va jugar originalment en [Y].", "bert-base-multilingual-uncased_P@1": 0.391304347826087}
+{"pattern": "[X] es va interpretar originalment en [Y].", "bert-base-multilingual-uncased_P@1": 0.41304347826086957}
+{"pattern": "[X] es va jugar originalment en el seg\u00fcent idioma: [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X] va ser interpretat originalment en [Y]?", "bert-base-multilingual-uncased_P@1": 0.021739130434782608}
+{"pattern": "[X] va ser interpretada originalment en [Y]?", "bert-base-multilingual-uncased_P@1": 0.17391304347826086}
+{"pattern": "[X] va ser interpretat originalment en el seg\u00fcent idioma: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] es va jugar originalment en [Y]?", "bert-base-multilingual-uncased_P@1": 0.10869565217391304}
+{"pattern": "[X] va ser jugat originalment en [Y]?", "bert-base-multilingual-uncased_P@1": 0.021739130434782608}
+{"pattern": "[X] es va jugar originalment en el seg\u00fcent idioma: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

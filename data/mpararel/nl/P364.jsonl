@@ -1,10 +1,10 @@
-{"pattern": "De taal van [X] is [Y]."}
-{"pattern": "De taal van [X] was [Y]."}
-{"pattern": "De oorspronkelijke taal van [X] is [Y]."}
-{"pattern": "De oorspronkelijke taal van [X] was [Y]."}
-{"pattern": "[X] werd oorspronkelijk uitgevoerd in de volgende taal: [Y]."}
-{"pattern": "[X] werd oorspronkelijk gespeeld in het [Y]."}
-{"pattern": "Werd [X] oorspronkelijk uitgevoerd in de taal [Y]?"}
-{"pattern": "Was [X] oorspronkelijk uitgevoerd in de volgende taal: [Y]?"}
-{"pattern": "Was [X] oorspronkelijk gespeeld in het [Y]?"}
-{"pattern": "Werd [X] oorspronkelijk gespeeld in de volgende taal: [Y]?"}
+{"pattern": "De taal van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4606741573033708}
+{"pattern": "De taal van [X] was [Y].", "bert-base-multilingual-uncased_P@1": 0.3146067415730337}
+{"pattern": "De oorspronkelijke taal van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.5280898876404494}
+{"pattern": "De oorspronkelijke taal van [X] was [Y].", "bert-base-multilingual-uncased_P@1": 0.5168539325842697}
+{"pattern": "[X] werd oorspronkelijk uitgevoerd in de volgende taal: [Y].", "bert-base-multilingual-uncased_P@1": 0.5730337078651685}
+{"pattern": "[X] werd oorspronkelijk gespeeld in het [Y].", "bert-base-multilingual-uncased_P@1": 0.3595505617977528}
+{"pattern": "Werd [X] oorspronkelijk uitgevoerd in de taal [Y]?", "bert-base-multilingual-uncased_P@1": 0.0898876404494382}
+{"pattern": "Was [X] oorspronkelijk uitgevoerd in de volgende taal: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] oorspronkelijk gespeeld in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.07865168539325842}
+{"pattern": "Werd [X] oorspronkelijk gespeeld in de volgende taal: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

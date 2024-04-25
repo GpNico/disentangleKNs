@@ -5,7 +5,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 from typing import List, Tuple, Dict
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, T5Tokenizer
 
 from config import Config
     
@@ -20,6 +20,8 @@ def load_tokenizer(model_name: str):
                                              add_prefix_space = True,) # I think I should) # Not sure why
     if 'Llama' in model_name:
         return AutoTokenizer.from_pretrained(f'meta-llama/{model_name}')
+    if 't5' in model_name:
+        return T5Tokenizer.from_pretrained(f"google/{model_name}")
     else:
         return AutoTokenizer.from_pretrained(model_name)
 
@@ -31,7 +33,7 @@ def should_lower(model_name: str) -> bool:
                       'bert-large-uncased',
                       'bert-base-multilingual-uncased']:
         return True
-    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']:
+    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")
@@ -45,10 +47,13 @@ def is_autoregressive(model_name):
         return True
     if 'opt' in model_name:
         return True
+    if 't5' in model_name:
+        return True # More complicated I think but treated as one
     
 def get_model_intermediate_layer(model: nn.Module, 
                                  model_name: str,
-                                 layer_num: int) -> nn.Module:
+                                 layer_num: int,
+                                 t5_part: str = 'encoder') -> nn.Module:
     if 'bert' in model_name:
         return model.bert.encoder.layer[layer_num].intermediate
     elif 'opt' in model_name:
@@ -61,17 +66,28 @@ def get_model_intermediate_layer(model: nn.Module,
         # But gate_proj act as gating values that modulate the strength
         # of up_proj so that might lead to some weird things...
         return model.model.layers[layer_num].mlp.up_proj
+    elif 't5' in model_name:
+        if t5_part == 'encoder':
+            model.encoder.block[layer_num].layer[1].DenseReluDense.wi_0
+        else:
+            model.decoder.block[layer_num].layer[2].DenseReluDense.wi_0
     else:
         raise Exception("Don't forget to put your model in the get_model_intermediate_layer function :'(")
     
 def get_intermediate_dim(model: nn.Module,
-                         model_name: str) -> int:
+                         model_name: str,
+                         t5_part: str = 'encoder') -> int:
     if 'bert' in model_name:
         return model.bert.encoder.layer[0].intermediate.dense.out_features
     elif 'opt' in model_name:
         return model.model.decoder.layers[0].fc1.out_features
     elif 'Llama' in model_name:
         return model.model.layers[0].mlp.up_proj.out_features
+    elif 't5' in model_name:
+        if t5_part == 'encoder':
+            model.encoder.block[0].layer[1].DenseReluDense.wi_0.out_features
+        else:
+            model.decoder.block[0].layer[2].DenseReluDense.wi_0.out_features
     else:
         raise Exception("Don't forget to put your model in the get_model_intermediate_layer function :'(")
     

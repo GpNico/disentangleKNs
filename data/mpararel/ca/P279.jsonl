@@ -1,14 +1,14 @@
-{"pattern": "L'[X] t\u00e9 classe d'[Y]."}
-{"pattern": "La [X] \u00e9s una [Y]."}
-{"pattern": "La [X] \u00e9s una mena de [Y]."}
-{"pattern": "La [X] \u00e9s una subclasa de [Y]."}
-{"pattern": "La [X] \u00e9s un tipus de [Y]."}
-{"pattern": "La [X] \u00e9s de classe [Y]."}
-{"pattern": "[X], una subclasa de [Y]."}
-{"pattern": "[X], un tipus de [Y]."}
-{"pattern": "[X], que \u00e9s una subclasa de [Y]."}
-{"pattern": "L'[X] t\u00e9 classe d'[Y]?"}
-{"pattern": "La [X] \u00e9s una [Y]?"}
-{"pattern": "El [X] \u00e9s una mena de [Y]?"}
-{"pattern": "La [X] \u00e9s una subclasa de la [Y]?"}
-{"pattern": "La [X] \u00e9s un tipus de [Y]?"}
+{"pattern": "L'[X] t\u00e9 classe d'[Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "La [X] \u00e9s una [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857}
+{"pattern": "La [X] \u00e9s una mena de [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}
+{"pattern": "La [X] \u00e9s una subclasa de [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857}
+{"pattern": "La [X] \u00e9s un tipus de [Y].", "bert-base-multilingual-uncased_P@1": 0.5178571428571429}
+{"pattern": "La [X] \u00e9s de classe [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "[X], una subclasa de [Y].", "bert-base-multilingual-uncased_P@1": 0.3392857142857143}
+{"pattern": "[X], un tipus de [Y].", "bert-base-multilingual-uncased_P@1": 0.48214285714285715}
+{"pattern": "[X], que \u00e9s una subclasa de [Y].", "bert-base-multilingual-uncased_P@1": 0.3392857142857143}
+{"pattern": "L'[X] t\u00e9 classe d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.08928571428571429}
+{"pattern": "La [X] \u00e9s una [Y]?", "bert-base-multilingual-uncased_P@1": 0.23214285714285715}
+{"pattern": "El [X] \u00e9s una mena de [Y]?", "bert-base-multilingual-uncased_P@1": 0.39285714285714285}
+{"pattern": "La [X] \u00e9s una subclasa de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.44642857142857145}
+{"pattern": "La [X] \u00e9s un tipus de [Y]?", "bert-base-multilingual-uncased_P@1": 0.4642857142857143}

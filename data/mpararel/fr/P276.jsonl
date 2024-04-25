@@ -1,6 +1,6 @@
-{"pattern": "Le [X] se trouve \u00e0 [Y]."}
-{"pattern": "[X] est \u00e0 [Y]."}
-{"pattern": "[X] est situ\u00e9 \u00e0 [Y]."}
-{"pattern": "[X] peut-il \u00eatre trouv\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] est \u00e0 [Y]?"}
-{"pattern": "Le [X] est-il situ\u00e9 \u00e0 [Y]?"}
+{"pattern": "Le [X] se trouve \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.47244094488188976}
+{"pattern": "[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3858267716535433}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.4645669291338583}
+{"pattern": "[X] peut-il \u00eatre trouv\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.23622047244094488}
+{"pattern": "[X] est \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2125984251968504}
+{"pattern": "Le [X] est-il situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.48031496062992124}

@@ -1,8 +1,8 @@
-{"pattern": "[X] es va comunicar en [Y]."}
-{"pattern": "[X] es comunica en [Y]."}
-{"pattern": "[X] parla [Y]."}
-{"pattern": "[X] parlava [Y]."}
-{"pattern": "[X] solia comunicar-se en [Y]."}
-{"pattern": "[X] es comunicava en [Y]?"}
-{"pattern": "[X] parlava [Y]?"}
-{"pattern": "[X] parla [Y]?"}
+{"pattern": "[X] es va comunicar en [Y].", "bert-base-multilingual-uncased_P@1": 0.09036144578313253}
+{"pattern": "[X] es comunica en [Y].", "bert-base-multilingual-uncased_P@1": 0.060240963855421686}
+{"pattern": "[X] parla [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] parlava [Y].", "bert-base-multilingual-uncased_P@1": 0.12048192771084337}
+{"pattern": "[X] solia comunicar-se en [Y].", "bert-base-multilingual-uncased_P@1": 0.0963855421686747}
+{"pattern": "[X] es comunicava en [Y]?", "bert-base-multilingual-uncased_P@1": 0.07228915662650602}
+{"pattern": "[X] parlava [Y]?", "bert-base-multilingual-uncased_P@1": 0.006024096385542169}
+{"pattern": "[X] parla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

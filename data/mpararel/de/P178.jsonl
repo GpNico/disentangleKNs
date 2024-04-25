@@ -1,17 +1,17 @@
-{"pattern": "[X] und sein Produkt [Y]."}
-{"pattern": "[X] erstellt [Y]."}
-{"pattern": "[X] entwickelt [Y]."}
-{"pattern": "[X] macht [Y]."}
-{"pattern": "[X] produziert [Y]."}
-{"pattern": "[X], das entwickelt [Y]."}
-{"pattern": "[X], das macht [Y]."}
-{"pattern": "[X], das produziert [Y]."}
-{"pattern": "[X], der Sch\u00f6pfer von [Y]."}
-{"pattern": "Entwickelt [X] [Y]?"}
-{"pattern": "Macht [X] [Y]?"}
-{"pattern": "Produziert [X] von [Y]?"}
-{"pattern": "Produziert [X] [Y]?"}
-{"pattern": "Ist [X] der Sch\u00f6pfer von [Y]?"}
-{"pattern": "Ist [X] der Sch\u00f6pfer des [Y]?"}
-{"pattern": "War [X] der Sch\u00f6pfer von [Y]?"}
-{"pattern": "War [X] der Sch\u00f6pfer des [Y]?"}
+{"pattern": "[X] und sein Produkt [Y].", "bert-base-multilingual-uncased_P@1": 0.011111111111111112}
+{"pattern": "[X] erstellt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] entwickelt [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
+{"pattern": "[X] macht [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] produziert [Y].", "bert-base-multilingual-uncased_P@1": 0.011111111111111112}
+{"pattern": "[X], das entwickelt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], das macht [Y].", "bert-base-multilingual-uncased_P@1": 0.022222222222222223}
+{"pattern": "[X], das produziert [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], der Sch\u00f6pfer von [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "Entwickelt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Macht [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Produziert [X] von [Y]?", "bert-base-multilingual-uncased_P@1": 0.011111111111111112}
+{"pattern": "Produziert [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Ist [X] der Sch\u00f6pfer von [Y]?", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "Ist [X] der Sch\u00f6pfer des [Y]?", "bert-base-multilingual-uncased_P@1": 0.011111111111111112}
+{"pattern": "War [X] der Sch\u00f6pfer von [Y]?", "bert-base-multilingual-uncased_P@1": 0.28888888888888886}
+{"pattern": "War [X] der Sch\u00f6pfer des [Y]?", "bert-base-multilingual-uncased_P@1": 0.011111111111111112}

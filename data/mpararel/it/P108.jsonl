@@ -1,6 +1,6 @@
-{"pattern": "[X] \u00e8 impiegato da [Y]."}
-{"pattern": "[X] lavora per [Y]."}
-{"pattern": "[X], che \u00e8 impiegato da [Y]."}
-{"pattern": "[X], che lavora per [Y]."}
-{"pattern": "[X] lavora per la [Y]?"}
-{"pattern": "[X] e' impiegato di [Y]?"}
+{"pattern": "[X] \u00e8 impiegato da [Y].", "bert-base-multilingual-uncased_P@1": 0.03636363636363636}
+{"pattern": "[X] lavora per [Y].", "bert-base-multilingual-uncased_P@1": 0.01818181818181818}
+{"pattern": "[X], che \u00e8 impiegato da [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], che lavora per [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] lavora per la [Y]?", "bert-base-multilingual-uncased_P@1": 0.07272727272727272}
+{"pattern": "[X] e' impiegato di [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

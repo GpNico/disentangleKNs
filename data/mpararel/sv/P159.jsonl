@@ -1,14 +1,14 @@
-{"pattern": "[X]s huvudkontor ligger i [Y]."}
-{"pattern": "[X] har sitt huvudkontor i [Y]."}
-{"pattern": "[X] huvudkontor ligger i [Y]."}
-{"pattern": "[X] har sitt s\u00e4te i [Y]."}
-{"pattern": "[X] \u00e4r bel\u00e4get i [Y]."}
-{"pattern": "[X]:s huvudkontor ligger i [Y]."}
-{"pattern": "\u00c4r [X]s huvudkontor i [Y]?"}
-{"pattern": "\u00c4r [X] huvudkontor i [Y]?"}
-{"pattern": "Ligger [X]s huvudkontor i [Y]?"}
-{"pattern": "\u00c4r [X] baserat i [Y]?"}
-{"pattern": "Har [X] sitt huvudkontor i [Y]?"}
-{"pattern": "\u00c4r [X] bel\u00e4get i [Y]?"}
-{"pattern": "\u00c4r huvudkontoret f\u00f6r [X] i [Y]?"}
-{"pattern": "Ligger huvudkontoret f\u00f6r [X] i [Y]?"}
+{"pattern": "[X]s huvudkontor ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
+{"pattern": "[X] har sitt huvudkontor i [Y].", "bert-base-multilingual-uncased_P@1": 0.4027777777777778}
+{"pattern": "[X] huvudkontor ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.4166666666666667}
+{"pattern": "[X] har sitt s\u00e4te i [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "[X] \u00e4r bel\u00e4get i [Y].", "bert-base-multilingual-uncased_P@1": 0.2916666666666667}
+{"pattern": "[X]:s huvudkontor ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.4305555555555556}
+{"pattern": "\u00c4r [X]s huvudkontor i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "\u00c4r [X] huvudkontor i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2777777777777778}
+{"pattern": "Ligger [X]s huvudkontor i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "\u00c4r [X] baserat i [Y]?", "bert-base-multilingual-uncased_P@1": 0.25}
+{"pattern": "Har [X] sitt huvudkontor i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3888888888888889}
+{"pattern": "\u00c4r [X] bel\u00e4get i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2638888888888889}
+{"pattern": "\u00c4r huvudkontoret f\u00f6r [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3194444444444444}
+{"pattern": "Ligger huvudkontoret f\u00f6r [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3611111111111111}

@@ -1,16 +1,16 @@
-{"pattern": "The domain of activity of [X] is [Y] ."}
-{"pattern": "The domain of work of [X] is [Y] ."}
-{"pattern": "The expertise of [X] is [Y] ."}
-{"pattern": "[X] specializes in [Y] ."}
-{"pattern": "[X] works in the area of [Y] ."}
-{"pattern": "[X] works in the field of [Y] ."}
-{"pattern": "[X]'s area of expertise is [Y] ."}
-{"pattern": "[X]'s area of work is [Y] ."}
-{"pattern": "[X]'s domain of activity is [Y] ."}
-{"pattern": "[X]'s domain of work is [Y] ."}
-{"pattern": "[X]'s expertise is [Y] ."}
-{"pattern": "[X]'s expertise is in [Y] ."}
-{"pattern": "Does [X] specialize in [Y]?"}
-{"pattern": "Does [X] work in field [Y]?"}
-{"pattern": "Does [X] work in the area of [Y]?"}
-{"pattern": "Is [X]'s expertise in [Y]?"}
+{"pattern": "The domain of activity of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.03125}
+{"pattern": "The domain of work of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.046875}
+{"pattern": "The expertise of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] specializes in [Y] .", "bert-base-multilingual-uncased_P@1": 0.109375}
+{"pattern": "[X] works in the area of [Y] .", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X] works in the field of [Y] .", "bert-base-multilingual-uncased_P@1": 0.171875}
+{"pattern": "[X]'s area of expertise is [Y] .", "bert-base-multilingual-uncased_P@1": 0.1328125}
+{"pattern": "[X]'s area of work is [Y] .", "bert-base-multilingual-uncased_P@1": 0.1015625}
+{"pattern": "[X]'s domain of activity is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0859375}
+{"pattern": "[X]'s domain of work is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0859375}
+{"pattern": "[X]'s expertise is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s expertise is in [Y] .", "bert-base-multilingual-uncased_P@1": 0.1796875}
+{"pattern": "Does [X] specialize in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1484375}
+{"pattern": "Does [X] work in field [Y]?", "bert-base-multilingual-uncased_P@1": 0.046875}
+{"pattern": "Does [X] work in the area of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1796875}
+{"pattern": "Is [X]'s expertise in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1796875}

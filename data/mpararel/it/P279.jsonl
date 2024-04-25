@@ -1,14 +1,14 @@
-{"pattern": "L'[X] ha una classe di [Y]."}
-{"pattern": "La [X] \u00e8 una [Y]."}
-{"pattern": "L'[X] \u00e8 un tipo di [Y]."}
-{"pattern": "La [X] \u00e8 una sottoclasse della [Y]."}
-{"pattern": "La [X] \u00e8 un tipo di [Y]."}
-{"pattern": "La [X] \u00e8 di classe [Y]."}
-{"pattern": "[X], una sottoclasse di [Y]."}
-{"pattern": "[X], un tipo di [Y]."}
-{"pattern": "[X], che \u00e8 una sottoclasse di [Y]."}
-{"pattern": "L'[X] ha una classe di [Y]?"}
-{"pattern": "La [X] \u00e8 una [Y]?"}
-{"pattern": "L'[X] \u00e8 una specie di [Y]?"}
-{"pattern": "L'[X] \u00e8 una sottoclasse dell'[Y]?"}
-{"pattern": "La [X] \u00e8 un tipo di [Y]?"}
+{"pattern": "L'[X] ha una classe di [Y].", "bert-base-multilingual-uncased_P@1": 0.1323529411764706}
+{"pattern": "La [X] \u00e8 una [Y].", "bert-base-multilingual-uncased_P@1": 0.2647058823529412}
+{"pattern": "L'[X] \u00e8 un tipo di [Y].", "bert-base-multilingual-uncased_P@1": 0.4852941176470588}
+{"pattern": "La [X] \u00e8 una sottoclasse della [Y].", "bert-base-multilingual-uncased_P@1": 0.25}
+{"pattern": "La [X] \u00e8 un tipo di [Y].", "bert-base-multilingual-uncased_P@1": 0.4411764705882353}
+{"pattern": "La [X] \u00e8 di classe [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], una sottoclasse di [Y].", "bert-base-multilingual-uncased_P@1": 0.38235294117647056}
+{"pattern": "[X], un tipo di [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X], che \u00e8 una sottoclasse di [Y].", "bert-base-multilingual-uncased_P@1": 0.35294117647058826}
+{"pattern": "L'[X] ha una classe di [Y]?", "bert-base-multilingual-uncased_P@1": 0.10294117647058823}
+{"pattern": "La [X] \u00e8 una [Y]?", "bert-base-multilingual-uncased_P@1": 0.1323529411764706}
+{"pattern": "L'[X] \u00e8 una specie di [Y]?", "bert-base-multilingual-uncased_P@1": 0.38235294117647056}
+{"pattern": "L'[X] \u00e8 una sottoclasse dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.16176470588235295}
+{"pattern": "La [X] \u00e8 un tipo di [Y]?", "bert-base-multilingual-uncased_P@1": 0.4852941176470588}

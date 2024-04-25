@@ -1,21 +1,21 @@
-{"pattern": "[X] og dets produkt [Y]."}
-{"pattern": "[X] bygger [Y]."}
-{"pattern": "[X] udvikler [Y]."}
-{"pattern": "[X] g\u00f8r [Y]."}
-{"pattern": "[X] fremstiller [Y]."}
-{"pattern": "[X] producerer [Y]."}
-{"pattern": "[X], der bygger [Y]."}
-{"pattern": "[X], der skabte [Y]."}
-{"pattern": "[X], der udviklede [Y]."}
-{"pattern": "[X], der udvikler [Y]."}
-{"pattern": "[X], det g\u00f8r [Y]."}
-{"pattern": "[X], der fremstiller [Y]."}
-{"pattern": "[X], der producerer [Y]."}
-{"pattern": "[X], skaberen af [Y]."}
-{"pattern": "Skabte [X] [Y]?"}
-{"pattern": "Udvikler [X] [Y]?"}
-{"pattern": "G\u00f8r [X] [Y]?"}
-{"pattern": "Fremstiller [X] [Y]?"}
-{"pattern": "Producerer [X] [Y]?"}
-{"pattern": "Er [X] skaberen af [Y]?"}
-{"pattern": "Var [X] skaberen af [Y]?"}
+{"pattern": "[X] og dets produkt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] bygger [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] udvikler [Y].", "bert-base-multilingual-uncased_P@1": 0.17142857142857143}
+{"pattern": "[X] g\u00f8r [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] fremstiller [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] producerer [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], der bygger [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], der skabte [Y].", "bert-base-multilingual-uncased_P@1": 0.2571428571428571}
+{"pattern": "[X], der udviklede [Y].", "bert-base-multilingual-uncased_P@1": 0.05714285714285714}
+{"pattern": "[X], der udvikler [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857}
+{"pattern": "[X], det g\u00f8r [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], der fremstiller [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], der producerer [Y].", "bert-base-multilingual-uncased_P@1": 0.08571428571428572}
+{"pattern": "[X], skaberen af [Y].", "bert-base-multilingual-uncased_P@1": 0.4857142857142857}
+{"pattern": "Skabte [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Udvikler [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "G\u00f8r [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Fremstiller [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Producerer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Er [X] skaberen af [Y]?", "bert-base-multilingual-uncased_P@1": 0.42857142857142855}
+{"pattern": "Var [X] skaberen af [Y]?", "bert-base-multilingual-uncased_P@1": 0.5142857142857142}

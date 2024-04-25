@@ -1,34 +1,34 @@
-{"pattern": "[X]ia edustaa musiikkilevy-yhti\u00f6 [Y]."}
-{"pattern": "[X]ia edustanut levy-yhti\u00f6 oli [Y]."}
-{"pattern": "[X]n edustava levy-yhti\u00f6 on [Y]."}
-{"pattern": "[X]ia edusti musiikkilevy-yhti\u00f6 [Y]."}
-{"pattern": "[X]in levy-yhti\u00f6 on [Y]."}
-{"pattern": "[X]in levy-yhti\u00f6 oli [Y]."}
-{"pattern": "[X] -levy-yhti\u00f6 on [Y]."}
-{"pattern": "[X]ia edustaa [Y]."}
-{"pattern": "[X] on edustettu musiikkilevy-yhti\u00f6ll\u00e4 [Y]."}
-{"pattern": "[X]ia edustaa levy-yhti\u00f6 [Y]."}
-{"pattern": "[X]in levy-yhti\u00f6 [Y]."}
-{"pattern": "[X] julkaisi [Y]."}
-{"pattern": "[X]ia edusti [Y]."}
-{"pattern": "[X]a edusti musiikkilevy-yhti\u00f6 [Y]."}
-{"pattern": "[X]ia edusti levy-yhti\u00f6 [Y]."}
-{"pattern": "[X]n levy-yhti\u00f6 on [Y]."}
-{"pattern": "[X]n levy-yhti\u00f6 oli [Y]."}
-{"pattern": "[X] -yhtyeen levy-yhti\u00f6 on [Y]."}
-{"pattern": "[X], jota edustaa [Y]."}
-{"pattern": "[X], jota edusti [Y]."}
-{"pattern": "[X]a, jota edustaa [Y]."}
-{"pattern": "[X]ia, jota edusti [Y]."}
-{"pattern": "Edustaako [X] levy-yhti\u00f6t\u00e4 [Y]?"}
-{"pattern": "Edustaako [X] musiikkilevy-yhti\u00f6t\u00e4 [Y]?"}
-{"pattern": "Edustetaanko [X]ia levy-yhti\u00f6 [Y]?"}
-{"pattern": "Onko [X]in levy-yhti\u00f6 [Y]?"}
-{"pattern": "Onko musiikkilevy-yhti\u00f6, joka edustaa [X]ia, [Y]?"}
-{"pattern": "Onko levy-yhti\u00f6, joka edustaa [X]ia, [Y]?"}
-{"pattern": "Edustiko [X] levy-yhti\u00f6t\u00e4 [Y]?"}
-{"pattern": "Edustiko [X] musiikkilevy-yhti\u00f6t\u00e4 [Y]?"}
-{"pattern": "Edustettiinko [X]ia levy-yhti\u00f6 [Y]?"}
-{"pattern": "Oliko [X]in levy-yhti\u00f6 [Y]?"}
-{"pattern": "Oliko musiikkilevy-yhti\u00f6, joka edustaa [X]ia, [Y]?"}
-{"pattern": "Oliko levy-yhti\u00f6, joka edustaa [X]ia, [Y]?"}
+{"pattern": "[X]ia edustaa musiikkilevy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]ia edustanut levy-yhti\u00f6 oli [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]n edustava levy-yhti\u00f6 on [Y].", "bert-base-multilingual-uncased_P@1": 0.4666666666666667}
+{"pattern": "[X]ia edusti musiikkilevy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]in levy-yhti\u00f6 on [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
+{"pattern": "[X]in levy-yhti\u00f6 oli [Y].", "bert-base-multilingual-uncased_P@1": 0.13333333333333333}
+{"pattern": "[X] -levy-yhti\u00f6 on [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]ia edustaa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] on edustettu musiikkilevy-yhti\u00f6ll\u00e4 [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "[X]ia edustaa levy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]in levy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] julkaisi [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]ia edusti [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]a edusti musiikkilevy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]ia edusti levy-yhti\u00f6 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]n levy-yhti\u00f6 on [Y].", "bert-base-multilingual-uncased_P@1": 0.13333333333333333}
+{"pattern": "[X]n levy-yhti\u00f6 oli [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667}
+{"pattern": "[X] -yhtyeen levy-yhti\u00f6 on [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "[X], jota edustaa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], jota edusti [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]a, jota edustaa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]ia, jota edusti [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustaako [X] levy-yhti\u00f6t\u00e4 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustaako [X] musiikkilevy-yhti\u00f6t\u00e4 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustetaanko [X]ia levy-yhti\u00f6 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Onko [X]in levy-yhti\u00f6 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Onko musiikkilevy-yhti\u00f6, joka edustaa [X]ia, [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Onko levy-yhti\u00f6, joka edustaa [X]ia, [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustiko [X] levy-yhti\u00f6t\u00e4 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustiko [X] musiikkilevy-yhti\u00f6t\u00e4 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Edustettiinko [X]ia levy-yhti\u00f6 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Oliko [X]in levy-yhti\u00f6 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Oliko musiikkilevy-yhti\u00f6, joka edustaa [X]ia, [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Oliko levy-yhti\u00f6, joka edustaa [X]ia, [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

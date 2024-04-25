@@ -1,5 +1,5 @@
-{"pattern": "[X] ja sen tuote [Y]."}
-{"pattern": "[X], jonka kehitti [Y]."}
-{"pattern": "[X], jota kehitt\u00e4\u00e4 [Y]."}
-{"pattern": "[X], joka tekee [Y]."}
-{"pattern": "[X], jonka valmistaa [Y]."}
+{"pattern": "[X] ja sen tuote [Y].", "bert-base-multilingual-uncased_P@1": 0.07246376811594203}
+{"pattern": "[X], jonka kehitti [Y].", "bert-base-multilingual-uncased_P@1": 0.4782608695652174}
+{"pattern": "[X], jota kehitt\u00e4\u00e4 [Y].", "bert-base-multilingual-uncased_P@1": 0.463768115942029}
+{"pattern": "[X], joka tekee [Y].", "bert-base-multilingual-uncased_P@1": 0.014492753623188406}
+{"pattern": "[X], jonka valmistaa [Y].", "bert-base-multilingual-uncased_P@1": 0.42028985507246375}

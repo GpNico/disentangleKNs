@@ -1,5 +1,5 @@
-{"pattern": "Het beroep van [X] is [Y]."}
-{"pattern": "[X] is [Y]."}
-{"pattern": "[X]'s beroep is [Y]."}
-{"pattern": "[X]' beroep is [Y]."}
-{"pattern": "[X] is beroepsmatig [Y]."}
+{"pattern": "Het beroep van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s beroep is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]' beroep is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is beroepsmatig [Y].", "bert-base-multilingual-uncased_P@1": 0.0962962962962963}

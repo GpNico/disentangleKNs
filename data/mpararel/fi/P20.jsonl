@@ -1,6 +1,6 @@
-{"pattern": "[X]in kuolinsija on [Y]."}
-{"pattern": "[X]in kuolinsija oli [Y]."}
-{"pattern": "[X]n kuolipaikka on [Y]."}
-{"pattern": "[X]n kuolipaikka oli [Y]."}
-{"pattern": "[X]in kuolipaikka on [Y]."}
-{"pattern": "[X]in kuolipaikka oli [Y]."}
+{"pattern": "[X]in kuolinsija on [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]in kuolinsija oli [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]n kuolipaikka on [Y].", "bert-base-multilingual-uncased_P@1": 0.07017543859649122}
+{"pattern": "[X]n kuolipaikka oli [Y].", "bert-base-multilingual-uncased_P@1": 0.08771929824561403}
+{"pattern": "[X]in kuolipaikka on [Y].", "bert-base-multilingual-uncased_P@1": 0.07017543859649122}
+{"pattern": "[X]in kuolipaikka oli [Y].", "bert-base-multilingual-uncased_P@1": 0.07017543859649122}

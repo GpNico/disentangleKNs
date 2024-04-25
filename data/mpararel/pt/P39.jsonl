@@ -1,99 +1,99 @@
-{"pattern": "[X] tinha o cargo oficial de [Y]."}
-{"pattern": "[X] tinha o cargo p\u00fablico de [Y]."}
-{"pattern": "[X] tinha o papel de [Y]."}
-{"pattern": "[X] tem o cargo oficial de [Y]."}
-{"pattern": "[X] tem a posi\u00e7\u00e3o p\u00fablica de [Y]."}
-{"pattern": "[X] tem o papel de [Y]."}
-{"pattern": "[X] desempenhou o papel oficial de [Y]."}
-{"pattern": "[X] desempenhou o papel p\u00fablico de [Y]."}
-{"pattern": "[X] ocupa o papel oficial de [Y]."}
-{"pattern": "[X] ocupa o cargo p\u00fablico de [Y]."}
-{"pattern": "[X] ocupa o papel p\u00fablico de [Y]."}
-{"pattern": "[X] ocupa o papel de [Y]."}
-{"pattern": "O papel oficial de [X] era [Y]."}
-{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 [Y]."}
-{"pattern": "A posi\u00e7\u00e3o de [X] era [Y]."}
-{"pattern": "O papel p\u00fablico de [X] \u00e9 [Y]."}
-{"pattern": "O papel p\u00fablico de [X] foi [Y]."}
-{"pattern": "O papel de [X] \u00e9 [Y]."}
-{"pattern": "O papel de [X] era [Y]."}
-{"pattern": "[X], que tinha o cargo de [Y]."}
-{"pattern": "[X], que tinha o papel de [Y]."}
-{"pattern": "[X], que tem a posi\u00e7\u00e3o oficial de [Y]."}
-{"pattern": "[X], que tem o papel oficial de [Y]."}
-{"pattern": "[X], que tem o cargo de [Y]."}
-{"pattern": "[X], que tem a posi\u00e7\u00e3o p\u00fablica de [Y]."}
-{"pattern": "[X], que tem o papel p\u00fablico de [Y]."}
-{"pattern": "[X], que tem o papel de [Y]."}
-{"pattern": "[X], que ocupou a posi\u00e7\u00e3o oficial de [Y]."}
-{"pattern": "[X], que ocupou a posi\u00e7\u00e3o p\u00fablica de [Y]."}
-{"pattern": "[X], que ocupou o papel p\u00fablico de [Y]."}
-{"pattern": "[X], que ocupou o papel de [Y]."}
-{"pattern": "[X], que ocupa a posi\u00e7\u00e3o oficial de [Y]."}
-{"pattern": "[X], que det\u00e9m o papel oficial de [Y]."}
-{"pattern": "[X], que ocupa o cargo de [Y]."}
-{"pattern": "[X], que det\u00e9m o papel p\u00fablico de [Y]."}
-{"pattern": "[X], que ocupa o papel de [Y]."}
-{"pattern": "[X], que oficialmente ocupou o papel de [Y]."}
-{"pattern": "[X], que oficialmente ocupa o cargo de [Y]."}
-{"pattern": "[X], que oficialmente ocupa o papel de [Y]."}
-{"pattern": "[X], cuja posi\u00e7\u00e3o oficial \u00e9 a de [Y]."}
-{"pattern": "[X], cujo papel oficial \u00e9 o de [Y]."}
-{"pattern": "[X], cuja posi\u00e7\u00e3o \u00e9 a de [Y]."}
-{"pattern": "[X], cuja posi\u00e7\u00e3o p\u00fablica \u00e9 a de [Y]."}
-{"pattern": "[X], cujo papel p\u00fablico \u00e9 o de [Y]."}
-{"pattern": "[X], cujo papel \u00e9 o de [Y]."}
-{"pattern": "[X], cujo papel era o de [Y]."}
-{"pattern": "[X] tinha a posi\u00e7\u00e3o oficial de [Y]?"}
-{"pattern": "[X] tinha o papel oficial de [Y]?"}
-{"pattern": "[X] tinha o cargo de [Y]?"}
-{"pattern": "[X] tinha a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "[X] tinha o papel p\u00fablico de [Y]?"}
-{"pattern": "[X] teve o papel de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] ocupou o cargo oficial de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] desempenhava o papel oficial de [Y]?"}
-{"pattern": "[X] ocupou o cargo de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] ocupou a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] desempenhava o papel p\u00fablico de [Y]?"}
-{"pattern": "[X] desempenhou o papel de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] ocupou oficialmente o cargo de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] ocupou oficialmente a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "Ser\u00e1 que [X] ocupou oficialmente o papel p\u00fablico de [Y]?"}
-{"pattern": "[X] ocupou oficialmente o papel de [Y]?"}
-{"pattern": "[X] tem a posi\u00e7\u00e3o oficial de [Y]?"}
-{"pattern": "[X] tem o papel oficial de [Y]?"}
-{"pattern": "[X] tem o cargo de [Y]?"}
-{"pattern": "[X] tem a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "[X] tem o papel p\u00fablico de [Y]?"}
-{"pattern": "O [X] tem o papel de [Y]?"}
-{"pattern": "[X] ocupa o cargo oficial de [Y]?"}
-{"pattern": "[X] ocupa o papel oficial de [Y]?"}
-{"pattern": "[X] ocupa o cargo de [Y]?"}
-{"pattern": "[X] ocupa a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "[X] ocupa o papel p\u00fablico de [Y]?"}
-{"pattern": "[X] ocupa o papel de [Y]?"}
-{"pattern": "[X] ocupa oficialmente o cargo de [Y]?"}
-{"pattern": "[X] ocupa oficialmente a posi\u00e7\u00e3o p\u00fablica de [Y]?"}
-{"pattern": "[X] ocupa oficialmente o papel p\u00fablico de [Y]?"}
-{"pattern": "[X] ocupa oficialmente o papel de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o oficial de [X] \u00e9 [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o oficial de [X] \u00e9 a de [Y]?"}
-{"pattern": "O papel oficial de [X] \u00e9 [Y]?"}
-{"pattern": "O papel oficial de [X] \u00e9 o de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 a de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] \u00e9 [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] \u00e9 a de [Y]?"}
-{"pattern": "O papel p\u00fablico de [X] \u00e9 [Y]?"}
-{"pattern": "O papel p\u00fablico de [X] \u00e9 o de [Y]?"}
-{"pattern": "O papel de [X] \u00e9 [Y]?"}
-{"pattern": "O papel de [X] \u00e9 o de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o oficial de [X] era [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o oficial de [X] era a de [Y]?"}
-{"pattern": "O papel oficial de [X] era o de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o de [X] era [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o de [X] era a de [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] era [Y]?"}
-{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] era a de [Y]?"}
-{"pattern": "O papel p\u00fablico de [X] era o de [Y]?"}
-{"pattern": "O papel de [X] era o de [Y]?"}
+{"pattern": "[X] tinha o cargo oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] tinha o cargo p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X] tinha o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.2376237623762376}
+{"pattern": "[X] tem o cargo oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X] tem a posi\u00e7\u00e3o p\u00fablica de [Y].", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] tem o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.21782178217821782}
+{"pattern": "[X] desempenhou o papel oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.19801980198019803}
+{"pattern": "[X] desempenhou o papel p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.0891089108910891}
+{"pattern": "[X] ocupa o papel oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] ocupa o cargo p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.25742574257425743}
+{"pattern": "[X] ocupa o papel p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] ocupa o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.27722772277227725}
+{"pattern": "O papel oficial de [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o de [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel p\u00fablico de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel p\u00fablico de [X] foi [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel de [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], que tinha o cargo de [Y].", "bert-base-multilingual-uncased_P@1": 0.25742574257425743}
+{"pattern": "[X], que tinha o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X], que tem a posi\u00e7\u00e3o oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X], que tem o papel oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X], que tem o cargo de [Y].", "bert-base-multilingual-uncased_P@1": 0.25742574257425743}
+{"pattern": "[X], que tem a posi\u00e7\u00e3o p\u00fablica de [Y].", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X], que tem o papel p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.04950495049504951}
+{"pattern": "[X], que tem o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X], que ocupou a posi\u00e7\u00e3o oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X], que ocupou a posi\u00e7\u00e3o p\u00fablica de [Y].", "bert-base-multilingual-uncased_P@1": 0.1782178217821782}
+{"pattern": "[X], que ocupou o papel p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.18811881188118812}
+{"pattern": "[X], que ocupou o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X], que ocupa a posi\u00e7\u00e3o oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.2376237623762376}
+{"pattern": "[X], que det\u00e9m o papel oficial de [Y].", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X], que ocupa o cargo de [Y].", "bert-base-multilingual-uncased_P@1": 0.27722772277227725}
+{"pattern": "[X], que det\u00e9m o papel p\u00fablico de [Y].", "bert-base-multilingual-uncased_P@1": 0.18811881188118812}
+{"pattern": "[X], que ocupa o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X], que oficialmente ocupou o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X], que oficialmente ocupa o cargo de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X], que oficialmente ocupa o papel de [Y].", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X], cuja posi\u00e7\u00e3o oficial \u00e9 a de [Y].", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X], cujo papel oficial \u00e9 o de [Y].", "bert-base-multilingual-uncased_P@1": 0.1485148514851485}
+{"pattern": "[X], cuja posi\u00e7\u00e3o \u00e9 a de [Y].", "bert-base-multilingual-uncased_P@1": 0.19801980198019803}
+{"pattern": "[X], cuja posi\u00e7\u00e3o p\u00fablica \u00e9 a de [Y].", "bert-base-multilingual-uncased_P@1": 0.1485148514851485}
+{"pattern": "[X], cujo papel p\u00fablico \u00e9 o de [Y].", "bert-base-multilingual-uncased_P@1": 0.009900990099009901}
+{"pattern": "[X], cujo papel \u00e9 o de [Y].", "bert-base-multilingual-uncased_P@1": 0.07920792079207921}
+{"pattern": "[X], cujo papel era o de [Y].", "bert-base-multilingual-uncased_P@1": 0.07920792079207921}
+{"pattern": "[X] tinha a posi\u00e7\u00e3o oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] tinha o papel oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] tinha o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X] tinha a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] tinha o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] teve o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.18811881188118812}
+{"pattern": "Ser\u00e1 que [X] ocupou o cargo oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "Ser\u00e1 que [X] desempenhava o papel oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] ocupou o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "Ser\u00e1 que [X] ocupou a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.16831683168316833}
+{"pattern": "Ser\u00e1 que [X] desempenhava o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1485148514851485}
+{"pattern": "[X] desempenhou o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "Ser\u00e1 que [X] ocupou oficialmente o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "Ser\u00e1 que [X] ocupou oficialmente a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.21782178217821782}
+{"pattern": "Ser\u00e1 que [X] ocupou oficialmente o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.19801980198019803}
+{"pattern": "[X] ocupou oficialmente o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] tem a posi\u00e7\u00e3o oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] tem o papel oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] tem o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X] tem a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] tem o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "O [X] tem o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] ocupa o cargo oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] ocupa o papel oficial de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] ocupa o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2871287128712871}
+{"pattern": "[X] ocupa a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] ocupa o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] ocupa o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "[X] ocupa oficialmente o cargo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.26732673267326734}
+{"pattern": "[X] ocupa oficialmente a posi\u00e7\u00e3o p\u00fablica de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22772277227722773}
+{"pattern": "[X] ocupa oficialmente o papel p\u00fablico de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "[X] ocupa oficialmente o papel de [Y]?", "bert-base-multilingual-uncased_P@1": 0.24752475247524752}
+{"pattern": "A posi\u00e7\u00e3o oficial de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o oficial de [X] \u00e9 a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "O papel oficial de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel oficial de [X] \u00e9 o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o de [X] \u00e9 a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] \u00e9 a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1782178217821782}
+{"pattern": "O papel p\u00fablico de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O papel p\u00fablico de [X] \u00e9 o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.15841584158415842}
+{"pattern": "O papel de [X] \u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0891089108910891}
+{"pattern": "O papel de [X] \u00e9 o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10891089108910891}
+{"pattern": "A posi\u00e7\u00e3o oficial de [X] era [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o oficial de [X] era a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "O papel oficial de [X] era o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2079207920792079}
+{"pattern": "A posi\u00e7\u00e3o de [X] era [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o de [X] era a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1782178217821782}
+{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] era [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A posi\u00e7\u00e3o p\u00fablica de [X] era a de [Y]?", "bert-base-multilingual-uncased_P@1": 0.009900990099009901}
+{"pattern": "O papel p\u00fablico de [X] era o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.04950495049504951}
+{"pattern": "O papel de [X] era o de [Y]?", "bert-base-multilingual-uncased_P@1": 0.19801980198019803}

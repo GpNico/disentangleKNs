@@ -1,27 +1,27 @@
-{"pattern": "The death location of [X] is [Y] ."}
-{"pattern": "The death location of [X] was [Y] ."}
-{"pattern": "The death place of [X] is [Y] ."}
-{"pattern": "The death place of [X] was [Y] ."}
-{"pattern": "The place of death of [X] is [Y] ."}
-{"pattern": "The place of death of [X] was [Y] ."}
-{"pattern": "[X] died at [Y] ."}
-{"pattern": "[X] died in [Y] ."}
-{"pattern": "[X] expired at [Y] ."}
-{"pattern": "[X] expired in [Y] ."}
-{"pattern": "[X] lost their life at [Y] ."}
-{"pattern": "[X] passed away at [Y] ."}
-{"pattern": "[X] passed away in [Y] ."}
-{"pattern": "[X] succumbed at [Y] ."}
-{"pattern": "[X]'s life ended in [Y] ."}
-{"pattern": "Did [X] die at [Y]?"}
-{"pattern": "Did [X] die in [Y]?"}
-{"pattern": "Did [X] expire at [Y]?"}
-{"pattern": "Did [X] expire in [Y]?"}
-{"pattern": "Did [X] lose their life at [Y]?"}
-{"pattern": "Did [X] lose their life in [Y]?"}
-{"pattern": "Did [X] pass away at [Y]?"}
-{"pattern": "Did [X] pass away in [Y]?"}
-{"pattern": "Did [X] succumb at [Y]?"}
-{"pattern": "Did [X] succumb in [Y]?"}
-{"pattern": "Did [X]'s life end at [Y]?"}
-{"pattern": "Did [X]'s life end in [Y]?"}
+{"pattern": "The death location of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The death location of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The death place of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The death place of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.010638297872340425}
+{"pattern": "The place of death of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The place of death of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.005319148936170213}
+{"pattern": "[X] died at [Y] .", "bert-base-multilingual-uncased_P@1": 0.16489361702127658}
+{"pattern": "[X] died in [Y] .", "bert-base-multilingual-uncased_P@1": 0.3191489361702128}
+{"pattern": "[X] expired at [Y] .", "bert-base-multilingual-uncased_P@1": 0.0797872340425532}
+{"pattern": "[X] expired in [Y] .", "bert-base-multilingual-uncased_P@1": 0.16489361702127658}
+{"pattern": "[X] lost their life at [Y] .", "bert-base-multilingual-uncased_P@1": 0.010638297872340425}
+{"pattern": "[X] passed away at [Y] .", "bert-base-multilingual-uncased_P@1": 0.10106382978723404}
+{"pattern": "[X] passed away in [Y] .", "bert-base-multilingual-uncased_P@1": 0.3191489361702128}
+{"pattern": "[X] succumbed at [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s life ended in [Y] .", "bert-base-multilingual-uncased_P@1": 0.05851063829787234}
+{"pattern": "Did [X] die at [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "Did [X] die in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1276595744680851}
+{"pattern": "Did [X] expire at [Y]?", "bert-base-multilingual-uncased_P@1": 0.09574468085106383}
+{"pattern": "Did [X] expire in [Y]?", "bert-base-multilingual-uncased_P@1": 0.06914893617021277}
+{"pattern": "Did [X] lose their life at [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Did [X] lose their life in [Y]?", "bert-base-multilingual-uncased_P@1": 0.07446808510638298}
+{"pattern": "Did [X] pass away at [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "Did [X] pass away in [Y]?", "bert-base-multilingual-uncased_P@1": 0.09574468085106383}
+{"pattern": "Did [X] succumb at [Y]?", "bert-base-multilingual-uncased_P@1": 0.005319148936170213}
+{"pattern": "Did [X] succumb in [Y]?", "bert-base-multilingual-uncased_P@1": 0.010638297872340425}
+{"pattern": "Did [X]'s life end at [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "Did [X]'s life end in [Y]?", "bert-base-multilingual-uncased_P@1": 0.06382978723404255}

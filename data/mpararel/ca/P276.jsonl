@@ -1,6 +1,6 @@
-{"pattern": "El [X] es pot trobar a [Y]."}
-{"pattern": "La [X] \u00e9s a [Y]."}
-{"pattern": "El [X] es troba a [Y]."}
-{"pattern": "Es pot trobar [X] a [Y]?"}
-{"pattern": "El [X] \u00e9s a [Y]?"}
-{"pattern": "La [X] es troba a [Y]?"}
+{"pattern": "El [X] es pot trobar a [Y].", "bert-base-multilingual-uncased_P@1": 0.3380281690140845}
+{"pattern": "La [X] \u00e9s a [Y].", "bert-base-multilingual-uncased_P@1": 0.19718309859154928}
+{"pattern": "El [X] es troba a [Y].", "bert-base-multilingual-uncased_P@1": 0.36619718309859156}
+{"pattern": "Es pot trobar [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.23943661971830985}
+{"pattern": "El [X] \u00e9s a [Y]?", "bert-base-multilingual-uncased_P@1": 0.056338028169014086}
+{"pattern": "La [X] es troba a [Y]?", "bert-base-multilingual-uncased_P@1": 0.38028169014084506}

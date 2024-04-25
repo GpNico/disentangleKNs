@@ -1,8 +1,8 @@
-{"pattern": "[X] is the capital city of [Y] ."}
-{"pattern": "[X] is the capital of [Y] ."}
-{"pattern": "[X], that is the capital city of [Y] ."}
-{"pattern": "[X], that is the capital of [Y] ."}
-{"pattern": "[X], the capital city of [Y] ."}
-{"pattern": "[X], the capital of [Y] ."}
-{"pattern": "Is [X] the capital city of [Y]?"}
-{"pattern": "Is [X] the capital of [Y]?"}
+{"pattern": "[X] is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X] is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X], that is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
+{"pattern": "[X], that is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7045454545454546}
+{"pattern": "[X], the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X], the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.75}
+{"pattern": "Is [X] the capital city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
+{"pattern": "Is [X] the capital of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6363636363636364}

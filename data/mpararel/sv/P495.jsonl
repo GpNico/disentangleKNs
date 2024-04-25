@@ -1,26 +1,26 @@
-{"pattern": "[X] kommer fr\u00e5n [Y]."}
-{"pattern": "[X] bildades i [Y]."}
-{"pattern": "[X] \u00e4r fr\u00e5n [Y]."}
-{"pattern": "[X] skapades f\u00f6rst i [Y]."}
-{"pattern": "[X] gjordes f\u00f6rst i [Y]."}
-{"pattern": "[X] producerades f\u00f6rst i [Y]."}
-{"pattern": "[X], utvecklat i [Y]."}
-{"pattern": "[X], formulerad i [Y]."}
-{"pattern": "[X], som skapades i [Y]."}
-{"pattern": "[X], som utvecklades i [Y]."}
-{"pattern": "[X], som formulerades i [Y]."}
-{"pattern": "Kom [X] fr\u00e5n [Y]?"}
-{"pattern": "Har [X] bildats i [Y]?"}
-{"pattern": "Har [X] sitt ursprung i [Y]?"}
-{"pattern": "Kommer [X] fr\u00e5n [Y]?"}
-{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?"}
-{"pattern": "\u00c4r [X] framst\u00e4lld i [Y]?"}
-{"pattern": "\u00c4r [X] fr\u00e5n [Y]?"}
-{"pattern": "Skapades [X] i [Y]?"}
-{"pattern": "Utvecklades [X] i [Y]?"}
-{"pattern": "Var [X] f\u00f6rst skapad i [Y]?"}
-{"pattern": "Gjordes [X] f\u00f6rst i [Y]?"}
-{"pattern": "Var [X] f\u00f6rst producerad i [Y]?"}
-{"pattern": "Var [X] bildad i [Y]?"}
-{"pattern": "Var [X] formulerad i [Y]?"}
-{"pattern": "Var [X] fr\u00e5n [Y]?"}
+{"pattern": "[X] kommer fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.234375}
+{"pattern": "[X] bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X] \u00e4r fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.1875}
+{"pattern": "[X] skapades f\u00f6rst i [Y].", "bert-base-multilingual-uncased_P@1": 0.21875}
+{"pattern": "[X] gjordes f\u00f6rst i [Y].", "bert-base-multilingual-uncased_P@1": 0.234375}
+{"pattern": "[X] producerades f\u00f6rst i [Y].", "bert-base-multilingual-uncased_P@1": 0.203125}
+{"pattern": "[X], utvecklat i [Y].", "bert-base-multilingual-uncased_P@1": 0.09375}
+{"pattern": "[X], formulerad i [Y].", "bert-base-multilingual-uncased_P@1": 0.15625}
+{"pattern": "[X], som skapades i [Y].", "bert-base-multilingual-uncased_P@1": 0.203125}
+{"pattern": "[X], som utvecklades i [Y].", "bert-base-multilingual-uncased_P@1": 0.203125}
+{"pattern": "[X], som formulerades i [Y].", "bert-base-multilingual-uncased_P@1": 0.171875}
+{"pattern": "Kom [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.140625}
+{"pattern": "Har [X] bildats i [Y]?", "bert-base-multilingual-uncased_P@1": 0.171875}
+{"pattern": "Har [X] sitt ursprung i [Y]?", "bert-base-multilingual-uncased_P@1": 0.15625}
+{"pattern": "Kommer [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.109375}
+{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.234375}
+{"pattern": "\u00c4r [X] framst\u00e4lld i [Y]?", "bert-base-multilingual-uncased_P@1": 0.140625}
+{"pattern": "\u00c4r [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.15625}
+{"pattern": "Skapades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.03125}
+{"pattern": "Utvecklades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.046875}
+{"pattern": "Var [X] f\u00f6rst skapad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.140625}
+{"pattern": "Gjordes [X] f\u00f6rst i [Y]?", "bert-base-multilingual-uncased_P@1": 0.15625}
+{"pattern": "Var [X] f\u00f6rst producerad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1875}
+{"pattern": "Var [X] bildad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1875}
+{"pattern": "Var [X] formulerad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.09375}
+{"pattern": "Var [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.078125}

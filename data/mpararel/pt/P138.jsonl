@@ -1,21 +1,21 @@
-{"pattern": "O [X] recebeu o nome de [Y]."}
-{"pattern": "A [X] recebeu o nome de [Y]."}
-{"pattern": "A [X] recebeu o nome da [Y]."}
-{"pattern": "O [X] foi chamado depois de [Y]."}
-{"pattern": "O [X] recebeu o nome do [Y]."}
-{"pattern": "O [X] recebeu o nome da [Y]."}
-{"pattern": "[X], chamado depois de [Y]."}
-{"pattern": "[X], nomeado em homenagem a [Y]."}
-{"pattern": "[X], nomeado para [Y]."}
-{"pattern": "[X], que \u00e9 chamado depois de [Y]."}
-{"pattern": "[X], que recebeu o nome de [Y]."}
-{"pattern": "[X], que \u00e9 nomeado para [Y]."}
-{"pattern": "[X], que foi chamado depois de [Y]."}
-{"pattern": "[X], que recebeu o nome da [Y]."}
-{"pattern": "[X], que foi nomeado para [Y]."}
-{"pattern": "O [X] tem o nome de [Y]?"}
-{"pattern": "O [X] recebeu o nome de [Y]?"}
-{"pattern": "A [X] recebeu o nome de [Y]?"}
-{"pattern": "A [X] recebeu o nome da [Y]?"}
-{"pattern": "O [X] recebeu o nome do [Y]?"}
-{"pattern": "O [X] recebeu o nome da [Y]?"}
+{"pattern": "O [X] recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.3617021276595745}
+{"pattern": "A [X] recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936}
+{"pattern": "A [X] recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "O [X] foi chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.2765957446808511}
+{"pattern": "O [X] recebeu o nome do [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "O [X] recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.0425531914893617}
+{"pattern": "[X], chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.5531914893617021}
+{"pattern": "[X], nomeado em homenagem a [Y].", "bert-base-multilingual-uncased_P@1": 0.574468085106383}
+{"pattern": "[X], nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.1702127659574468}
+{"pattern": "[X], que \u00e9 chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.7021276595744681}
+{"pattern": "[X], que recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.574468085106383}
+{"pattern": "[X], que \u00e9 nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.10638297872340426}
+{"pattern": "[X], que foi chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.5106382978723404}
+{"pattern": "[X], que recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "[X], que foi nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.0425531914893617}
+{"pattern": "O [X] tem o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426}
+{"pattern": "O [X] recebeu o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426}
+{"pattern": "A [X] recebeu o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426}
+{"pattern": "A [X] recebeu o nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.06382978723404255}
+{"pattern": "O [X] recebeu o nome do [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085}
+{"pattern": "O [X] recebeu o nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.06382978723404255}

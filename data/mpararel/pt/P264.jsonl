@@ -1,59 +1,59 @@
-{"pattern": "A gravadora que representa [X] \u00e9 a [Y]."}
-{"pattern": "A gravadora que representava [X] era a [Y]."}
-{"pattern": "A gravadora que representa o [X] \u00e9 a [Y]."}
-{"pattern": "A gravadora que representou [X] foi a [Y]."}
-{"pattern": "A gravadora que representava o [X] era a [Y]."}
-{"pattern": "A gravadora que representa a [X] \u00e9 a [Y]."}
-{"pattern": "[X] \u00e9 representado pela [Y]."}
-{"pattern": "[X] \u00e9 representado pela gravadora [Y]."}
-{"pattern": "[X] \u00e9 representada pela gravadora [Y]."}
-{"pattern": "[X] assinou com a [Y]."}
-{"pattern": "[X] r\u00f3tulo: [Y]."}
-{"pattern": "[X] gravou para a [Y]."}
-{"pattern": "[X] grava para a [Y]."}
-{"pattern": "[X] foi emitido pela [Y]."}
-{"pattern": "[X] foi lan\u00e7ado pela gravadora [Y]."}
-{"pattern": "[X] foi publicado pela [Y]."}
-{"pattern": "[X] foi publicado pela gravadora [Y]."}
-{"pattern": "[X] foi lan\u00e7ado pela [Y]."}
-{"pattern": "[X] foi representado pela [Y]."}
-{"pattern": "[X] foi representado pela gravadora [Y]."}
-{"pattern": "O [X] foi representado pela gravadora [Y]."}
-{"pattern": "O [X] assinou com a [Y]."}
-{"pattern": "A gravadora do [X] \u00e9 a [Y]."}
-{"pattern": "A gravadora do [X] era a [Y]."}
-{"pattern": "A gravadora de m\u00fasica de [X] \u00e9 a [Y]."}
-{"pattern": "A gravadora de m\u00fasica de [X] era a [Y]."}
-{"pattern": "A gravadora de [X] \u00e9 a [Y]."}
-{"pattern": "A gravadora de [X] era a [Y]."}
-{"pattern": "[X], lan\u00e7ado pela [Y]."}
-{"pattern": "[X], que \u00e9 representado pela [Y]."}
-{"pattern": "[X], que foi representado pela [Y]."}
-{"pattern": "[X], que \u00e9 representada pela [Y]."}
-{"pattern": "[X], que foi representada pela [Y]."}
-{"pattern": "O [X] gravou para a [Y]?"}
-{"pattern": "O [X] grava para a [Y]?"}
-{"pattern": "O [X] \u00e9 representado pela [Y]?"}
-{"pattern": "A [X] \u00e9 representada pela [Y]?"}
-{"pattern": "O [X] \u00e9 representado pela gravadora [Y]?"}
-{"pattern": "A [X] \u00e9 representada pela gravadora [Y]?"}
-{"pattern": "O [X] assinou com a [Y]?"}
-{"pattern": "A gravadora representa a [X] [Y]?"}
-{"pattern": "A gravadora que representa o [X] \u00e9 a [Y]?"}
-{"pattern": "A gravadora representa a [X] da [Y]?"}
-{"pattern": "A gravadora que representa a [X] \u00e9 a [Y]?"}
-{"pattern": "A gravadora representa o [X] [Y]?"}
-{"pattern": "A gravadora que representa a [X] [Y]?"}
-{"pattern": "O [X] foi lan\u00e7ado pela [Y]?"}
-{"pattern": "O [X] foi publicado pela [Y]?"}
-{"pattern": "[X] foi lan\u00e7ado pela [Y]?"}
-{"pattern": "O [X] era representado pela [Y]?"}
-{"pattern": "O [X] era representado pela gravadora [Y]?"}
-{"pattern": "[X] era representado pela gravadora [Y]?"}
-{"pattern": "A [X] era representada pela gravadora [Y]?"}
-{"pattern": "A gravadora representava a [X] [Y]?"}
-{"pattern": "A gravadora que representa o [X] era a [Y]?"}
-{"pattern": "A gravadora representava a [X] da [Y]?"}
-{"pattern": "A gravadora que representa a [X] era a [Y]?"}
-{"pattern": "A gravadora representava o [X] [Y]?"}
-{"pattern": "A gravadora que representa [X] era a [Y]?"}
+{"pattern": "A gravadora que representa [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156}
+{"pattern": "A gravadora que representava [X] era a [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "A gravadora que representa o [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.5384615384615384}
+{"pattern": "A gravadora que representou [X] foi a [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156}
+{"pattern": "A gravadora que representava o [X] era a [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "A gravadora que representa a [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "[X] \u00e9 representado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e9 representado pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "[X] \u00e9 representada pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
+{"pattern": "[X] assinou com a [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X] r\u00f3tulo: [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] gravou para a [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] grava para a [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] foi emitido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] foi lan\u00e7ado pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "[X] foi publicado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X] foi publicado pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
+{"pattern": "[X] foi lan\u00e7ado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
+{"pattern": "[X] foi representado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] foi representado pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
+{"pattern": "O [X] foi representado pela gravadora [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "O [X] assinou com a [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora do [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "A gravadora do [X] era a [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
+{"pattern": "A gravadora de m\u00fasica de [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
+{"pattern": "A gravadora de m\u00fasica de [X] era a [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "A gravadora de [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora de [X] era a [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], lan\u00e7ado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "[X], que \u00e9 representado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], que foi representado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], que \u00e9 representada pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], que foi representada pela [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] gravou para a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] grava para a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] \u00e9 representado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] \u00e9 representada pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] \u00e9 representado pela gravadora [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] \u00e9 representada pela gravadora [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] assinou com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa o [X] \u00e9 a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora representa a [X] da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa a [X] \u00e9 a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora representa o [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] foi lan\u00e7ado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] foi publicado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] foi lan\u00e7ado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] era representado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] era representado pela gravadora [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] era representado pela gravadora [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] era representada pela gravadora [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora representava a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa o [X] era a [Y]?", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
+{"pattern": "A gravadora representava a [X] da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa a [X] era a [Y]?", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "A gravadora representava o [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A gravadora que representa [X] era a [Y]?", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}

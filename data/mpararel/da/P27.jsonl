@@ -1,10 +1,10 @@
-{"pattern": "[X] har statsborgerskab i [Y]."}
-{"pattern": "[X] er statsborger i [Y]."}
-{"pattern": "[X] er borger i [Y]."}
-{"pattern": "[X], en borger fra [Y]."}
-{"pattern": "[X], der har statsborgerskab i [Y]."}
-{"pattern": "[X], der har borgerret i [Y]."}
-{"pattern": "[X], der er statsborger i [Y]."}
-{"pattern": "Har [X] statsborgerskab i [Y]?"}
-{"pattern": "Har [X] statsborgerskab fra [Y]?"}
-{"pattern": "Er [X] borger i [Y]?"}
+{"pattern": "[X] har statsborgerskab i [Y].", "bert-base-multilingual-uncased_P@1": 0.32038834951456313}
+{"pattern": "[X] er statsborger i [Y].", "bert-base-multilingual-uncased_P@1": 0.2524271844660194}
+{"pattern": "[X] er borger i [Y].", "bert-base-multilingual-uncased_P@1": 0.009708737864077669}
+{"pattern": "[X], en borger fra [Y].", "bert-base-multilingual-uncased_P@1": 0.009708737864077669}
+{"pattern": "[X], der har statsborgerskab i [Y].", "bert-base-multilingual-uncased_P@1": 0.2621359223300971}
+{"pattern": "[X], der har borgerret i [Y].", "bert-base-multilingual-uncased_P@1": 0.04854368932038835}
+{"pattern": "[X], der er statsborger i [Y].", "bert-base-multilingual-uncased_P@1": 0.3106796116504854}
+{"pattern": "Har [X] statsborgerskab i [Y]?", "bert-base-multilingual-uncased_P@1": 0.20388349514563106}
+{"pattern": "Har [X] statsborgerskab fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.22330097087378642}
+{"pattern": "Er [X] borger i [Y]?", "bert-base-multilingual-uncased_P@1": 0.009708737864077669}

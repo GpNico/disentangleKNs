@@ -1,28 +1,28 @@
-{"pattern": "[X] is a product of [Y] ."}
-{"pattern": "[X] is created by [Y] ."}
-{"pattern": "[X] is developed by [Y] ."}
-{"pattern": "[X] is produced by [Y] ."}
-{"pattern": "[X] was created by [Y] ."}
-{"pattern": "[X] was developed by [Y] ."}
-{"pattern": "[X] was produced by [Y] ."}
-{"pattern": "[X], a product created by [Y] ."}
-{"pattern": "[X], a product developed by [Y] ."}
-{"pattern": "[X], a product manufactured by [Y] ."}
-{"pattern": "[X], a product of [Y] ."}
-{"pattern": "[X], created by [Y] ."}
-{"pattern": "[X], developed by [Y] ."}
-{"pattern": "[X], produced by [Y] ."}
-{"pattern": "Is [X] a product created by [Y]?"}
-{"pattern": "Is [X] a product developed by [Y]?"}
-{"pattern": "Is [X] a product manufactured by [Y]?"}
-{"pattern": "Is [X] a product of [Y]?"}
-{"pattern": "Is [X] created by [Y]?"}
-{"pattern": "Is [X] developed by [Y]?"}
-{"pattern": "Is [X] produced by [Y]?"}
-{"pattern": "Was [X] a product created by [Y]?"}
-{"pattern": "Was [X] a product developed by [Y]?"}
-{"pattern": "Was [X] a product manufactured by [Y]?"}
-{"pattern": "Was [X] a product of [Y]?"}
-{"pattern": "Was [X] created by [Y]?"}
-{"pattern": "Was [X] developed by [Y]?"}
-{"pattern": "Was [X] produced by [Y]?"}
+{"pattern": "[X] is a product of [Y] .", "bert-base-multilingual-uncased_P@1": 0.8186813186813187}
+{"pattern": "[X] is created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] is developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] is produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X] was created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X] was developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X] was produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407}
+{"pattern": "[X], a product created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X], a product developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8461538461538461}
+{"pattern": "[X], a product manufactured by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8516483516483516}
+{"pattern": "[X], a product of [Y] .", "bert-base-multilingual-uncased_P@1": 0.8461538461538461}
+{"pattern": "[X], created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.7967032967032966}
+{"pattern": "[X], developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297}
+{"pattern": "[X], produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8131868131868132}
+{"pattern": "Is [X] a product created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8186813186813187}
+{"pattern": "Is [X] a product developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8131868131868132}
+{"pattern": "Is [X] a product manufactured by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8516483516483516}
+{"pattern": "Is [X] a product of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6923076923076923}
+{"pattern": "Is [X] created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7747252747252747}
+{"pattern": "Is [X] developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7967032967032966}
+{"pattern": "Is [X] produced by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8076923076923077}
+{"pattern": "Was [X] a product created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8351648351648352}
+{"pattern": "Was [X] a product developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8241758241758241}
+{"pattern": "Was [X] a product manufactured by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8516483516483516}
+{"pattern": "Was [X] a product of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6923076923076923}
+{"pattern": "Was [X] created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7747252747252747}
+{"pattern": "Was [X] developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8076923076923077}
+{"pattern": "Was [X] produced by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7967032967032966}

@@ -1,7 +1,7 @@
-{"pattern": "[X] und seine Schwesterstadt [Y]."}
-{"pattern": "[X] und seine Zwillingsstadt [Y]."}
-{"pattern": "[X] hat eine Schwesterstadt [Y]."}
-{"pattern": "[X] hat eine Zwillingsstadt [Y]."}
-{"pattern": "Die Schwesterstadt von [X] ist [Y]."}
-{"pattern": "Die Zwillingsstadt von [X] ist [Y]."}
-{"pattern": "Ist [X] die Zwillingsstadt von [Y]?"}
+{"pattern": "[X] und seine Schwesterstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285}
+{"pattern": "[X] und seine Zwillingsstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.0111731843575419}
+{"pattern": "[X] hat eine Schwesterstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285}
+{"pattern": "[X] hat eine Zwillingsstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Die Schwesterstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285}
+{"pattern": "Die Zwillingsstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285}
+{"pattern": "Ist [X] die Zwillingsstadt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.00558659217877095}

@@ -1,16 +1,16 @@
-{"pattern": "La sede de [X] est\u00e1 en [Y]."}
-{"pattern": "La sede de [X] se encuentra en [Y]."}
-{"pattern": "La sede de la [X] se encuentra en [Y]."}
-{"pattern": "La sede del [X] se encuentra en [Y]."}
-{"pattern": "[X] tiene su sede en [Y]."}
-{"pattern": "La [X] tiene su sede en [Y]."}
-{"pattern": "[X] est\u00e1 ubicado en [Y]."}
-{"pattern": "[X], cuya sede est\u00e1 en [Y]."}
-{"pattern": "\u00bfLa sede de [X] est\u00e1 en [Y]?"}
-{"pattern": "\u00bfLa sede de la [X] est\u00e1 en [Y]?"}
-{"pattern": "\u00bfLa sede de [X] se encuentra en [Y]?"}
-{"pattern": "\u00bf[X] tiene su sede en [Y]?"}
-{"pattern": "\u00bfLa [X] tiene su sede en [Y]?"}
-{"pattern": "\u00bf[X] est\u00e1 ubicado en [Y]?"}
-{"pattern": "\u00bfLa sede del [X] est\u00e1 en [Y]?"}
-{"pattern": "\u00bfLa sede de [X] est\u00e1 ubicada en [Y]?"}
+{"pattern": "La sede de [X] est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "La sede de [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.3764705882352941}
+{"pattern": "La sede de la [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.3764705882352941}
+{"pattern": "La sede del [X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.36470588235294116}
+{"pattern": "[X] tiene su sede en [Y].", "bert-base-multilingual-uncased_P@1": 0.38823529411764707}
+{"pattern": "La [X] tiene su sede en [Y].", "bert-base-multilingual-uncased_P@1": 0.3764705882352941}
+{"pattern": "[X] est\u00e1 ubicado en [Y].", "bert-base-multilingual-uncased_P@1": 0.35294117647058826}
+{"pattern": "[X], cuya sede est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "\u00bfLa sede de [X] est\u00e1 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.25882352941176473}
+{"pattern": "\u00bfLa sede de la [X] est\u00e1 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.3176470588235294}
+{"pattern": "\u00bfLa sede de [X] se encuentra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.3411764705882353}
+{"pattern": "\u00bf[X] tiene su sede en [Y]?", "bert-base-multilingual-uncased_P@1": 0.36470588235294116}
+{"pattern": "\u00bfLa [X] tiene su sede en [Y]?", "bert-base-multilingual-uncased_P@1": 0.35294117647058826}
+{"pattern": "\u00bf[X] est\u00e1 ubicado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.3058823529411765}
+{"pattern": "\u00bfLa sede del [X] est\u00e1 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.29411764705882354}
+{"pattern": "\u00bfLa sede de [X] est\u00e1 ubicada en [Y]?", "bert-base-multilingual-uncased_P@1": 0.3411764705882353}

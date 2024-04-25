@@ -1,13 +1,13 @@
-{"pattern": "[X] pertenece al g\u00e9nero [Y]."}
-{"pattern": "[X] es un m\u00fasico de [Y]."}
-{"pattern": "[X] toca el [Y]."}
-{"pattern": "[X] toca el siguiente g\u00e9nero de [Y]."}
-{"pattern": "[X] toca el siguiente g\u00e9nero musical [Y]."}
-{"pattern": "[X] toca el g\u00e9nero [Y]."}
-{"pattern": "[X] toca el g\u00e9nero del [Y]."}
-{"pattern": "[X] toca el g\u00e9nero musical [Y]."}
-{"pattern": "[X] toca el g\u00e9nero musical del [Y]."}
-{"pattern": "[X] se especializa en el g\u00e9nero [Y]."}
-{"pattern": "[X], quien toca el [Y]."}
-{"pattern": "\u00bf[X] toca el [Y]?"}
-{"pattern": "\u00bf[X] es un m\u00fasico que toca [Y]?"}
+{"pattern": "[X] pertenece al g\u00e9nero [Y].", "bert-base-multilingual-uncased_P@1": 0.1130952380952381}
+{"pattern": "[X] es un m\u00fasico de [Y].", "bert-base-multilingual-uncased_P@1": 0.5892857142857143}
+{"pattern": "[X] toca el [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] toca el siguiente g\u00e9nero de [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] toca el siguiente g\u00e9nero musical [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] toca el g\u00e9nero [Y].", "bert-base-multilingual-uncased_P@1": 0.07142857142857142}
+{"pattern": "[X] toca el g\u00e9nero del [Y].", "bert-base-multilingual-uncased_P@1": 0.24404761904761904}
+{"pattern": "[X] toca el g\u00e9nero musical [Y].", "bert-base-multilingual-uncased_P@1": 0.06547619047619048}
+{"pattern": "[X] toca el g\u00e9nero musical del [Y].", "bert-base-multilingual-uncased_P@1": 0.5178571428571429}
+{"pattern": "[X] se especializa en el g\u00e9nero [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
+{"pattern": "[X], quien toca el [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] toca el [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] es un m\u00fasico que toca [Y]?", "bert-base-multilingual-uncased_P@1": 0.011904761904761904}

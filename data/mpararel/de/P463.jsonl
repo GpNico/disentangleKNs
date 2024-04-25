@@ -1,11 +1,11 @@
-{"pattern": "[X] geh\u00f6rt zu [Y]."}
-{"pattern": "[X] geh\u00f6rt zu den [Y]."}
-{"pattern": "[X] geh\u00f6rt zur Organisation von [Y]."}
-{"pattern": "[X] ist Mitglied der [Y]."}
-{"pattern": "Die [X] ist Mitglied der [Y]."}
-{"pattern": "[X] ist Teil der [Y]."}
-{"pattern": "Geh\u00f6rt [X] zu [Y]?"}
-{"pattern": "Geh\u00f6rt [X] zu den [Y]?"}
-{"pattern": "Ist [X] Mitglied der [Y]?"}
-{"pattern": "Ist der [X] Mitglied der [Y]?"}
-{"pattern": "Ist [X] Teil der [Y]?"}
+{"pattern": "[X] geh\u00f6rt zu [Y].", "bert-base-multilingual-uncased_P@1": 0.5348837209302325}
+{"pattern": "[X] geh\u00f6rt zu den [Y].", "bert-base-multilingual-uncased_P@1": 0.16279069767441862}
+{"pattern": "[X] geh\u00f6rt zur Organisation von [Y].", "bert-base-multilingual-uncased_P@1": 0.2558139534883721}
+{"pattern": "[X] ist Mitglied der [Y].", "bert-base-multilingual-uncased_P@1": 0.627906976744186}
+{"pattern": "Die [X] ist Mitglied der [Y].", "bert-base-multilingual-uncased_P@1": 0.6046511627906976}
+{"pattern": "[X] ist Teil der [Y].", "bert-base-multilingual-uncased_P@1": 0.46511627906976744}
+{"pattern": "Geh\u00f6rt [X] zu [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Geh\u00f6rt [X] zu den [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Ist [X] Mitglied der [Y]?", "bert-base-multilingual-uncased_P@1": 0.20930232558139536}
+{"pattern": "Ist der [X] Mitglied der [Y]?", "bert-base-multilingual-uncased_P@1": 0.37209302325581395}
+{"pattern": "Ist [X] Teil der [Y]?", "bert-base-multilingual-uncased_P@1": 0.3488372093023256}

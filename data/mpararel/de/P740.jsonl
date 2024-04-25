@@ -1,6 +1,6 @@
-{"pattern": "Der [X] entstand in [Y]."}
-{"pattern": "[X] entstand in [Y]."}
-{"pattern": "[X] begann in [Y]."}
-{"pattern": "[X], gegr\u00fcndet in [Y]."}
-{"pattern": "Stammt [X] aus [Y]?"}
-{"pattern": "Begann die [X] in [Y]?"}
+{"pattern": "Der [X] entstand in [Y].", "bert-base-multilingual-uncased_P@1": 0.11206896551724138}
+{"pattern": "[X] entstand in [Y].", "bert-base-multilingual-uncased_P@1": 0.11206896551724138}
+{"pattern": "[X] begann in [Y].", "bert-base-multilingual-uncased_P@1": 0.1206896551724138}
+{"pattern": "[X], gegr\u00fcndet in [Y].", "bert-base-multilingual-uncased_P@1": 0.11206896551724138}
+{"pattern": "Stammt [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
+{"pattern": "Begann die [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0603448275862069}

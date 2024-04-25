@@ -1,6 +1,6 @@
-{"pattern": "De [X] is te vinden in [Y]."}
-{"pattern": "De [X] is in [Y]."}
-{"pattern": "[X] is gevestigd in [Y]."}
-{"pattern": "Is de [X] te vinden in [Y]?"}
-{"pattern": "Is [X] in [Y]?"}
-{"pattern": "Is [X] gevestigd in [Y]?"}
+{"pattern": "De [X] is te vinden in [Y].", "bert-base-multilingual-uncased_P@1": 0.33707865168539325}
+{"pattern": "De [X] is in [Y].", "bert-base-multilingual-uncased_P@1": 0.20224719101123595}
+{"pattern": "[X] is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.3258426966292135}
+{"pattern": "Is de [X] te vinden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21348314606741572}
+{"pattern": "Is [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.14606741573033707}
+{"pattern": "Is [X] gevestigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3595505617977528}

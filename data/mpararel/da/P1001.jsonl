@@ -1,6 +1,6 @@
-{"pattern": "[X] t\u00e6ller som et juridisk udtryk i [Y]."}
-{"pattern": "[X] er et juridisk begreb i [Y]."}
-{"pattern": "[X] er et gyldigt juridisk begreb i [Y]."}
-{"pattern": "T\u00e6ller [X] som et juridisk udtryk i [Y]?"}
-{"pattern": "Er [X] et lovligt udtryk i [Y]?"}
-{"pattern": "Er [X] et gyldigt juridisk udtryk i [Y]?"}
+{"pattern": "[X] t\u00e6ller som et juridisk udtryk i [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "[X] er et juridisk begreb i [Y].", "bert-base-multilingual-uncased_P@1": 0.825}
+{"pattern": "[X] er et gyldigt juridisk begreb i [Y].", "bert-base-multilingual-uncased_P@1": 0.825}
+{"pattern": "T\u00e6ller [X] som et juridisk udtryk i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1}
+{"pattern": "Er [X] et lovligt udtryk i [Y]?", "bert-base-multilingual-uncased_P@1": 0.075}
+{"pattern": "Er [X] et gyldigt juridisk udtryk i [Y]?", "bert-base-multilingual-uncased_P@1": 0.075}

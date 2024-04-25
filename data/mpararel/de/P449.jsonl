@@ -1,8 +1,8 @@
-{"pattern": "[X] deb\u00fctierte auf [Y]."}
-{"pattern": "[X] deb\u00fctiert auf [Y]."}
-{"pattern": "[X] hatte seine Premiere auf [Y]."}
-{"pattern": "[X] Premiere auf [Y]."}
-{"pattern": "Hat [X] sein Deb\u00fct auf [Y]?"}
-{"pattern": "Hat [X] seine Premiere auf [Y]?"}
-{"pattern": "Hat [X] eine Premiere auf [Y]?"}
-{"pattern": "Ist [X] zu Deb\u00fct auf [Y]?"}
+{"pattern": "[X] deb\u00fctierte auf [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] deb\u00fctiert auf [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] hatte seine Premiere auf [Y].", "bert-base-multilingual-uncased_P@1": 0.18181818181818182}
+{"pattern": "[X] Premiere auf [Y].", "bert-base-multilingual-uncased_P@1": 0.045454545454545456}
+{"pattern": "Hat [X] sein Deb\u00fct auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Hat [X] seine Premiere auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Hat [X] eine Premiere auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.045454545454545456}
+{"pattern": "Ist [X] zu Deb\u00fct auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

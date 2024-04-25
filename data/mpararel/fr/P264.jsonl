@@ -1,60 +1,60 @@
-{"pattern": "Le label de musique repr\u00e9sentant [X] est [Y]."}
-{"pattern": "Le label de musique repr\u00e9sentant [X] \u00e9tait [Y]."}
-{"pattern": "Le label de musique qui repr\u00e9sente [X] est [Y]."}
-{"pattern": "Le label de musique qui repr\u00e9sentait [X] \u00e9tait [Y]."}
-{"pattern": "Le label qui repr\u00e9sente [X] est [Y]."}
-{"pattern": "Le label de disques repr\u00e9sentant [X] \u00e9tait [Y]."}
-{"pattern": "[X] est repr\u00e9sent\u00e9 par [Y]."}
-{"pattern": "[X] est repr\u00e9sent\u00e9 par le label de musique [Y]."}
-{"pattern": "[X] est repr\u00e9sent\u00e9 par le label [Y]."}
-{"pattern": "[X] est sign\u00e9 chez [Y]."}
-{"pattern": "Le label de [X] est [Y]."}
-{"pattern": "[X] a enregistr\u00e9 pour [Y]."}
-{"pattern": "[X] enregistre pour [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par le label [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 lib\u00e9r\u00e9e par [Y]."}
-{"pattern": "[X] est sorti par le label [Y]."}
-{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par [Y]."}
-{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par le label de musique [Y]."}
-{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par le label [Y]."}
-{"pattern": "[X] a sign\u00e9 avec [Y]."}
-{"pattern": "Le label d'[X] est [Y]."}
-{"pattern": "Le label de [X] \u00e9tait [Y]."}
-{"pattern": "Le label de musique de [X] est [Y]."}
-{"pattern": "Le label de musique de [X] \u00e9tait [Y]."}
-{"pattern": "La maison de disques de [X] est [Y]."}
-{"pattern": "La maison de disques de [X] \u00e9tait [Y]."}
-{"pattern": "Le label de disques de [X] est [Y]."}
-{"pattern": "Le label de disques de [X] \u00e9tait [Y]."}
-{"pattern": "[X], sorti par [Y]."}
-{"pattern": "[X], qui est repr\u00e9sent\u00e9 par [Y]."}
-{"pattern": "[X], qui \u00e9tait repr\u00e9sent\u00e9 par [Y]."}
-{"pattern": "[X], qui \u00e9tait repr\u00e9sent\u00e9e par [Y]."}
-{"pattern": "[X] a-t-il enregistr\u00e9 pour [Y]?"}
-{"pattern": "[X] enregistre pour [Y]?"}
-{"pattern": "[X] est repr\u00e9sent\u00e9 par [Y]?"}
-{"pattern": "[X] est-il repr\u00e9sent\u00e9 par le label [Y]?"}
-{"pattern": "[X] est-elle repr\u00e9sent\u00e9e par le label [Y]?"}
-{"pattern": "[X] est repr\u00e9sent\u00e9 par le label [Y]?"}
-{"pattern": "[X] est sign\u00e9 avec [Y]?"}
-{"pattern": "Le label repr\u00e9sente [X] [Y]?"}
-{"pattern": "Le label qui repr\u00e9sente [X] est [Y]?"}
-{"pattern": "Le label de musique repr\u00e9sente-t-il [X] [Y]?"}
-{"pattern": "Le label qui repr\u00e9sente [X] est-il [Y]?"}
-{"pattern": "Le label de disques repr\u00e9sente-t-il [X] [Y]?"}
-{"pattern": "Est-ce que le label qui repr\u00e9sente [X] est [Y]?"}
-{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par [Y]?"}
-{"pattern": "[X] a-t-il \u00e9t\u00e9 publi\u00e9 par [Y]?"}
-{"pattern": "[X] a \u00e9t\u00e9 lib\u00e9r\u00e9e par [Y]?"}
-{"pattern": "[X] \u00e9tait-il repr\u00e9sent\u00e9 par [Y]?"}
-{"pattern": "[X] \u00e9tait-il repr\u00e9sent\u00e9 par le label [Y]?"}
-{"pattern": "[X] \u00e9tait-elle repr\u00e9sent\u00e9e par le label [Y]?"}
-{"pattern": "Est-ce que [X] \u00e9tait repr\u00e9sent\u00e9 par le label [Y]?"}
-{"pattern": "[X] a sign\u00e9 avec [Y]?"}
-{"pattern": "Le label repr\u00e9sentait-il [X] [Y]?"}
-{"pattern": "Le label qui repr\u00e9sente [X] \u00e9tait [Y]?"}
-{"pattern": "Le label de musique repr\u00e9sentait-il [X] [Y]?"}
-{"pattern": "Le label qui repr\u00e9sente [X] \u00e9tait-il [Y]?"}
-{"pattern": "Le label de disques repr\u00e9sentait-il [X] [Y]?"}
-{"pattern": "C'\u00e9tait le label qui repr\u00e9sente [X] [Y]?"}
+{"pattern": "Le label de musique repr\u00e9sentant [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842}
+{"pattern": "Le label de musique repr\u00e9sentant [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de musique qui repr\u00e9sente [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.21052631578947367}
+{"pattern": "Le label de musique qui repr\u00e9sentait [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label qui repr\u00e9sente [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.03508771929824561}
+{"pattern": "Le label de disques repr\u00e9sentant [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label de musique [Y].", "bert-base-multilingual-uncased_P@1": 0.12280701754385964}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] est sign\u00e9 chez [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a enregistr\u00e9 pour [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] enregistre pour [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par le label [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 lib\u00e9r\u00e9e par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est sorti par le label [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par le label de musique [Y].", "bert-base-multilingual-uncased_P@1": 0.15789473684210525}
+{"pattern": "[X] \u00e9tait repr\u00e9sent\u00e9 par le label [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] a sign\u00e9 avec [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842}
+{"pattern": "Le label d'[X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de musique de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de musique de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "La maison de disques de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.03508771929824561}
+{"pattern": "La maison de disques de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842}
+{"pattern": "Le label de disques de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de disques de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X], sorti par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], qui est repr\u00e9sent\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], qui \u00e9tait repr\u00e9sent\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], qui \u00e9tait repr\u00e9sent\u00e9e par [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a-t-il enregistr\u00e9 pour [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] enregistre pour [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est-il repr\u00e9sent\u00e9 par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est-elle repr\u00e9sent\u00e9e par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est sign\u00e9 avec [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label repr\u00e9sente [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label qui repr\u00e9sente [X] est [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label de musique repr\u00e9sente-t-il [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label qui repr\u00e9sente [X] est-il [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label de disques repr\u00e9sente-t-il [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Est-ce que le label qui repr\u00e9sente [X] est [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 publi\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 publi\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "[X] a \u00e9t\u00e9 lib\u00e9r\u00e9e par [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e9tait-il repr\u00e9sent\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e9tait-il repr\u00e9sent\u00e9 par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e9tait-elle repr\u00e9sent\u00e9e par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Est-ce que [X] \u00e9tait repr\u00e9sent\u00e9 par le label [Y]?", "bert-base-multilingual-uncased_P@1": 0.07017543859649122}
+{"pattern": "[X] a sign\u00e9 avec [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label repr\u00e9sentait-il [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label qui repr\u00e9sente [X] \u00e9tait [Y]?", "bert-base-multilingual-uncased_P@1": 0.03508771929824561}
+{"pattern": "Le label de musique repr\u00e9sentait-il [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Le label qui repr\u00e9sente [X] \u00e9tait-il [Y]?", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "Le label de disques repr\u00e9sentait-il [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "C'\u00e9tait le label qui repr\u00e9sente [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

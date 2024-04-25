@@ -1,76 +1,76 @@
-{"pattern": "[X] had de offici\u00eble positie van [Y]."}
-{"pattern": "[X] had de positie van [Y]."}
-{"pattern": "[X] had de publieke positie van [Y]."}
-{"pattern": "[X] had de publieke rol van [Y]."}
-{"pattern": "[X] heeft de offici\u00eble positie van [Y]."}
-{"pattern": "[X] heeft de positie van [Y]."}
-{"pattern": "[X] heeft de openbare positie van [Y]."}
-{"pattern": "[X] heeft de publieke rol van [Y]."}
-{"pattern": "[X] bekleedde de offici\u00eble positie van [Y]."}
-{"pattern": "[X] bekleedde de functie van [Y]."}
-{"pattern": "[X] bekleedde de openbare positie van [Y]."}
-{"pattern": "[X] bekleedde de publieke rol van [Y]."}
-{"pattern": "[X] bekleedt de offici\u00eble functie van [Y]."}
-{"pattern": "[X] heeft de offici\u00eble rol van [Y]."}
-{"pattern": "[X] bekleedt de positie van [Y]."}
-{"pattern": "[X] bekleedt de openbare positie van [Y]."}
-{"pattern": "[X] bekleedt de openbare rol van [Y]."}
-{"pattern": "[X] heeft de rol van [Y]."}
-{"pattern": "[X] bekleedde officieel de functie van [Y]."}
-{"pattern": "[X] bekleedt officieel de positie van [Y]."}
-{"pattern": "[X] heeft officieel de rol van [Y]."}
-{"pattern": "[X]'s offici\u00eble positie is [Y]."}
-{"pattern": "[X]'s offici\u00eble positie was [Y]."}
-{"pattern": "[X]'s offici\u00eble rol is [Y]."}
-{"pattern": "[X]'s offici\u00eble rol was [Y]."}
-{"pattern": "[X]'s positie is [Y]."}
-{"pattern": "[X]'s positie was [Y]."}
-{"pattern": "[X]'s publieke positie is [Y]."}
-{"pattern": "[X]'s publieke positie was [Y]."}
-{"pattern": "[X]'s publieke rol is [Y]."}
-{"pattern": "[X]'s publieke rol was [Y]."}
-{"pattern": "[X]'s rol is [Y]."}
-{"pattern": "[X]'s rol was [Y]."}
-{"pattern": "[X], wiens offici\u00eble positie is die van [Y]."}
-{"pattern": "[X], wiens positie is die van [Y]."}
-{"pattern": "[X], wiens functie was die van [Y]."}
-{"pattern": "Had [X] de positie van [Y]?"}
-{"pattern": "Had [X] de openbare positie van [Y]?"}
-{"pattern": "Had [X] de publieke rol van [Y]?"}
-{"pattern": "Had [X] de offici\u00eble positie van [Y]?"}
-{"pattern": "Had [X] de openbare functie van [Y]?"}
-{"pattern": "Had [X] officieel de positie van [Y]?"}
-{"pattern": "Had [X] officieel de openbare positie van [Y]?"}
-{"pattern": "Had [X] officieel de publieke rol van [Y]?"}
-{"pattern": "Heeft [X] de positie van [Y]?"}
-{"pattern": "Heeft [X] de publieke positie van [Y]?"}
-{"pattern": "Heeft [X] de publieke rol van [Y]?"}
-{"pattern": "Heeft [X] de offici\u00eble positie van [Y]?"}
-{"pattern": "Heeft [X] de openbare positie van [Y]?"}
-{"pattern": "Heeft [X] officieel de positie van [Y]?"}
-{"pattern": "Heeft [X] officieel de openbare positie van [Y]?"}
-{"pattern": "Heeft [X] officieel de publieke rol van [Y]?"}
-{"pattern": "Is [X]'s offici\u00eble positie [Y]?"}
-{"pattern": "Is [X]'s offici\u00eble positie die van [Y]?"}
-{"pattern": "Is [X]'s offici\u00eble rol [Y]?"}
-{"pattern": "Is [X]'s offici\u00eble rol die van [Y]?"}
-{"pattern": "Is [X] de [Y]?"}
-{"pattern": "Is [X] de positie van [Y]?"}
-{"pattern": "Is [X]'s publieke positie [Y]?"}
-{"pattern": "Is [X]'s publieke positie die van [Y]?"}
-{"pattern": "Is [X]'s publieke rol [Y]?"}
-{"pattern": "Is [X]'s publieke rol die van [Y]?"}
-{"pattern": "Is [X]'s rol [Y]?"}
-{"pattern": "Is [X]'s rol die van [Y]?"}
-{"pattern": "Was [X]'s offici\u00eble positie [Y]?"}
-{"pattern": "Was [X]'s offici\u00eble positie die van [Y]?"}
-{"pattern": "Was [X]'s offici\u00eble rol [Y]?"}
-{"pattern": "Was [X]'s offici\u00eble rol die van [Y]?"}
-{"pattern": "Was [X]'s positie [Y]?"}
-{"pattern": "Was [X] de positie van [Y]?"}
-{"pattern": "Was [X]'s publieke positie [Y]?"}
-{"pattern": "Was [X]'s publieke positie die van [Y]?"}
-{"pattern": "Was [X]'s publieke rol [Y]?"}
-{"pattern": "Was [X]'s publieke rol die van [Y]?"}
-{"pattern": "Was [X]'s rol [Y]?"}
-{"pattern": "Was [X]'s rol die van [Y]?"}
+{"pattern": "[X] had de offici\u00eble positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
+{"pattern": "[X] had de positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "[X] had de publieke positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.009615384615384616}
+{"pattern": "[X] had de publieke rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] heeft de offici\u00eble positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2403846153846154}
+{"pattern": "[X] heeft de positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.22115384615384615}
+{"pattern": "[X] heeft de openbare positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "[X] heeft de publieke rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] bekleedde de offici\u00eble positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2980769230769231}
+{"pattern": "[X] bekleedde de functie van [Y].", "bert-base-multilingual-uncased_P@1": 0.25961538461538464}
+{"pattern": "[X] bekleedde de openbare positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.27884615384615385}
+{"pattern": "[X] bekleedde de publieke rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "[X] bekleedt de offici\u00eble functie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2980769230769231}
+{"pattern": "[X] heeft de offici\u00eble rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.08653846153846154}
+{"pattern": "[X] bekleedt de positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.25}
+{"pattern": "[X] bekleedt de openbare positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
+{"pattern": "[X] bekleedt de openbare rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.25961538461538464}
+{"pattern": "[X] heeft de rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.09615384615384616}
+{"pattern": "[X] bekleedde officieel de functie van [Y].", "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
+{"pattern": "[X] bekleedt officieel de positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.27884615384615385}
+{"pattern": "[X] heeft officieel de rol van [Y].", "bert-base-multilingual-uncased_P@1": 0.17307692307692307}
+{"pattern": "[X]'s offici\u00eble positie is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s offici\u00eble positie was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s offici\u00eble rol is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s offici\u00eble rol was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s positie is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s positie was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s publieke positie is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s publieke positie was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s publieke rol is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s publieke rol was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s rol is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s rol was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], wiens offici\u00eble positie is die van [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], wiens positie is die van [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], wiens functie was die van [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Had [X] de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
+{"pattern": "Had [X] de openbare positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "Had [X] de publieke rol van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Had [X] de offici\u00eble positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "Had [X] de openbare functie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.20192307692307693}
+{"pattern": "Had [X] officieel de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.2403846153846154}
+{"pattern": "Had [X] officieel de openbare positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.08653846153846154}
+{"pattern": "Had [X] officieel de publieke rol van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Heeft [X] de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "Heeft [X] de publieke positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Heeft [X] de publieke rol van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Heeft [X] de offici\u00eble positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.25}
+{"pattern": "Heeft [X] de openbare positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.009615384615384616}
+{"pattern": "Heeft [X] officieel de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.25961538461538464}
+{"pattern": "Heeft [X] officieel de openbare positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "Heeft [X] officieel de publieke rol van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s offici\u00eble positie [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s offici\u00eble positie die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s offici\u00eble rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s offici\u00eble rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] de [Y]?", "bert-base-multilingual-uncased_P@1": 0.028846153846153848}
+{"pattern": "Is [X] de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.22115384615384615}
+{"pattern": "Is [X]'s publieke positie [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s publieke positie die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s publieke rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s publieke rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X]'s rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s offici\u00eble positie [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s offici\u00eble positie die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s offici\u00eble rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s offici\u00eble rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s positie [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.2403846153846154}
+{"pattern": "Was [X]'s publieke positie [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s publieke positie die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s publieke rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s publieke rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s rol [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X]'s rol die van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

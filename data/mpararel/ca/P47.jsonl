@@ -1,18 +1,18 @@
-{"pattern": "[X] limita amb [Y]."}
-{"pattern": "[X] comparteix una frontera amb [Y]."}
-{"pattern": "[X] comparteix una frontera comuna amb [Y]."}
-{"pattern": "[X] comparteix frontera amb [Y]."}
-{"pattern": "[X] comparteix fronteres amb [Y]."}
-{"pattern": "[X] comparteix la seva frontera amb [Y]."}
-{"pattern": "[X] comparteix les seves fronteres amb [Y]."}
-{"pattern": "[X] comparteix la frontera amb [Y]."}
-{"pattern": "[X] comparteix les fronteres amb [Y]."}
-{"pattern": "[X] limita amb [Y]?"}
-{"pattern": "[X] comparteix una frontera amb [Y]?"}
-{"pattern": "[X] comparteix una frontera comuna amb [Y]?"}
-{"pattern": "[X] comparteix frontera amb [Y]?"}
-{"pattern": "[X] comparteix fronteres amb [Y]?"}
-{"pattern": "[X] comparteix la seva frontera amb [Y]?"}
-{"pattern": "[X] comparteix les seves fronteres amb [Y]?"}
-{"pattern": "[X] comparteix la frontera amb [Y]?"}
-{"pattern": "[X] comparteix les fronteres amb [Y]?"}
+{"pattern": "[X] limita amb [Y].", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
+{"pattern": "[X] comparteix una frontera amb [Y].", "bert-base-multilingual-uncased_P@1": 0.07432432432432433}
+{"pattern": "[X] comparteix una frontera comuna amb [Y].", "bert-base-multilingual-uncased_P@1": 0.08108108108108109}
+{"pattern": "[X] comparteix frontera amb [Y].", "bert-base-multilingual-uncased_P@1": 0.08783783783783784}
+{"pattern": "[X] comparteix fronteres amb [Y].", "bert-base-multilingual-uncased_P@1": 0.10135135135135136}
+{"pattern": "[X] comparteix la seva frontera amb [Y].", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
+{"pattern": "[X] comparteix les seves fronteres amb [Y].", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
+{"pattern": "[X] comparteix la frontera amb [Y].", "bert-base-multilingual-uncased_P@1": 0.0945945945945946}
+{"pattern": "[X] comparteix les fronteres amb [Y].", "bert-base-multilingual-uncased_P@1": 0.11486486486486487}
+{"pattern": "[X] limita amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] comparteix una frontera amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.08108108108108109}
+{"pattern": "[X] comparteix una frontera comuna amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
+{"pattern": "[X] comparteix frontera amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.05405405405405406}
+{"pattern": "[X] comparteix fronteres amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.006756756756756757}
+{"pattern": "[X] comparteix la seva frontera amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
+{"pattern": "[X] comparteix les seves fronteres amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.05405405405405406}
+{"pattern": "[X] comparteix la frontera amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.07432432432432433}
+{"pattern": "[X] comparteix les fronteres amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.05405405405405406}

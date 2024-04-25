@@ -1,64 +1,64 @@
-{"pattern": "The music label representing [X] is [Y] ."}
-{"pattern": "The music label representing [X] was [Y] ."}
-{"pattern": "The music label that is representing [X] is [Y] ."}
-{"pattern": "The music label that represented [X] was [Y] ."}
-{"pattern": "The record label representing [X] is [Y] ."}
-{"pattern": "The record label representing [X] was [Y] ."}
-{"pattern": "The record label that is representing [X] is [Y] ."}
-{"pattern": "[X] is represented by [Y] ."}
-{"pattern": "[X] is represented by music label [Y] ."}
-{"pattern": "[X] is represented by record label [Y] ."}
-{"pattern": "[X] is signed to [Y] ."}
-{"pattern": "[X] label : [Y] ."}
-{"pattern": "[X] recorded for [Y] ."}
-{"pattern": "[X] records for [Y] ."}
-{"pattern": "[X] was issued by [Y] ."}
-{"pattern": "[X] was issued by record label [Y] ."}
-{"pattern": "[X] was published by [Y] ."}
-{"pattern": "[X] was published by record label [Y] ."}
-{"pattern": "[X] was released by [Y] ."}
-{"pattern": "[X] was released by record label [Y] ."}
-{"pattern": "[X] was represented by [Y] ."}
-{"pattern": "[X] was represented by music label [Y] ."}
-{"pattern": "[X] was represented by record label [Y] ."}
-{"pattern": "[X] was signed to [Y] ."}
-{"pattern": "[X]'s label is [Y] ."}
-{"pattern": "[X]'s label was [Y] ."}
-{"pattern": "[X]'s music label is [Y] ."}
-{"pattern": "[X]'s music label was [Y] ."}
-{"pattern": "[X]'s record company is [Y] ."}
-{"pattern": "[X]'s record company was [Y] ."}
-{"pattern": "[X]'s record label is [Y] ."}
-{"pattern": "[X]'s record label was [Y] ."}
-{"pattern": "[X], released by [Y] ."}
-{"pattern": "[X], that is represented by [Y] ."}
-{"pattern": "[X], that was represented by [Y] ."}
-{"pattern": "[X], which is represented by [Y] ."}
-{"pattern": "[X], which was represented by [Y] ."}
-{"pattern": "Did [X] record for [Y]?"}
-{"pattern": "Does [X] record for [Y]?"}
-{"pattern": "Is [X] represented by [Y]?"}
-{"pattern": "Is [X] represented by label [Y]?"}
-{"pattern": "Is [X] represented by music label [Y]?"}
-{"pattern": "Is [X] represented by record label [Y]?"}
-{"pattern": "Is [X] signed to [Y]?"}
-{"pattern": "Is the label representing [X] [Y]?"}
-{"pattern": "Is the label that is representing [X] [Y]?"}
-{"pattern": "Is the music label representing [X] [Y]?"}
-{"pattern": "Is the music label that is representing [X] [Y]?"}
-{"pattern": "Is the record label representing [X] [Y]?"}
-{"pattern": "Is the record label that is representing [X] [Y]?"}
-{"pattern": "Was [X] issued by [Y]?"}
-{"pattern": "Was [X] published by [Y]?"}
-{"pattern": "Was [X] released by [Y]?"}
-{"pattern": "Was [X] represented by [Y]?"}
-{"pattern": "Was [X] represented by label [Y]?"}
-{"pattern": "Was [X] represented by music label [Y]?"}
-{"pattern": "Was [X] represented by record label [Y]?"}
-{"pattern": "Was [X] signed to [Y]?"}
-{"pattern": "Was the label representing [X] [Y]?"}
-{"pattern": "Was the label that is representing [X] [Y]?"}
-{"pattern": "Was the music label representing [X] [Y]?"}
-{"pattern": "Was the music label that is representing [X] [Y]?"}
-{"pattern": "Was the record label representing [X] [Y]?"}
-{"pattern": "Was the record label that is representing [X] [Y]?"}
+{"pattern": "The music label representing [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.03488372093023256}
+{"pattern": "The music label representing [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "The music label that is representing [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.20930232558139536}
+{"pattern": "The music label that represented [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.03488372093023256}
+{"pattern": "The record label representing [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.08139534883720931}
+{"pattern": "The record label representing [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The record label that is representing [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.22093023255813954}
+{"pattern": "[X] is represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is represented by music label [Y] .", "bert-base-multilingual-uncased_P@1": 0.16279069767441862}
+{"pattern": "[X] is represented by record label [Y] .", "bert-base-multilingual-uncased_P@1": 0.16279069767441862}
+{"pattern": "[X] is signed to [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] label : [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X] recorded for [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X] records for [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] was issued by [Y] .", "bert-base-multilingual-uncased_P@1": 0.10465116279069768}
+{"pattern": "[X] was issued by record label [Y] .", "bert-base-multilingual-uncased_P@1": 0.046511627906976744}
+{"pattern": "[X] was published by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] was published by record label [Y] .", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "[X] was released by [Y] .", "bert-base-multilingual-uncased_P@1": 0.03488372093023256}
+{"pattern": "[X] was released by record label [Y] .", "bert-base-multilingual-uncased_P@1": 0.046511627906976744}
+{"pattern": "[X] was represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] was represented by music label [Y] .", "bert-base-multilingual-uncased_P@1": 0.09302325581395349}
+{"pattern": "[X] was represented by record label [Y] .", "bert-base-multilingual-uncased_P@1": 0.06976744186046512}
+{"pattern": "[X] was signed to [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s label is [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X]'s label was [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X]'s music label is [Y] .", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "[X]'s music label was [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X]'s record company is [Y] .", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "[X]'s record company was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s record label is [Y] .", "bert-base-multilingual-uncased_P@1": 0.09302325581395349}
+{"pattern": "[X]'s record label was [Y] .", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X], released by [Y] .", "bert-base-multilingual-uncased_P@1": 0.046511627906976744}
+{"pattern": "[X], that is represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], that was represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], which is represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], which was represented by [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Did [X] record for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Does [X] record for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] represented by [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] represented by label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] represented by music label [Y]?", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "Is [X] represented by record label [Y]?", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "Is [X] signed to [Y]?", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "Is the label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is the label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is the music label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is the music label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is the record label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is the record label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] issued by [Y]?", "bert-base-multilingual-uncased_P@1": 0.08139534883720931}
+{"pattern": "Was [X] published by [Y]?", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "Was [X] released by [Y]?", "bert-base-multilingual-uncased_P@1": 0.046511627906976744}
+{"pattern": "Was [X] represented by [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] represented by label [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] represented by music label [Y]?", "bert-base-multilingual-uncased_P@1": 0.03488372093023256}
+{"pattern": "Was [X] represented by record label [Y]?", "bert-base-multilingual-uncased_P@1": 0.06976744186046512}
+{"pattern": "Was [X] signed to [Y]?", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "Was the label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was the label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was the music label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was the music label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was the record label representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was the record label that is representing [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

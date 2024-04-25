@@ -1,8 +1,8 @@
-{"pattern": "Il paese in cui si trova [X] \u00e8 la [Y]."}
-{"pattern": "Lo stato di [X] si trova in [Y]."}
-{"pattern": "[X] si trova in [Y]."}
-{"pattern": "[X] si trova nel seguente paese: [Y]."}
-{"pattern": "[X] si trova nel seguente stato: [Y]."}
-{"pattern": "[X], situato in [Y]."}
-{"pattern": "[X], che si trova in [Y]."}
-{"pattern": "[X] si trova in [Y]?"}
+{"pattern": "Il paese in cui si trova [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.09259259259259259}
+{"pattern": "Lo stato di [X] si trova in [Y].", "bert-base-multilingual-uncased_P@1": 0.4722222222222222}
+{"pattern": "[X] si trova in [Y].", "bert-base-multilingual-uncased_P@1": 0.37037037037037035}
+{"pattern": "[X] si trova nel seguente paese: [Y].", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X] si trova nel seguente stato: [Y].", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X], situato in [Y].", "bert-base-multilingual-uncased_P@1": 0.32407407407407407}
+{"pattern": "[X], che si trova in [Y].", "bert-base-multilingual-uncased_P@1": 0.39814814814814814}
+{"pattern": "[X] si trova in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1574074074074074}

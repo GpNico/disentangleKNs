@@ -1,12 +1,12 @@
-{"pattern": "[X] debuteert op [Y]."}
-{"pattern": "[X] ging in premi\u00e8re op [Y]."}
-{"pattern": "[X] debuut op [Y]."}
-{"pattern": "[X] werd oorspronkelijk uitgezonden op [Y]."}
-{"pattern": "Heeft [X] zijn debuut op [Y]?"}
-{"pattern": "Had [X] een premi\u00e8re op [Y]?"}
-{"pattern": "Heeft [X] een premi\u00e8re op [Y]?"}
-{"pattern": "Is [X] aan het debuut op [Y]?"}
-{"pattern": "Werd [X] uitgezonden op [Y]?"}
-{"pattern": "Was [X] oorspronkelijk uitgezonden op [Y]?"}
-{"pattern": "Was [X] oorspronkelijk te zien op [Y]?"}
-{"pattern": "Is [X] uitgebracht op [Y]?"}
+{"pattern": "[X] debuteert op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "[X] ging in premi\u00e8re op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "[X] debuut op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "[X] werd oorspronkelijk uitgezonden op [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
+{"pattern": "Heeft [X] zijn debuut op [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Had [X] een premi\u00e8re op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "Heeft [X] een premi\u00e8re op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}
+{"pattern": "Is [X] aan het debuut op [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Werd [X] uitgezonden op [Y]?", "bert-base-multilingual-uncased_P@1": 0.03571428571428571}
+{"pattern": "Was [X] oorspronkelijk uitgezonden op [Y]?", "bert-base-multilingual-uncased_P@1": 0.10714285714285714}
+{"pattern": "Was [X] oorspronkelijk te zien op [Y]?", "bert-base-multilingual-uncased_P@1": 0.21428571428571427}
+{"pattern": "Is [X] uitgebracht op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856}

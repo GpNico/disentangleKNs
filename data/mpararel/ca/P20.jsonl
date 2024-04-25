@@ -1,22 +1,21 @@
-{"pattern": "El lloc de la mort de [X] \u00e9s [Y]."}
-{"pattern": "La localitzaci\u00f3 de la mort de [X] va ser [Y]."}
-{"pattern": "El lloc de la mort d'[X] \u00e9s [Y]."}
-{"pattern": "El lloc de la mort de [X] va ser [Y]."}
-{"pattern": "El lloc de mort de [X] \u00e9s [Y]."}
-{"pattern": "El lloc de la mort d'[X] va ser [Y]."}
-{"pattern": "[X] va morir a [Y]."}
-{"pattern": "[X] de [Y] va morir a [Y]."}
-{"pattern": "[X] va expirar a [Y]."}
-{"pattern": "[X] va perdre la vida a [Y]."}
-{"pattern": "[X] va sucumbir a [Y]."}
-{"pattern": "La vida de [X] va acabar a [Y]."}
-{"pattern": "Va morir [X] a [Y]?"}
-{"pattern": "[X] va morir a [Y]?"}
-{"pattern": "[X] va expirar a [Y]?"}
-{"pattern": "Va morir l'[X] a [Y]?"}
-{"pattern": "Va perdre la vida [X] a [Y]?"}
-{"pattern": "[X] va perdre la vida a [Y]?"}
-{"pattern": "Va sucumbir [X] a [Y]?"}
-{"pattern": "[X] va sucumbir a [Y]?"}
-{"pattern": "La vida de [X] va acabar a [Y]?"}
-{"pattern": "La vida d'[X] va acabar a [Y]?"}
+{"pattern": "El lloc de la mort de [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.1044776119402985}
+{"pattern": "La localitzaci\u00f3 de la mort de [X] va ser [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "El lloc de la mort d'[X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.09701492537313433}
+{"pattern": "El lloc de la mort de [X] va ser [Y].", "bert-base-multilingual-uncased_P@1": 0.17164179104477612}
+{"pattern": "El lloc de mort de [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.11194029850746269}
+{"pattern": "El lloc de la mort d'[X] va ser [Y].", "bert-base-multilingual-uncased_P@1": 0.16417910447761194}
+{"pattern": "[X] va morir a [Y].", "bert-base-multilingual-uncased_P@1": 0.3805970149253731}
+{"pattern": "[X] va expirar a [Y].", "bert-base-multilingual-uncased_P@1": 0.1865671641791045}
+{"pattern": "[X] va perdre la vida a [Y].", "bert-base-multilingual-uncased_P@1": 0.35074626865671643}
+{"pattern": "[X] va sucumbir a [Y].", "bert-base-multilingual-uncased_P@1": 0.23134328358208955}
+{"pattern": "La vida de [X] va acabar a [Y].", "bert-base-multilingual-uncased_P@1": 0.2835820895522388}
+{"pattern": "Va morir [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.12686567164179105}
+{"pattern": "[X] va morir a [Y]?", "bert-base-multilingual-uncased_P@1": 0.31343283582089554}
+{"pattern": "[X] va expirar a [Y]?", "bert-base-multilingual-uncased_P@1": 0.07462686567164178}
+{"pattern": "Va morir l'[X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.12686567164179105}
+{"pattern": "Va perdre la vida [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.29850746268656714}
+{"pattern": "[X] va perdre la vida a [Y]?", "bert-base-multilingual-uncased_P@1": 0.291044776119403}
+{"pattern": "Va sucumbir [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.08208955223880597}
+{"pattern": "[X] va sucumbir a [Y]?", "bert-base-multilingual-uncased_P@1": 0.12686567164179105}
+{"pattern": "La vida de [X] va acabar a [Y]?", "bert-base-multilingual-uncased_P@1": 0.14925373134328357}
+{"pattern": "La vida d'[X] va acabar a [Y]?", "bert-base-multilingual-uncased_P@1": 0.17164179104477612}

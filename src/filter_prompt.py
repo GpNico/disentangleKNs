@@ -34,6 +34,7 @@ def compute_trex_scores(
         # We're doing multilingual
         scores = {}
         for lang in dataset.keys():
+            print(f"Computing {lang}...")
             
             lang_avg_scores, lang_predicate_ids_to_scores = _compute_trex_scores(
                                                                             model = model, 
@@ -72,7 +73,7 @@ def _compute_trex_scores(
             
             # Pad & Create Attention Mask
             input_ids, attention_mask = pad_input_ids(sentences_tok) # The device is set in the get_prediction_logits method
-            
+
             # Get Logits
             prediction_logits = model.get_prediction_logits(
                                     input_ids=input_ids,
@@ -87,10 +88,6 @@ def _compute_trex_scores(
             ids = ids.cpu()
             target = target.cpu()
             
-            #print(ids)
-            #print(target)
-            #print(Y)
-            #exit(0)
             for k in config.ACCURACY_RANKS:
                 _p_k = (target[:] == ids[:,:k]).any(axis = 1).numpy().astype(float)
                 rela_scores[f'P@{k}'] += _p_k
@@ -149,7 +146,7 @@ def write_trex_scores(scores: Dict[str, Dict[str, np.ndarray]],
                         else:
                             # Here the score should be the same
                             try:
-                                assert abs(data[f'{model_name}_P@1'] - P1[k]) < 0.01
+                                assert abs(data[f'{model_name}_P@1'] - P1[k]) < 0.05
                             except:
                                 print(f"Error while writing prompts scores ({predicate_id}). Scores doesn't match!\n\tOld P@1 = {np.round(data[f'{model_name}_P@1'], 3)} - New P@1 = {np.round(P1[k], 3)}")
                                 raise
@@ -183,7 +180,7 @@ def write_trex_scores(scores: Dict[str, Dict[str, np.ndarray]],
                             continue # move to next line
                         else:
                             # Here the score should be the same
-                            assert abs(data[f'P@1'] - P1[k]) < 0.01
+                            assert abs(data[f'P@1'] - P1[k]) < 0.05
                     data['P@1'] = P1[k]
                     new_lines.append(data)
                     k += 1

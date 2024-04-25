@@ -1,8 +1,8 @@
-{"pattern": "[X] is werkzaam in [Y]."}
-{"pattern": "[X] begon te werken in [Y]."}
-{"pattern": "[X] werkte vroeger in [Y]."}
-{"pattern": "Heeft [X] werk gevonden in [Y]?"}
-{"pattern": "Heeft [X] werk aangenomen in [Y]?"}
-{"pattern": "Werkte [X] in [Y]?"}
-{"pattern": "Is [X] in dienst in [Y]?"}
-{"pattern": "Was [X] in dienst in [Y]?"}
+{"pattern": "[X] is werkzaam in [Y].", "bert-base-multilingual-uncased_P@1": 0.27388535031847133}
+{"pattern": "[X] begon te werken in [Y].", "bert-base-multilingual-uncased_P@1": 0.3821656050955414}
+{"pattern": "[X] werkte vroeger in [Y].", "bert-base-multilingual-uncased_P@1": 0.3375796178343949}
+{"pattern": "Heeft [X] werk gevonden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21019108280254778}
+{"pattern": "Heeft [X] werk aangenomen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.14012738853503184}
+{"pattern": "Werkte [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.08917197452229299}
+{"pattern": "Is [X] in dienst in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] in dienst in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

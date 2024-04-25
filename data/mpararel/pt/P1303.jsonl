@@ -1,5 +1,5 @@
-{"pattern": "[X] toca [Y]."}
-{"pattern": "O [X] toca [Y]."}
-{"pattern": "[X] toca o instrumento musical [Y]."}
-{"pattern": "O [X] toca [Y]?"}
-{"pattern": "A [X] toca [Y]?"}
+{"pattern": "[X] toca [Y].", "bert-base-multilingual-uncased_P@1": 0.06451612903225806}
+{"pattern": "O [X] toca [Y].", "bert-base-multilingual-uncased_P@1": 0.12903225806451613}
+{"pattern": "[X] toca o instrumento musical [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] toca [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] toca [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

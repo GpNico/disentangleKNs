@@ -1,17 +1,17 @@
-{"pattern": "Kontinenten [X] \u00e4r [Y]."}
-{"pattern": "[X] tillh\u00f6r kontinenten [Y]."}
-{"pattern": "[X] Point tillh\u00f6r kontinenten [Y]."}
-{"pattern": "[X] \u00e4r en del av kontinenten [Y]."}
-{"pattern": "Mount [X] \u00e4r en del av kontinenten [Y]."}
-{"pattern": "[X] Point \u00e4r en del av kontinenten [Y]."}
-{"pattern": "[X] ligger i [Y]."}
-{"pattern": "[X] ligger p\u00e5 kontinenten [Y]."}
-{"pattern": "[X] Point ligger p\u00e5 kontinenten [Y]."}
-{"pattern": "Tillh\u00f6r [X] kontinenten [Y]?"}
-{"pattern": "Tillh\u00f6r [X] [Y]?"}
-{"pattern": "\u00c4r [X] en del av kontinenten [Y]?"}
-{"pattern": "\u00c4r Mount [X] en del av kontinenten [Y]?"}
-{"pattern": "\u00c4r [X] Point en del av kontinenten [Y]?"}
-{"pattern": "Ligger [X] i [Y]?"}
-{"pattern": "Ligger [X] p\u00e5 kontinenten [Y]?"}
-{"pattern": "Ligger [X] Point p\u00e5 kontinenten [Y]?"}
+{"pattern": "Kontinenten [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.2215909090909091}
+{"pattern": "[X] tillh\u00f6r kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X] Point tillh\u00f6r kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7613636363636364}
+{"pattern": "[X] \u00e4r en del av kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "Mount [X] \u00e4r en del av kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X] Point \u00e4r en del av kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7670454545454546}
+{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.3977272727272727}
+{"pattern": "[X] ligger p\u00e5 kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.75}
+{"pattern": "[X] Point ligger p\u00e5 kontinenten [Y].", "bert-base-multilingual-uncased_P@1": 0.7670454545454546}
+{"pattern": "Tillh\u00f6r [X] kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Tillh\u00f6r [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00c4r [X] en del av kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.26704545454545453}
+{"pattern": "\u00c4r Mount [X] en del av kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.10227272727272728}
+{"pattern": "\u00c4r [X] Point en del av kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.29545454545454547}
+{"pattern": "Ligger [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.14204545454545456}
+{"pattern": "Ligger [X] p\u00e5 kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Ligger [X] Point p\u00e5 kontinenten [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

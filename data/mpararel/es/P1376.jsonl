@@ -1,8 +1,8 @@
-{"pattern": "[X] es la capital de [Y]."}
-{"pattern": "[X] es la capital de la [Y]."}
-{"pattern": "[X], es la capital de [Y]."}
-{"pattern": "[X], que es la capital de [Y]."}
-{"pattern": "[X], la capital de [Y]."}
-{"pattern": "[X], la capital de la [Y]."}
-{"pattern": "\u00bf[X] es la capital de [Y]?"}
-{"pattern": "\u00bf[X] es la capital de la [Y]?"}
+{"pattern": "[X] es la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.6764705882352942}
+{"pattern": "[X] es la capital de la [Y].", "bert-base-multilingual-uncased_P@1": 0.20588235294117646}
+{"pattern": "[X], es la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.6176470588235294}
+{"pattern": "[X], que es la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.6764705882352942}
+{"pattern": "[X], la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.7058823529411765}
+{"pattern": "[X], la capital de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] es la capital de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5588235294117647}
+{"pattern": "\u00bf[X] es la capital de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.14705882352941177}

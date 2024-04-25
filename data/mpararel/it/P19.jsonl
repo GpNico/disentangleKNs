@@ -1,15 +1,15 @@
-{"pattern": "Il luogo di nascita di [X] \u00e8 [Y]."}
-{"pattern": "[X] \u00e8 originario di [Y]."}
-{"pattern": "[X] \u00e8 originaria di [Y]."}
-{"pattern": "[X] proviene da [Y]."}
-{"pattern": "[X] proviene dall'[Y]."}
-{"pattern": "[X] \u00e8 nato a [Y]."}
-{"pattern": "[X] era nativo di [Y]."}
-{"pattern": "[X] era originario di [Y]."}
-{"pattern": "Il luogo di nascita di [X] e' [Y]."}
-{"pattern": "[X] era originario di [Y]?"}
-{"pattern": "[X] proviene da [Y]?"}
-{"pattern": "[X] \u00e8 originario di [Y]?"}
-{"pattern": "[X] \u00e8 originaria di [Y]?"}
-{"pattern": "[X] \u00e8 nato a [Y]?"}
-{"pattern": "[X] era originaria di [Y]?"}
+{"pattern": "Il luogo di nascita di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.13821138211382114}
+{"pattern": "[X] \u00e8 originario di [Y].", "bert-base-multilingual-uncased_P@1": 0.17886178861788618}
+{"pattern": "[X] \u00e8 originaria di [Y].", "bert-base-multilingual-uncased_P@1": 0.06504065040650407}
+{"pattern": "[X] proviene da [Y].", "bert-base-multilingual-uncased_P@1": 0.008130081300813009}
+{"pattern": "[X] proviene dall'[Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e8 nato a [Y].", "bert-base-multilingual-uncased_P@1": 0.21951219512195122}
+{"pattern": "[X] era nativo di [Y].", "bert-base-multilingual-uncased_P@1": 0.16260162601626016}
+{"pattern": "[X] era originario di [Y].", "bert-base-multilingual-uncased_P@1": 0.15447154471544716}
+{"pattern": "Il luogo di nascita di [X] e' [Y].", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
+{"pattern": "[X] era originario di [Y]?", "bert-base-multilingual-uncased_P@1": 0.06504065040650407}
+{"pattern": "[X] proviene da [Y]?", "bert-base-multilingual-uncased_P@1": 0.008130081300813009}
+{"pattern": "[X] \u00e8 originario di [Y]?", "bert-base-multilingual-uncased_P@1": 0.13008130081300814}
+{"pattern": "[X] \u00e8 originaria di [Y]?", "bert-base-multilingual-uncased_P@1": 0.08130081300813008}
+{"pattern": "[X] \u00e8 nato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.032520325203252036}
+{"pattern": "[X] era originaria di [Y]?", "bert-base-multilingual-uncased_P@1": 0.08943089430894309}

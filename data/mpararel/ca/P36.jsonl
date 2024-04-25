@@ -1,8 +1,8 @@
-{"pattern": "La capital del [X] \u00e9s [Y]."}
-{"pattern": "La capital de [X] \u00e9s [Y]."}
-{"pattern": "La capital de la [X] \u00e9s [Y]."}
-{"pattern": "La capital del [X], [Y]."}
-{"pattern": "La capital d'[X] \u00e9s [Y]."}
-{"pattern": "La capital de [X], [Y]."}
-{"pattern": "[X], que t\u00e9 la capital [Y]."}
-{"pattern": "[X], que t\u00e9 la capital a [Y]."}
+{"pattern": "La capital del [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.6309523809523809}
+{"pattern": "La capital de [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.6190476190476191}
+{"pattern": "La capital de la [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.6309523809523809}
+{"pattern": "La capital del [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.4523809523809524}
+{"pattern": "La capital d'[X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.6428571428571429}
+{"pattern": "La capital de [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.40476190476190477}
+{"pattern": "[X], que t\u00e9 la capital [Y].", "bert-base-multilingual-uncased_P@1": 0.39285714285714285}
+{"pattern": "[X], que t\u00e9 la capital a [Y].", "bert-base-multilingual-uncased_P@1": 0.6785714285714286}

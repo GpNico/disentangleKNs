@@ -1,28 +1,28 @@
-{"pattern": "[X] \u00e4r en produkt fr\u00e5n [Y]."}
-{"pattern": "[X] \u00e4r skapad av [Y]."}
-{"pattern": "[X] \u00e4r utvecklat av [Y]."}
-{"pattern": "[X] produceras av [Y]."}
-{"pattern": "[X] skapades av [Y]."}
-{"pattern": "[X] utvecklades av [Y]."}
-{"pattern": "[X] producerades av [Y]."}
-{"pattern": "[X], en produkt skapad av [Y]."}
-{"pattern": "[X], en produkt som utvecklats av [Y]."}
-{"pattern": "[X], en produkt tillverkad av [Y]."}
-{"pattern": "[X], en produkt fr\u00e5n [Y]."}
-{"pattern": "[X], skapad av [Y]."}
-{"pattern": "[X], utvecklad av [Y]."}
-{"pattern": "[X], producerad av [Y]."}
-{"pattern": "\u00c4r [X] en produkt skapad av [Y]?"}
-{"pattern": "\u00c4r [X] en produkt som utvecklats av [Y]?"}
-{"pattern": "\u00c4r [X] en produkt tillverkad av [Y]?"}
-{"pattern": "\u00c4r [X] en produkt av [Y]?"}
-{"pattern": "\u00c4r [X] skapad av [Y]?"}
-{"pattern": "\u00c4r [X] utvecklat av [Y]?"}
-{"pattern": "\u00c4r [X] tillverkad av [Y]?"}
-{"pattern": "Var [X] en produkt skapad av [Y]?"}
-{"pattern": "Var [X] en produkt som utvecklats av [Y]?"}
-{"pattern": "Var [X] en produkt tillverkad av [Y]?"}
-{"pattern": "Var [X] en produkt av [Y]?"}
-{"pattern": "Var [X] skapad av [Y]?"}
-{"pattern": "Utvecklades [X] av [Y]?"}
-{"pattern": "Var [X] tillverkad av [Y]?"}
+{"pattern": "[X] \u00e4r en produkt fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.6732673267326733}
+{"pattern": "[X] \u00e4r skapad av [Y].", "bert-base-multilingual-uncased_P@1": 0.9108910891089109}
+{"pattern": "[X] \u00e4r utvecklat av [Y].", "bert-base-multilingual-uncased_P@1": 0.9108910891089109}
+{"pattern": "[X] produceras av [Y].", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "[X] skapades av [Y].", "bert-base-multilingual-uncased_P@1": 0.9108910891089109}
+{"pattern": "[X] utvecklades av [Y].", "bert-base-multilingual-uncased_P@1": 0.900990099009901}
+{"pattern": "[X] producerades av [Y].", "bert-base-multilingual-uncased_P@1": 0.900990099009901}
+{"pattern": "[X], en produkt skapad av [Y].", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "[X], en produkt som utvecklats av [Y].", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "[X], en produkt tillverkad av [Y].", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "[X], en produkt fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.7722772277227723}
+{"pattern": "[X], skapad av [Y].", "bert-base-multilingual-uncased_P@1": 0.8217821782178217}
+{"pattern": "[X], utvecklad av [Y].", "bert-base-multilingual-uncased_P@1": 0.8811881188118812}
+{"pattern": "[X], producerad av [Y].", "bert-base-multilingual-uncased_P@1": 0.8514851485148515}
+{"pattern": "\u00c4r [X] en produkt skapad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8712871287128713}
+{"pattern": "\u00c4r [X] en produkt som utvecklats av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8712871287128713}
+{"pattern": "\u00c4r [X] en produkt tillverkad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8811881188118812}
+{"pattern": "\u00c4r [X] en produkt av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8712871287128713}
+{"pattern": "\u00c4r [X] skapad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8316831683168316}
+{"pattern": "\u00c4r [X] utvecklat av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8514851485148515}
+{"pattern": "\u00c4r [X] tillverkad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8415841584158416}
+{"pattern": "Var [X] en produkt skapad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "Var [X] en produkt som utvecklats av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8910891089108911}
+{"pattern": "Var [X] en produkt tillverkad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8811881188118812}
+{"pattern": "Var [X] en produkt av [Y]?", "bert-base-multilingual-uncased_P@1": 0.900990099009901}
+{"pattern": "Var [X] skapad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.7623762376237624}
+{"pattern": "Utvecklades [X] av [Y]?", "bert-base-multilingual-uncased_P@1": 0.2376237623762376}
+{"pattern": "Var [X] tillverkad av [Y]?", "bert-base-multilingual-uncased_P@1": 0.8811881188118812}

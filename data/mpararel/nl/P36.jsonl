@@ -1,8 +1,8 @@
-{"pattern": "De hoofdstad van [X] is [Y]."}
-{"pattern": "De hoofdstad van het [X] is [Y]."}
-{"pattern": "De hoofdstad van de [X] is [Y]."}
-{"pattern": "De hoofdstad van [X], [Y]."}
-{"pattern": "De hoofdstad van de Bourbon [X] is [Y]."}
-{"pattern": "De hoofdstad van de [X], [Y]."}
-{"pattern": "[X], met de hoofdstad [Y]."}
-{"pattern": "[X] van Belgi\u00eb, met als hoofdstad [Y]."}
+{"pattern": "De hoofdstad van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4230769230769231}
+{"pattern": "De hoofdstad van het [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156}
+{"pattern": "De hoofdstad van de [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4423076923076923}
+{"pattern": "De hoofdstad van [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.27884615384615385}
+{"pattern": "De hoofdstad van de Bourbon [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156}
+{"pattern": "De hoofdstad van de [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.2980769230769231}
+{"pattern": "[X], met de hoofdstad [Y].", "bert-base-multilingual-uncased_P@1": 0.49038461538461536}
+{"pattern": "[X] van Belgi\u00eb, met als hoofdstad [Y].", "bert-base-multilingual-uncased_P@1": 0.22115384615384615}

@@ -1,5 +1,5 @@
-{"pattern": "[X] speelt als [Y]."}
-{"pattern": "[X] speelt op de positie van [Y]."}
-{"pattern": "[X]'s positie is [Y]."}
-{"pattern": "Speelt [X] in de positie van [Y]?"}
-{"pattern": "Speelt [X] als [Y]?"}
+{"pattern": "[X] speelt als [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] speelt op de positie van [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111}
+{"pattern": "[X]'s positie is [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Speelt [X] in de positie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Speelt [X] als [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

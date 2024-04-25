@@ -1,6 +1,6 @@
-{"pattern": "Die Hauptstadt von [X] ist [Y]."}
-{"pattern": "Die Hauptstadt [X]s ist [Y]."}
-{"pattern": "Die Hauptstadt des [X] ist [Y]."}
-{"pattern": "Die Hauptstadt von [X], [Y]."}
-{"pattern": "Die Hauptstadt der [X] ist [Y]."}
-{"pattern": "[X]s Hauptstadt, [Y]."}
+{"pattern": "Die Hauptstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6608695652173913}
+{"pattern": "Die Hauptstadt [X]s ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6434782608695652}
+{"pattern": "Die Hauptstadt des [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6347826086956522}
+{"pattern": "Die Hauptstadt von [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.02608695652173913}
+{"pattern": "Die Hauptstadt der [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6434782608695652}
+{"pattern": "[X]s Hauptstadt, [Y].", "bert-base-multilingual-uncased_P@1": 0.1565217391304348}

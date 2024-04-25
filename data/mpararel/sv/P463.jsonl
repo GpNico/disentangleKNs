@@ -1,5 +1,5 @@
-{"pattern": "[X] tillh\u00f6r [Y]."}
-{"pattern": "[X] \u00e4r ansluten till [Y]."}
-{"pattern": "Tillh\u00f6r [X] [Y]?"}
-{"pattern": "\u00c4r [X] medlem i [Y]?"}
-{"pattern": "\u00c4r [X] ansluten till [Y]?"}
+{"pattern": "[X] tillh\u00f6r [Y].", "bert-base-multilingual-uncased_P@1": 0.25806451612903225}
+{"pattern": "[X] \u00e4r ansluten till [Y].", "bert-base-multilingual-uncased_P@1": 0.5161290322580645}
+{"pattern": "Tillh\u00f6r [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00c4r [X] medlem i [Y]?", "bert-base-multilingual-uncased_P@1": 0.5161290322580645}
+{"pattern": "\u00c4r [X] ansluten till [Y]?", "bert-base-multilingual-uncased_P@1": 0.45161290322580644}

@@ -1,21 +1,21 @@
-{"pattern": "[X] a \u00e9t\u00e9 form\u00e9 \u00e0 [Y]."}
-{"pattern": "[X] est originaire de [Y]."}
-{"pattern": "[X] a commenc\u00e9 \u00e0 [Y]."}
-{"pattern": "[X] qui a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9e \u00e0 [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y]."}
-{"pattern": "[X] a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]."}
-{"pattern": "[X], cr\u00e9\u00e9 \u00e0 [Y]."}
-{"pattern": "[X], fond\u00e9e \u00e0 [Y]."}
-{"pattern": "[X], qui est originaire de [Y]."}
-{"pattern": "[X], qui a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]."}
-{"pattern": "[X], qui a \u00e9t\u00e9 form\u00e9 \u00e0 [Y]."}
-{"pattern": "[X], qui a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]."}
-{"pattern": "[X] s'est form\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] est n\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] a-t-il commenc\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] a-t-il \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] a-t-il \u00e9t\u00e9 form\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] a-t-il \u00e9t\u00e9 fond\u00e9 \u00e0 [Y]?"}
-{"pattern": "[X] a-t-il \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a \u00e9t\u00e9 form\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X] est originaire de [Y].", "bert-base-multilingual-uncased_P@1": 0.09375}
+{"pattern": "[X] a commenc\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.01875}
+{"pattern": "[X] qui a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.13125}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.13125}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.13125}
+{"pattern": "[X] a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X] a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.0875}
+{"pattern": "[X], cr\u00e9\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.0375}
+{"pattern": "[X], fond\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.1125}
+{"pattern": "[X], qui est originaire de [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X], qui a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.1125}
+{"pattern": "[X], qui a \u00e9t\u00e9 form\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.10625}
+{"pattern": "[X], qui a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.10625}
+{"pattern": "[X] s'est form\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.09375}
+{"pattern": "[X] est n\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.06875}
+{"pattern": "[X] a-t-il commenc\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.08125}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 form\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.1}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 fond\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.10625}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0375}

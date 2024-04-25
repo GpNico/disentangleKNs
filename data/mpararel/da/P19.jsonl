@@ -1,18 +1,18 @@
-{"pattern": "[X]s f\u00f8dested er [Y]."}
-{"pattern": "[X] er f\u00f8dt i [Y]."}
-{"pattern": "[X] er indf\u00f8dt i [Y]."}
-{"pattern": "[X] er oprindeligt fra [Y]."}
-{"pattern": "[X] stammer fra [Y]."}
-{"pattern": "\u00c6rkehertug [X] er oprindeligt fra [Y]."}
-{"pattern": "[X] blev f\u00f8dt i [Y]."}
-{"pattern": "[X] var f\u00f8dt i [Y]."}
-{"pattern": "[X] var oprindeligt fra [Y]."}
-{"pattern": "[X]' f\u00f8dested er [Y]."}
-{"pattern": "\u00c6rkehertug [X] er f\u00f8dt i [Y]."}
-{"pattern": "Kom [X] fra [Y]?"}
-{"pattern": "Kommer [X] fra [Y]?"}
-{"pattern": "Er [X] hjemmeh\u00f8rende i [Y]?"}
-{"pattern": "Er [X] oprindeligt fra [Y]?"}
-{"pattern": "Er [X] f\u00f8dt i [Y]?"}
-{"pattern": "Var [X] f\u00f8dt i [Y]?"}
-{"pattern": "Var [X] oprindeligt fra [Y]?"}
+{"pattern": "[X]s f\u00f8dested er [Y].", "bert-base-multilingual-uncased_P@1": 0.0603448275862069}
+{"pattern": "[X] er f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.12931034482758622}
+{"pattern": "[X] er indf\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
+{"pattern": "[X] er oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
+{"pattern": "[X] stammer fra [Y].", "bert-base-multilingual-uncased_P@1": 0.0603448275862069}
+{"pattern": "\u00c6rkehertug [X] er oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.008620689655172414}
+{"pattern": "[X] blev f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.14655172413793102}
+{"pattern": "[X] var f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.13793103448275862}
+{"pattern": "[X] var oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.02586206896551724}
+{"pattern": "[X]' f\u00f8dested er [Y].", "bert-base-multilingual-uncased_P@1": 0.04310344827586207}
+{"pattern": "\u00c6rkehertug [X] er f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.11206896551724138}
+{"pattern": "Kom [X] fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.07758620689655173}
+{"pattern": "Kommer [X] fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.06896551724137931}
+{"pattern": "Er [X] hjemmeh\u00f8rende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.06896551724137931}
+{"pattern": "Er [X] oprindeligt fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
+{"pattern": "Er [X] f\u00f8dt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0603448275862069}
+{"pattern": "Var [X] f\u00f8dt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.09482758620689655}
+{"pattern": "Var [X] oprindeligt fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}

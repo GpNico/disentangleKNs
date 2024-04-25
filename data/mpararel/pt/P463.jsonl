@@ -1,14 +1,14 @@
-{"pattern": "A [X] pertence \u00e0 [Y]."}
-{"pattern": "O [X] pertence aos [Y]."}
-{"pattern": "A [X] pertence \u00e0 organiza\u00e7\u00e3o da [Y]."}
-{"pattern": "A [X] \u00e9 membro da [Y]."}
-{"pattern": "[X] \u00e9 membro dos [Y]."}
-{"pattern": "A [X] \u00e9 afiliada \u00e0 [Y]."}
-{"pattern": "A [X] faz parte da [Y]."}
-{"pattern": "A [X] pertence \u00e0 [Y]?"}
-{"pattern": "O [X] pertence aos [Y]?"}
-{"pattern": "A [X] pertence \u00e0 organiza\u00e7\u00e3o da [Y]?"}
-{"pattern": "A [X] \u00e9 membro da [Y]?"}
-{"pattern": "O [X] \u00e9 membro dos [Y]?"}
-{"pattern": "A [X] \u00e9 afiliada \u00e0 [Y]?"}
-{"pattern": "A [X] faz parte da [Y]?"}
+{"pattern": "A [X] pertence \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.45714285714285713}
+{"pattern": "O [X] pertence aos [Y].", "bert-base-multilingual-uncased_P@1": 0.02857142857142857}
+{"pattern": "A [X] pertence \u00e0 organiza\u00e7\u00e3o da [Y].", "bert-base-multilingual-uncased_P@1": 0.6571428571428571}
+{"pattern": "A [X] \u00e9 membro da [Y].", "bert-base-multilingual-uncased_P@1": 0.6857142857142857}
+{"pattern": "[X] \u00e9 membro dos [Y].", "bert-base-multilingual-uncased_P@1": 0.17142857142857143}
+{"pattern": "A [X] \u00e9 afiliada \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.6857142857142857}
+{"pattern": "A [X] faz parte da [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "A [X] pertence \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] pertence aos [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "A [X] pertence \u00e0 organiza\u00e7\u00e3o da [Y]?", "bert-base-multilingual-uncased_P@1": 0.7142857142857143}
+{"pattern": "A [X] \u00e9 membro da [Y]?", "bert-base-multilingual-uncased_P@1": 0.6857142857142857}
+{"pattern": "O [X] \u00e9 membro dos [Y]?", "bert-base-multilingual-uncased_P@1": 0.02857142857142857}
+{"pattern": "A [X] \u00e9 afiliada \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.02857142857142857}
+{"pattern": "A [X] faz parte da [Y]?", "bert-base-multilingual-uncased_P@1": 0.2571428571428571}

@@ -1,6 +1,6 @@
-{"pattern": "[X] kommunizierte auf [Y]."}
-{"pattern": "[X] kommuniziert auf [Y]."}
-{"pattern": "[X] kommunizierte fr\u00fcher auf [Y]."}
-{"pattern": "Kommunizierte [X] auf [Y]?"}
-{"pattern": "Spricht [X] [Y]?"}
-{"pattern": "Sprach [X] [Y]?"}
+{"pattern": "[X] kommunizierte auf [Y].", "bert-base-multilingual-uncased_P@1": 0.1450381679389313}
+{"pattern": "[X] kommuniziert auf [Y].", "bert-base-multilingual-uncased_P@1": 0.16030534351145037}
+{"pattern": "[X] kommunizierte fr\u00fcher auf [Y].", "bert-base-multilingual-uncased_P@1": 0.25190839694656486}
+{"pattern": "Kommunizierte [X] auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Spricht [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Sprach [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

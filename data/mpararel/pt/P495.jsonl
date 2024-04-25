@@ -1,38 +1,38 @@
-{"pattern": "O [X] veio da [Y]."}
-{"pattern": "[X] vem da [Y]."}
-{"pattern": "[X] foi formado no [Y]."}
-{"pattern": "[X] \u00e9 da [Y]."}
-{"pattern": "[X] se originou no [Y]."}
-{"pattern": "[X] foi criado na [Y]."}
-{"pattern": "O [X] foi desenvolvido na [Y]."}
-{"pattern": "[X] foi criado pela primeira vez na [Y]."}
-{"pattern": "O [X] foi feito pela primeira vez no [Y]."}
-{"pattern": "O [X] foi produzido pela primeira vez no [Y]."}
-{"pattern": "A [X] foi formada na [Y]."}
-{"pattern": "O [X] foi formulado no [Y]."}
-{"pattern": "[X] era da [Y]."}
-{"pattern": "[X], criado na [Y]."}
-{"pattern": "[X], desenvolvido na [Y]."}
-{"pattern": "[X], formulado no [Y]."}
-{"pattern": "[X], da [Y]."}
-{"pattern": "[X], que se originou na [Y]."}
-{"pattern": "[X], que foi criado na [Y]."}
-{"pattern": "[X], que foi desenvolvido na [Y]."}
-{"pattern": "[X], que foi formado na [Y]."}
-{"pattern": "[X], que foi formulado na [Y]."}
-{"pattern": "[X], que era da [Y]."}
-{"pattern": "O [X] veio da [Y]?"}
-{"pattern": "O [X] formou-se no [Y]?"}
-{"pattern": "O [X] originou-se na [Y]?"}
-{"pattern": "O [X] vem da [Y]?"}
-{"pattern": "O [X] \u00e9 origin\u00e1rio da [Y]?"}
-{"pattern": "O [X] \u00e9 formulado no [Y]?"}
-{"pattern": "O [X] \u00e9 da [Y]?"}
-{"pattern": "O [X] foi criado na [Y]?"}
-{"pattern": "O [X] foi desenvolvido na [Y]?"}
-{"pattern": "O [X] foi criado pela primeira vez na [Y]?"}
-{"pattern": "O [X] foi feito pela primeira vez no [Y]?"}
-{"pattern": "O [X] foi produzido pela primeira vez no [Y]?"}
-{"pattern": "O [X] foi formado no [Y]?"}
-{"pattern": "O [X] foi formulado na [Y]?"}
-{"pattern": "O [X] era do [Y]?"}
+{"pattern": "O [X] veio da [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
+{"pattern": "[X] vem da [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "[X] foi formado no [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X] \u00e9 da [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X] se originou no [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "[X] foi criado na [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "O [X] foi desenvolvido na [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
+{"pattern": "[X] foi criado pela primeira vez na [Y].", "bert-base-multilingual-uncased_P@1": 0.08974358974358974}
+{"pattern": "O [X] foi feito pela primeira vez no [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "O [X] foi produzido pela primeira vez no [Y].", "bert-base-multilingual-uncased_P@1": 0.20512820512820512}
+{"pattern": "A [X] foi formada na [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "O [X] foi formulado no [Y].", "bert-base-multilingual-uncased_P@1": 0.0641025641025641}
+{"pattern": "[X] era da [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "[X], criado na [Y].", "bert-base-multilingual-uncased_P@1": 0.1282051282051282}
+{"pattern": "[X], desenvolvido na [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "[X], formulado no [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "[X], da [Y].", "bert-base-multilingual-uncased_P@1": 0.0641025641025641}
+{"pattern": "[X], que se originou na [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "[X], que foi criado na [Y].", "bert-base-multilingual-uncased_P@1": 0.0641025641025641}
+{"pattern": "[X], que foi desenvolvido na [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "[X], que foi formado na [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X], que foi formulado na [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "[X], que era da [Y].", "bert-base-multilingual-uncased_P@1": 0.01282051282051282}
+{"pattern": "O [X] veio da [Y]?", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "O [X] formou-se no [Y]?", "bert-base-multilingual-uncased_P@1": 0.02564102564102564}
+{"pattern": "O [X] originou-se na [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "O [X] vem da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] \u00e9 origin\u00e1rio da [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "O [X] \u00e9 formulado no [Y]?", "bert-base-multilingual-uncased_P@1": 0.01282051282051282}
+{"pattern": "O [X] \u00e9 da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] foi criado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "O [X] foi desenvolvido na [Y]?", "bert-base-multilingual-uncased_P@1": 0.08974358974358974}
+{"pattern": "O [X] foi criado pela primeira vez na [Y]?", "bert-base-multilingual-uncased_P@1": 0.14102564102564102}
+{"pattern": "O [X] foi feito pela primeira vez no [Y]?", "bert-base-multilingual-uncased_P@1": 0.01282051282051282}
+{"pattern": "O [X] foi produzido pela primeira vez no [Y]?", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
+{"pattern": "O [X] foi formado no [Y]?", "bert-base-multilingual-uncased_P@1": 0.01282051282051282}
+{"pattern": "O [X] foi formulado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.02564102564102564}
+{"pattern": "O [X] era do [Y]?", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}

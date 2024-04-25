@@ -1,17 +1,17 @@
-{"pattern": "Der Kontinent [X] ist [Y]."}
-{"pattern": "[X] geh\u00f6rt zum Kontinent [Y]."}
-{"pattern": "Das [X] geh\u00f6rt zum Kontinent [Y]."}
-{"pattern": "[X] ist ein Teil des Kontinents [Y]."}
-{"pattern": "Der [X] ist ein Teil des Kontinents [Y]."}
-{"pattern": "Das [X] ist ein Teil des Kontinents [Y]."}
-{"pattern": "[X] liegt in [Y]."}
-{"pattern": "[X] liegt auf dem Kontinent [Y]."}
-{"pattern": "[X] befindet sich auf dem Kontinent [Y]."}
-{"pattern": "Geh\u00f6rt [X] zum Kontinent [Y]?"}
-{"pattern": "Geh\u00f6rt das K\u00f6nigreich [X] zum Kontinent [Y]?"}
-{"pattern": "Ist [X] ein Teil des Kontinents [Y]?"}
-{"pattern": "Ist [X] Teil des Kontinents [Y]?"}
-{"pattern": "Ist die [X] ein Teil des Kontinents [Y]?"}
-{"pattern": "Liegt [X] in [Y]?"}
-{"pattern": "Liegt [X] auf dem Kontinent [Y]?"}
-{"pattern": "Liegt die [X] auf dem Kontinent [Y]?"}
+{"pattern": "Der Kontinent [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] geh\u00f6rt zum Kontinent [Y].", "bert-base-multilingual-uncased_P@1": 0.1}
+{"pattern": "Das [X] geh\u00f6rt zum Kontinent [Y].", "bert-base-multilingual-uncased_P@1": 0.16}
+{"pattern": "[X] ist ein Teil des Kontinents [Y].", "bert-base-multilingual-uncased_P@1": 0.18}
+{"pattern": "Der [X] ist ein Teil des Kontinents [Y].", "bert-base-multilingual-uncased_P@1": 0.16}
+{"pattern": "Das [X] ist ein Teil des Kontinents [Y].", "bert-base-multilingual-uncased_P@1": 0.16}
+{"pattern": "[X] liegt in [Y].", "bert-base-multilingual-uncased_P@1": 0.08}
+{"pattern": "[X] liegt auf dem Kontinent [Y].", "bert-base-multilingual-uncased_P@1": 0.14}
+{"pattern": "[X] befindet sich auf dem Kontinent [Y].", "bert-base-multilingual-uncased_P@1": 0.12}
+{"pattern": "Geh\u00f6rt [X] zum Kontinent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Geh\u00f6rt das K\u00f6nigreich [X] zum Kontinent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Ist [X] ein Teil des Kontinents [Y]?", "bert-base-multilingual-uncased_P@1": 0.12}
+{"pattern": "Ist [X] Teil des Kontinents [Y]?", "bert-base-multilingual-uncased_P@1": 0.12}
+{"pattern": "Ist die [X] ein Teil des Kontinents [Y]?", "bert-base-multilingual-uncased_P@1": 0.16}
+{"pattern": "Liegt [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Liegt [X] auf dem Kontinent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Liegt die [X] auf dem Kontinent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

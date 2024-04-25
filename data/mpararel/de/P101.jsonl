@@ -1,14 +1,14 @@
-{"pattern": "Das T\u00e4tigkeitsfeld von [X] ist die [Y]."}
-{"pattern": "Das Arbeitsgebiet von [X] ist die [Y]."}
-{"pattern": "Die Expertise von [X] ist [Y]."}
-{"pattern": "[X] arbeitet auf dem Gebiet der [Y]."}
-{"pattern": "[X]s Fachgebiet ist die [Y]."}
-{"pattern": "[X]s Arbeitsgebiet ist die [Y]."}
-{"pattern": "[X]s T\u00e4tigkeitsbereich ist die [Y]."}
-{"pattern": "[X]s Arbeitsbereich ist die [Y]."}
-{"pattern": "[X]s Fachwissen ist [Y]."}
-{"pattern": "[X]s Expertise liegt in der [Y]."}
-{"pattern": "Spezialisiert sich [X] auf [Y]?"}
-{"pattern": "Arbeitet [X] in der [Y]?"}
-{"pattern": "Arbeitet [X] im Bereich der [Y]?"}
-{"pattern": "Ist [X]s Expertise in der [Y]?"}
+{"pattern": "Das T\u00e4tigkeitsfeld von [X] ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.16091954022988506}
+{"pattern": "Das Arbeitsgebiet von [X] ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.16091954022988506}
+{"pattern": "Die Expertise von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] arbeitet auf dem Gebiet der [Y].", "bert-base-multilingual-uncased_P@1": 0.19540229885057472}
+{"pattern": "[X]s Fachgebiet ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.21839080459770116}
+{"pattern": "[X]s Arbeitsgebiet ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.12643678160919541}
+{"pattern": "[X]s T\u00e4tigkeitsbereich ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.1724137931034483}
+{"pattern": "[X]s Arbeitsbereich ist die [Y].", "bert-base-multilingual-uncased_P@1": 0.1839080459770115}
+{"pattern": "[X]s Fachwissen ist [Y].", "bert-base-multilingual-uncased_P@1": 0.011494252873563218}
+{"pattern": "[X]s Expertise liegt in der [Y].", "bert-base-multilingual-uncased_P@1": 0.1724137931034483}
+{"pattern": "Spezialisiert sich [X] auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.1724137931034483}
+{"pattern": "Arbeitet [X] in der [Y]?", "bert-base-multilingual-uncased_P@1": 0.022988505747126436}
+{"pattern": "Arbeitet [X] im Bereich der [Y]?", "bert-base-multilingual-uncased_P@1": 0.12643678160919541}
+{"pattern": "Ist [X]s Expertise in der [Y]?", "bert-base-multilingual-uncased_P@1": 0.10344827586206896}

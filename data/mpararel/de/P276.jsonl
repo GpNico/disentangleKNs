@@ -1,5 +1,5 @@
-{"pattern": "Die [X] befindet sich in [Y]."}
-{"pattern": "[X] ist in [Y]."}
-{"pattern": "Das [X] befindet sich in [Y]."}
-{"pattern": "Ist das [X] in [Y]?"}
-{"pattern": "Ist die [X] in [Y]?"}
+{"pattern": "Die [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3644067796610169}
+{"pattern": "[X] ist in [Y].", "bert-base-multilingual-uncased_P@1": 0.22033898305084745}
+{"pattern": "Das [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3389830508474576}
+{"pattern": "Ist das [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1440677966101695}
+{"pattern": "Ist die [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.13559322033898305}

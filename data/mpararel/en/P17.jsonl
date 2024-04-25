@@ -1,8 +1,8 @@
-{"pattern": "The country [X] is located in is [Y] ."}
-{"pattern": "The state [X] is located in is [Y] ."}
-{"pattern": "[X] is located in [Y] ."}
-{"pattern": "[X] is located in the following country: [Y] ."}
-{"pattern": "[X] is located in the following state: [Y] ."}
-{"pattern": "[X], located in [Y] ."}
-{"pattern": "[X], which is located in [Y] ."}
-{"pattern": "Is [X] located in [Y]?"}
+{"pattern": "The country [X] is located in is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "The state [X] is located in is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is located in [Y] .", "bert-base-multilingual-uncased_P@1": 0.3783783783783784}
+{"pattern": "[X] is located in the following country: [Y] .", "bert-base-multilingual-uncased_P@1": 0.5297297297297298}
+{"pattern": "[X] is located in the following state: [Y] .", "bert-base-multilingual-uncased_P@1": 0.42702702702702705}
+{"pattern": "[X], located in [Y] .", "bert-base-multilingual-uncased_P@1": 0.35135135135135137}
+{"pattern": "[X], which is located in [Y] .", "bert-base-multilingual-uncased_P@1": 0.372972972972973}
+{"pattern": "Is [X] located in [Y]?", "bert-base-multilingual-uncased_P@1": 0.34594594594594597}

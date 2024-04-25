@@ -1,5 +1,5 @@
-{"pattern": "[X] fandt arbejde i [Y]."}
-{"pattern": "[X] tog arbejde i [Y]."}
-{"pattern": "[X] arbejdede i [Y]."}
-{"pattern": "Fandt [X] et job i [Y]?"}
-{"pattern": "Har [X] taget arbejde i [Y]?"}
+{"pattern": "[X] fandt arbejde i [Y].", "bert-base-multilingual-uncased_P@1": 0.12025316455696203}
+{"pattern": "[X] tog arbejde i [Y].", "bert-base-multilingual-uncased_P@1": 0.27848101265822783}
+{"pattern": "[X] arbejdede i [Y].", "bert-base-multilingual-uncased_P@1": 0.17088607594936708}
+{"pattern": "Fandt [X] et job i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1962025316455696}
+{"pattern": "Har [X] taget arbejde i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2088607594936709}

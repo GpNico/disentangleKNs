@@ -1,14 +1,14 @@
-{"pattern": "[X] found employment in [Y] ."}
-{"pattern": "[X] is employed in [Y] ."}
-{"pattern": "[X] took up work in [Y] ."}
-{"pattern": "[X] used to work in [Y] ."}
-{"pattern": "[X] was employed in [Y] ."}
-{"pattern": "[X] worked in [Y] ."}
-{"pattern": "[X] works in [Y] ."}
-{"pattern": "Did [X] find employment in [Y]?"}
-{"pattern": "Did [X] take up work in [Y]?"}
-{"pattern": "Did [X] use to work in [Y]?"}
-{"pattern": "Did [X] work in [Y]?"}
-{"pattern": "Does [X] work in [Y]?"}
-{"pattern": "Is [X] employed in [Y]?"}
-{"pattern": "Was [X] employed in [Y]?"}
+{"pattern": "[X] found employment in [Y] .", "bert-base-multilingual-uncased_P@1": 0.2804232804232804}
+{"pattern": "[X] is employed in [Y] .", "bert-base-multilingual-uncased_P@1": 0.21164021164021163}
+{"pattern": "[X] took up work in [Y] .", "bert-base-multilingual-uncased_P@1": 0.4021164021164021}
+{"pattern": "[X] used to work in [Y] .", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "[X] was employed in [Y] .", "bert-base-multilingual-uncased_P@1": 0.2962962962962963}
+{"pattern": "[X] worked in [Y] .", "bert-base-multilingual-uncased_P@1": 0.3439153439153439}
+{"pattern": "[X] works in [Y] .", "bert-base-multilingual-uncased_P@1": 0.24338624338624337}
+{"pattern": "Did [X] find employment in [Y]?", "bert-base-multilingual-uncased_P@1": 0.07936507936507936}
+{"pattern": "Did [X] take up work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.25396825396825395}
+{"pattern": "Did [X] use to work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1164021164021164}
+{"pattern": "Did [X] work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1164021164021164}
+{"pattern": "Does [X] work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.031746031746031744}
+{"pattern": "Is [X] employed in [Y]?", "bert-base-multilingual-uncased_P@1": 0.12698412698412698}
+{"pattern": "Was [X] employed in [Y]?", "bert-base-multilingual-uncased_P@1": 0.18518518518518517}

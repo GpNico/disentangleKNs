@@ -1,17 +1,17 @@
-{"pattern": "El continente de [X] es [Y]."}
-{"pattern": "La [X] pertenece al continente [Y]."}
-{"pattern": "[X] pertenece al continente de [Y]."}
-{"pattern": "La [X] es una parte del continente [Y]."}
-{"pattern": "[X] es una parte del continente [Y]."}
-{"pattern": "[X] es una parte del continente de [Y]."}
-{"pattern": "[X] se encuentra en [Y]."}
-{"pattern": "La [X] se encuentra en el continente [Y]."}
-{"pattern": "El [X] se encuentra en el continente [Y]."}
-{"pattern": "\u00bfLa [X] pertenece al continente [Y]?"}
-{"pattern": "\u00bf[X] pertenece al continente de [Y]?"}
-{"pattern": "\u00bfLa [X] es parte del continente [Y]?"}
-{"pattern": "\u00bf[X] es parte del continente [Y]?"}
-{"pattern": "\u00bfLa [X] es parte del continente de la [Y]?"}
-{"pattern": "\u00bf[X] est\u00e1 ubicado en [Y]?"}
-{"pattern": "\u00bfLa [X] se encuentra en el continente [Y]?"}
-{"pattern": "\u00bfEl [X] se encuentra en el continente [Y]?"}
+{"pattern": "El continente de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
+{"pattern": "La [X] pertenece al continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] pertenece al continente de [Y].", "bert-base-multilingual-uncased_P@1": 0.6842105263157895}
+{"pattern": "La [X] es una parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] es una parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] es una parte del continente de [Y].", "bert-base-multilingual-uncased_P@1": 0.543859649122807}
+{"pattern": "[X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.07017543859649122}
+{"pattern": "La [X] se encuentra en el continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "El [X] se encuentra en el continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bfLa [X] pertenece al continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] pertenece al continente de [Y]?", "bert-base-multilingual-uncased_P@1": 0.6842105263157895}
+{"pattern": "\u00bfLa [X] es parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] es parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bfLa [X] es parte del continente de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 ubicado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.3684210526315789}
+{"pattern": "\u00bfLa [X] se encuentra en el continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bfEl [X] se encuentra en el continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

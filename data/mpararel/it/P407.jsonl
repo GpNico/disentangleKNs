@@ -1,14 +1,14 @@
-{"pattern": "La lingua di [X] \u00e8 il [Y]."}
-{"pattern": "La lingua di [X] era l'[Y]."}
-{"pattern": "[X] \u00e8 un'opera scritta in [Y]."}
-{"pattern": "[X] \u00e8 scritto in [Y]."}
-{"pattern": "[X] era un'opera scritta in [Y]."}
-{"pattern": "[X] \u00e8 stato creato in [Y]."}
-{"pattern": "[X] \u00e8 stato scritto in [Y]."}
-{"pattern": "[X] \u00e8 un'opera in [Y]?"}
-{"pattern": "[X] \u00e8 un'opera scritta in [Y]?"}
-{"pattern": "[X] \u00e8 scritto in [Y]?"}
-{"pattern": "[X] era un'opera in [Y]?"}
-{"pattern": "[X] era un'opera scritta in [Y]?"}
-{"pattern": "[X] \u00e8 stato creato in [Y]?"}
-{"pattern": "[X] \u00e8 stato scritto in [Y]?"}
+{"pattern": "La lingua di [X] \u00e8 il [Y].", "bert-base-multilingual-uncased_P@1": 0.3790322580645161}
+{"pattern": "La lingua di [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.5161290322580645}
+{"pattern": "[X] \u00e8 un'opera scritta in [Y].", "bert-base-multilingual-uncased_P@1": 0.6612903225806451}
+{"pattern": "[X] \u00e8 scritto in [Y].", "bert-base-multilingual-uncased_P@1": 0.6774193548387096}
+{"pattern": "[X] era un'opera scritta in [Y].", "bert-base-multilingual-uncased_P@1": 0.6532258064516129}
+{"pattern": "[X] \u00e8 stato creato in [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato scritto in [Y].", "bert-base-multilingual-uncased_P@1": 0.6209677419354839}
+{"pattern": "[X] \u00e8 un'opera in [Y]?", "bert-base-multilingual-uncased_P@1": 0.008064516129032258}
+{"pattern": "[X] \u00e8 un'opera scritta in [Y]?", "bert-base-multilingual-uncased_P@1": 0.12096774193548387}
+{"pattern": "[X] \u00e8 scritto in [Y]?", "bert-base-multilingual-uncased_P@1": 0.33064516129032256}
+{"pattern": "[X] era un'opera in [Y]?", "bert-base-multilingual-uncased_P@1": 0.024193548387096774}
+{"pattern": "[X] era un'opera scritta in [Y]?", "bert-base-multilingual-uncased_P@1": 0.10483870967741936}
+{"pattern": "[X] \u00e8 stato creato in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato scritto in [Y]?", "bert-base-multilingual-uncased_P@1": 0.11290322580645161}

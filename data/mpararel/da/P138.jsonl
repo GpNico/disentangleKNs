@@ -1,17 +1,17 @@
-{"pattern": "[X] er opkaldt efter [Y]."}
-{"pattern": "[X], Gardermoen er opkaldt efter [Y]."}
-{"pattern": "[X]n er opkaldt efter [Y]."}
-{"pattern": "[X] blev opkaldt efter [Y]."}
-{"pattern": "[X], Gardermoen blev opkaldt efter [Y]."}
-{"pattern": "[X]n blev opkaldt efter [Y]."}
-{"pattern": "[X], opkaldt efter [Y]."}
-{"pattern": "[X], Gardermoen, opkaldt efter [Y]."}
-{"pattern": "[X], som er opkaldt efter [Y]."}
-{"pattern": "[X], Gardermoen, som er opkaldt efter [Y]."}
-{"pattern": "[X], som blev opkaldt efter [Y]."}
-{"pattern": "Er [X] opkaldt efter [Y]?"}
-{"pattern": "Er [X], Gardermoen opkaldt efter [Y]?"}
-{"pattern": "Er Den [X] opkaldt efter [Y]?"}
-{"pattern": "Blev [X] opkaldt efter [Y]?"}
-{"pattern": "Er [X]n opkaldt efter [Y]?"}
-{"pattern": "Blev [X], Gardermoen opkaldt efter [Y]?"}
+{"pattern": "[X] er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667}
+{"pattern": "[X], Gardermoen er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]n er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.08333333333333333}
+{"pattern": "[X] blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.041666666666666664}
+{"pattern": "[X], Gardermoen blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]n blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.020833333333333332}
+{"pattern": "[X], opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
+{"pattern": "[X], Gardermoen, opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0625}
+{"pattern": "[X], som er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.14583333333333334}
+{"pattern": "[X], Gardermoen, som er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.041666666666666664}
+{"pattern": "[X], som blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0625}
+{"pattern": "Er [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0625}
+{"pattern": "Er [X], Gardermoen opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Er Den [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.041666666666666664}
+{"pattern": "Blev [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.041666666666666664}
+{"pattern": "Er [X]n opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.020833333333333332}
+{"pattern": "Blev [X], Gardermoen opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

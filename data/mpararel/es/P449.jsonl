@@ -1,16 +1,16 @@
-{"pattern": "[X] debut\u00f3 en [Y]."}
-{"pattern": "[X] est\u00e1 por debutar en [Y]."}
-{"pattern": "[X] se estren\u00f3 en [Y]."}
-{"pattern": "[X] se estrena en [Y]."}
-{"pattern": "[X] fue transmitido en [Y]."}
-{"pattern": "[X] fue emitido originalmente en [Y]."}
-{"pattern": "[X] fue mostrado originalmente en [Y]."}
-{"pattern": "[X] fue lanzado en [Y]."}
-{"pattern": "\u00bf[X] hizo su debut en [Y]?"}
-{"pattern": "\u00bfSe estren\u00f3 [X] en [Y]?"}
-{"pattern": "\u00bfSe estrena [X] en la [Y]?"}
-{"pattern": "\u00bf[X] debutar\u00e1 en la [Y]?"}
-{"pattern": "\u00bfFue [X] transmitido en [Y]?"}
-{"pattern": "\u00bf[X] fue emitido originalmente en [Y]?"}
-{"pattern": "\u00bf[X] fue mostrado originalmente en [Y]?"}
-{"pattern": "\u00bfFue lanzado [X] en [Y]?"}
+{"pattern": "[X] debut\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] est\u00e1 por debutar en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] se estren\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.04}
+{"pattern": "[X] se estrena en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] fue transmitido en [Y].", "bert-base-multilingual-uncased_P@1": 0.05333333333333334}
+{"pattern": "[X] fue emitido originalmente en [Y].", "bert-base-multilingual-uncased_P@1": 0.05333333333333334}
+{"pattern": "[X] fue mostrado originalmente en [Y].", "bert-base-multilingual-uncased_P@1": 0.04}
+{"pattern": "[X] fue lanzado en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] hizo su debut en [Y]?", "bert-base-multilingual-uncased_P@1": 0.013333333333333334}
+{"pattern": "\u00bfSe estren\u00f3 [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bfSe estrena [X] en la [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bf[X] debutar\u00e1 en la [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u00bfFue [X] transmitido en [Y]?", "bert-base-multilingual-uncased_P@1": 0.013333333333333334}
+{"pattern": "\u00bf[X] fue emitido originalmente en [Y]?", "bert-base-multilingual-uncased_P@1": 0.08}
+{"pattern": "\u00bf[X] fue mostrado originalmente en [Y]?", "bert-base-multilingual-uncased_P@1": 0.013333333333333334}
+{"pattern": "\u00bfFue lanzado [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

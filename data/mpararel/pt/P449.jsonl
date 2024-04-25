@@ -1,16 +1,16 @@
-{"pattern": "[X] estreou na [Y]."}
-{"pattern": "[X] vai estrear na [Y]."}
-{"pattern": "[X] estreou no [Y]."}
-{"pattern": "[X] estreia na [Y]."}
-{"pattern": "[X] foi ao ar na [Y]."}
-{"pattern": "[X] foi originalmente ao ar na [Y]."}
-{"pattern": "[X] foi originalmente mostrado na [Y]."}
-{"pattern": "[X] foi lan\u00e7ado na [Y]."}
-{"pattern": "O [X] estreou na [Y]?"}
-{"pattern": "O [X] estreou no [Y]?"}
-{"pattern": "O [X] estreia na [Y]?"}
-{"pattern": "O [X] vai estrear na [Y]?"}
-{"pattern": "O [X] foi ao ar na [Y]?"}
-{"pattern": "O [X] foi originalmente ao ar na [Y]?"}
-{"pattern": "O [X] foi originalmente mostrado na [Y]?"}
-{"pattern": "O [X] foi lan\u00e7ado na [Y]?"}
+{"pattern": "[X] estreou na [Y].", "bert-base-multilingual-uncased_P@1": 0.07317073170731707}
+{"pattern": "[X] vai estrear na [Y].", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
+{"pattern": "[X] estreou no [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] estreia na [Y].", "bert-base-multilingual-uncased_P@1": 0.07317073170731707}
+{"pattern": "[X] foi ao ar na [Y].", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
+{"pattern": "[X] foi originalmente ao ar na [Y].", "bert-base-multilingual-uncased_P@1": 0.07317073170731707}
+{"pattern": "[X] foi originalmente mostrado na [Y].", "bert-base-multilingual-uncased_P@1": 0.07317073170731707}
+{"pattern": "[X] foi lan\u00e7ado na [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] estreou na [Y]?", "bert-base-multilingual-uncased_P@1": 0.024390243902439025}
+{"pattern": "O [X] estreou no [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] estreia na [Y]?", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
+{"pattern": "O [X] vai estrear na [Y]?", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
+{"pattern": "O [X] foi ao ar na [Y]?", "bert-base-multilingual-uncased_P@1": 0.024390243902439025}
+{"pattern": "O [X] foi originalmente ao ar na [Y]?", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
+{"pattern": "O [X] foi originalmente mostrado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] foi lan\u00e7ado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.024390243902439025}

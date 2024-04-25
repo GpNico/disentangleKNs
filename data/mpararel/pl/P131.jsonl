@@ -1,6 +1,6 @@
-{"pattern": "[X] znajduje si\u0119 w [Y]."}
-{"pattern": "[X] jest w [Y]."}
-{"pattern": "[X] znajduje si\u0119 w stanie [Y]."}
-{"pattern": "Czy [X] mo\u017cna znale\u017a\u0107 w [Y]?"}
-{"pattern": "Czy [X] jest w [Y]?"}
-{"pattern": "Czy [X] znajduje si\u0119 w [Y]?"}
+{"pattern": "[X] znajduje si\u0119 w [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
+{"pattern": "[X] jest w [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] znajduje si\u0119 w stanie [Y].", "bert-base-multilingual-uncased_P@1": 0.14705882352941177}
+{"pattern": "Czy [X] mo\u017cna znale\u017a\u0107 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Czy [X] jest w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Czy [X] znajduje si\u0119 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

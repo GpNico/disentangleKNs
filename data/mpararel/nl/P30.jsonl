@@ -1,17 +1,17 @@
-{"pattern": "Het continent van [X] is [Y]."}
-{"pattern": "[X] behoort tot het continent [Y]."}
-{"pattern": "Kaap [X] behoort tot het continent [Y]."}
-{"pattern": "[X] is een deel van het continent [Y]."}
-{"pattern": "[X] maakt deel uit van het continent [Y]."}
-{"pattern": "Kaap [X] is een deel van het continent [Y]."}
-{"pattern": "[X] ligt in [Y]."}
-{"pattern": "[X] ligt op het continent [Y]."}
-{"pattern": "Kaap [X] ligt op het continent [Y]."}
-{"pattern": "Hoort [X] bij het continent [Y]?"}
-{"pattern": "Behoort [X] tot het continent [Y]?"}
-{"pattern": "Is [X] een deel van het continent [Y]?"}
-{"pattern": "Is Kaap [X] een deel van het continent [Y]?"}
-{"pattern": "Maakt [X] deel uit van het continent [Y]?"}
-{"pattern": "Is [X] gelegen in [Y]?"}
-{"pattern": "Is [X] gelegen op het continent [Y]?"}
-{"pattern": "Is Kaap [X] gelegen op het continent [Y]?"}
+{"pattern": "Het continent van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.00819672131147541}
+{"pattern": "[X] behoort tot het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.19672131147540983}
+{"pattern": "Kaap [X] behoort tot het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.3114754098360656}
+{"pattern": "[X] is een deel van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X] maakt deel uit van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.10655737704918032}
+{"pattern": "Kaap [X] is een deel van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.3442622950819672}
+{"pattern": "[X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574}
+{"pattern": "[X] ligt op het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.23770491803278687}
+{"pattern": "Kaap [X] ligt op het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.14754098360655737}
+{"pattern": "Hoort [X] bij het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Behoort [X] tot het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] een deel van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.2540983606557377}
+{"pattern": "Is Kaap [X] een deel van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.1557377049180328}
+{"pattern": "Maakt [X] deel uit van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] gelegen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.04918032786885246}
+{"pattern": "Is [X] gelegen op het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.09836065573770492}
+{"pattern": "Is Kaap [X] gelegen op het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.06557377049180328}

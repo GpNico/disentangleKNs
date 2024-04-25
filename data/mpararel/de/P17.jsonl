@@ -1,7 +1,7 @@
-{"pattern": "Das Land, in dem sich [X] befindet, ist [Y]."}
-{"pattern": "Der Staat [X] liegt in [Y]."}
-{"pattern": "[X] befindet sich in [Y]."}
-{"pattern": "[X] befindet sich in dem folgenden Land: [Y]."}
-{"pattern": "[X] befindet sich in dem folgenden Bundesstaat: [Y]."}
-{"pattern": "[X], in [Y]."}
-{"pattern": "Liegt [X] in [Y]?"}
+{"pattern": "Das Land, in dem sich [X] befindet, ist [Y].", "bert-base-multilingual-uncased_P@1": 0.08547008547008547}
+{"pattern": "Der Staat [X] liegt in [Y].", "bert-base-multilingual-uncased_P@1": 0.4188034188034188}
+{"pattern": "[X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3418803418803419}
+{"pattern": "[X] befindet sich in dem folgenden Land: [Y].", "bert-base-multilingual-uncased_P@1": 0.11965811965811966}
+{"pattern": "[X] befindet sich in dem folgenden Bundesstaat: [Y].", "bert-base-multilingual-uncased_P@1": 0.3162393162393162}
+{"pattern": "[X], in [Y].", "bert-base-multilingual-uncased_P@1": 0.08547008547008547}
+{"pattern": "Liegt [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.24786324786324787}

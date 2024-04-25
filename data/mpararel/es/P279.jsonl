@@ -1,15 +1,15 @@
-{"pattern": "La [X] tiene clase de [Y]."}
-{"pattern": "El [X] es un [Y]."}
-{"pattern": "La [X] es un tipo de [Y]."}
-{"pattern": "El [X] es una subclase del [Y]."}
-{"pattern": "El [X] es un tipo de [Y]."}
-{"pattern": "El [X] es de la clase [Y]."}
-{"pattern": "[X], una subclase de [Y]."}
-{"pattern": "[X], un tipo de [Y]."}
-{"pattern": "[X], que es una subclase de [Y]."}
-{"pattern": "\u00bfEl [X] tiene clase de [Y]?"}
-{"pattern": "\u00bfLa [X] es una [Y]?"}
-{"pattern": "\u00bfEl [X] es una especie de [Y]?"}
-{"pattern": "\u00bfLa [X] es una subclase de la [Y]?"}
-{"pattern": "\u00bfEl [X] es un tipo de [Y]?"}
-{"pattern": "\u00bfLa [X] es de la clase de [Y]?"}
+{"pattern": "La [X] tiene clase de [Y].", "bert-base-multilingual-uncased_P@1": 0.136986301369863}
+{"pattern": "El [X] es un [Y].", "bert-base-multilingual-uncased_P@1": 0.1506849315068493}
+{"pattern": "La [X] es un tipo de [Y].", "bert-base-multilingual-uncased_P@1": 0.4794520547945205}
+{"pattern": "El [X] es una subclase del [Y].", "bert-base-multilingual-uncased_P@1": 0.2191780821917808}
+{"pattern": "El [X] es un tipo de [Y].", "bert-base-multilingual-uncased_P@1": 0.4383561643835616}
+{"pattern": "El [X] es de la clase [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], una subclase de [Y].", "bert-base-multilingual-uncased_P@1": 0.3013698630136986}
+{"pattern": "[X], un tipo de [Y].", "bert-base-multilingual-uncased_P@1": 0.4246575342465753}
+{"pattern": "[X], que es una subclase de [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123}
+{"pattern": "\u00bfEl [X] tiene clase de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0684931506849315}
+{"pattern": "\u00bfLa [X] es una [Y]?", "bert-base-multilingual-uncased_P@1": 0.136986301369863}
+{"pattern": "\u00bfEl [X] es una especie de [Y]?", "bert-base-multilingual-uncased_P@1": 0.3561643835616438}
+{"pattern": "\u00bfLa [X] es una subclase de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.3150684931506849}
+{"pattern": "\u00bfEl [X] es un tipo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.4383561643835616}
+{"pattern": "\u00bfLa [X] es de la clase de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1232876712328767}

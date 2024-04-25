@@ -1,17 +1,17 @@
-{"pattern": "[X] har hovedkvarter i [Y]."}
-{"pattern": "Hovedkvarteret for [X] er beliggende i [Y]."}
-{"pattern": "[X]s hovedkvarter er i [Y]."}
-{"pattern": "[X]s hovedkvarter er beliggende i [Y]."}
-{"pattern": "[X] er baseret i [Y]."}
-{"pattern": "James [X] & Sons har hovedkvarter i [Y]."}
-{"pattern": "[X] er beliggende i [Y]."}
-{"pattern": "[X]'s hovedkvarter er i [Y]."}
-{"pattern": "[X], hvis hovedkvarter er i [Y]."}
-{"pattern": "Er [X]s hovedkvarter i [Y]?"}
-{"pattern": "Er hovedkvarteret for [X] i [Y]?"}
-{"pattern": "Er [X]s hovedkvarter beliggende i [Y]?"}
-{"pattern": "Er [X] baseret i [Y]?"}
-{"pattern": "Er [X] hovedkvarter i [Y]?"}
-{"pattern": "Er [X] beliggende i [Y]?"}
-{"pattern": "Er [X]'s hovedkvarter i [Y]?"}
-{"pattern": "Er hovedkvarteret for [X] beliggende i [Y]?"}
+{"pattern": "[X] har hovedkvarter i [Y].", "bert-base-multilingual-uncased_P@1": 0.38}
+{"pattern": "Hovedkvarteret for [X] er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.36}
+{"pattern": "[X]s hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.44}
+{"pattern": "[X]s hovedkvarter er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
+{"pattern": "[X] er baseret i [Y].", "bert-base-multilingual-uncased_P@1": 0.38}
+{"pattern": "James [X] & Sons har hovedkvarter i [Y].", "bert-base-multilingual-uncased_P@1": 0.32}
+{"pattern": "[X] er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.24}
+{"pattern": "[X]'s hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.42}
+{"pattern": "[X], hvis hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.42}
+{"pattern": "Er [X]s hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.34}
+{"pattern": "Er hovedkvarteret for [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.24}
+{"pattern": "Er [X]s hovedkvarter beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.28}
+{"pattern": "Er [X] baseret i [Y]?", "bert-base-multilingual-uncased_P@1": 0.24}
+{"pattern": "Er [X] hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.22}
+{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.22}
+{"pattern": "Er [X]'s hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.36}
+{"pattern": "Er hovedkvarteret for [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2}

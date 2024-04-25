@@ -1,21 +1,21 @@
-{"pattern": "[X] bildades i [Y]."}
-{"pattern": "[X] har sitt ursprung i [Y]."}
-{"pattern": "[X] b\u00f6rjade i [Y]."}
-{"pattern": "[X] som grundades i [Y]."}
-{"pattern": "[X] skapades i [Y]."}
-{"pattern": "[X] Group bildades i [Y]."}
-{"pattern": "[X] grundades i [Y]."}
-{"pattern": "[X] startades i [Y]."}
-{"pattern": "[X], skapad i [Y]."}
-{"pattern": "[X], grundad i [Y]."}
-{"pattern": "[X], som har sitt ursprung i [Y]."}
-{"pattern": "[X], som skapades i [Y]."}
-{"pattern": "[X], som bildades i [Y]."}
-{"pattern": "[X], som startades i [Y]."}
-{"pattern": "Har [X] bildats i [Y]?"}
-{"pattern": "Har [X] sitt ursprung i [Y]?"}
-{"pattern": "B\u00f6rjade [X] i [Y]?"}
-{"pattern": "Skapades [X] i [Y]?"}
-{"pattern": "Var [X] bildad i [Y]?"}
-{"pattern": "Grundades [X] i [Y]?"}
-{"pattern": "B\u00f6rjades [X] i [Y]?"}
+{"pattern": "[X] bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761}
+{"pattern": "[X] har sitt ursprung i [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817}
+{"pattern": "[X] b\u00f6rjade i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761}
+{"pattern": "[X] som grundades i [Y].", "bert-base-multilingual-uncased_P@1": 0.04225352112676056}
+{"pattern": "[X] skapades i [Y].", "bert-base-multilingual-uncased_P@1": 0.028169014084507043}
+{"pattern": "[X] Group bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.04225352112676056}
+{"pattern": "[X] grundades i [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817}
+{"pattern": "[X] startades i [Y].", "bert-base-multilingual-uncased_P@1": 0.08450704225352113}
+{"pattern": "[X], skapad i [Y].", "bert-base-multilingual-uncased_P@1": 0.014084507042253521}
+{"pattern": "[X], grundad i [Y].", "bert-base-multilingual-uncased_P@1": 0.09859154929577464}
+{"pattern": "[X], som har sitt ursprung i [Y].", "bert-base-multilingual-uncased_P@1": 0.056338028169014086}
+{"pattern": "[X], som skapades i [Y].", "bert-base-multilingual-uncased_P@1": 0.028169014084507043}
+{"pattern": "[X], som bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761}
+{"pattern": "[X], som startades i [Y].", "bert-base-multilingual-uncased_P@1": 0.08450704225352113}
+{"pattern": "Har [X] bildats i [Y]?", "bert-base-multilingual-uncased_P@1": 0.04225352112676056}
+{"pattern": "Har [X] sitt ursprung i [Y]?", "bert-base-multilingual-uncased_P@1": 0.056338028169014086}
+{"pattern": "B\u00f6rjade [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.014084507042253521}
+{"pattern": "Skapades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Var [X] bildad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043}
+{"pattern": "Grundades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.07042253521126761}
+{"pattern": "B\u00f6rjades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043}

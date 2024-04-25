@@ -1,8 +1,8 @@
-{"pattern": "Het land waar [X] zich bevindt is [Y]."}
-{"pattern": "De staat [X] ligt in [Y]."}
-{"pattern": "[X] ligt in [Y]."}
-{"pattern": "[X] is gelegen in het volgende land: [Y]."}
-{"pattern": "[X] ligt in de volgende staat: [Y]."}
-{"pattern": "[X], gelegen in [Y]."}
-{"pattern": "[X] District, gelegen in [Y]."}
-{"pattern": "Is [X] gelegen in [Y]?"}
+{"pattern": "Het land waar [X] zich bevindt is [Y].", "bert-base-multilingual-uncased_P@1": 0.21929824561403508}
+{"pattern": "De staat [X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.3157894736842105}
+{"pattern": "[X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.2982456140350877}
+{"pattern": "[X] is gelegen in het volgende land: [Y].", "bert-base-multilingual-uncased_P@1": 0.42105263157894735}
+{"pattern": "[X] ligt in de volgende staat: [Y].", "bert-base-multilingual-uncased_P@1": 0.2894736842105263}
+{"pattern": "[X], gelegen in [Y].", "bert-base-multilingual-uncased_P@1": 0.03508771929824561}
+{"pattern": "[X] District, gelegen in [Y].", "bert-base-multilingual-uncased_P@1": 0.09649122807017543}
+{"pattern": "Is [X] gelegen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.23684210526315788}

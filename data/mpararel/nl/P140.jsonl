@@ -1,7 +1,7 @@
-{"pattern": "De religie van [X] is de [Y]."}
-{"pattern": "[X] gelooft in de [Y]."}
-{"pattern": "[X] is een gelovige van de [Y]."}
-{"pattern": "[X] is een volgeling van de [Y]."}
-{"pattern": "Gelooft [X] in de [Y]?"}
-{"pattern": "Gelooft [X] in het [Y]?"}
-{"pattern": "Is [X] een volgeling van de [Y]?"}
+{"pattern": "De religie van [X] is de [Y].", "bert-base-multilingual-uncased_P@1": 0.9772727272727273}
+{"pattern": "[X] gelooft in de [Y].", "bert-base-multilingual-uncased_P@1": 0.36363636363636365}
+{"pattern": "[X] is een gelovige van de [Y].", "bert-base-multilingual-uncased_P@1": 0.9545454545454546}
+{"pattern": "[X] is een volgeling van de [Y].", "bert-base-multilingual-uncased_P@1": 0.3409090909090909}
+{"pattern": "Gelooft [X] in de [Y]?", "bert-base-multilingual-uncased_P@1": 0.3181818181818182}
+{"pattern": "Gelooft [X] in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.3409090909090909}
+{"pattern": "Is [X] een volgeling van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.22727272727272727}

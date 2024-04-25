@@ -1,12 +1,12 @@
-{"pattern": "[X] and its sister city [Y] ."}
-{"pattern": "[X] and its twin city [Y] ."}
-{"pattern": "[X] has sister city [Y] ."}
-{"pattern": "[X] has twin city [Y] ."}
-{"pattern": "[X] is a sister city of [Y] ."}
-{"pattern": "[X] is a twin city of [Y] ."}
-{"pattern": "[X]'s sister city is [Y] ."}
-{"pattern": "[X]'s twin city is [Y] ."}
-{"pattern": "Is [X] a sister city of [Y]?"}
-{"pattern": "Is [X] a twin city of [Y]?"}
-{"pattern": "Is [X] the sister city of [Y]?"}
-{"pattern": "Is [X] the twin city of [Y]?"}
+{"pattern": "[X] and its sister city [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "[X] and its twin city [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "[X] has sister city [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] has twin city [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] is a sister city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "[X] is a twin city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s sister city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "[X]'s twin city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "Is [X] a sister city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] a twin city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] the sister city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}
+{"pattern": "Is [X] the twin city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.00510204081632653}

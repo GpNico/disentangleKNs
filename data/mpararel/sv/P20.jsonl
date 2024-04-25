@@ -1,22 +1,22 @@
-{"pattern": "[X]s d\u00f6dsort \u00e4r [Y]."}
-{"pattern": "[X]s d\u00f6dsort var [Y]."}
-{"pattern": "[X] dog i [Y]."}
-{"pattern": "[X]s d\u00f6dsplats var [Y]."}
-{"pattern": "[X]s d\u00f6dsplats \u00e4r [Y]."}
-{"pattern": "[X] d\u00f6dsplats var [Y]."}
-{"pattern": "[X] dog p\u00e5 [Y]."}
-{"pattern": "[X] den yngre dog i [Y]."}
-{"pattern": "[X] f\u00f6rlorade livet i [Y]."}
-{"pattern": "[X] avled i [Y]."}
-{"pattern": "[X] den yngre avled i [Y]."}
-{"pattern": "[X], hertiginna av Newcastle-upon-Tyne, dog i [Y]."}
-{"pattern": "[X]s liv slutade i [Y]."}
-{"pattern": "D\u00f6dades [X] i [Y]?"}
-{"pattern": "D\u00f6dade [X] i [Y]?"}
-{"pattern": "D\u00f6dades [X] p\u00e5 [Y]?"}
-{"pattern": "F\u00f6rlorade [X] sitt liv i [Y]?"}
-{"pattern": "F\u00f6rlorade [X] den yngre sitt liv i [Y]?"}
-{"pattern": "D\u00f6dades [X] den yngre i [Y]?"}
-{"pattern": "F\u00f6ll [X] i [Y]?"}
-{"pattern": "Slutade [X]s liv i [Y]?"}
-{"pattern": "Slutade [X] i [Y]?"}
+{"pattern": "[X]s d\u00f6dsort \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.24516129032258063}
+{"pattern": "[X]s d\u00f6dsort var [Y].", "bert-base-multilingual-uncased_P@1": 0.2}
+{"pattern": "[X] dog i [Y].", "bert-base-multilingual-uncased_P@1": 0.18064516129032257}
+{"pattern": "[X]s d\u00f6dsplats var [Y].", "bert-base-multilingual-uncased_P@1": 0.12903225806451613}
+{"pattern": "[X]s d\u00f6dsplats \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.16129032258064516}
+{"pattern": "[X] d\u00f6dsplats var [Y].", "bert-base-multilingual-uncased_P@1": 0.03870967741935484}
+{"pattern": "[X] dog p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.05806451612903226}
+{"pattern": "[X] den yngre dog i [Y].", "bert-base-multilingual-uncased_P@1": 0.25161290322580643}
+{"pattern": "[X] f\u00f6rlorade livet i [Y].", "bert-base-multilingual-uncased_P@1": 0.1935483870967742}
+{"pattern": "[X] avled i [Y].", "bert-base-multilingual-uncased_P@1": 0.2903225806451613}
+{"pattern": "[X] den yngre avled i [Y].", "bert-base-multilingual-uncased_P@1": 0.2709677419354839}
+{"pattern": "[X], hertiginna av Newcastle-upon-Tyne, dog i [Y].", "bert-base-multilingual-uncased_P@1": 0.18064516129032257}
+{"pattern": "[X]s liv slutade i [Y].", "bert-base-multilingual-uncased_P@1": 0.23870967741935484}
+{"pattern": "D\u00f6dades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.012903225806451613}
+{"pattern": "D\u00f6dade [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0064516129032258064}
+{"pattern": "D\u00f6dades [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "F\u00f6rlorade [X] sitt liv i [Y]?", "bert-base-multilingual-uncased_P@1": 0.07741935483870968}
+{"pattern": "F\u00f6rlorade [X] den yngre sitt liv i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0967741935483871}
+{"pattern": "D\u00f6dades [X] den yngre i [Y]?", "bert-base-multilingual-uncased_P@1": 0.025806451612903226}
+{"pattern": "F\u00f6ll [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.012903225806451613}
+{"pattern": "Slutade [X]s liv i [Y]?", "bert-base-multilingual-uncased_P@1": 0.22580645161290322}
+{"pattern": "Slutade [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.03225806451612903}

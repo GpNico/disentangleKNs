@@ -1,8 +1,8 @@
-{"pattern": "Landet [X] ligger i \u00e4r [Y]."}
-{"pattern": "Staten [X] ligger i [Y]."}
-{"pattern": "[X] ligger i [Y]."}
-{"pattern": "[X] ligger i f\u00f6ljande land: [Y]."}
-{"pattern": "[X] ligger i f\u00f6ljande delstat: [Y]."}
-{"pattern": "[X], bel\u00e4get i [Y]."}
-{"pattern": "[X], som ligger i [Y]."}
-{"pattern": "Ligger [X] i [Y]?"}
+{"pattern": "Landet [X] ligger i \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.045454545454545456}
+{"pattern": "Staten [X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.2727272727272727}
+{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.3068181818181818}
+{"pattern": "[X] ligger i f\u00f6ljande land: [Y].", "bert-base-multilingual-uncased_P@1": 0.045454545454545456}
+{"pattern": "[X] ligger i f\u00f6ljande delstat: [Y].", "bert-base-multilingual-uncased_P@1": 0.10227272727272728}
+{"pattern": "[X], bel\u00e4get i [Y].", "bert-base-multilingual-uncased_P@1": 0.045454545454545456}
+{"pattern": "[X], som ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.32954545454545453}
+{"pattern": "Ligger [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.11363636363636363}

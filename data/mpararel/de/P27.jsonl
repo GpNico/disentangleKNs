@@ -1,6 +1,6 @@
-{"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y]."}
-{"pattern": "[X] ist ein B\u00fcrger von [Y]."}
-{"pattern": "[X], ein B\u00fcrger von [Y]."}
-{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft von [Y]?"}
-{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft der [Y]?"}
-{"pattern": "Ist [X] ein Staatsb\u00fcrger von [Y]?"}
+{"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y].", "bert-base-multilingual-uncased_P@1": 0.4251497005988024}
+{"pattern": "[X] ist ein B\u00fcrger von [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], ein B\u00fcrger von [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft von [Y]?", "bert-base-multilingual-uncased_P@1": 0.41916167664670656}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft der [Y]?", "bert-base-multilingual-uncased_P@1": 0.029940119760479042}
+{"pattern": "Ist [X] ein Staatsb\u00fcrger von [Y]?", "bert-base-multilingual-uncased_P@1": 0.4491017964071856}
