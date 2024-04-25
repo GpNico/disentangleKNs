@@ -1,3 +1,5 @@
 {"pattern": "[X] speelt als [Y]."}
 {"pattern": "[X] speelt op de positie van [Y]."}
 {"pattern": "[X]'s positie is [Y]."}
+{"pattern": "Speelt [X] in de positie van [Y]?"}
+{"pattern": "Speelt [X] als [Y]?"}

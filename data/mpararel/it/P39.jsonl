@@ -1,0 +1,133 @@
+{"pattern": "[X] aveva la posizione ufficiale di [Y]."}
+{"pattern": "[X] aveva il ruolo ufficiale di [Y]."}
+{"pattern": "[X] aveva la posizione di [Y]."}
+{"pattern": "[X] aveva la posizione pubblica di [Y]."}
+{"pattern": "[X] aveva il ruolo pubblico di [Y]."}
+{"pattern": "[X] aveva il ruolo di [Y]."}
+{"pattern": "[X] ha la posizione ufficiale di [Y]."}
+{"pattern": "[X] ha il ruolo ufficiale di [Y]."}
+{"pattern": "[X] ha la posizione di [Y]."}
+{"pattern": "[X] ha la posizione pubblica di [Y]."}
+{"pattern": "[X] ha il ruolo pubblico di [Y]."}
+{"pattern": "[X] ha il ruolo di [Y]."}
+{"pattern": "[X] ricopriva la posizione ufficiale di [Y]."}
+{"pattern": "[X] ricopriva il ruolo ufficiale di [Y]."}
+{"pattern": "[X] ricopriva la carica di [Y]."}
+{"pattern": "[X] ricopriva la posizione pubblica di [Y]."}
+{"pattern": "[X] ha ricoperto il ruolo pubblico di [Y]."}
+{"pattern": "[X] ha ricoperto il ruolo di [Y]."}
+{"pattern": "[X] detiene la posizione ufficiale di [Y]."}
+{"pattern": "[X] di Ravenna ha il ruolo ufficiale di [Y]."}
+{"pattern": "[X] ricopre la carica di [Y]."}
+{"pattern": "[X] occupa la posizione pubblica di [Y]."}
+{"pattern": "[X] ricopre il ruolo pubblico di [Y]."}
+{"pattern": "[X] ricopre il ruolo di [Y]."}
+{"pattern": "[X] ricopr\u00ec ufficialmente la carica di [Y]."}
+{"pattern": "[X] ricopr\u00ec ufficialmente il ruolo di [Y]."}
+{"pattern": "[X] detiene ufficialmente la posizione di [Y]."}
+{"pattern": "[X] ricopre ufficialmente il ruolo di [Y]."}
+{"pattern": "La posizione ufficiale di [X] \u00e8 [Y]."}
+{"pattern": "La posizione ufficiale di [X] era [Y]."}
+{"pattern": "Il ruolo ufficiale di [X] \u00e8 [Y]."}
+{"pattern": "Il ruolo ufficiale di [X] era quello di [Y]."}
+{"pattern": "La posizione di [X] \u00e8 [Y]."}
+{"pattern": "La posizione di [X] era [Y]."}
+{"pattern": "La posizione pubblica di [X] \u00e8 [Y]."}
+{"pattern": "La posizione pubblica di [X] era [Y]."}
+{"pattern": "Il ruolo pubblico di [X] \u00e8 [Y]."}
+{"pattern": "Il ruolo pubblico di [X] era quello di [Y]."}
+{"pattern": "Il ruolo di [X] \u00e8 quello di [Y]."}
+{"pattern": "Il ruolo di [X] era [Y]."}
+{"pattern": "[X], che aveva la posizione ufficiale di [Y]."}
+{"pattern": "[X], che aveva il ruolo ufficiale di [Y]."}
+{"pattern": "[X], che aveva la posizione di [Y]."}
+{"pattern": "[X], che aveva la posizione pubblica di [Y]."}
+{"pattern": "[X], che aveva il ruolo pubblico di [Y]."}
+{"pattern": "[X], che aveva il ruolo di [Y]."}
+{"pattern": "[X], che ha la posizione ufficiale di [Y]."}
+{"pattern": "[X], che ha il ruolo ufficiale di [Y]."}
+{"pattern": "[X], che ha la posizione di [Y]."}
+{"pattern": "[X], che ha la posizione pubblica di [Y]."}
+{"pattern": "[X], che ha il ruolo pubblico di [Y]."}
+{"pattern": "[X], che ha il ruolo di [Y]."}
+{"pattern": "[X], che ricopriva la posizione ufficiale di [Y]."}
+{"pattern": "[X], che ricopriva il ruolo ufficiale di [Y]."}
+{"pattern": "[X], che ricopriva la carica di [Y]."}
+{"pattern": "[X], che ricopriva la posizione pubblica di [Y]."}
+{"pattern": "[X], che ricopriva il ruolo pubblico di [Y]."}
+{"pattern": "[X], che ricopr\u00ec il ruolo di [Y]."}
+{"pattern": "[X], che detiene la posizione ufficiale di [Y]."}
+{"pattern": "[X], che detiene il ruolo ufficiale di [Y]."}
+{"pattern": "[X], che ricopre la carica di [Y]."}
+{"pattern": "[X], che detiene la posizione pubblica di [Y]."}
+{"pattern": "[X], che ricopre il ruolo pubblico di [Y]."}
+{"pattern": "[X], che ricopre il ruolo di [Y]."}
+{"pattern": "[X], che ufficialmente ricopriva la posizione di [Y]."}
+{"pattern": "[X], che ha ufficialmente ricoperto il ruolo di [Y]."}
+{"pattern": "[X], che detiene ufficialmente la posizione di [Y]."}
+{"pattern": "[X], che detiene ufficialmente il ruolo di [Y]."}
+{"pattern": "[X], la cui posizione ufficiale \u00e8 quella di [Y]."}
+{"pattern": "[X], la cui posizione ufficiale era quella di [Y]."}
+{"pattern": "[X], il cui ruolo ufficiale \u00e8 quello di [Y]."}
+{"pattern": "[X], il cui ruolo ufficiale era quello di [Y]."}
+{"pattern": "[X], la cui posizione \u00e8 quella di [Y]."}
+{"pattern": "[X], la cui posizione era quella di [Y]."}
+{"pattern": "[X], la cui posizione pubblica \u00e8 quella di [Y]."}
+{"pattern": "[X], la cui posizione pubblica era quella di [Y]."}
+{"pattern": "[X], il cui ruolo pubblico \u00e8 quello di [Y]."}
+{"pattern": "[X], il cui ruolo pubblico era quello di [Y]."}
+{"pattern": "[X], il cui ruolo \u00e8 quello di [Y]."}
+{"pattern": "[X], il cui ruolo era quello di [Y]."}
+{"pattern": "[X] aveva la posizione ufficiale di [Y]?"}
+{"pattern": "[X] aveva il ruolo ufficiale di [Y]?"}
+{"pattern": "[X] aveva la posizione di [Y]?"}
+{"pattern": "[X] aveva la posizione pubblica di [Y]?"}
+{"pattern": "[X] aveva il ruolo pubblico di [Y]?"}
+{"pattern": "[X] aveva il ruolo di [Y]?"}
+{"pattern": "[X] ricopriva la posizione ufficiale di [Y]?"}
+{"pattern": "[X] ricopriva ufficialmente il ruolo di [Y]?"}
+{"pattern": "[X] ricopriva la carica di [Y]?"}
+{"pattern": "[X] ricopriva la posizione pubblica di [Y]?"}
+{"pattern": "[X] ricopr\u00ec il ruolo pubblico di [Y]?"}
+{"pattern": "[X] ricopriva il ruolo di [Y]?"}
+{"pattern": "[X] ricopriva ufficialmente la posizione di [Y]?"}
+{"pattern": "[X] ricopriva ufficialmente la posizione pubblica di [Y]?"}
+{"pattern": "[X] ricopr\u00ec ufficialmente il ruolo pubblico di [Y]?"}
+{"pattern": "[X] ricopr\u00ec ufficialmente il ruolo di [Y]?"}
+{"pattern": "[X] ha la posizione ufficiale di [Y]?"}
+{"pattern": "[X] ha il ruolo ufficiale di [Y]?"}
+{"pattern": "[X] ha la posizione di [Y]?"}
+{"pattern": "[X] ha la posizione pubblica di [Y]?"}
+{"pattern": "[X] ha il ruolo pubblico di [Y]?"}
+{"pattern": "[X] ha il ruolo di [Y]?"}
+{"pattern": "[X] detiene la posizione ufficiale di [Y]?"}
+{"pattern": "[X] ricopre ufficialmente il ruolo di [Y]?"}
+{"pattern": "[X] ricopre la carica di [Y]?"}
+{"pattern": "[X] detiene la posizione pubblica di [Y]?"}
+{"pattern": "[X] ricopre il ruolo pubblico di [Y]?"}
+{"pattern": "[X] ricopre il ruolo di [Y]?"}
+{"pattern": "[X] detiene ufficialmente la posizione di [Y]?"}
+{"pattern": "[X] detiene ufficialmente la posizione pubblica di [Y]?"}
+{"pattern": "[X] detiene ufficialmente il ruolo pubblico di [Y]?"}
+{"pattern": "[X] detiene ufficialmente il ruolo di [Y]?"}
+{"pattern": "La posizione ufficiale di [X] e' [Y]?"}
+{"pattern": "La posizione ufficiale di [X] \u00e8 quella di [Y]?"}
+{"pattern": "Il ruolo ufficiale di [X] e' quello di [Y]?"}
+{"pattern": "Il ruolo ufficiale di [X] \u00e8 quello di [Y]?"}
+{"pattern": "La posizione di [X] \u00e8 [Y]?"}
+{"pattern": "La posizione di [X] \u00e8 quella di [Y]?"}
+{"pattern": "La posizione pubblica di [X] \u00e8 [Y]?"}
+{"pattern": "La posizione pubblica di [X] \u00e8 quella di [Y]?"}
+{"pattern": "Il ruolo pubblico di [X] \u00e8 [Y]?"}
+{"pattern": "Il ruolo pubblico di [X] \u00e8 quello di [Y]?"}
+{"pattern": "Il ruolo di [X] \u00e8 [Y]?"}
+{"pattern": "Il ruolo di [X] \u00e8 quello di [Y]?"}
+{"pattern": "La posizione ufficiale di [X] era [Y]?"}
+{"pattern": "La posizione ufficiale di [X] era quella di [Y]?"}
+{"pattern": "Il ruolo ufficiale di [X] era quello di [Y]?"}
+{"pattern": "La posizione di [X] era [Y]?"}
+{"pattern": "La posizione pubblica di [X] era [Y]?"}
+{"pattern": "La posizione pubblica di [X] era quella di [Y]?"}
+{"pattern": "Il ruolo pubblico di [X] era quello di [Y]?"}
+{"pattern": "Il ruolo pubblico di [X] fu quello di [Y]?"}
+{"pattern": "Il ruolo di [X] era quello di [Y]?"}

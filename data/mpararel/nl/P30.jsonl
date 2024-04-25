@@ -7,3 +7,11 @@
 {"pattern": "[X] ligt in [Y]."}
 {"pattern": "[X] ligt op het continent [Y]."}
 {"pattern": "Kaap [X] ligt op het continent [Y]."}
+{"pattern": "Hoort [X] bij het continent [Y]?"}
+{"pattern": "Behoort [X] tot het continent [Y]?"}
+{"pattern": "Is [X] een deel van het continent [Y]?"}
+{"pattern": "Is Kaap [X] een deel van het continent [Y]?"}
+{"pattern": "Maakt [X] deel uit van het continent [Y]?"}
+{"pattern": "Is [X] gelegen in [Y]?"}
+{"pattern": "Is [X] gelegen op het continent [Y]?"}
+{"pattern": "Is Kaap [X] gelegen op het continent [Y]?"}

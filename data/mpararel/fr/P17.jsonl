@@ -1,7 +1,8 @@
-{"pattern": "Le pays o\u00f9 se trouve [X] est le [Y].", "bert-base-multilingual-uncased_P@1": 0.058394160583941604}
-{"pattern": "L'\u00c9tat de [X] est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4744525547445255}
-{"pattern": "[X] est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.43795620437956206}
-{"pattern": "[X] est situ\u00e9 dans le pays suivant: [Y].", "bert-base-multilingual-uncased_P@1": 0.48905109489051096}
-{"pattern": "[X] est situ\u00e9 dans l'\u00c9tat suivant: [Y].", "bert-base-multilingual-uncased_P@1": 0.3795620437956204}
-{"pattern": "[X], situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.39416058394160586}
-{"pattern": "[X], qui est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.40875912408759124}
+{"pattern": "Le pays o\u00f9 se trouve [X] est le [Y]."}
+{"pattern": "L'\u00c9tat de [X] est situ\u00e9 en [Y]."}
+{"pattern": "[X] est situ\u00e9 en [Y]."}
+{"pattern": "[X] est situ\u00e9 dans le pays suivant: [Y]."}
+{"pattern": "[X] est situ\u00e9 dans l'\u00c9tat suivant: [Y]."}
+{"pattern": "[X], situ\u00e9 en [Y]."}
+{"pattern": "[X], qui est situ\u00e9 en [Y]."}
+{"pattern": "[X] est-il situ\u00e9 en [Y]?"}

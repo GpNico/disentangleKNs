@@ -1,0 +1,136 @@
+{"pattern": "[X] tenia la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X] tenia el paper oficial d'[Y]."}
+{"pattern": "[X] tenia la posici\u00f3 d'[Y]."}
+{"pattern": "[X] tenia la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X] tenia el paper p\u00fablic d'[Y]."}
+{"pattern": "[X] tenia el paper de [Y]."}
+{"pattern": "[X] t\u00e9 la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X] t\u00e9 el paper oficial d'[Y]."}
+{"pattern": "[X] t\u00e9 la posici\u00f3 d'[Y]."}
+{"pattern": "[X] t\u00e9 la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X] t\u00e9 el paper p\u00fablic d'[Y]."}
+{"pattern": "[X] t\u00e9 el paper d'[Y]."}
+{"pattern": "[X] va ocupar la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X] va tenir el paper oficial d'[Y]."}
+{"pattern": "[X] va ocupar el c\u00e0rrec d'[Y]."}
+{"pattern": "[X] va ocupar la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X] va exercir el paper p\u00fablic d'[Y]."}
+{"pattern": "[X] va exercir el paper d'[Y]."}
+{"pattern": "[X] ocupa la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X] t\u00e9 el paper oficial de [Y]."}
+{"pattern": "[X] ocupa la posici\u00f3 d'[Y]."}
+{"pattern": "[X] ocupa la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X] t\u00e9 el paper p\u00fablic de [Y]."}
+{"pattern": "[X] t\u00e9 el paper de [Y]."}
+{"pattern": "[X] va ocupar oficialment la posici\u00f3 d'[Y]."}
+{"pattern": "[X] va tenir oficialment el paper d'[Y]."}
+{"pattern": "[X] ocupa oficialment la posici\u00f3 d'[Y]."}
+{"pattern": "[X] ocupa oficialment el paper d'[Y]."}
+{"pattern": "La posici\u00f3 oficial de [X] \u00e9s [Y]."}
+{"pattern": "La posici\u00f3 oficial de [X] era [Y]."}
+{"pattern": "El paper oficial de [X] \u00e9s [Y]."}
+{"pattern": "El paper oficial de [X] era [Y]."}
+{"pattern": "La posici\u00f3 de [X] \u00e9s [Y]."}
+{"pattern": "La posici\u00f3 de [X] era [Y]."}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] \u00e9s [Y]."}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] era [Y]."}
+{"pattern": "El paper p\u00fablic de [X] \u00e9s l'[Y]."}
+{"pattern": "El paper p\u00fablic de [X] va ser [Y]."}
+{"pattern": "El paper de [X] \u00e9s [Y]."}
+{"pattern": "El paper de [X] era [Y]."}
+{"pattern": "[X], que tenia la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X], que tenia el paper oficial d'[Y]."}
+{"pattern": "[X], que tenia la posici\u00f3 d'[Y]."}
+{"pattern": "[X], que tenia la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X], que tenia el paper p\u00fablic d'[Y]."}
+{"pattern": "[X], que tenia el paper d'[Y]."}
+{"pattern": "[X], que t\u00e9 la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X], que t\u00e9 el paper oficial d'[Y]."}
+{"pattern": "[X], que t\u00e9 la posici\u00f3 d'[Y]."}
+{"pattern": "[X], que t\u00e9 la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X], que t\u00e9 el paper p\u00fablic d'[Y]."}
+{"pattern": "[X], que t\u00e9 el paper d'[Y]."}
+{"pattern": "[X], que ocup\u00e0 la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X], que va ocupar el paper oficial d'[Y]."}
+{"pattern": "[X], que va ocupar el c\u00e0rrec d'[Y]."}
+{"pattern": "[X], que ocup\u00e0 la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X], que va ocupar el paper p\u00fablic d'[Y]."}
+{"pattern": "[X], que va ocupar el paper d'[Y]."}
+{"pattern": "[X], que ocupa la posici\u00f3 oficial d'[Y]."}
+{"pattern": "[X], que t\u00e9 el paper oficial de [Y]."}
+{"pattern": "[X], que ocupa la posici\u00f3 d'[Y]."}
+{"pattern": "[X], que ocupa la posici\u00f3 p\u00fablica d'[Y]."}
+{"pattern": "[X], que t\u00e9 el paper p\u00fablic de [Y]."}
+{"pattern": "[X], que t\u00e9 el paper de [Y]."}
+{"pattern": "[X], que oficialment ocup\u00e0 la posici\u00f3 d'[Y]."}
+{"pattern": "[X], que va ocupar oficialment el paper d'[Y]."}
+{"pattern": "[X], que t\u00e9 oficialment la posici\u00f3 d'[Y]."}
+{"pattern": "[X], que t\u00e9 oficialment el paper d'[Y]."}
+{"pattern": "[X], la posici\u00f3 oficial del qual \u00e9s la d'[Y]."}
+{"pattern": "[X], la posici\u00f3 oficial del qual era la d'[Y]."}
+{"pattern": "[X], el paper oficial del qual \u00e9s el d'[Y]."}
+{"pattern": "[X], el paper oficial del qual era el d'[Y]."}
+{"pattern": "[X], la posici\u00f3 del qual \u00e9s la d'[Y]."}
+{"pattern": "[X], la posici\u00f3 del qual era la d'[Y]."}
+{"pattern": "[X], la posici\u00f3 p\u00fablica del qual \u00e9s la d'[Y]."}
+{"pattern": "[X], la posici\u00f3 p\u00fablica del qual era la d'[Y]."}
+{"pattern": "[X], el paper p\u00fablic del qual \u00e9s el d'[Y]."}
+{"pattern": "[X], el paper p\u00fablic del qual era el d'[Y]."}
+{"pattern": "[X], el paper del qual \u00e9s el de [Y]."}
+{"pattern": "[X], el paper del qual era el d'[Y]."}
+{"pattern": "[X] tenia la posici\u00f3 oficial d'[Y]?"}
+{"pattern": "[X] tenia el paper oficial d'[Y]?"}
+{"pattern": "[X] tenia la posici\u00f3 d'[Y]?"}
+{"pattern": "[X] tenia la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "[X] tenia el paper p\u00fablic d'[Y]?"}
+{"pattern": "[X] va tenir el paper de [Y]?"}
+{"pattern": "[X] va ocupar la posici\u00f3 oficial d'[Y]?"}
+{"pattern": "[X] va tenir el paper oficial d'[Y]?"}
+{"pattern": "[X] va ocupar el c\u00e0rrec d'[Y]?"}
+{"pattern": "[X] va ocupar la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "[X] va tenir el paper p\u00fablic d'[Y]?"}
+{"pattern": "[X] va tenir el paper d'[Y]?"}
+{"pattern": "[X] va ocupar oficialment la posici\u00f3 d'[Y]?"}
+{"pattern": "[X] va ocupar oficialment la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "Va tenir [X] oficialment el paper p\u00fablic d'[Y]?"}
+{"pattern": "[X] va ocupar oficialment el paper d'[Y]?"}
+{"pattern": "[X] t\u00e9 la posici\u00f3 oficial d'[Y]?"}
+{"pattern": "[X] t\u00e9 el paper oficial d'[Y]?"}
+{"pattern": "[X] t\u00e9 la posici\u00f3 d'[Y]?"}
+{"pattern": "[X] t\u00e9 la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "[X] t\u00e9 el paper p\u00fablic d'[Y]?"}
+{"pattern": "[X] t\u00e9 el paper d'[Y]?"}
+{"pattern": "[X] ocupa la posici\u00f3 oficial d'[Y]?"}
+{"pattern": "[X] t\u00e9 el paper oficial de [Y]?"}
+{"pattern": "[X] ocupa el c\u00e0rrec d'[Y]?"}
+{"pattern": "[X] ocupa la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "[X] t\u00e9 el paper p\u00fablic de [Y]?"}
+{"pattern": "[X] t\u00e9 el paper de [Y]?"}
+{"pattern": "[X] ocupa oficialment la posici\u00f3 d'[Y]?"}
+{"pattern": "[X] ocupa oficialment la posici\u00f3 p\u00fablica d'[Y]?"}
+{"pattern": "[X] t\u00e9 oficialment el paper p\u00fablic d'[Y]?"}
+{"pattern": "[X] ocupa oficialment el paper d'[Y]?"}
+{"pattern": "La posici\u00f3 oficial de [X] \u00e9s [Y]?"}
+{"pattern": "La posici\u00f3 oficial de [X] \u00e9s la d'[Y]?"}
+{"pattern": "El paper oficial de [X] \u00e9s l'[Y]?"}
+{"pattern": "El paper oficial de [X] \u00e9s el d'[Y]?"}
+{"pattern": "La posici\u00f3 de [X] \u00e9s [Y]?"}
+{"pattern": "La posici\u00f3 de [X] \u00e9s la d'[Y]?"}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] \u00e9s [Y]?"}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] \u00e9s la d'[Y]?"}
+{"pattern": "El paper p\u00fablic de [X] \u00e9s [Y]?"}
+{"pattern": "El paper p\u00fablic de [X] \u00e9s el d'[Y]?"}
+{"pattern": "El paper de [X] \u00e9s l'[Y]?"}
+{"pattern": "El paper de [X] \u00e9s el de [Y]?"}
+{"pattern": "Era la posici\u00f3 oficial de [X] [Y]?"}
+{"pattern": "La posici\u00f3 oficial de [X] era la d'[Y]?"}
+{"pattern": "El paper oficial de [X] era l'[Y]?"}
+{"pattern": "El paper oficial de [X] era el d'[Y]?"}
+{"pattern": "La posici\u00f3 de [X] era [Y]?"}
+{"pattern": "La posici\u00f3 de [X] era la d'[Y]?"}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] era l'[Y]?"}
+{"pattern": "La posici\u00f3 p\u00fablica de [X] era la d'[Y]?"}
+{"pattern": "El paper p\u00fablic de [X] era l'[Y]?"}
+{"pattern": "El paper p\u00fablic de [X] va ser el de [Y]?"}
+{"pattern": "El paper de [X] era l'[Y]?"}
+{"pattern": "El paper de [X] era el d'[Y]?"}

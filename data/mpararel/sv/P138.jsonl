@@ -1,0 +1,20 @@
+{"pattern": "[X] \u00e4r uppkallad efter [Y]."}
+{"pattern": "[X] \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X] fick sitt namn efter [Y]."}
+{"pattern": "[X] namngavs efter [Y]."}
+{"pattern": "[X]-distriktet fick sitt namn efter [Y]."}
+{"pattern": "[X], uppkallad efter [Y]."}
+{"pattern": "[X], uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet, uppkallat efter [Y]."}
+{"pattern": "[X], som \u00e4r uppkallad efter [Y]."}
+{"pattern": "[X], som \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet, som \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X], som fick sitt namn efter [Y]."}
+{"pattern": "[X]-distriktet, som fick sitt namn efter [Y]."}
+{"pattern": "\u00c4r [X] uppkallad efter [Y]?"}
+{"pattern": "\u00c4r [X] uppkallat efter [Y]?"}
+{"pattern": "\u00c4r [X]-distriktet uppkallat efter [Y]?"}
+{"pattern": "Var [X] uppkallad efter [Y]?"}
+{"pattern": "Var [X] uppkallat efter [Y]?"}
+{"pattern": "Fick [X] sitt namn efter [Y]?"}

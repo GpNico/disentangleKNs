@@ -4,3 +4,8 @@
 {"pattern": "[X] ist Mitglied der [Y]."}
 {"pattern": "Die [X] ist Mitglied der [Y]."}
 {"pattern": "[X] ist Teil der [Y]."}
+{"pattern": "Geh\u00f6rt [X] zu [Y]?"}
+{"pattern": "Geh\u00f6rt [X] zu den [Y]?"}
+{"pattern": "Ist [X] Mitglied der [Y]?"}
+{"pattern": "Ist der [X] Mitglied der [Y]?"}
+{"pattern": "Ist [X] Teil der [Y]?"}

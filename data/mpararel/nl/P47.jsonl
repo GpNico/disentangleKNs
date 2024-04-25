@@ -1,3 +1,12 @@
 {"pattern": "[X] grenst aan [Y]."}
 {"pattern": "De [X] grenst aan [Y]."}
 {"pattern": "[X] heeft een gemeenschappelijke grens met [Y]."}
+{"pattern": "Grenst [X] aan [Y]?"}
+{"pattern": "Deelt [X] een grens met [Y]?"}
+{"pattern": "Deelt [X] een gemeenschappelijke grens met [Y]?"}
+{"pattern": "Deelt de [X] een grens met [Y]?"}
+{"pattern": "Deelt [X] grenzen met [Y]?"}
+{"pattern": "Deelt [X] zijn grens met [Y]?"}
+{"pattern": "Deelt [X] zijn grenzen met [Y]?"}
+{"pattern": "Deelt [X] de grens met [Y]?"}
+{"pattern": "Deelt [X] de grenzen met [Y]?"}

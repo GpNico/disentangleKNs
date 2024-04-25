@@ -4,3 +4,6 @@
 {"pattern": "De [X] heeft diplomatieke betrekkingen met [Y]."}
 {"pattern": "[X], dat diplomatieke betrekkingen heeft met [Y]."}
 {"pattern": "[X], dat diplomatieke betrekkingen onderhoudt met [Y]."}
+{"pattern": "Heeft [X] diplomatieke betrekkingen met [Y]?"}
+{"pattern": "Heeft [X] diplomatieke banden met [Y]?"}
+{"pattern": "Heeft de [X] diplomatieke banden met [Y]?"}

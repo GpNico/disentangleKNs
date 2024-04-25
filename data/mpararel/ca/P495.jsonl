@@ -1,0 +1,38 @@
+{"pattern": "[X] va venir de [Y]."}
+{"pattern": "[X] ve de [Y]."}
+{"pattern": "[X] es va formar a [Y]."}
+{"pattern": "[X] \u00e9s d'[Y]."}
+{"pattern": "[X] es va originar a [Y]."}
+{"pattern": "[X] va ser creat a [Y]."}
+{"pattern": "[X] va ser desenvolupat a [Y]."}
+{"pattern": "[X] va ser creat per primera vegada a [Y]."}
+{"pattern": "[X] es va fer per primera vegada a [Y]."}
+{"pattern": "[X] va ser produ\u00eft per primera vegada a [Y]."}
+{"pattern": "[X] es va formar al [Y]."}
+{"pattern": "[X] va ser formulat a [Y]."}
+{"pattern": "[X] era d'[Y]."}
+{"pattern": "[X], creat a [Y]."}
+{"pattern": "[X], desenvolupat a [Y]."}
+{"pattern": "[X], formulat a [Y]."}
+{"pattern": "[X], d'[Y]."}
+{"pattern": "[X], que es va originar a [Y]."}
+{"pattern": "[X], que va ser creat a [Y]."}
+{"pattern": "[X], que va ser desenvolupat a [Y]."}
+{"pattern": "[X], que es va formar a [Y]."}
+{"pattern": "[X], que va ser formulat a [Y]."}
+{"pattern": "[X], que era d'[Y]."}
+{"pattern": "[X] va venir de [Y]?"}
+{"pattern": "[X] es va formar a [Y]?"}
+{"pattern": "[X] es va originar a [Y]?"}
+{"pattern": "[X] ve de [Y]?"}
+{"pattern": "[X] t\u00e9 el seu origen a [Y]?"}
+{"pattern": "El [X] \u00e9s formulat a [Y]?"}
+{"pattern": "[X] \u00e9s de [Y]?"}
+{"pattern": "[X] va ser creat a [Y]?"}
+{"pattern": "[X] va ser desenvolupat a [Y]?"}
+{"pattern": "[X] va ser creat per primera vegada a [Y]?"}
+{"pattern": "[X] es va fer per primera vegada a [Y]?"}
+{"pattern": "[X] va ser produ\u00eft per primera vegada a [Y]?"}
+{"pattern": "Es va formar [X] a [Y]?"}
+{"pattern": "El [X] va ser formulat a [Y]?"}
+{"pattern": "[X] era de [Y]?"}

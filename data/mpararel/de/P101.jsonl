@@ -8,3 +8,7 @@
 {"pattern": "[X]s Arbeitsbereich ist die [Y]."}
 {"pattern": "[X]s Fachwissen ist [Y]."}
 {"pattern": "[X]s Expertise liegt in der [Y]."}
+{"pattern": "Spezialisiert sich [X] auf [Y]?"}
+{"pattern": "Arbeitet [X] in der [Y]?"}
+{"pattern": "Arbeitet [X] im Bereich der [Y]?"}
+{"pattern": "Ist [X]s Expertise in der [Y]?"}

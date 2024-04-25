@@ -1,0 +1,21 @@
+{"pattern": "[X] si \u00e8 formato a [Y]."}
+{"pattern": "[X] ha avuto origine a [Y]."}
+{"pattern": "[X] \u00e8 iniziato a [Y]."}
+{"pattern": "[X] che \u00e8 stata fondata a [Y]."}
+{"pattern": "[X] \u00e8 stato creato a [Y]."}
+{"pattern": "[X] \u00e8 stata fondata a [Y]."}
+{"pattern": "L'[X] \u00e8 stato fondato a [Y]."}
+{"pattern": "[X] \u00e8 stato iniziato a [Y]."}
+{"pattern": "[X], creato a [Y]."}
+{"pattern": "[X], fondata a [Y]."}
+{"pattern": "[X], che ha avuto origine a [Y]."}
+{"pattern": "[X], che \u00e8 stato creato a [Y]."}
+{"pattern": "[X], che si \u00e8 formato a [Y]."}
+{"pattern": "[X], che \u00e8 stato iniziato a [Y]."}
+{"pattern": "[X] si \u00e8 formato a [Y]?"}
+{"pattern": "[X] ha avuto origine a [Y]?"}
+{"pattern": "[X] ha iniziato a [Y]?"}
+{"pattern": "[X] \u00e8 stato creato a [Y]?"}
+{"pattern": "[X] e' stato formato a [Y]?"}
+{"pattern": "[X] \u00e8 stata fondata a [Y]?"}
+{"pattern": "[X] \u00e8 iniziato a [Y]?"}

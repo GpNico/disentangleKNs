@@ -1,80 +1,136 @@
-{"pattern": "[X] had the official position of [Y] .", "bert-base-uncased_P@1": 0.16288659793814433, "bert-base-multilingual-uncased_P@1": 0.16759776536312848}
-{"pattern": "[X] had the official role of [Y] .", "bert-base-uncased_P@1": 0.2288659793814433, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X] had the position of [Y] .", "bert-base-uncased_P@1": 0.2309278350515464, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X] had the public position of [Y] .", "bert-base-uncased_P@1": 0.11134020618556702, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] had the public role of [Y] .", "bert-base-uncased_P@1": 0.1670103092783505, "bert-base-multilingual-uncased_P@1": 0.11173184357541899}
-{"pattern": "[X] had the role of [Y] .", "bert-base-uncased_P@1": 0.21237113402061855, "bert-base-multilingual-uncased_P@1": 0.1340782122905028}
-{"pattern": "[X] has the official position of [Y] .", "bert-base-uncased_P@1": 0.1422680412371134, "bert-base-multilingual-uncased_P@1": 0.18994413407821228}
-{"pattern": "[X] has the official role of [Y] .", "bert-base-uncased_P@1": 0.26804123711340205, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X] has the position of [Y] .", "bert-base-uncased_P@1": 0.18762886597938144, "bert-base-multilingual-uncased_P@1": 0.16201117318435754}
-{"pattern": "[X] has the public position of [Y] .", "bert-base-uncased_P@1": 0.10309278350515463, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] has the public role of [Y] .", "bert-base-uncased_P@1": 0.2020618556701031, "bert-base-multilingual-uncased_P@1": 0.11173184357541899}
-{"pattern": "[X] has the role of [Y] .", "bert-base-uncased_P@1": 0.22061855670103092, "bert-base-multilingual-uncased_P@1": 0.12290502793296089}
-{"pattern": "[X] held the official position of [Y] .", "bert-base-uncased_P@1": 0.21237113402061855, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] held the official role of [Y] .", "bert-base-uncased_P@1": 0.24329896907216494, "bert-base-multilingual-uncased_P@1": 0.1564245810055866}
-{"pattern": "[X] held the position of [Y] .", "bert-base-uncased_P@1": 0.2804123711340206, "bert-base-multilingual-uncased_P@1": 0.16201117318435754}
-{"pattern": "[X] held the public position of [Y] .", "bert-base-uncased_P@1": 0.19381443298969073, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] held the public role of [Y] .", "bert-base-uncased_P@1": 0.24329896907216494, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X] held the role of [Y] .", "bert-base-uncased_P@1": 0.2845360824742268, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] holds the official position of [Y] .", "bert-base-uncased_P@1": 0.18556701030927836, "bert-base-multilingual-uncased_P@1": 0.1787709497206704}
-{"pattern": "[X] holds the official role of [Y] .", "bert-base-uncased_P@1": 0.2907216494845361, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] holds the position of [Y] .", "bert-base-uncased_P@1": 0.2309278350515464, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] holds the public position of [Y] .", "bert-base-uncased_P@1": 0.15463917525773196, "bert-base-multilingual-uncased_P@1": 0.1564245810055866}
-{"pattern": "[X] holds the public role of [Y] .", "bert-base-uncased_P@1": 0.3030927835051546, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X] holds the role of [Y] .", "bert-base-uncased_P@1": 0.2721649484536082, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] officially held the position of [Y] .", "bert-base-uncased_P@1": 0.2515463917525773, "bert-base-multilingual-uncased_P@1": 0.1564245810055866}
-{"pattern": "[X] officially held the role of [Y] .", "bert-base-uncased_P@1": 0.25773195876288657, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X] officially holds the position of [Y] .", "bert-base-uncased_P@1": 0.27010309278350514, "bert-base-multilingual-uncased_P@1": 0.1787709497206704}
-{"pattern": "[X] officially holds the role of [Y] .", "bert-base-uncased_P@1": 0.2907216494845361, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X]'s official position is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s official position was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s official role is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s official role was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s position is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s position was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s public position is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s public position was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s public role is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s public role was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s role is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s role was [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], who had the official position of [Y] .", "bert-base-uncased_P@1": 0.07628865979381444, "bert-base-multilingual-uncased_P@1": 0.17318435754189945}
-{"pattern": "[X], who had the official role of [Y] .", "bert-base-uncased_P@1": 0.1670103092783505, "bert-base-multilingual-uncased_P@1": 0.16759776536312848}
-{"pattern": "[X], who had the position of [Y] .", "bert-base-uncased_P@1": 0.20824742268041238, "bert-base-multilingual-uncased_P@1": 0.16759776536312848}
-{"pattern": "[X], who had the public position of [Y] .", "bert-base-uncased_P@1": 0.05154639175257732, "bert-base-multilingual-uncased_P@1": 0.1340782122905028}
-{"pattern": "[X], who had the public role of [Y] .", "bert-base-uncased_P@1": 0.12783505154639174, "bert-base-multilingual-uncased_P@1": 0.10614525139664804}
-{"pattern": "[X], who had the role of [Y] .", "bert-base-uncased_P@1": 0.20618556701030927, "bert-base-multilingual-uncased_P@1": 0.11731843575418995}
-{"pattern": "[X], who has the official position of [Y] .", "bert-base-uncased_P@1": 0.09484536082474226, "bert-base-multilingual-uncased_P@1": 0.17318435754189945}
-{"pattern": "[X], who has the official role of [Y] .", "bert-base-uncased_P@1": 0.1979381443298969, "bert-base-multilingual-uncased_P@1": 0.1452513966480447}
-{"pattern": "[X], who has the position of [Y] .", "bert-base-uncased_P@1": 0.26597938144329897, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X], who has the public position of [Y] .", "bert-base-uncased_P@1": 0.0865979381443299, "bert-base-multilingual-uncased_P@1": 0.1005586592178771}
-{"pattern": "[X], who has the public role of [Y] .", "bert-base-uncased_P@1": 0.21443298969072164, "bert-base-multilingual-uncased_P@1": 0.07262569832402235}
-{"pattern": "[X], who has the role of [Y] .", "bert-base-uncased_P@1": 0.21030927835051547, "bert-base-multilingual-uncased_P@1": 0.1005586592178771}
-{"pattern": "[X], who held the official position of [Y] .", "bert-base-uncased_P@1": 0.15463917525773196, "bert-base-multilingual-uncased_P@1": 0.18435754189944134}
-{"pattern": "[X], who held the official role of [Y] .", "bert-base-uncased_P@1": 0.1958762886597938, "bert-base-multilingual-uncased_P@1": 0.18435754189944134}
-{"pattern": "[X], who held the position of [Y] .", "bert-base-uncased_P@1": 0.2556701030927835, "bert-base-multilingual-uncased_P@1": 0.16759776536312848}
-{"pattern": "[X], who held the public position of [Y] .", "bert-base-uncased_P@1": 0.11958762886597939, "bert-base-multilingual-uncased_P@1": 0.1340782122905028}
-{"pattern": "[X], who held the public role of [Y] .", "bert-base-uncased_P@1": 0.16288659793814433, "bert-base-multilingual-uncased_P@1": 0.12290502793296089}
-{"pattern": "[X], who held the role of [Y] .", "bert-base-uncased_P@1": 0.25773195876288657, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X], who holds the official position of [Y] .", "bert-base-uncased_P@1": 0.1463917525773196, "bert-base-multilingual-uncased_P@1": 0.18435754189944134}
-{"pattern": "[X], who holds the official role of [Y] .", "bert-base-uncased_P@1": 0.22268041237113403, "bert-base-multilingual-uncased_P@1": 0.1787709497206704}
-{"pattern": "[X], who holds the position of [Y] .", "bert-base-uncased_P@1": 0.2556701030927835, "bert-base-multilingual-uncased_P@1": 0.18435754189944134}
-{"pattern": "[X], who holds the public position of [Y] .", "bert-base-uncased_P@1": 0.2, "bert-base-multilingual-uncased_P@1": 0.15083798882681565}
-{"pattern": "[X], who holds the public role of [Y] .", "bert-base-uncased_P@1": 0.30103092783505153, "bert-base-multilingual-uncased_P@1": 0.11731843575418995}
-{"pattern": "[X], who holds the role of [Y] .", "bert-base-uncased_P@1": 0.28865979381443296, "bert-base-multilingual-uncased_P@1": 0.1340782122905028}
-{"pattern": "[X], who officially held the position of [Y] .", "bert-base-uncased_P@1": 0.22061855670103092, "bert-base-multilingual-uncased_P@1": 0.2011173184357542}
-{"pattern": "[X], who officially held the role of [Y] .", "bert-base-uncased_P@1": 0.23505154639175257, "bert-base-multilingual-uncased_P@1": 0.1787709497206704}
-{"pattern": "[X], who officially holds the position of [Y] .", "bert-base-uncased_P@1": 0.2309278350515464, "bert-base-multilingual-uncased_P@1": 0.21787709497206703}
-{"pattern": "[X], who officially holds the role of [Y] .", "bert-base-uncased_P@1": 0.2536082474226804, "bert-base-multilingual-uncased_P@1": 0.2011173184357542}
-{"pattern": "[X], whose official position is that of [Y] .", "bert-base-uncased_P@1": 0.15257731958762888, "bert-base-multilingual-uncased_P@1": 0.055865921787709494}
-{"pattern": "[X], whose official position was that of [Y] .", "bert-base-uncased_P@1": 0.12989690721649486, "bert-base-multilingual-uncased_P@1": 0.08379888268156424}
-{"pattern": "[X], whose official role is that of [Y] .", "bert-base-uncased_P@1": 0.1979381443298969, "bert-base-multilingual-uncased_P@1": 0.061452513966480445}
-{"pattern": "[X], whose official role was that of [Y] .", "bert-base-uncased_P@1": 0.15051546391752577, "bert-base-multilingual-uncased_P@1": 0.0782122905027933}
-{"pattern": "[X], whose position is that of [Y] .", "bert-base-uncased_P@1": 0.1360824742268041, "bert-base-multilingual-uncased_P@1": 0.027932960893854747}
-{"pattern": "[X], whose position was that of [Y] .", "bert-base-uncased_P@1": 0.1360824742268041, "bert-base-multilingual-uncased_P@1": 0.07262569832402235}
-{"pattern": "[X], whose public position is that of [Y] .", "bert-base-uncased_P@1": 0.11958762886597939, "bert-base-multilingual-uncased_P@1": 0.0335195530726257}
-{"pattern": "[X], whose public position was that of [Y] .", "bert-base-uncased_P@1": 0.10515463917525773, "bert-base-multilingual-uncased_P@1": 0.0670391061452514}
-{"pattern": "[X], whose public role is that of [Y] .", "bert-base-uncased_P@1": 0.1711340206185567, "bert-base-multilingual-uncased_P@1": 0.05027932960893855}
-{"pattern": "[X], whose public role was that of [Y] .", "bert-base-uncased_P@1": 0.12164948453608247, "bert-base-multilingual-uncased_P@1": 0.05027932960893855}
-{"pattern": "[X], whose role is that of [Y] .", "bert-base-uncased_P@1": 0.18144329896907216, "bert-base-multilingual-uncased_P@1": 0.03910614525139665}
-{"pattern": "[X], whose role was that of [Y] .", "bert-base-uncased_P@1": 0.1360824742268041, "bert-base-multilingual-uncased_P@1": 0.061452513966480445}
+{"pattern": "[X] had the official position of [Y] ."}
+{"pattern": "[X] had the official role of [Y] ."}
+{"pattern": "[X] had the position of [Y] ."}
+{"pattern": "[X] had the public position of [Y] ."}
+{"pattern": "[X] had the public role of [Y] ."}
+{"pattern": "[X] had the role of [Y] ."}
+{"pattern": "[X] has the official position of [Y] ."}
+{"pattern": "[X] has the official role of [Y] ."}
+{"pattern": "[X] has the position of [Y] ."}
+{"pattern": "[X] has the public position of [Y] ."}
+{"pattern": "[X] has the public role of [Y] ."}
+{"pattern": "[X] has the role of [Y] ."}
+{"pattern": "[X] held the official position of [Y] ."}
+{"pattern": "[X] held the official role of [Y] ."}
+{"pattern": "[X] held the position of [Y] ."}
+{"pattern": "[X] held the public position of [Y] ."}
+{"pattern": "[X] held the public role of [Y] ."}
+{"pattern": "[X] held the role of [Y] ."}
+{"pattern": "[X] holds the official position of [Y] ."}
+{"pattern": "[X] holds the official role of [Y] ."}
+{"pattern": "[X] holds the position of [Y] ."}
+{"pattern": "[X] holds the public position of [Y] ."}
+{"pattern": "[X] holds the public role of [Y] ."}
+{"pattern": "[X] holds the role of [Y] ."}
+{"pattern": "[X] officially held the position of [Y] ."}
+{"pattern": "[X] officially held the role of [Y] ."}
+{"pattern": "[X] officially holds the position of [Y] ."}
+{"pattern": "[X] officially holds the role of [Y] ."}
+{"pattern": "[X]'s official position is [Y] ."}
+{"pattern": "[X]'s official position was [Y] ."}
+{"pattern": "[X]'s official role is [Y] ."}
+{"pattern": "[X]'s official role was [Y] ."}
+{"pattern": "[X]'s position is [Y] ."}
+{"pattern": "[X]'s position was [Y] ."}
+{"pattern": "[X]'s public position is [Y] ."}
+{"pattern": "[X]'s public position was [Y] ."}
+{"pattern": "[X]'s public role is [Y] ."}
+{"pattern": "[X]'s public role was [Y] ."}
+{"pattern": "[X]'s role is [Y] ."}
+{"pattern": "[X]'s role was [Y] ."}
+{"pattern": "[X], who had the official position of [Y] ."}
+{"pattern": "[X], who had the official role of [Y] ."}
+{"pattern": "[X], who had the position of [Y] ."}
+{"pattern": "[X], who had the public position of [Y] ."}
+{"pattern": "[X], who had the public role of [Y] ."}
+{"pattern": "[X], who had the role of [Y] ."}
+{"pattern": "[X], who has the official position of [Y] ."}
+{"pattern": "[X], who has the official role of [Y] ."}
+{"pattern": "[X], who has the position of [Y] ."}
+{"pattern": "[X], who has the public position of [Y] ."}
+{"pattern": "[X], who has the public role of [Y] ."}
+{"pattern": "[X], who has the role of [Y] ."}
+{"pattern": "[X], who held the official position of [Y] ."}
+{"pattern": "[X], who held the official role of [Y] ."}
+{"pattern": "[X], who held the position of [Y] ."}
+{"pattern": "[X], who held the public position of [Y] ."}
+{"pattern": "[X], who held the public role of [Y] ."}
+{"pattern": "[X], who held the role of [Y] ."}
+{"pattern": "[X], who holds the official position of [Y] ."}
+{"pattern": "[X], who holds the official role of [Y] ."}
+{"pattern": "[X], who holds the position of [Y] ."}
+{"pattern": "[X], who holds the public position of [Y] ."}
+{"pattern": "[X], who holds the public role of [Y] ."}
+{"pattern": "[X], who holds the role of [Y] ."}
+{"pattern": "[X], who officially held the position of [Y] ."}
+{"pattern": "[X], who officially held the role of [Y] ."}
+{"pattern": "[X], who officially holds the position of [Y] ."}
+{"pattern": "[X], who officially holds the role of [Y] ."}
+{"pattern": "[X], whose official position is that of [Y] ."}
+{"pattern": "[X], whose official position was that of [Y] ."}
+{"pattern": "[X], whose official role is that of [Y] ."}
+{"pattern": "[X], whose official role was that of [Y] ."}
+{"pattern": "[X], whose position is that of [Y] ."}
+{"pattern": "[X], whose position was that of [Y] ."}
+{"pattern": "[X], whose public position is that of [Y] ."}
+{"pattern": "[X], whose public position was that of [Y] ."}
+{"pattern": "[X], whose public role is that of [Y] ."}
+{"pattern": "[X], whose public role was that of [Y] ."}
+{"pattern": "[X], whose role is that of [Y] ."}
+{"pattern": "[X], whose role was that of [Y] ."}
+{"pattern": "Did [X] have the official position of [Y]?"}
+{"pattern": "Did [X] have the official role of [Y]?"}
+{"pattern": "Did [X] have the position of [Y]?"}
+{"pattern": "Did [X] have the public position of [Y]?"}
+{"pattern": "Did [X] have the public role of [Y]?"}
+{"pattern": "Did [X] have the role of [Y]?"}
+{"pattern": "Did [X] hold the official position of [Y]?"}
+{"pattern": "Did [X] hold the official role of [Y]?"}
+{"pattern": "Did [X] hold the position of [Y]?"}
+{"pattern": "Did [X] hold the public position of [Y]?"}
+{"pattern": "Did [X] hold the public role of [Y]?"}
+{"pattern": "Did [X] hold the role of [Y]?"}
+{"pattern": "Did [X] officially hold the position of [Y]?"}
+{"pattern": "Did [X] officially hold the public position of [Y]?"}
+{"pattern": "Did [X] officially hold the public role of [Y]?"}
+{"pattern": "Did [X] officially hold the role of [Y]?"}
+{"pattern": "Does [X] have the official position of [Y]?"}
+{"pattern": "Does [X] have the official role of [Y]?"}
+{"pattern": "Does [X] have the position of [Y]?"}
+{"pattern": "Does [X] have the public position of [Y]?"}
+{"pattern": "Does [X] have the public role of [Y]?"}
+{"pattern": "Does [X] have the role of [Y]?"}
+{"pattern": "Does [X] hold the official position of [Y]?"}
+{"pattern": "Does [X] hold the official role of [Y]?"}
+{"pattern": "Does [X] hold the position of [Y]?"}
+{"pattern": "Does [X] hold the public position of [Y]?"}
+{"pattern": "Does [X] hold the public role of [Y]?"}
+{"pattern": "Does [X] hold the role of [Y]?"}
+{"pattern": "Does [X] officially hold the position of [Y]?"}
+{"pattern": "Does [X] officially hold the public position of [Y]?"}
+{"pattern": "Does [X] officially hold the public role of [Y]?"}
+{"pattern": "Does [X] officially hold the role of [Y]?"}
+{"pattern": "Is [X]'s official position [Y]?"}
+{"pattern": "Is [X]'s official position that of [Y]?"}
+{"pattern": "Is [X]'s official role [Y]?"}
+{"pattern": "Is [X]'s official role that of [Y]?"}
+{"pattern": "Is [X]'s position [Y]?"}
+{"pattern": "Is [X]'s position that of [Y]?"}
+{"pattern": "Is [X]'s public position [Y]?"}
+{"pattern": "Is [X]'s public position that of [Y]?"}
+{"pattern": "Is [X]'s public role [Y]?"}
+{"pattern": "Is [X]'s public role that of [Y]?"}
+{"pattern": "Is [X]'s role [Y]?"}
+{"pattern": "Is [X]'s role that of [Y]?"}
+{"pattern": "Was [X]'s official position [Y]?"}
+{"pattern": "Was [X]'s official position that of [Y]?"}
+{"pattern": "Was [X]'s official role [Y]?"}
+{"pattern": "Was [X]'s official role that of [Y]?"}
+{"pattern": "Was [X]'s position [Y]?"}
+{"pattern": "Was [X]'s position that of [Y]?"}
+{"pattern": "Was [X]'s public position [Y]?"}
+{"pattern": "Was [X]'s public position that of [Y]?"}
+{"pattern": "Was [X]'s public role [Y]?"}
+{"pattern": "Was [X]'s public role that of [Y]?"}
+{"pattern": "Was [X]'s role [Y]?"}
+{"pattern": "Was [X]'s role that of [Y]?"}

@@ -1,0 +1,16 @@
+{"pattern": "[X] va debutar a la [Y]."}
+{"pattern": "[X] debutar\u00e0 a la [Y]."}
+{"pattern": "[X] es va estrenar a la [Y]."}
+{"pattern": "[X] s'estrena a la [Y]."}
+{"pattern": "[X] es va emetre a la [Y]."}
+{"pattern": "[X] es va emetre originalment a la [Y]."}
+{"pattern": "[X] es va mostrar originalment a [Y]."}
+{"pattern": "[X] va ser estrenat a [Y]."}
+{"pattern": "[X] va debutar a [Y]?"}
+{"pattern": "[X] va estrenar a [Y]?"}
+{"pattern": "[X] s'estrena a la [Y]?"}
+{"pattern": "[X] debutar\u00e0 a la [Y]?"}
+{"pattern": "[X] va ser em\u00e8s a la [Y]?"}
+{"pattern": "[X] va ser em\u00e8s originalment a la [Y]?"}
+{"pattern": "[X] es va mostrar originalment a la [Y]?"}
+{"pattern": "[X] va ser estrenat a [Y]?"}

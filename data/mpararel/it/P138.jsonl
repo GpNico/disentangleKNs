@@ -1,0 +1,18 @@
+{"pattern": "La [X] prende il nome da [Y]."}
+{"pattern": "[X] prende il nome da [Y]."}
+{"pattern": "L'[X] prende il nome da [Y]."}
+{"pattern": "[X] prende il nome dalla [Y]."}
+{"pattern": "Il [X] prende il nome dall'[Y]."}
+{"pattern": "[X], chiamato dopo [Y]."}
+{"pattern": "[X], intitolato a [Y]."}
+{"pattern": "[X], chiamato per [Y]."}
+{"pattern": "[X], che prende il nome da [Y]."}
+{"pattern": "L'[X], che prende il nome da [Y]."}
+{"pattern": "[X], che prende il nome dal [Y]."}
+{"pattern": "[X], che \u00e8 stato chiamato dopo [Y]."}
+{"pattern": "[X], che prende il nome dalla [Y]."}
+{"pattern": "La [X], che prende il nome da [Y]."}
+{"pattern": "La [X] prende il nome da [Y]?"}
+{"pattern": "Il [X] prende il nome da [Y]?"}
+{"pattern": "L'[X] prende il nome da [Y]?"}
+{"pattern": "[X] prende il nome dalla [Y]?"}

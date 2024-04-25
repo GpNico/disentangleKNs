@@ -2,3 +2,6 @@
 {"pattern": "[X] gelooft in de [Y]."}
 {"pattern": "[X] is een gelovige van de [Y]."}
 {"pattern": "[X] is een volgeling van de [Y]."}
+{"pattern": "Gelooft [X] in de [Y]?"}
+{"pattern": "Gelooft [X] in het [Y]?"}
+{"pattern": "Is [X] een volgeling van de [Y]?"}

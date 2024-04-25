@@ -1,0 +1,21 @@
+{"pattern": "[X] blev dannet i [Y]."}
+{"pattern": "[X] opstod i [Y]."}
+{"pattern": "[X] startede i [Y]."}
+{"pattern": "[X], der blev grundlagt i [Y]."}
+{"pattern": "[X] blev oprettet i [Y]."}
+{"pattern": "[X] Company blev dannet i [Y]."}
+{"pattern": "[X] blev grundlagt i [Y]."}
+{"pattern": "[X] blev startet i [Y]."}
+{"pattern": "[X], skabt i [Y]."}
+{"pattern": "[X], grundlagt i [Y]."}
+{"pattern": "[X], der stammer fra [Y]."}
+{"pattern": "[X], der blev skabt i [Y]."}
+{"pattern": "[X], der blev dannet i [Y]."}
+{"pattern": "[X], det blev startet i [Y]."}
+{"pattern": "Er [X] dannet i [Y]?"}
+{"pattern": "Opstod [X] i [Y]?"}
+{"pattern": "Begyndte [X] i [Y]?"}
+{"pattern": "blev [X] skabt i [Y]?"}
+{"pattern": "Blev [X] dannet i [Y]?"}
+{"pattern": "Blev [X] grundlagt i [Y]?"}
+{"pattern": "Blev [X] startet i [Y]?"}

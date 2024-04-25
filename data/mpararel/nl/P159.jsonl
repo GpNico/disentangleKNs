@@ -7,3 +7,11 @@
 {"pattern": "[X] Ltd is gevestigd in [Y]."}
 {"pattern": "Het hoofdkwartier van [X] is in [Y]."}
 {"pattern": "[X], met hoofdkantoor in [Y]."}
+{"pattern": "Is het hoofdkwartier van [X] in [Y]?"}
+{"pattern": "Is het hoofdkantoor van [X] in [Y]?"}
+{"pattern": "Is het hoofdkantoor van [X] gevestigd in [Y]?"}
+{"pattern": "Is [X] gevestigd in [Y]?"}
+{"pattern": "Heeft [X] zijn hoofdkantoor in [Y]?"}
+{"pattern": "Is de [X] gevestigd in [Y]?"}
+{"pattern": "Is het hoofdkantoor van de [X] in [Y]?"}
+{"pattern": "Is het hoofdkantoor van [X] gelegen in [Y]?"}

@@ -11,3 +11,11 @@
 {"pattern": "[X], dat wordt geproduceerd door [Y]."}
 {"pattern": "[X], dat produceert [Y]."}
 {"pattern": "[X], de maker van de [Y]."}
+{"pattern": "Ontwikkelt [X] [Y]?"}
+{"pattern": "Maakt [X] [Y]?"}
+{"pattern": "Maakt [Y] [X] [Y]?"}
+{"pattern": "Produceert [X] [Y]?"}
+{"pattern": "Is [X] de maker van [Y]?"}
+{"pattern": "Is [X] de maker van de [Y]?"}
+{"pattern": "Was [X] de maker van [Y]?"}
+{"pattern": "Was [X] de maker van de [Y]?"}

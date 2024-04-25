@@ -1,0 +1,8 @@
+{"pattern": "Il paese in cui si trova [X] \u00e8 la [Y]."}
+{"pattern": "Lo stato di [X] si trova in [Y]."}
+{"pattern": "[X] si trova in [Y]."}
+{"pattern": "[X] si trova nel seguente paese: [Y]."}
+{"pattern": "[X] si trova nel seguente stato: [Y]."}
+{"pattern": "[X], situato in [Y]."}
+{"pattern": "[X], che si trova in [Y]."}
+{"pattern": "[X] si trova in [Y]?"}

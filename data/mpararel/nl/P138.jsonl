@@ -9,3 +9,8 @@
 {"pattern": "[X], dat is vernoemd naar de [Y]."}
 {"pattern": "[X], die werd genoemd naar [Y]."}
 {"pattern": "[X], die vernoemd is naar [Y]."}
+{"pattern": "Is [X] vernoemd naar [Y]?"}
+{"pattern": "Is de [X] vernoemd naar [Y]?"}
+{"pattern": "Is [X] vernoemd naar de [Y]?"}
+{"pattern": "Werd de [X] genoemd naar [Y]?"}
+{"pattern": "Is het [X] vernoemd naar [Y]?"}

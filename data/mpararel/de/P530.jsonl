@@ -4,3 +4,9 @@
 {"pattern": "Der [X] unterh\u00e4lt diplomatische Beziehungen zu [Y]."}
 {"pattern": "Die [X] unterhalten diplomatische Beziehungen zu [Y]."}
 {"pattern": "Die [X] pflegen diplomatische Beziehungen zu [Y]."}
+{"pattern": "Hat [X] diplomatische Beziehungen zu [Y]?"}
+{"pattern": "Hat die [X] diplomatische Beziehungen zu [Y]?"}
+{"pattern": "H\u00e4lt [X] diplomatische Beziehungen zu [Y]?"}
+{"pattern": "Hat der [X] diplomatische Beziehungen zu [Y]?"}
+{"pattern": "Unterh\u00e4lt [X] diplomatische Beziehungen zu [Y]?"}
+{"pattern": "Bindet [X] diplomatische Beziehungen zu [Y]?"}

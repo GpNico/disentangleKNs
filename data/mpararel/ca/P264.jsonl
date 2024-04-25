@@ -1,0 +1,61 @@
+{"pattern": "L'etiqueta musical que representa [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta de m\u00fasica que representava a [X] era [Y]."}
+{"pattern": "L'etiqueta de m\u00fasica que representa a [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta de m\u00fasica que representava [X] era [Y]."}
+{"pattern": "L'etiqueta discogr\u00e0fica que representa [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta discogr\u00e0fica que representava [X] era [Y]."}
+{"pattern": "[X] est\u00e0 representat per [Y]."}
+{"pattern": "[X] est\u00e0 representat pel segell musical [Y]."}
+{"pattern": "[X] est\u00e0 representat per l'etiqueta discogr\u00e0fica [Y]."}
+{"pattern": "[X] ha signat amb [Y]."}
+{"pattern": "[X] etiqueta: [Y]."}
+{"pattern": "[X] va gravar per a [Y]."}
+{"pattern": "[X] grava per a [Y]."}
+{"pattern": "[X] va ser em\u00e8s per [Y]."}
+{"pattern": "[X] va ser publicat per l'etiqueta discogr\u00e0fica [Y]."}
+{"pattern": "[X] va ser publicat per [Y]."}
+{"pattern": "[X] va ser publicat pel segell discogr\u00e0fic [Y]."}
+{"pattern": "[X] va ser llan\u00e7at per [Y]."}
+{"pattern": "[X] va ser llan\u00e7at pel segell discogr\u00e0fic [Y]."}
+{"pattern": "[X] va ser representat per [Y]."}
+{"pattern": "[X] va ser representat pel segell musical [Y]."}
+{"pattern": "[X] va ser representat pel segell discogr\u00e0fic [Y]."}
+{"pattern": "L'etiqueta de [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta de [X] era [Y]."}
+{"pattern": "L'etiqueta de m\u00fasica de [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta de m\u00fasica de [X] era [Y]."}
+{"pattern": "La companyia discogr\u00e0fica de [X] \u00e9s [Y]."}
+{"pattern": "La companyia discogr\u00e0fica de [X] era [Y]."}
+{"pattern": "L'etiqueta discogr\u00e0fica de [X] \u00e9s [Y]."}
+{"pattern": "L'etiqueta discogr\u00e0fica de [X] era [Y]."}
+{"pattern": "[X], publicat per [Y]."}
+{"pattern": "[X], que est\u00e0 representat per [Y]."}
+{"pattern": "[X], que va ser representat per [Y]."}
+{"pattern": "[X], que va ser representada per [Y]."}
+{"pattern": "[X] va gravar per a [Y]?"}
+{"pattern": "[X] grava per a [Y]?"}
+{"pattern": "[X] est\u00e0 representat per [Y]?"}
+{"pattern": "[X] est\u00e0 representat per l'etiqueta [Y]?"}
+{"pattern": "[X] est\u00e0 representat per l'etiqueta de m\u00fasica [Y]?"}
+{"pattern": "[X] est\u00e0 representat per l'etiqueta discogr\u00e0fica [Y]?"}
+{"pattern": "[X] ha signat amb [Y]?"}
+{"pattern": "L'etiqueta representa [X] [Y]?"}
+{"pattern": "\u00c9s l'etiqueta que representa [X] [Y]?"}
+{"pattern": "L'etiqueta de m\u00fasica representa [X] [Y]?"}
+{"pattern": "\u00c9s l'etiqueta de m\u00fasica que representa a [X] [Y]?"}
+{"pattern": "L'etiqueta discogr\u00e0fica representa [X] [Y]?"}
+{"pattern": "\u00c9s l'etiqueta discogr\u00e0fica que representa [X] [Y]?"}
+{"pattern": "[X] va ser em\u00e8s per [Y]?"}
+{"pattern": "[X] va ser publicat per [Y]?"}
+{"pattern": "Va ser [X] alliberat per [Y]?"}
+{"pattern": "[X] estava representat per [Y]?"}
+{"pattern": "[X] estava representat per l'etiqueta [Y]?"}
+{"pattern": "[X] estava representat per l'etiqueta de m\u00fasica [Y]?"}
+{"pattern": "[X] estava representat per l'etiqueta discogr\u00e0fica [Y]?"}
+{"pattern": "[X] va signar amb [Y]?"}
+{"pattern": "Era l'etiqueta que representava [X] [Y]?"}
+{"pattern": "Era l'etiqueta que representava a [X] [Y]?"}
+{"pattern": "Era l'etiqueta de m\u00fasica que representava [X] [Y]?"}
+{"pattern": "Era l'etiqueta de m\u00fasica que representa [X] [Y]?"}
+{"pattern": "Era l'etiqueta discogr\u00e0fica que representava [X] [Y]?"}
+{"pattern": "Era l'etiqueta discogr\u00e0fica que representa [X] [Y]?"}

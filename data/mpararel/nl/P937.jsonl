@@ -1,3 +1,8 @@
 {"pattern": "[X] is werkzaam in [Y]."}
 {"pattern": "[X] begon te werken in [Y]."}
 {"pattern": "[X] werkte vroeger in [Y]."}
+{"pattern": "Heeft [X] werk gevonden in [Y]?"}
+{"pattern": "Heeft [X] werk aangenomen in [Y]?"}
+{"pattern": "Werkte [X] in [Y]?"}
+{"pattern": "Is [X] in dienst in [Y]?"}
+{"pattern": "Was [X] in dienst in [Y]?"}

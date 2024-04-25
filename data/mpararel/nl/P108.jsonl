@@ -2,3 +2,5 @@
 {"pattern": "[X] werkt voor de [Y]."}
 {"pattern": "[X], die in dienst is bij de [Y]."}
 {"pattern": "[X], die werkt voor de [Y]."}
+{"pattern": "Werkt [X] voor de [Y]?"}
+{"pattern": "Is [X] in dienst bij [Y]?"}

@@ -1,0 +1,38 @@
+{"pattern": "[X] \u00e8 venuto dal [Y]."}
+{"pattern": "[X] viene dal [Y]."}
+{"pattern": "[X] si \u00e8 formato in [Y]."}
+{"pattern": "[X] \u00e8 del [Y]."}
+{"pattern": "[X] ha avuto origine in [Y]."}
+{"pattern": "[X] \u00e8 stato creato in [Y]."}
+{"pattern": "[X] \u00e8 stato sviluppato in [Y]."}
+{"pattern": "[X] \u00e8 stato creato per la prima volta in [Y]."}
+{"pattern": "[X] \u00e8 stato prodotto per la prima volta in [Y]."}
+{"pattern": "Il [X] \u00e8 stato prodotto per la prima volta in [Y]."}
+{"pattern": "[X] \u00e8 stata formata in [Y]."}
+{"pattern": "[X] \u00e8 stato formulato in [Y]."}
+{"pattern": "[X] era del [Y]."}
+{"pattern": "[X], creato in [Y]."}
+{"pattern": "[X], sviluppato in [Y]."}
+{"pattern": "[X], formulato in [Y]."}
+{"pattern": "[X], dalla [Y]."}
+{"pattern": "[X], che ha avuto origine in [Y]."}
+{"pattern": "[X], che \u00e8 stato creato in [Y]."}
+{"pattern": "[X], che \u00e8 stato sviluppato in [Y]."}
+{"pattern": "[X], che si \u00e8 formato in [Y]."}
+{"pattern": "[X], che \u00e8 stato formulato in [Y]."}
+{"pattern": "[X], che era del [Y]."}
+{"pattern": "[X] viene dal [Y]?"}
+{"pattern": "[X] si \u00e8 formato in [Y]?"}
+{"pattern": "[X] ha avuto origine in [Y]?"}
+{"pattern": "[X] viene dalla [Y]?"}
+{"pattern": "[X] ha origine in [Y]?"}
+{"pattern": "[X] \u00e8 formulato in [Y]?"}
+{"pattern": "[X] viene dall'[Y]?"}
+{"pattern": "[X] \u00e8 stato creato in [Y]?"}
+{"pattern": "[X] \u00e8 stato sviluppato in [Y]?"}
+{"pattern": "[X] \u00e8 stato creato per la prima volta in [Y]?"}
+{"pattern": "[X] \u00e8 stato prodotto per la prima volta in [Y]?"}
+{"pattern": "[X] \u00e8 stata prodotta per la prima volta in [Y]?"}
+{"pattern": "[X] \u00e8 stato formato in [Y]?"}
+{"pattern": "[X] \u00e8 stato formulato in [Y]?"}
+{"pattern": "[X] era del [Y]?"}

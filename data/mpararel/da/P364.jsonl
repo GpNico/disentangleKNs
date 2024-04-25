@@ -1,0 +1,12 @@
+{"pattern": "Sproget i [X] er [Y]."}
+{"pattern": "Sproget i [X] var [Y]."}
+{"pattern": "Det oprindelige sprog i [X] er [Y]."}
+{"pattern": "Det oprindelige sprog i [X] var [Y]."}
+{"pattern": "[X] blev oprindeligt opf\u00f8rt p\u00e5 [Y]."}
+{"pattern": "[X] blev oprindeligt spillet p\u00e5 [Y]."}
+{"pattern": "Blev [X] oprindeligt opf\u00f8rt p\u00e5 [Y]?"}
+{"pattern": "Var [X] oprindeligt opf\u00f8rt p\u00e5 [Y]?"}
+{"pattern": "Blev [X] oprindeligt opf\u00f8rt p\u00e5 f\u00f8lgende sprog: [Y]?"}
+{"pattern": "Blev [X] oprindeligt spillet p\u00e5 [Y]?"}
+{"pattern": "Var [X] oprindeligt spillet p\u00e5 [Y]?"}
+{"pattern": "Blev [X] oprindeligt spillet p\u00e5 f\u00f8lgende sprog: [Y]?"}

@@ -12,3 +12,17 @@
 {"pattern": "[X], gemaakt door [Y]."}
 {"pattern": "[X], ontwikkeld door [Y]."}
 {"pattern": "[X], geproduceerd door [Y]."}
+{"pattern": "Is [X] een product gemaakt door [Y]?"}
+{"pattern": "Is [X] een product ontwikkeld door [Y]?"}
+{"pattern": "Is de [X] een product van [Y]?"}
+{"pattern": "Is [X] een product van [Y]?"}
+{"pattern": "Is de [X] gemaakt door [Y]?"}
+{"pattern": "Is [X] ontwikkeld door [Y]?"}
+{"pattern": "Wordt de [X] geproduceerd door [Y]?"}
+{"pattern": "Was de [X] een product gemaakt door [Y]?"}
+{"pattern": "Was de [X] een product ontwikkeld door [Y]?"}
+{"pattern": "Was de [X] een product van [Y]?"}
+{"pattern": "Was [X] een product van [Y]?"}
+{"pattern": "Is [X] gemaakt door [Y]?"}
+{"pattern": "Is de [X] ontwikkeld door [Y]?"}
+{"pattern": "Is de [X] geproduceerd door [Y]?"}

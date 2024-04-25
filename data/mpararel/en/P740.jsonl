@@ -1,14 +1,21 @@
-{"pattern": "[X] formed in [Y] .", "bert-base-uncased_P@1": 0.06168446026097272, "bert-base-multilingual-uncased_P@1": 0.03825136612021858}
-{"pattern": "[X] originated in [Y] .", "bert-base-uncased_P@1": 0.05338078291814947, "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X] started in [Y] .", "bert-base-uncased_P@1": 0.06524317912218268, "bert-base-multilingual-uncased_P@1": 0.03825136612021858}
-{"pattern": "[X] that was founded in [Y] .", "bert-base-uncased_P@1": 0.04389086595492289, "bert-base-multilingual-uncased_P@1": 0.060109289617486336}
-{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.0498220640569395, "bert-base-multilingual-uncased_P@1": 0.0273224043715847}
-{"pattern": "[X] was formed in [Y] .", "bert-base-uncased_P@1": 0.07354685646500593, "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X] was founded in [Y] .", "bert-base-uncased_P@1": 0.09489916963226572, "bert-base-multilingual-uncased_P@1": 0.0546448087431694}
-{"pattern": "[X] was started in [Y] .", "bert-base-uncased_P@1": 0.05338078291814947, "bert-base-multilingual-uncased_P@1": 0.02185792349726776}
-{"pattern": "[X], created in [Y] .", "bert-base-uncased_P@1": 0.04863582443653618, "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X], founded in [Y] .", "bert-base-uncased_P@1": 0.09252669039145907, "bert-base-multilingual-uncased_P@1": 0.0546448087431694}
-{"pattern": "[X], that originated in [Y] .", "bert-base-uncased_P@1": 0.04033214709371293, "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X], that was created in [Y] .", "bert-base-uncased_P@1": 0.028469750889679714, "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X], that was formed in [Y] .", "bert-base-uncased_P@1": 0.020166073546856466, "bert-base-multilingual-uncased_P@1": 0.04918032786885246}
-{"pattern": "[X], that was started in [Y] .", "bert-base-uncased_P@1": 0.04033214709371293, "bert-base-multilingual-uncased_P@1": 0.01639344262295082}
+{"pattern": "[X] formed in [Y] ."}
+{"pattern": "[X] originated in [Y] ."}
+{"pattern": "[X] started in [Y] ."}
+{"pattern": "[X] that was founded in [Y] ."}
+{"pattern": "[X] was created in [Y] ."}
+{"pattern": "[X] was formed in [Y] ."}
+{"pattern": "[X] was founded in [Y] ."}
+{"pattern": "[X] was started in [Y] ."}
+{"pattern": "[X], created in [Y] ."}
+{"pattern": "[X], founded in [Y] ."}
+{"pattern": "[X], that originated in [Y] ."}
+{"pattern": "[X], that was created in [Y] ."}
+{"pattern": "[X], that was formed in [Y] ."}
+{"pattern": "[X], that was started in [Y] ."}
+{"pattern": "Did [X] form in [Y]?"}
+{"pattern": "Did [X] originate in [Y]?"}
+{"pattern": "Did [X] start in [Y]?"}
+{"pattern": "Was [X] created in [Y]?"}
+{"pattern": "Was [X] formed in [Y]?"}
+{"pattern": "Was [X] founded in [Y]?"}
+{"pattern": "Was [X] started in [Y]?"}

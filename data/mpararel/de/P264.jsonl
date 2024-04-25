@@ -17,3 +17,18 @@
 {"pattern": "[X]s Plattenlabel ist [Y]."}
 {"pattern": "[X]s Plattenlabel war [Y]."}
 {"pattern": "[X], ver\u00f6ffentlicht von [Y]."}
+{"pattern": "Aufnimmt [X] f\u00fcr [Y]?"}
+{"pattern": "Ist [X] vertreten durch das Musiklabel [Y]?"}
+{"pattern": "Ist [X] vertreten durch das Plattenlabel [Y]?"}
+{"pattern": "Hat [X] einen Vertrag mit [Y]?"}
+{"pattern": "Repr\u00e4sentiert das Label [X] [Y]?"}
+{"pattern": "Ist das Label, das [X] repr\u00e4sentiert, [Y]?"}
+{"pattern": "Vertritt das Musiklabel [X] [Y]?"}
+{"pattern": "Ist das Musiklabel, das [X] repr\u00e4sentiert, [Y]?"}
+{"pattern": "Repr\u00e4sentiert das Plattenlabel [X] [Y]?"}
+{"pattern": "Ist das Plattenlabel, das [X] repr\u00e4sentiert, [Y]?"}
+{"pattern": "War das Label ein Vertreter von [X] [Y]?"}
+{"pattern": "War das Label, das [X] repr\u00e4sentiert, [Y]?"}
+{"pattern": "War das Musiklabel, das [X] repr\u00e4sentiert, [Y]?"}
+{"pattern": "War das Plattenlabel [X] [Y]?"}
+{"pattern": "War das Plattenlabel, das [X] repr\u00e4sentiert, [Y]?"}

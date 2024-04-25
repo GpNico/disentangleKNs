@@ -7,3 +7,11 @@
 {"pattern": "[X] befindet sich in [Y]."}
 {"pattern": "Das Hauptquartier von [X] befindet sich in [Y]."}
 {"pattern": "[X] mit Hauptsitz in [Y]."}
+{"pattern": "Ist das Hauptquartier von [X] in [Y]?"}
+{"pattern": "Ist der Hauptsitz von [X] in [Y]?"}
+{"pattern": "Ist der Hauptsitz der [X] in [Y]?"}
+{"pattern": "Hat [X] seinen Sitz in [Y]?"}
+{"pattern": "Hat [X] seinen Hauptsitz in [Y]?"}
+{"pattern": "Die [X] in [Y]?"}
+{"pattern": "Ist das Hauptquartier des [X] in [Y]?"}
+{"pattern": "Ist der Hauptsitz des [X] in [Y]?"}

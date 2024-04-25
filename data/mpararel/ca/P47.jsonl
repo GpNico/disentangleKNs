@@ -1,0 +1,18 @@
+{"pattern": "[X] limita amb [Y]."}
+{"pattern": "[X] comparteix una frontera amb [Y]."}
+{"pattern": "[X] comparteix una frontera comuna amb [Y]."}
+{"pattern": "[X] comparteix frontera amb [Y]."}
+{"pattern": "[X] comparteix fronteres amb [Y]."}
+{"pattern": "[X] comparteix la seva frontera amb [Y]."}
+{"pattern": "[X] comparteix les seves fronteres amb [Y]."}
+{"pattern": "[X] comparteix la frontera amb [Y]."}
+{"pattern": "[X] comparteix les fronteres amb [Y]."}
+{"pattern": "[X] limita amb [Y]?"}
+{"pattern": "[X] comparteix una frontera amb [Y]?"}
+{"pattern": "[X] comparteix una frontera comuna amb [Y]?"}
+{"pattern": "[X] comparteix frontera amb [Y]?"}
+{"pattern": "[X] comparteix fronteres amb [Y]?"}
+{"pattern": "[X] comparteix la seva frontera amb [Y]?"}
+{"pattern": "[X] comparteix les seves fronteres amb [Y]?"}
+{"pattern": "[X] comparteix la frontera amb [Y]?"}
+{"pattern": "[X] comparteix les fronteres amb [Y]?"}

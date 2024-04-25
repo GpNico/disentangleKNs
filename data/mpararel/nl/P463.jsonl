@@ -5,3 +5,10 @@
 {"pattern": "[X] is lid van de [Y]."}
 {"pattern": "De [X] is aangesloten bij de [Y]."}
 {"pattern": "[X] maakt deel uit van [Y]."}
+{"pattern": "Hoort [X] bij [Y]?"}
+{"pattern": "Hoort [X] bij de [Y]?"}
+{"pattern": "Hoort [X] bij de organisatie van [Y]?"}
+{"pattern": "Is [X] lid van [Y]?"}
+{"pattern": "Is [X] lid van de [Y]?"}
+{"pattern": "Is [X] verbonden met [Y]?"}
+{"pattern": "Is [X] deel van [Y]?"}

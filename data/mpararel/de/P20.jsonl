@@ -7,3 +7,4 @@
 {"pattern": "[X] verlor sein Leben in [Y]."}
 {"pattern": "[X] erlag bei [Y]."}
 {"pattern": "[X]s Leben endete in [Y]."}
+{"pattern": "Verlor [X] sein Leben in [Y]?"}

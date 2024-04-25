@@ -1,0 +1,17 @@
+{"pattern": "O continente de [X] \u00e9 a [Y]."}
+{"pattern": "O [X] pertence ao continente [Y]."}
+{"pattern": "O [X] pertence ao continente da [Y]."}
+{"pattern": "O [X] faz parte do continente [Y]."}
+{"pattern": "A [X] faz parte do continente [Y]."}
+{"pattern": "O [X] faz parte do continente da [Y]."}
+{"pattern": "O [X] est\u00e1 localizado na [Y]."}
+{"pattern": "O [X] est\u00e1 localizado no continente [Y]."}
+{"pattern": "A [X] est\u00e1 localizada no continente [Y]."}
+{"pattern": "O [X] pertence ao continente [Y]?"}
+{"pattern": "O [X] pertence ao continente da [Y]?"}
+{"pattern": "O [X] faz parte do continente [Y]?"}
+{"pattern": "A [X] faz parte do continente [Y]?"}
+{"pattern": "O [X] faz parte do continente da [Y]?"}
+{"pattern": "O [X] est\u00e1 localizado na [Y]?"}
+{"pattern": "A [X] est\u00e1 localizada no continente [Y]?"}
+{"pattern": "O [X] est\u00e1 localizado no continente [Y]?"}

@@ -35,3 +35,30 @@
 {"pattern": "[X], dat werd vertegenwoordigd door [Y]."}
 {"pattern": "[X], die wordt vertegenwoordigd door [Y]."}
 {"pattern": "[X], die werd vertegenwoordigd door [Y]."}
+{"pattern": "Heeft [X] opgenomen voor [Y]?"}
+{"pattern": "Schrijft [X] voor [Y]?"}
+{"pattern": "Is [X] vertegenwoordigd door [Y]?"}
+{"pattern": "Is [X] vertegenwoordigd door het label [Y]?"}
+{"pattern": "Is [X] vertegenwoordigd door het muzieklabel [Y]?"}
+{"pattern": "Is [X] vertegenwoordigd door het platenlabel [Y]?"}
+{"pattern": "Heeft [X] een contract bij [Y]?"}
+{"pattern": "Is het label [X] [Y]?"}
+{"pattern": "Is het label dat [X] vertegenwoordigt [Y]?"}
+{"pattern": "Verteenwoordigt het muzieklabel [X] [Y]?"}
+{"pattern": "Is het muzieklabel dat [X] vertegenwoordigt [Y]?"}
+{"pattern": "Is het platenlabel [X] [Y]?"}
+{"pattern": "Is het platenlabel dat [X] vertegenwoordigt [Y]?"}
+{"pattern": "Was [X] uitgegeven door [Y]?"}
+{"pattern": "Is [X] uitgegeven door [Y]?"}
+{"pattern": "Is [X] uitgebracht door [Y]?"}
+{"pattern": "Was [X] vertegenwoordigd door [Y]?"}
+{"pattern": "Was [X] vertegenwoordigd door het label [Y]?"}
+{"pattern": "Was [X] vertegenwoordigd door het muzieklabel [Y]?"}
+{"pattern": "Was [X] vertegenwoordigd door het platenlabel [Y]?"}
+{"pattern": "Was [X] getekend bij [Y]?"}
+{"pattern": "Stond het label voor [X] [Y]?"}
+{"pattern": "Was het label dat [X] vertegenwoordigt [Y]?"}
+{"pattern": "Was het muzieklabel [X] [Y]?"}
+{"pattern": "Was het muzieklabel dat [X] vertegenwoordigt [Y]?"}
+{"pattern": "Was het platenlabel [X] [Y]?"}
+{"pattern": "Was het platenlabel dat [X] vertegenwoordigt [Y]?"}

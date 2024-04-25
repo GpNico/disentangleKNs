@@ -1,3 +1,4 @@
+{"pattern": "[X] had de offici\u00eble positie van [Y]."}
 {"pattern": "[X] had de positie van [Y]."}
 {"pattern": "[X] had de publieke positie van [Y]."}
 {"pattern": "[X] had de publieke rol van [Y]."}
@@ -33,3 +34,43 @@
 {"pattern": "[X], wiens offici\u00eble positie is die van [Y]."}
 {"pattern": "[X], wiens positie is die van [Y]."}
 {"pattern": "[X], wiens functie was die van [Y]."}
+{"pattern": "Had [X] de positie van [Y]?"}
+{"pattern": "Had [X] de openbare positie van [Y]?"}
+{"pattern": "Had [X] de publieke rol van [Y]?"}
+{"pattern": "Had [X] de offici\u00eble positie van [Y]?"}
+{"pattern": "Had [X] de openbare functie van [Y]?"}
+{"pattern": "Had [X] officieel de positie van [Y]?"}
+{"pattern": "Had [X] officieel de openbare positie van [Y]?"}
+{"pattern": "Had [X] officieel de publieke rol van [Y]?"}
+{"pattern": "Heeft [X] de positie van [Y]?"}
+{"pattern": "Heeft [X] de publieke positie van [Y]?"}
+{"pattern": "Heeft [X] de publieke rol van [Y]?"}
+{"pattern": "Heeft [X] de offici\u00eble positie van [Y]?"}
+{"pattern": "Heeft [X] de openbare positie van [Y]?"}
+{"pattern": "Heeft [X] officieel de positie van [Y]?"}
+{"pattern": "Heeft [X] officieel de openbare positie van [Y]?"}
+{"pattern": "Heeft [X] officieel de publieke rol van [Y]?"}
+{"pattern": "Is [X]'s offici\u00eble positie [Y]?"}
+{"pattern": "Is [X]'s offici\u00eble positie die van [Y]?"}
+{"pattern": "Is [X]'s offici\u00eble rol [Y]?"}
+{"pattern": "Is [X]'s offici\u00eble rol die van [Y]?"}
+{"pattern": "Is [X] de [Y]?"}
+{"pattern": "Is [X] de positie van [Y]?"}
+{"pattern": "Is [X]'s publieke positie [Y]?"}
+{"pattern": "Is [X]'s publieke positie die van [Y]?"}
+{"pattern": "Is [X]'s publieke rol [Y]?"}
+{"pattern": "Is [X]'s publieke rol die van [Y]?"}
+{"pattern": "Is [X]'s rol [Y]?"}
+{"pattern": "Is [X]'s rol die van [Y]?"}
+{"pattern": "Was [X]'s offici\u00eble positie [Y]?"}
+{"pattern": "Was [X]'s offici\u00eble positie die van [Y]?"}
+{"pattern": "Was [X]'s offici\u00eble rol [Y]?"}
+{"pattern": "Was [X]'s offici\u00eble rol die van [Y]?"}
+{"pattern": "Was [X]'s positie [Y]?"}
+{"pattern": "Was [X] de positie van [Y]?"}
+{"pattern": "Was [X]'s publieke positie [Y]?"}
+{"pattern": "Was [X]'s publieke positie die van [Y]?"}
+{"pattern": "Was [X]'s publieke rol [Y]?"}
+{"pattern": "Was [X]'s publieke rol die van [Y]?"}
+{"pattern": "Was [X]'s rol [Y]?"}
+{"pattern": "Was [X]'s rol die van [Y]?"}

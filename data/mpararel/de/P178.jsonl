@@ -7,3 +7,11 @@
 {"pattern": "[X], das macht [Y]."}
 {"pattern": "[X], das produziert [Y]."}
 {"pattern": "[X], der Sch\u00f6pfer von [Y]."}
+{"pattern": "Entwickelt [X] [Y]?"}
+{"pattern": "Macht [X] [Y]?"}
+{"pattern": "Produziert [X] von [Y]?"}
+{"pattern": "Produziert [X] [Y]?"}
+{"pattern": "Ist [X] der Sch\u00f6pfer von [Y]?"}
+{"pattern": "Ist [X] der Sch\u00f6pfer des [Y]?"}
+{"pattern": "War [X] der Sch\u00f6pfer von [Y]?"}
+{"pattern": "War [X] der Sch\u00f6pfer des [Y]?"}

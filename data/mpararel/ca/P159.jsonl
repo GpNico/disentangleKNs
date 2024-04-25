@@ -1,0 +1,16 @@
+{"pattern": "La seu de [X] \u00e9s a [Y]."}
+{"pattern": "La seu de [X] es troba a [Y]."}
+{"pattern": "La seu del [X] \u00e9s a [Y]."}
+{"pattern": "La seu del [X] es troba a [Y]."}
+{"pattern": "[X] t\u00e9 la seva seu a [Y]."}
+{"pattern": "[X] t\u00e9 la seu a [Y]."}
+{"pattern": "[X] es troba a [Y]."}
+{"pattern": "[X], amb seu a [Y]."}
+{"pattern": "La seu de [X] \u00e9s a [Y]?"}
+{"pattern": "La seu del [X] \u00e9s a [Y]?"}
+{"pattern": "La seu de [X] es troba a [Y]?"}
+{"pattern": "[X] t\u00e9 la seva seu a [Y]?"}
+{"pattern": "[X] t\u00e9 la seu a [Y]?"}
+{"pattern": "El [X] es troba a [Y]?"}
+{"pattern": "\u00c9s la seu del [X] a [Y]?"}
+{"pattern": "La seu del [X] es troba a [Y]?"}

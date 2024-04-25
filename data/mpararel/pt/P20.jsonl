@@ -1,0 +1,25 @@
+{"pattern": "O local da morte de [X] \u00e9 [Y]."}
+{"pattern": "O local da morte de [X] foi [Y]."}
+{"pattern": "O local de morte de [X] \u00e9 [Y]."}
+{"pattern": "O lugar da morte de [X] foi [Y]."}
+{"pattern": "O lugar da morte de [X] \u00e9 [Y]."}
+{"pattern": "[X] morreu em [Y]."}
+{"pattern": "A [X] morreu em [Y]."}
+{"pattern": "[X] expirou em [Y]."}
+{"pattern": "O [X] morreu em [Y]."}
+{"pattern": "[X] perdeu a vida em [Y]."}
+{"pattern": "[X] faleceu em [Y]."}
+{"pattern": "O [X] faleceu em [Y]."}
+{"pattern": "[X] sucumbiu em [Y]."}
+{"pattern": "A vida de [X] terminou em [Y]."}
+{"pattern": "O [X] morreu em [Y]?"}
+{"pattern": "A [X] morreu em [Y]?"}
+{"pattern": "[X] morreu em [Y]?"}
+{"pattern": "O [X] morreu na [Y]?"}
+{"pattern": "O [X] perdeu a vida em [Y]?"}
+{"pattern": "A [X] perdeu a vida em [Y]?"}
+{"pattern": "O [X] faleceu em [Y]?"}
+{"pattern": "O [X] sucumbiu em [Y]?"}
+{"pattern": "A [X] sucumbiu em [Y]?"}
+{"pattern": "A vida de [X] terminou em [Y]?"}
+{"pattern": "A vida do [X] acabou em [Y]?"}

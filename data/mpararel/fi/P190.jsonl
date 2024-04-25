@@ -1,0 +1,6 @@
+{"pattern": "[X] ja sen sisarkaupunki [Y]."}
+{"pattern": "[X] ja sen kaksoiskaupunki [Y]."}
+{"pattern": "[X]lla on sisarkaupunki [Y]."}
+{"pattern": "[X]lla on kaksoiskyl\u00e4 [Y]."}
+{"pattern": "[X]n sisarkaupunki on [Y]."}
+{"pattern": "[X]n kaksoiskaupunki on [Y]."}

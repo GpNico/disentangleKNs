@@ -1,3 +1,6 @@
 {"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y]."}
 {"pattern": "[X] ist ein B\u00fcrger von [Y]."}
 {"pattern": "[X], ein B\u00fcrger von [Y]."}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft von [Y]?"}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft der [Y]?"}
+{"pattern": "Ist [X] ein Staatsb\u00fcrger von [Y]?"}

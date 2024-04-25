@@ -1,0 +1,16 @@
+{"pattern": "[X] debuterede p\u00e5 [Y]."}
+{"pattern": "[X] debuterer p\u00e5 [Y]."}
+{"pattern": "[X] havde premiere p\u00e5 [Y]."}
+{"pattern": "[X] har premiere p\u00e5 [Y]."}
+{"pattern": "[X] blev sendt p\u00e5 [Y]."}
+{"pattern": "[X] blev oprindeligt sendt p\u00e5 [Y]."}
+{"pattern": "[X] blev oprindeligt vist p\u00e5 [Y]."}
+{"pattern": "[X] blev udgivet p\u00e5 [Y]."}
+{"pattern": "Debuterede [X] p\u00e5 [Y]?"}
+{"pattern": "Havde [X] premiere p\u00e5 [Y]?"}
+{"pattern": "Har [X] premiere p\u00e5 [Y]?"}
+{"pattern": "Er [X] til debut p\u00e5 [Y]?"}
+{"pattern": "Blev [X] sendt p\u00e5 [Y]?"}
+{"pattern": "Blev [X] oprindeligt sendt p\u00e5 [Y]?"}
+{"pattern": "Blev [X] oprindeligt vist p\u00e5 [Y]?"}
+{"pattern": "Blev [X] udgivet p\u00e5 [Y]?"}

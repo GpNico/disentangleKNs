@@ -1,0 +1,17 @@
+{"pattern": "A sede da [X] est\u00e1 em [Y]."}
+{"pattern": "A sede da [X] est\u00e1 localizada em [Y]."}
+{"pattern": "A sede do [X] est\u00e1 em [Y]."}
+{"pattern": "A sede do [X] est\u00e1 localizada em [Y]."}
+{"pattern": "A [X] tem sede em [Y]."}
+{"pattern": "A [X] tem a sua sede em [Y]."}
+{"pattern": "A [X] est\u00e1 localizada em [Y]."}
+{"pattern": "A sede da [X] est\u00e1 no [Y]."}
+{"pattern": "[X], cuja sede est\u00e1 em [Y]."}
+{"pattern": "A sede da [X] est\u00e1 em [Y]?"}
+{"pattern": "A sede do [X] est\u00e1 em [Y]?"}
+{"pattern": "A sede da [X] est\u00e1 localizada em [Y]?"}
+{"pattern": "A [X] tem sede em [Y]?"}
+{"pattern": "A [X] tem a sua sede em [Y]?"}
+{"pattern": "A [X] est\u00e1 localizada em [Y]?"}
+{"pattern": "A sede da [X] est\u00e1 no [Y]?"}
+{"pattern": "A sede do [X] est\u00e1 localizada em [Y]?"}

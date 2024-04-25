@@ -1,0 +1,9 @@
+{"pattern": "[X] on luokan [Y]."}
+{"pattern": "[X] on [Y]."}
+{"pattern": "[X] on er\u00e4\u00e4nlainen [Y]."}
+{"pattern": "[X] on luokkaa [Y]."}
+{"pattern": "[X], er\u00e4\u00e4nlainen [Y]."}
+{"pattern": "Onko [X]lla luokan [Y]?"}
+{"pattern": "Onko [X] [Y]?"}
+{"pattern": "Onko [X] er\u00e4\u00e4nlainen [Y]?"}
+{"pattern": "Onko [X] luokan [Y]?"}

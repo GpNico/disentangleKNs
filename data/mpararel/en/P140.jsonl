@@ -1,4 +1,7 @@
-{"pattern": "The religion of [X] is [Y] .", "bert-base-uncased_P@1": 0.3225806451612903, "bert-base-multilingual-uncased_P@1": 0.38636363636363635}
-{"pattern": "[X] believes in [Y] .", "bert-base-uncased_P@1": 0.06451612903225806, "bert-base-multilingual-uncased_P@1": 0.48863636363636365}
-{"pattern": "[X] is a believer of [Y] .", "bert-base-uncased_P@1": 0.6152073732718893, "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
-{"pattern": "[X] is follower of [Y] .", "bert-base-uncased_P@1": 0.5599078341013825, "bert-base-multilingual-uncased_P@1": 0.2727272727272727}
+{"pattern": "The religion of [X] is [Y] ."}
+{"pattern": "[X] believes in [Y] ."}
+{"pattern": "[X] is a believer of [Y] ."}
+{"pattern": "[X] is follower of [Y] ."}
+{"pattern": "Does [X] believe in [Y]?"}
+{"pattern": "Is [X] a believer in [Y]?"}
+{"pattern": "Is [X] a follower of [Y]?"}

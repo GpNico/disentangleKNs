@@ -10,3 +10,7 @@
 {"pattern": "[X]' werkgebied is [Y]."}
 {"pattern": "[X]'s expertise is [Y]."}
 {"pattern": "[X]'s expertise is in [Y]."}
+{"pattern": "Is [X] gespecialiseerd in [Y]?"}
+{"pattern": "Werkt [X] in de veld[Y]?"}
+{"pattern": "Werkt [X] op het gebied van [Y]?"}
+{"pattern": "Is [X]'s expertise in [Y]?"}

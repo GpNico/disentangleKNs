@@ -4,3 +4,4 @@
 {"pattern": "[X] befindet sich in dem folgenden Land: [Y]."}
 {"pattern": "[X] befindet sich in dem folgenden Bundesstaat: [Y]."}
 {"pattern": "[X], in [Y]."}
+{"pattern": "Liegt [X] in [Y]?"}

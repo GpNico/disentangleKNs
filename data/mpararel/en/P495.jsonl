@@ -1,23 +1,38 @@
-{"pattern": "[X] came from [Y] .", "bert-base-uncased_P@1": 0.17679558011049723, "bert-base-multilingual-uncased_P@1": 0.24725274725274726}
-{"pattern": "[X] comes from [Y] .", "bert-base-uncased_P@1": 0.20662983425414364, "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
-{"pattern": "[X] formed in [Y] .", "bert-base-uncased_P@1": 0.12375690607734807, "bert-base-multilingual-uncased_P@1": 0.19230769230769232}
-{"pattern": "[X] is from [Y] .", "bert-base-uncased_P@1": 0.22320441988950276, "bert-base-multilingual-uncased_P@1": 0.24725274725274726}
-{"pattern": "[X] originated in [Y] .", "bert-base-uncased_P@1": 0.30165745856353593, "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
-{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.25524861878453037, "bert-base-multilingual-uncased_P@1": 0.21978021978021978}
-{"pattern": "[X] was developed in [Y] .", "bert-base-uncased_P@1": 0.33259668508287293, "bert-base-multilingual-uncased_P@1": 0.34615384615384615}
-{"pattern": "[X] was first created in [Y] .", "bert-base-uncased_P@1": 0.2751381215469613, "bert-base-multilingual-uncased_P@1": 0.26373626373626374}
-{"pattern": "[X] was first made in [Y] .", "bert-base-uncased_P@1": 0.343646408839779, "bert-base-multilingual-uncased_P@1": 0.3131868131868132}
-{"pattern": "[X] was first produced in [Y] .", "bert-base-uncased_P@1": 0.3558011049723757, "bert-base-multilingual-uncased_P@1": 0.36813186813186816}
-{"pattern": "[X] was formed in [Y] .", "bert-base-uncased_P@1": 0.13701657458563535, "bert-base-multilingual-uncased_P@1": 0.13186813186813187}
-{"pattern": "[X] was formulated in [Y] .", "bert-base-uncased_P@1": 0.25303867403314917, "bert-base-multilingual-uncased_P@1": 0.26373626373626374}
-{"pattern": "[X] was from [Y] .", "bert-base-uncased_P@1": 0.143646408839779, "bert-base-multilingual-uncased_P@1": 0.1978021978021978}
-{"pattern": "[X], created in [Y] .", "bert-base-uncased_P@1": 0.25082872928176797, "bert-base-multilingual-uncased_P@1": 0.29120879120879123}
-{"pattern": "[X], developed in [Y] .", "bert-base-uncased_P@1": 0.3392265193370166, "bert-base-multilingual-uncased_P@1": 0.3131868131868132}
-{"pattern": "[X], formulated in [Y] .", "bert-base-uncased_P@1": 0.2176795580110497, "bert-base-multilingual-uncased_P@1": 0.18681318681318682}
-{"pattern": "[X], from [Y] .", "bert-base-uncased_P@1": 0.23204419889502761, "bert-base-multilingual-uncased_P@1": 0.2087912087912088}
-{"pattern": "[X], that originated in [Y] .", "bert-base-uncased_P@1": 0.292817679558011, "bert-base-multilingual-uncased_P@1": 0.29120879120879123}
-{"pattern": "[X], that was created in [Y] .", "bert-base-uncased_P@1": 0.16574585635359115, "bert-base-multilingual-uncased_P@1": 0.31868131868131866}
-{"pattern": "[X], that was developed in [Y] .", "bert-base-uncased_P@1": 0.2740331491712707, "bert-base-multilingual-uncased_P@1": 0.32967032967032966}
-{"pattern": "[X], that was formed in [Y] .", "bert-base-uncased_P@1": 0.1005524861878453, "bert-base-multilingual-uncased_P@1": 0.15934065934065933}
-{"pattern": "[X], that was formulated in [Y] .", "bert-base-uncased_P@1": 0.10276243093922652, "bert-base-multilingual-uncased_P@1": 0.22527472527472528}
-{"pattern": "[X], who was from [Y] .", "bert-base-uncased_P@1": 0.06850828729281767, "bert-base-multilingual-uncased_P@1": 0.21978021978021978}
+{"pattern": "[X] came from [Y] ."}
+{"pattern": "[X] comes from [Y] ."}
+{"pattern": "[X] formed in [Y] ."}
+{"pattern": "[X] is from [Y] ."}
+{"pattern": "[X] originated in [Y] ."}
+{"pattern": "[X] was created in [Y] ."}
+{"pattern": "[X] was developed in [Y] ."}
+{"pattern": "[X] was first created in [Y] ."}
+{"pattern": "[X] was first made in [Y] ."}
+{"pattern": "[X] was first produced in [Y] ."}
+{"pattern": "[X] was formed in [Y] ."}
+{"pattern": "[X] was formulated in [Y] ."}
+{"pattern": "[X] was from [Y] ."}
+{"pattern": "[X], created in [Y] ."}
+{"pattern": "[X], developed in [Y] ."}
+{"pattern": "[X], formulated in [Y] ."}
+{"pattern": "[X], from [Y] ."}
+{"pattern": "[X], that originated in [Y] ."}
+{"pattern": "[X], that was created in [Y] ."}
+{"pattern": "[X], that was developed in [Y] ."}
+{"pattern": "[X], that was formed in [Y] ."}
+{"pattern": "[X], that was formulated in [Y] ."}
+{"pattern": "[X], who was from [Y] ."}
+{"pattern": "Did [X] come from [Y]?"}
+{"pattern": "Did [X] form in [Y]?"}
+{"pattern": "Did [X] originate in [Y]?"}
+{"pattern": "Does [X] come from [Y]?"}
+{"pattern": "Does [X] originate in [Y]?"}
+{"pattern": "Is [X] formulated in [Y]?"}
+{"pattern": "Is [X] from [Y]?"}
+{"pattern": "Was [X] created in [Y]?"}
+{"pattern": "Was [X] developed in [Y]?"}
+{"pattern": "Was [X] first created in [Y]?"}
+{"pattern": "Was [X] first made in [Y]?"}
+{"pattern": "Was [X] first produced in [Y]?"}
+{"pattern": "Was [X] formed in [Y]?"}
+{"pattern": "Was [X] formulated in [Y]?"}
+{"pattern": "Was [X] from [Y]?"}

@@ -1,0 +1,8 @@
+{"pattern": "[X]n p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X] Boroughin p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]n p\u00e4\u00e4kaupunki, [Y]."}
+{"pattern": "[X]in departementin p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki, [Y]."}
+{"pattern": "[X], jonka p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X] Borough, jonka p\u00e4\u00e4kaupunki on [Y]."}

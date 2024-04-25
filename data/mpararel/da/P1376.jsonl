@@ -1,0 +1,5 @@
+{"pattern": "[X] er hovedstaden i [Y]."}
+{"pattern": "[X], det er hovedstaden i [Y]."}
+{"pattern": "[X], det er hovedstaden p\u00e5 [Y]."}
+{"pattern": "[X], hovedstaden i [Y]."}
+{"pattern": "Er [X] hovedstaden i [Y]?"}

@@ -1,2 +1,3 @@
 {"pattern": "Das [X] ist im Besitz von [Y]."}
 {"pattern": "[X] Eigent\u00fcmer [Y]."}
+{"pattern": "Ist das [X] im Besitz von [Y]?"}

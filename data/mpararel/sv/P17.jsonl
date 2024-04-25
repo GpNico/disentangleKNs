@@ -1,0 +1,8 @@
+{"pattern": "Landet [X] ligger i \u00e4r [Y]."}
+{"pattern": "Staten [X] ligger i [Y]."}
+{"pattern": "[X] ligger i [Y]."}
+{"pattern": "[X] ligger i f\u00f6ljande land: [Y]."}
+{"pattern": "[X] ligger i f\u00f6ljande delstat: [Y]."}
+{"pattern": "[X], bel\u00e4get i [Y]."}
+{"pattern": "[X], som ligger i [Y]."}
+{"pattern": "Ligger [X] i [Y]?"}

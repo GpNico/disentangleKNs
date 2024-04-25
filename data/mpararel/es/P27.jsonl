@@ -1,7 +1,11 @@
-{"pattern": "[X] tiene la ciudadan\u00eda de [Y].", "bert-base-multilingual-uncased_P@1": 0.1956521739130435}
-{"pattern": "[X] tiene la ciudadan\u00eda de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] es ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.18478260869565216}
-{"pattern": "[X], un ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.16304347826086957}
-{"pattern": "[X], que tiene la ciudadan\u00eda de [Y].", "bert-base-multilingual-uncased_P@1": 0.19021739130434784}
-{"pattern": "[X], quien tiene la ciudadan\u00eda de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], que es ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.11413043478260869}
+{"pattern": "[X] tiene la ciudadan\u00eda de [Y]."}
+{"pattern": "[X] tiene la ciudadan\u00eda de la [Y]."}
+{"pattern": "[X] es ciudadano de [Y]."}
+{"pattern": "[X], un ciudadano de [Y]."}
+{"pattern": "[X], que tiene la ciudadan\u00eda de [Y]."}
+{"pattern": "[X], quien tiene la ciudadan\u00eda de la [Y]."}
+{"pattern": "[X], que es ciudadano de [Y]."}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda de [Y]?"}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda de la [Y]?"}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda del [Y]?"}
+{"pattern": "\u00bf[X] es ciudadano de [Y]?"}

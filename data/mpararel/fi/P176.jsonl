@@ -1,0 +1,10 @@
+{"pattern": "[X]n on kehitt\u00e4nyt [Y]."}
+{"pattern": "[X] on kehittynyt [Y]."}
+{"pattern": "[X]:n tuotti [Y]."}
+{"pattern": "[X], jonka on luonut [Y]."}
+{"pattern": "[X], jonka on kehitt\u00e4nyt [Y]."}
+{"pattern": "[X], jonka on tuottanut [Y]."}
+{"pattern": "Tuottaako [X]a [Y]?"}
+{"pattern": "Onko [X]in luonut [Y]?"}
+{"pattern": "Kehittik\u00f6 [X]:n [Y]?"}
+{"pattern": "Tuottikohan [X] [Y]?"}

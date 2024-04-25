@@ -1,0 +1,10 @@
+{"pattern": "Sproget i [X] er [Y]."}
+{"pattern": "Sproget i [X] var [Y]."}
+{"pattern": "[X] er skrevet p\u00e5 [Y]."}
+{"pattern": "[X] blev oprettet p\u00e5 [Y]."}
+{"pattern": "[X] blev skrevet p\u00e5 [Y]."}
+{"pattern": "Er [X] et v\u00e6rk p\u00e5 [Y]?"}
+{"pattern": "Er [X] skrevet p\u00e5 [Y]?"}
+{"pattern": "Var [X] et v\u00e6rk p\u00e5 [Y]?"}
+{"pattern": "Blev [X] skabt p\u00e5 [Y]?"}
+{"pattern": "Blev [X] skrevet p\u00e5 [Y]?"}

@@ -7,3 +7,11 @@
 {"pattern": "[X] liegt in [Y]."}
 {"pattern": "[X] liegt auf dem Kontinent [Y]."}
 {"pattern": "[X] befindet sich auf dem Kontinent [Y]."}
+{"pattern": "Geh\u00f6rt [X] zum Kontinent [Y]?"}
+{"pattern": "Geh\u00f6rt das K\u00f6nigreich [X] zum Kontinent [Y]?"}
+{"pattern": "Ist [X] ein Teil des Kontinents [Y]?"}
+{"pattern": "Ist [X] Teil des Kontinents [Y]?"}
+{"pattern": "Ist die [X] ein Teil des Kontinents [Y]?"}
+{"pattern": "Liegt [X] in [Y]?"}
+{"pattern": "Liegt [X] auf dem Kontinent [Y]?"}
+{"pattern": "Liegt die [X] auf dem Kontinent [Y]?"}

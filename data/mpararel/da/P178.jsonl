@@ -1,0 +1,21 @@
+{"pattern": "[X] og dets produkt [Y]."}
+{"pattern": "[X] bygger [Y]."}
+{"pattern": "[X] udvikler [Y]."}
+{"pattern": "[X] g\u00f8r [Y]."}
+{"pattern": "[X] fremstiller [Y]."}
+{"pattern": "[X] producerer [Y]."}
+{"pattern": "[X], der bygger [Y]."}
+{"pattern": "[X], der skabte [Y]."}
+{"pattern": "[X], der udviklede [Y]."}
+{"pattern": "[X], der udvikler [Y]."}
+{"pattern": "[X], det g\u00f8r [Y]."}
+{"pattern": "[X], der fremstiller [Y]."}
+{"pattern": "[X], der producerer [Y]."}
+{"pattern": "[X], skaberen af [Y]."}
+{"pattern": "Skabte [X] [Y]?"}
+{"pattern": "Udvikler [X] [Y]?"}
+{"pattern": "G\u00f8r [X] [Y]?"}
+{"pattern": "Fremstiller [X] [Y]?"}
+{"pattern": "Producerer [X] [Y]?"}
+{"pattern": "Er [X] skaberen af [Y]?"}
+{"pattern": "Var [X] skaberen af [Y]?"}

@@ -1,0 +1,26 @@
+{"pattern": "[X] kommer fr\u00e5n [Y]."}
+{"pattern": "[X] bildades i [Y]."}
+{"pattern": "[X] \u00e4r fr\u00e5n [Y]."}
+{"pattern": "[X] skapades f\u00f6rst i [Y]."}
+{"pattern": "[X] gjordes f\u00f6rst i [Y]."}
+{"pattern": "[X] producerades f\u00f6rst i [Y]."}
+{"pattern": "[X], utvecklat i [Y]."}
+{"pattern": "[X], formulerad i [Y]."}
+{"pattern": "[X], som skapades i [Y]."}
+{"pattern": "[X], som utvecklades i [Y]."}
+{"pattern": "[X], som formulerades i [Y]."}
+{"pattern": "Kom [X] fr\u00e5n [Y]?"}
+{"pattern": "Har [X] bildats i [Y]?"}
+{"pattern": "Har [X] sitt ursprung i [Y]?"}
+{"pattern": "Kommer [X] fr\u00e5n [Y]?"}
+{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?"}
+{"pattern": "\u00c4r [X] framst\u00e4lld i [Y]?"}
+{"pattern": "\u00c4r [X] fr\u00e5n [Y]?"}
+{"pattern": "Skapades [X] i [Y]?"}
+{"pattern": "Utvecklades [X] i [Y]?"}
+{"pattern": "Var [X] f\u00f6rst skapad i [Y]?"}
+{"pattern": "Gjordes [X] f\u00f6rst i [Y]?"}
+{"pattern": "Var [X] f\u00f6rst producerad i [Y]?"}
+{"pattern": "Var [X] bildad i [Y]?"}
+{"pattern": "Var [X] formulerad i [Y]?"}
+{"pattern": "Var [X] fr\u00e5n [Y]?"}

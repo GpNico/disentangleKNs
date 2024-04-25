@@ -6,3 +6,9 @@
 {"pattern": "[X] is van de klasse [Y]."}
 {"pattern": "[X], een subklasse van [Y]."}
 {"pattern": "[X], een soort [Y]."}
+{"pattern": "Heeft [X] klas[Y]?"}
+{"pattern": "Is [X] een [Y]?"}
+{"pattern": "Is [X] een soort [Y]?"}
+{"pattern": "Is [X] een subklasse van [Y]?"}
+{"pattern": "Is een [X] een soort [Y]?"}
+{"pattern": "Is [X] van de klasse [Y]?"}

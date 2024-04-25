@@ -2,3 +2,11 @@
 {"pattern": "[X] ging in premi\u00e8re op [Y]."}
 {"pattern": "[X] debuut op [Y]."}
 {"pattern": "[X] werd oorspronkelijk uitgezonden op [Y]."}
+{"pattern": "Heeft [X] zijn debuut op [Y]?"}
+{"pattern": "Had [X] een premi\u00e8re op [Y]?"}
+{"pattern": "Heeft [X] een premi\u00e8re op [Y]?"}
+{"pattern": "Is [X] aan het debuut op [Y]?"}
+{"pattern": "Werd [X] uitgezonden op [Y]?"}
+{"pattern": "Was [X] oorspronkelijk uitgezonden op [Y]?"}
+{"pattern": "Was [X] oorspronkelijk te zien op [Y]?"}
+{"pattern": "Is [X] uitgebracht op [Y]?"}

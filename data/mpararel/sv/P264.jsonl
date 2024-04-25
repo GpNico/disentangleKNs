@@ -1,0 +1,45 @@
+{"pattern": "Musikkonsortiet som representerar [X] \u00e4r [Y]."}
+{"pattern": "Musikkonsortiet som representerade [X] var [Y]."}
+{"pattern": "Det musiklabel som representerar [X] \u00e4r [Y]."}
+{"pattern": "Musikbolaget som representerade [X] var [Y]."}
+{"pattern": "[X] representeras av musiketiketten [Y]."}
+{"pattern": "[X] har skrivit kontrakt med [Y]."}
+{"pattern": "[X] etikett: [Y]."}
+{"pattern": "[X] spelade in f\u00f6r [Y]."}
+{"pattern": "[X] spelar f\u00f6r [Y]."}
+{"pattern": "[X] utgavs av [Y]."}
+{"pattern": "[X] representerades av musiketiketten [Y]."}
+{"pattern": "[X] skrev p\u00e5 f\u00f6r [Y]."}
+{"pattern": "[X]s skivbolag \u00e4r [Y]."}
+{"pattern": "[X]s skivbolag var [Y]."}
+{"pattern": "[X]s musiketikett \u00e4r [Y]."}
+{"pattern": "[X]s musiketikett var [Y]."}
+{"pattern": "[X] skivbolag \u00e4r [Y]."}
+{"pattern": "[X] skivbolag var [Y]."}
+{"pattern": "[X], sl\u00e4ppt av [Y]."}
+{"pattern": "[X], som representerades av [Y]."}
+{"pattern": "Skrev [X] f\u00f6r [Y]?"}
+{"pattern": "Skjuter [X] f\u00f6r [Y]?"}
+{"pattern": "Representeras [X] av [Y]?"}
+{"pattern": "Representeras [X] av skivbolaget [Y]?"}
+{"pattern": "Representeras [X] av musikbolaget [Y]?"}
+{"pattern": "\u00c4r [X] representerad av skivbolaget [Y]?"}
+{"pattern": "Har [X] tecknat kontrakt med [Y]?"}
+{"pattern": "Representerar etiketten [X] [Y]?"}
+{"pattern": "\u00c4r etiketten som representerar [X] [Y]?"}
+{"pattern": "Representerar musikbolaget [X] [Y]?"}
+{"pattern": "\u00c4r musikbolaget som representerar [X] [Y]?"}
+{"pattern": "Representerar skivbolaget [X] [Y]?"}
+{"pattern": "Var [X] utgiven av [Y]?"}
+{"pattern": "Var [X] publicerad av [Y]?"}
+{"pattern": "Var [X] sl\u00e4ppt av [Y]?"}
+{"pattern": "Representerades [X] av [Y]?"}
+{"pattern": "Var [X] representerad av skivbolaget [Y]?"}
+{"pattern": "Var [X] representerad av musikbolaget [Y]?"}
+{"pattern": "Representerades [X] av skivbolaget [Y]?"}
+{"pattern": "Var [X] signerad till [Y]?"}
+{"pattern": "Var etiketten som representerade [X] [Y]?"}
+{"pattern": "Var etiketten som representerar [X] [Y]?"}
+{"pattern": "Var musikbolaget som representerade [X] [Y]?"}
+{"pattern": "Var musikbolaget som representerar [X] [Y]?"}
+{"pattern": "Var skivbolaget som representerade [X] [Y]?"}

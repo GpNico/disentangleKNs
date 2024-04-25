@@ -1,0 +1,6 @@
+{"pattern": "[X] r\u00e4knas som en juridisk term i [Y]."}
+{"pattern": "[X] \u00e4r en juridisk term i [Y]."}
+{"pattern": "[X] \u00e4r en giltig juridisk term i [Y]."}
+{"pattern": "R\u00e4knas [X] som en juridisk term i [Y]?"}
+{"pattern": "\u00c4r [X] en juridisk term i [Y]?"}
+{"pattern": "\u00c4r [X] en giltig juridisk term i [Y]?"}

@@ -12,3 +12,10 @@
 {"pattern": "[X]l is overleden in [Y]."}
 {"pattern": "[X] bezweek bij [Y]."}
 {"pattern": "[X]'s leven eindigde in [Y]."}
+{"pattern": "Is [X] gestorven in [Y]?"}
+{"pattern": "Is [X] overleden in [Y]?"}
+{"pattern": "Heeft [X] zijn leven verloren in [Y]?"}
+{"pattern": "Is [X] omgekomen in [Y]?"}
+{"pattern": "Is [X]l overleden in [Y]?"}
+{"pattern": "Is [X] bezweken bij [Y]?"}
+{"pattern": "Is [X]'s leven ge\u00ebindigd in [Y]?"}

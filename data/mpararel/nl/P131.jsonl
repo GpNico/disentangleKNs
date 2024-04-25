@@ -1,3 +1,6 @@
 {"pattern": "[X] is te vinden in [Y]."}
 {"pattern": "[X] is in [Y]."}
 {"pattern": "[X] ligt in [Y]."}
+{"pattern": "Is het [X] te vinden in [Y]?"}
+{"pattern": "Is [X] in [Y]?"}
+{"pattern": "Is [X] gelegen in [Y]?"}

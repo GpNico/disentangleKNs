@@ -15,3 +15,16 @@
 {"pattern": "[X], dat is ontwikkeld in [Y]."}
 {"pattern": "[X], dat werd gevormd in [Y]."}
 {"pattern": "[X], dat is geformuleerd in [Y]."}
+{"pattern": "Komt [X] uit [Y]?"}
+{"pattern": "Is [X] ontstaan in [Y]?"}
+{"pattern": "Is [X] afkomstig uit [Y]?"}
+{"pattern": "Komen [X] uit [Y]?"}
+{"pattern": "Is [X] van oorsprong in [Y]?"}
+{"pattern": "Is [X] geformuleerd in [Y]?"}
+{"pattern": "Is [X] uit [Y]?"}
+{"pattern": "Is [X] ontwikkeld in [Y]?"}
+{"pattern": "Is [X] voor het eerst gemaakt in [Y]?"}
+{"pattern": "Werd [X] voor het eerst gemaakt in [Y]?"}
+{"pattern": "Is [X] voor het eerst geproduceerd in [Y]?"}
+{"pattern": "Werd [X] opgericht in [Y]?"}
+{"pattern": "Werd [X] geformuleerd in [Y]?"}

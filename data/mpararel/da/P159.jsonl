@@ -1,0 +1,17 @@
+{"pattern": "[X] har hovedkvarter i [Y]."}
+{"pattern": "Hovedkvarteret for [X] er beliggende i [Y]."}
+{"pattern": "[X]s hovedkvarter er i [Y]."}
+{"pattern": "[X]s hovedkvarter er beliggende i [Y]."}
+{"pattern": "[X] er baseret i [Y]."}
+{"pattern": "James [X] & Sons har hovedkvarter i [Y]."}
+{"pattern": "[X] er beliggende i [Y]."}
+{"pattern": "[X]'s hovedkvarter er i [Y]."}
+{"pattern": "[X], hvis hovedkvarter er i [Y]."}
+{"pattern": "Er [X]s hovedkvarter i [Y]?"}
+{"pattern": "Er hovedkvarteret for [X] i [Y]?"}
+{"pattern": "Er [X]s hovedkvarter beliggende i [Y]?"}
+{"pattern": "Er [X] baseret i [Y]?"}
+{"pattern": "Er [X] hovedkvarter i [Y]?"}
+{"pattern": "Er [X] beliggende i [Y]?"}
+{"pattern": "Er [X]'s hovedkvarter i [Y]?"}
+{"pattern": "Er hovedkvarteret for [X] beliggende i [Y]?"}

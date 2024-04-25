@@ -6,3 +6,4 @@
 {"pattern": "[X] spielt das Genre der [Y]."}
 {"pattern": "[X] spielt das Musikgenre [Y]."}
 {"pattern": "[X] spielt das Musikgenre der [Y]."}
+{"pattern": "Spielt [X] [Y]?"}

@@ -12,3 +12,8 @@
 {"pattern": "[X], dat is gemaakt in [Y]."}
 {"pattern": "[X], dat werd gevormd in [Y]."}
 {"pattern": "[X], dat is begonnen in [Y]."}
+{"pattern": "Is [X] gevormd in [Y]?"}
+{"pattern": "Kwam [X] uit [Y]?"}
+{"pattern": "Is [X] begonnen in [Y]?"}
+{"pattern": "Is [X] opgericht in [Y]?"}
+{"pattern": "Werd [X] opgericht in [Y]?"}

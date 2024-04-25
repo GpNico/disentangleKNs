@@ -4,3 +4,4 @@
 {"pattern": "[X] hat eine Zwillingsstadt [Y]."}
 {"pattern": "Die Schwesterstadt von [X] ist [Y]."}
 {"pattern": "Die Zwillingsstadt von [X] ist [Y]."}
+{"pattern": "Ist [X] die Zwillingsstadt von [Y]?"}

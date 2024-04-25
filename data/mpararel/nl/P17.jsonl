@@ -5,3 +5,4 @@
 {"pattern": "[X] ligt in de volgende staat: [Y]."}
 {"pattern": "[X], gelegen in [Y]."}
 {"pattern": "[X] District, gelegen in [Y]."}
+{"pattern": "Is [X] gelegen in [Y]?"}

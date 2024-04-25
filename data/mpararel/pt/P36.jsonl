@@ -1,0 +1,6 @@
+{"pattern": "A capital do [X] \u00e9 [Y]."}
+{"pattern": "A capital da [X] \u00e9 [Y]."}
+{"pattern": "A capital de [X] \u00e9 [Y]."}
+{"pattern": "A capital da [X], [Y]."}
+{"pattern": "A capital do [X], [Y]."}
+{"pattern": "[X], que tem a capital [Y]."}

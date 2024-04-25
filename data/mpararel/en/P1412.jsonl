@@ -1,6 +1,12 @@
-{"pattern": "[X] communicated in [Y] .", "bert-base-uncased_P@1": 0.5844155844155844, "bert-base-multilingual-uncased_P@1": 0.11458333333333333}
-{"pattern": "[X] communicates in [Y] .", "bert-base-uncased_P@1": 0.6958874458874459, "bert-base-multilingual-uncased_P@1": 0.24479166666666666}
-{"pattern": "[X] is a speaker of [Y] .", "bert-base-uncased_P@1": 0.27056277056277056, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] speaks [Y] .", "bert-base-uncased_P@1": 0.5833333333333334, "bert-base-multilingual-uncased_P@1": 0.5260416666666666}
-{"pattern": "[X] spoke [Y] .", "bert-base-uncased_P@1": 0.0183982683982684, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] used to communicate in [Y] .", "bert-base-uncased_P@1": 0.6872294372294372, "bert-base-multilingual-uncased_P@1": 0.5989583333333334}
+{"pattern": "[X] communicated in [Y] ."}
+{"pattern": "[X] communicates in [Y] ."}
+{"pattern": "[X] is a speaker of [Y] ."}
+{"pattern": "[X] speaks [Y] ."}
+{"pattern": "[X] spoke [Y] ."}
+{"pattern": "[X] used to communicate in [Y] ."}
+{"pattern": "Did [X] communicate in [Y]?"}
+{"pattern": "Did [X] speak [Y]?"}
+{"pattern": "Does [X] communicate in [Y]?"}
+{"pattern": "Does [X] speak [Y]?"}
+{"pattern": "Is [X] a speaker of [Y]?"}
+{"pattern": "Was [X] a speaker of [Y]?"}

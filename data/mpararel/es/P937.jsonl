@@ -1,5 +1,10 @@
-{"pattern": "[X] encontr\u00f3 trabajo en [Y].", "bert-base-multilingual-uncased_P@1": 0.3567251461988304}
-{"pattern": "[X] est\u00e1 empleado en [Y].", "bert-base-multilingual-uncased_P@1": 0.08771929824561403}
-{"pattern": "[X] comenz\u00f3 a trabajar en [Y].", "bert-base-multilingual-uncased_P@1": 0.11695906432748537}
-{"pattern": "[X] sol\u00eda trabajar en [Y].", "bert-base-multilingual-uncased_P@1": 0.23976608187134502}
-{"pattern": "[X] fue empleado en [Y].", "bert-base-multilingual-uncased_P@1": 0.16374269005847952}
+{"pattern": "[X] encontr\u00f3 trabajo en [Y]."}
+{"pattern": "[X] est\u00e1 empleado en [Y]."}
+{"pattern": "[X] comenz\u00f3 a trabajar en [Y]."}
+{"pattern": "[X] sol\u00eda trabajar en [Y]."}
+{"pattern": "[X] fue empleado en [Y]."}
+{"pattern": "\u00bf[X] encontr\u00f3 trabajo en [Y]?"}
+{"pattern": "\u00bf[X] comenz\u00f3 a trabajar en [Y]?"}
+{"pattern": "\u00bf[X] trabaj\u00f3 en [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 empleado en [Y]?"}
+{"pattern": "\u00bf[X] fue empleado en [Y]?"}

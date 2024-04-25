@@ -13,3 +13,21 @@
 {"pattern": "[X]s \u00f6ffentliche Rolle war [Y]."}
 {"pattern": "[X]s Rolle ist [Y]."}
 {"pattern": "[X]s Rolle war [Y]."}
+{"pattern": "Ist [X] [Y]?"}
+{"pattern": "Ist [X]s offizielle Position [Y]?"}
+{"pattern": "Ist [X] offiziell [Y]?"}
+{"pattern": "Ist [X]s offizielle Rolle [Y]?"}
+{"pattern": "Ist [X] der [Y]?"}
+{"pattern": "Ist [X]s \u00f6ffentliche Position [Y]?"}
+{"pattern": "Ist [X] \u00f6ffentlich [Y]?"}
+{"pattern": "Ist [X]s \u00f6ffentliche Rolle [Y]?"}
+{"pattern": "Ist [X]s Rolle ein [Y]?"}
+{"pattern": "War [X]s offizielle Position [Y]?"}
+{"pattern": "War [X] offiziell [Y]?"}
+{"pattern": "War [X]s offizielle Rolle [Y]?"}
+{"pattern": "War [X]s Position [Y]?"}
+{"pattern": "War [X] [Y]?"}
+{"pattern": "War [X]s \u00f6ffentliche Position [Y]?"}
+{"pattern": "War [X] in der \u00d6ffentlichkeit [Y]?"}
+{"pattern": "War [X]s \u00f6ffentliche Rolle [Y]?"}
+{"pattern": "War [X]s Rolle der [Y]?"}

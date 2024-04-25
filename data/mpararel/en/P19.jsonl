@@ -1,11 +1,18 @@
-{"pattern": "The birthplace of [X] is [Y] .", "bert-base-uncased_P@1": 0.001282051282051282, "bert-base-multilingual-uncased_P@1": 0.05}
-{"pattern": "The place of birth of [X] is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.016666666666666666}
-{"pattern": "[X] is native to [Y] .", "bert-base-uncased_P@1": 0.019230769230769232, "bert-base-multilingual-uncased_P@1": 0.011111111111111112}
-{"pattern": "[X] is originally from [Y] .", "bert-base-uncased_P@1": 0.07179487179487179, "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
-{"pattern": "[X] originated from [Y] .", "bert-base-uncased_P@1": 0.06153846153846154, "bert-base-multilingual-uncased_P@1": 0.1}
-{"pattern": "[X] originates from [Y] .", "bert-base-uncased_P@1": 0.04871794871794872, "bert-base-multilingual-uncased_P@1": 0.13333333333333333}
-{"pattern": "[X] was born in [Y] .", "bert-base-uncased_P@1": 0.23846153846153847, "bert-base-multilingual-uncased_P@1": 0.2222222222222222}
-{"pattern": "[X] was native to [Y] .", "bert-base-uncased_P@1": 0.03076923076923077, "bert-base-multilingual-uncased_P@1": 0.016666666666666666}
-{"pattern": "[X] was originally from [Y] .", "bert-base-uncased_P@1": 0.09102564102564102, "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
-{"pattern": "[X]'s birthplace is [Y] .", "bert-base-uncased_P@1": 0.021794871794871794, "bert-base-multilingual-uncased_P@1": 0.2111111111111111}
-{"pattern": "[X]'s place of birth is [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.16111111111111112}
+{"pattern": "The birthplace of [X] is [Y] ."}
+{"pattern": "The place of birth of [X] is [Y] ."}
+{"pattern": "[X] is native to [Y] ."}
+{"pattern": "[X] is originally from [Y] ."}
+{"pattern": "[X] originated from [Y] ."}
+{"pattern": "[X] originates from [Y] ."}
+{"pattern": "[X] was born in [Y] ."}
+{"pattern": "[X] was native to [Y] ."}
+{"pattern": "[X] was originally from [Y] ."}
+{"pattern": "[X]'s birthplace is [Y] ."}
+{"pattern": "[X]'s place of birth is [Y] ."}
+{"pattern": "Did [X] originate from [Y]?"}
+{"pattern": "Does [X] originate from [Y]?"}
+{"pattern": "Is [X] native to [Y]?"}
+{"pattern": "Is [X] originally from [Y]?"}
+{"pattern": "Was [X] born in [Y]?"}
+{"pattern": "Was [X] native to [Y]?"}
+{"pattern": "Was [X] originally from [Y]?"}

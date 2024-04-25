@@ -1,2 +1,2 @@
-{"pattern": "The mother tongue of [X] is [Y] .", "bert-base-uncased_P@1": 0.7758433079434167, "bert-base-multilingual-uncased_P@1": 0.7602040816326531}
-{"pattern": "The native language of [X] is [Y] .", "bert-base-uncased_P@1": 0.7529923830250272, "bert-base-multilingual-uncased_P@1": 0.7244897959183674}
+{"pattern": "The mother tongue of [X] is [Y] ."}
+{"pattern": "The native language of [X] is [Y] ."}

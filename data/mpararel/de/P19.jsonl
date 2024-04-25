@@ -4,3 +4,8 @@
 {"pattern": "[X] stammte aus [Y]."}
 {"pattern": "[X] stammte urspr\u00fcnglich aus [Y]."}
 {"pattern": "[X]s Geburtsort ist [Y]."}
+{"pattern": "Stammt [X] aus [Y]?"}
+{"pattern": "Ist [X] aus [Y]?"}
+{"pattern": "Ist [X] urspr\u00fcnglich aus [Y]?"}
+{"pattern": "War [X] ein Einwohner von [Y]?"}
+{"pattern": "War [X] urspr\u00fcnglich aus [Y]?"}

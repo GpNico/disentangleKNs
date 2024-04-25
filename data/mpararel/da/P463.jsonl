@@ -1,0 +1,8 @@
+{"pattern": "[X] tilh\u00f8rer [Y]."}
+{"pattern": "[X] er tilknyttet [Y]."}
+{"pattern": "[X] er en del af [Y]."}
+{"pattern": "H\u00f8rer [X] til [Y]?"}
+{"pattern": "Tilh\u00f8rer [X] [Y]?"}
+{"pattern": "Er [X] medlem af [Y]?"}
+{"pattern": "Er [X] tilknyttet [Y]?"}
+{"pattern": "Er [X] en del af [Y]?"}

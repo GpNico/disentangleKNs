@@ -1,3 +1,6 @@
 {"pattern": "[X] kommunizierte auf [Y]."}
 {"pattern": "[X] kommuniziert auf [Y]."}
 {"pattern": "[X] kommunizierte fr\u00fcher auf [Y]."}
+{"pattern": "Kommunizierte [X] auf [Y]?"}
+{"pattern": "Spricht [X] [Y]?"}
+{"pattern": "Sprach [X] [Y]?"}

@@ -1,3 +1,6 @@
-{"pattern": "[X] se puede encontrar en [Y].", "bert-base-multilingual-uncased_P@1": 0.13114754098360656}
-{"pattern": "[X] est\u00e1 en [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574}
-{"pattern": "[X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.19672131147540983}
+{"pattern": "[X] se puede encontrar en [Y]."}
+{"pattern": "[X] est\u00e1 en [Y]."}
+{"pattern": "[X] se encuentra en [Y]."}
+{"pattern": "\u00bfSe puede encontrar [X] en [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 en [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 ubicado en [Y]?"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] kan findes i [Y]."}
+{"pattern": "[X] er i [Y]."}
+{"pattern": "[X] er placeret i [Y]."}
+{"pattern": "Kan [X] findes i [Y]?"}
+{"pattern": "Er [X] i [Y]?"}
+{"pattern": "Er [X] beliggende i [Y]?"}

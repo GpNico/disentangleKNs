@@ -8,3 +8,9 @@
 {"pattern": "[X], formuliert in [Y]."}
 {"pattern": "[X], aus [Y]."}
 {"pattern": "[X], das stammt aus [Y]."}
+{"pattern": "Kommt [X] aus [Y]?"}
+{"pattern": "Stammt [X] aus [Y]?"}
+{"pattern": "Kommt das [X] aus [Y]?"}
+{"pattern": "Entstanden [X] in [Y]?"}
+{"pattern": "Ist [X] aus [Y]?"}
+{"pattern": "War [X] aus [Y]?"}

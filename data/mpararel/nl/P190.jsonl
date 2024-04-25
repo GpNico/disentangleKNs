@@ -6,3 +6,7 @@
 {"pattern": "[X] is een tweelingstad van [Y]."}
 {"pattern": "De zusterstad van [X] is [Y]."}
 {"pattern": "De tweelingstad van [X] is [Y]."}
+{"pattern": "Is [X] een zusterstad van [Y]?"}
+{"pattern": "Is [X] een tweelingstad van [Y]?"}
+{"pattern": "Is [X] de zusterstad van [Y]?"}
+{"pattern": "Is [X] de tweelingstad van [Y]?"}

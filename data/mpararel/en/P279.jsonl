@@ -1,9 +1,15 @@
-{"pattern": "[X] has class [Y] .", "bert-base-uncased_P@1": 0.005537098560354375, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] is a [Y] .", "bert-base-uncased_P@1": 0.3532668881506091, "bert-base-multilingual-uncased_P@1": 0.36423841059602646}
-{"pattern": "[X] is a kind of [Y] .", "bert-base-uncased_P@1": 0.5027685492801772, "bert-base-multilingual-uncased_P@1": 0.5695364238410596}
-{"pattern": "[X] is a subclass of [Y] .", "bert-base-uncased_P@1": 0.31007751937984496, "bert-base-multilingual-uncased_P@1": 0.3509933774834437}
-{"pattern": "[X] is a type of [Y] .", "bert-base-uncased_P@1": 0.5492801771871539, "bert-base-multilingual-uncased_P@1": 0.5695364238410596}
-{"pattern": "[X] is of class [Y] .", "bert-base-uncased_P@1": 0.0011074197120708748, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], a subclass of [Y] .", "bert-base-uncased_P@1": 0.27906976744186046, "bert-base-multilingual-uncased_P@1": 0.33774834437086093}
-{"pattern": "[X], a type of [Y] .", "bert-base-uncased_P@1": 0.49280177187153934, "bert-base-multilingual-uncased_P@1": 0.5496688741721855}
-{"pattern": "[X], which is a subclass of [Y] .", "bert-base-uncased_P@1": 0.31561461794019935, "bert-base-multilingual-uncased_P@1": 0.3708609271523179}
+{"pattern": "[X] has class [Y] ."}
+{"pattern": "[X] is a [Y] ."}
+{"pattern": "[X] is a kind of [Y] ."}
+{"pattern": "[X] is a subclass of [Y] ."}
+{"pattern": "[X] is a type of [Y] ."}
+{"pattern": "[X] is of class [Y] ."}
+{"pattern": "[X], a subclass of [Y] ."}
+{"pattern": "[X], a type of [Y] ."}
+{"pattern": "[X], which is a subclass of [Y] ."}
+{"pattern": "Does [X] have class [Y]?"}
+{"pattern": "Is [X] a [Y]?"}
+{"pattern": "Is [X] a kind of [Y]?"}
+{"pattern": "Is [X] a subclass of [Y]?"}
+{"pattern": "Is [X] a type of [Y]?"}
+{"pattern": "Is [X] of class [Y]?"}

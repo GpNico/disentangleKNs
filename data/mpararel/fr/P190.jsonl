@@ -1,8 +1,12 @@
-{"pattern": "[X] et sa ville s\u0153ur [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] et sa ville jumelle [Y].", "bert-base-multilingual-uncased_P@1": 0.017341040462427744}
-{"pattern": "[X] a une ville s\u0153ur, [Y].", "bert-base-multilingual-uncased_P@1": 0.017341040462427744}
-{"pattern": "[X] a une ville jumelle, [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] est une ville s\u0153ur de [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] est une ville jumelle de [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "La ville s\u0153ur de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "La ville jumelle de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
+{"pattern": "[X] et sa ville s\u0153ur [Y]."}
+{"pattern": "[X] et sa ville jumelle [Y]."}
+{"pattern": "[X] a une ville s\u0153ur, [Y]."}
+{"pattern": "[X] a une ville jumelle, [Y]."}
+{"pattern": "[X] est une ville s\u0153ur de [Y]."}
+{"pattern": "[X] est une ville jumelle de [Y]."}
+{"pattern": "La ville s\u0153ur de [X] est [Y]."}
+{"pattern": "La ville jumelle de [X] est [Y]."}
+{"pattern": "[X] est une ville s\u0153ur de [Y]?"}
+{"pattern": "[X] est une ville jumelle de [Y]?"}
+{"pattern": "[X] est la ville s\u0153ur de [Y]?"}
+{"pattern": "[X] est la ville jumelle de [Y]?"}

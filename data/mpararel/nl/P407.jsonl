@@ -4,3 +4,8 @@
 {"pattern": "[X] is geschreven in het [Y]."}
 {"pattern": "[X] was een werk geschreven in het [Y]."}
 {"pattern": "[X] is gemaakt in het [Y]."}
+{"pattern": "Is [X] een werk in het [Y]?"}
+{"pattern": "Is [X] een werk geschreven in het [Y]?"}
+{"pattern": "Is [X] geschreven in het [Y]?"}
+{"pattern": "Was [X] een werk in het [Y]?"}
+{"pattern": "Was [X] een werk geschreven in het [Y]?"}

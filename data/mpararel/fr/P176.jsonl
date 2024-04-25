@@ -1,14 +1,28 @@
-{"pattern": "[X] est un produit de [Y].", "bert-base-multilingual-uncased_P@1": 0.7678571428571429}
-{"pattern": "[X] est cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523}
-{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8095238095238095}
-{"pattern": "[X] est produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523}
-{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523}
-{"pattern": "[X] a \u00e9t\u00e9 d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905}
-{"pattern": "[X] a \u00e9t\u00e9 produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334}
-{"pattern": "[X], un produit cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905}
-{"pattern": "[X], un produit d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905}
-{"pattern": "[X], un produit fabriqu\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334}
-{"pattern": "[X], un produit de [Y].", "bert-base-multilingual-uncased_P@1": 0.6011904761904762}
-{"pattern": "[X], cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905}
-{"pattern": "[X], d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523}
-{"pattern": "[X], produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8452380952380952}
+{"pattern": "[X] est un produit de [Y]."}
+{"pattern": "[X] est cr\u00e9\u00e9 par [Y]."}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]."}
+{"pattern": "[X] est produit par [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 par [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 d\u00e9velopp\u00e9 par [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 produit par [Y]."}
+{"pattern": "[X], un produit cr\u00e9\u00e9 par [Y]."}
+{"pattern": "[X], un produit d\u00e9velopp\u00e9 par [Y]."}
+{"pattern": "[X], un produit fabriqu\u00e9 par [Y]."}
+{"pattern": "[X], un produit de [Y]."}
+{"pattern": "[X], cr\u00e9\u00e9 par [Y]."}
+{"pattern": "[X], d\u00e9velopp\u00e9 par [Y]."}
+{"pattern": "[X], produit par [Y]."}
+{"pattern": "La [X] est-elle un produit cr\u00e9\u00e9 par [Y]?"}
+{"pattern": "La [X] est-elle un produit d\u00e9velopp\u00e9 par [Y]?"}
+{"pattern": "La [X] est-elle un produit fabriqu\u00e9 par [Y]?"}
+{"pattern": "La [X] est un produit de [Y]?"}
+{"pattern": "La [X] est cr\u00e9\u00e9e par [Y]?"}
+{"pattern": "La [X] est-elle d\u00e9velopp\u00e9e par [Y]?"}
+{"pattern": "La [X] est produite par [Y]?"}
+{"pattern": "La [X] \u00e9tait-elle un produit cr\u00e9\u00e9 par [Y]?"}
+{"pattern": "La [X] \u00e9tait-elle un produit d\u00e9velopp\u00e9 par [Y]?"}
+{"pattern": "La [X] \u00e9tait-elle un produit fabriqu\u00e9 par [Y]?"}
+{"pattern": "La [X] \u00e9tait un produit de [Y]?"}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 cr\u00e9\u00e9e par [Y]?"}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 d\u00e9velopp\u00e9e par [Y]?"}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 produite par [Y]?"}

@@ -1,9 +1,18 @@
-{"pattern": "[X] limita con [Y].", "bert-base-multilingual-uncased_P@1": 0.08552631578947369}
-{"pattern": "[X] comparte una frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684}
-{"pattern": "[X] comparte una frontera com\u00fan con [Y].", "bert-base-multilingual-uncased_P@1": 0.08552631578947369}
-{"pattern": "[X] comparte frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.11842105263157894}
-{"pattern": "[X] comparte fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684}
-{"pattern": "[X] comparte su frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.1118421052631579}
-{"pattern": "[X] comparte sus fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
-{"pattern": "[X] comparte la frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684}
-{"pattern": "[X] comparte las fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.11842105263157894}
+{"pattern": "[X] limita con [Y]."}
+{"pattern": "[X] comparte una frontera con [Y]."}
+{"pattern": "[X] comparte una frontera com\u00fan con [Y]."}
+{"pattern": "[X] comparte frontera con [Y]."}
+{"pattern": "[X] comparte fronteras con [Y]."}
+{"pattern": "[X] comparte su frontera con [Y]."}
+{"pattern": "[X] comparte sus fronteras con [Y]."}
+{"pattern": "[X] comparte la frontera con [Y]."}
+{"pattern": "[X] comparte las fronteras con [Y]."}
+{"pattern": "\u00bf[X] tiene frontera con [Y]?"}
+{"pattern": "\u00bf[X] comparte una frontera con [Y]?"}
+{"pattern": "\u00bf[X] comparte una frontera com\u00fan con [Y]?"}
+{"pattern": "\u00bf[X] comparte frontera con [Y]?"}
+{"pattern": "\u00bf[X] comparte fronteras con [Y]?"}
+{"pattern": "\u00bf[X] comparte su frontera con [Y]?"}
+{"pattern": "\u00bf[X] comparte sus fronteras con [Y]?"}
+{"pattern": "\u00bf[X] comparte la frontera con [Y]?"}
+{"pattern": "\u00bf[X] comparte las fronteras con [Y]?"}

@@ -1,7 +1,14 @@
-{"pattern": "The language of [X] is [Y] .", "bert-base-uncased_P@1": 0.574095682613769, "bert-base-multilingual-uncased_P@1": 0.6358381502890174}
-{"pattern": "The language of [X] was [Y] .", "bert-base-uncased_P@1": 0.4749124854142357, "bert-base-multilingual-uncased_P@1": 0.3930635838150289}
-{"pattern": "[X] is a work written in [Y] .", "bert-base-uncased_P@1": 0.617269544924154, "bert-base-multilingual-uncased_P@1": 0.7398843930635838}
-{"pattern": "[X] is written in [Y] .", "bert-base-uncased_P@1": 0.6347724620770129, "bert-base-multilingual-uncased_P@1": 0.7052023121387283}
-{"pattern": "[X] was a work written in [Y] .", "bert-base-uncased_P@1": 0.5134189031505251, "bert-base-multilingual-uncased_P@1": 0.7341040462427746}
-{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.0011668611435239206, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] was written in [Y] .", "bert-base-uncased_P@1": 0.6161026837806302, "bert-base-multilingual-uncased_P@1": 0.6936416184971098}
+{"pattern": "The language of [X] is [Y] ."}
+{"pattern": "The language of [X] was [Y] ."}
+{"pattern": "[X] is a work written in [Y] ."}
+{"pattern": "[X] is written in [Y] ."}
+{"pattern": "[X] was a work written in [Y] ."}
+{"pattern": "[X] was created in [Y] ."}
+{"pattern": "[X] was written in [Y] ."}
+{"pattern": "Is [X] a work in [Y]?"}
+{"pattern": "Is [X] a work written in [Y]?"}
+{"pattern": "Is [X] written in [Y]?"}
+{"pattern": "Was [X] a work in [Y]?"}
+{"pattern": "Was [X] a work written in [Y]?"}
+{"pattern": "Was [X] created in [Y]?"}
+{"pattern": "Was [X] written in [Y]?"}

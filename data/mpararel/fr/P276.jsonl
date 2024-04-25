@@ -1,3 +1,6 @@
-{"pattern": "Les [X] se d\u00e9roulent \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.5196850393700787}
-{"pattern": "[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3858267716535433}
-{"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.4645669291338583}
+{"pattern": "Le [X] se trouve \u00e0 [Y]."}
+{"pattern": "[X] est \u00e0 [Y]."}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] peut-il \u00eatre trouv\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] est \u00e0 [Y]?"}
+{"pattern": "Le [X] est-il situ\u00e9 \u00e0 [Y]?"}

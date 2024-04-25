@@ -1,0 +1,52 @@
+{"pattern": "[X] oli [Y]."}
+{"pattern": "[X] on virallisesti [Y]."}
+{"pattern": "[X] oli virallisesti [Y]."}
+{"pattern": "[X] of Bec oli virallisesti [Y]."}
+{"pattern": "[X] of Bec oli [Y]."}
+{"pattern": "[X] on [Y]."}
+{"pattern": "[X]:n virallinen asema on [Y]."}
+{"pattern": "[X]:n virallinen asema oli [Y]."}
+{"pattern": "[X]:n virallinen rooli on [Y]."}
+{"pattern": "[X]:n virallinen rooli oli [Y]."}
+{"pattern": "[X]:n asema on [Y]."}
+{"pattern": "[X]:n asema oli [Y]."}
+{"pattern": "[X]:n julkinen asema on [Y]."}
+{"pattern": "[X]:n julkinen asema oli [Y]."}
+{"pattern": "[X]:n julkinen rooli on [Y]."}
+{"pattern": "[X]:n julkinen rooli oli [Y]."}
+{"pattern": "[X]:n rooli on [Y]."}
+{"pattern": "[X]:n rooli oli [Y]."}
+{"pattern": "[X], joka oli [Y]."}
+{"pattern": "[X], joka on [Y]."}
+{"pattern": "[X], joka oli virallisesti [Y]."}
+{"pattern": "[X], jonka virallinen asema on [Y]."}
+{"pattern": "[X], jonka virallinen asema oli [Y]."}
+{"pattern": "[X], jonka virallinen rooli on [Y]."}
+{"pattern": "[X], jonka virallinen rooli oli [Y]."}
+{"pattern": "[X], jonka asema on [Y]."}
+{"pattern": "[X], jonka asema oli [Y]."}
+{"pattern": "[X], jonka julkinen asema on [Y]."}
+{"pattern": "[X], jonka julkinen asema oli [Y]."}
+{"pattern": "[X], jonka julkinen rooli on [Y]."}
+{"pattern": "[X], jonka julkinen rooli oli [Y]."}
+{"pattern": "[X], jonka rooli oli [Y]."}
+{"pattern": "Oliko [X] virallisesti [Y]?"}
+{"pattern": "Oliko [X] [Y]?"}
+{"pattern": "Oliko [X] julkisesti [Y]?"}
+{"pattern": "Onko [X] virallisesti [Y]?"}
+{"pattern": "Onko [X] [Y]?"}
+{"pattern": "Onko [X]:n virallinen asema [Y]?"}
+{"pattern": "Onko [X]n virallinen asema [Y]?"}
+{"pattern": "Onko [X]:n virallinen rooli [Y]?"}
+{"pattern": "Onko [X]in virallinen rooli [Y]?"}
+{"pattern": "Onko [X]:n asema [Y]?"}
+{"pattern": "Onko [X]n julkinen asema [Y]?"}
+{"pattern": "Onko [X]:n julkinen asema [Y]?"}
+{"pattern": "Onko [X]:n julkinen rooli [Y]?"}
+{"pattern": "Onko [X]in rooli [Y]?"}
+{"pattern": "Oliko [X]:n virallinen asema [Y]?"}
+{"pattern": "Oliko [X]:n virallinen rooli [Y]?"}
+{"pattern": "Oliko [X]:n asema [Y]?"}
+{"pattern": "Oliko [X]:n julkinen asema [Y]?"}
+{"pattern": "Oliko [X]:n julkinen rooli [Y]?"}
+{"pattern": "Oliko [X]:n rooli [Y]?"}

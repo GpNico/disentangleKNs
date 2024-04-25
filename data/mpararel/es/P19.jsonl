@@ -1,9 +1,16 @@
-{"pattern": "El lugar de nacimiento de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.12121212121212122}
-{"pattern": "[X] es nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.03636363636363636}
-{"pattern": "[X] es originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.04242424242424243}
-{"pattern": "[X] fue originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.030303030303030304}
-{"pattern": "[X] es originaria de [Y].", "bert-base-multilingual-uncased_P@1": 0.024242424242424242}
-{"pattern": "[X] naci\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.15757575757575756}
-{"pattern": "[X] fue nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.048484848484848485}
-{"pattern": "[X] era originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667}
-{"pattern": "[X] nacieron en [Y].", "bert-base-multilingual-uncased_P@1": 0.09696969696969697}
+{"pattern": "El lugar de nacimiento de [X] es [Y]."}
+{"pattern": "[X] es nativo de [Y]."}
+{"pattern": "[X] es originario de [Y]."}
+{"pattern": "[X] fue originario de [Y]."}
+{"pattern": "[X] es originaria de [Y]."}
+{"pattern": "[X] naci\u00f3 en [Y]."}
+{"pattern": "[X] fue nativo de [Y]."}
+{"pattern": "[X] era originario de [Y]."}
+{"pattern": "[X] nacieron en [Y]."}
+{"pattern": "\u00bf[X] fue originario de [Y]?"}
+{"pattern": "\u00bf[X] es originario de [Y]?"}
+{"pattern": "\u00bf[X] es nativo de [Y]?"}
+{"pattern": "\u00bf[X] es originaria de [Y]?"}
+{"pattern": "\u00bf[X] naci\u00f3 en [Y]?"}
+{"pattern": "\u00bf[X] era nativo de [Y]?"}
+{"pattern": "\u00bf[X] era originario de [Y]?"}

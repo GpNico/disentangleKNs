@@ -1,0 +1,70 @@
+{"pattern": "[X] havde posten som [Y]."}
+{"pattern": "[X] har posten som [Y]."}
+{"pattern": "[X] var [Y]."}
+{"pattern": "[X] havde rollen som [Y]."}
+{"pattern": "[X] er [Y]."}
+{"pattern": "[X] havde officielt posten som [Y]."}
+{"pattern": "[X] har officielt stillingen som [Y]."}
+{"pattern": "[X]s officielle stilling er [Y]."}
+{"pattern": "[X]s officielle stilling var [Y]."}
+{"pattern": "[X]s officielle rolle er [Y]."}
+{"pattern": "[X]s officielle rolle var [Y]."}
+{"pattern": "[X]s stilling er [Y]."}
+{"pattern": "[X]s stilling var [Y]."}
+{"pattern": "[X]s offentlige stilling er [Y]."}
+{"pattern": "[X]s offentlige stilling var [Y]."}
+{"pattern": "[X]s offentlige rolle er [Y]."}
+{"pattern": "[X]s offentlige rolle var [Y]."}
+{"pattern": "[X]s rolle er [Y]."}
+{"pattern": "[X]s rolle var [Y]."}
+{"pattern": "[X], der havde posten som [Y]."}
+{"pattern": "[X], der har posten som [Y]."}
+{"pattern": "[X], der var [Y]."}
+{"pattern": "[X], der er [Y]."}
+{"pattern": "[X], der officielt havde posten som [Y]."}
+{"pattern": "[X], der officielt har posten som [Y]."}
+{"pattern": "[X], hvis officielle stilling var [Y]."}
+{"pattern": "[X], hvis officielle rolle er at v\u00e6re [Y]."}
+{"pattern": "[X], hvis officielle rolle var at v\u00e6re [Y]."}
+{"pattern": "[X], hvis stilling er [Y]."}
+{"pattern": "[X], hvis stilling var [Y]."}
+{"pattern": "[X], hvis offentlige stilling er [Y]."}
+{"pattern": "[X], hvis offentlige stilling var [Y]."}
+{"pattern": "[X], hvis offentlige rolle er at v\u00e6re [Y]."}
+{"pattern": "[X], hvis offentlige rolle var at v\u00e6re [Y]."}
+{"pattern": "[X], hvis rolle er at v\u00e6re [Y]."}
+{"pattern": "[X], hvis rolle var at v\u00e6re [Y]."}
+{"pattern": "Havde [X] posten som [Y]?"}
+{"pattern": "Hadde [X] den officielle stilling som [Y]?"}
+{"pattern": "Hadde [X] posten som [Y]?"}
+{"pattern": "Hadde [X] den offentlige stilling som [Y]?"}
+{"pattern": "Var [X] [Y]?"}
+{"pattern": "Havde [X] officielt stillingen som [Y]?"}
+{"pattern": "Hadde [X] officielt den offentlige stilling som [Y]?"}
+{"pattern": "Havde [X] officielt rollen som [Y]?"}
+{"pattern": "Har [X] stillingen som [Y]?"}
+{"pattern": "Har [X] officielt stillingen som [Y]?"}
+{"pattern": "Er [X]s officielle stilling [Y]?"}
+{"pattern": "Er [X]s officielle stilling at v\u00e6re [Y]?"}
+{"pattern": "Er [X]s officielle rolle [Y]?"}
+{"pattern": "Er [X]s officielle rolle at v\u00e6re [Y]?"}
+{"pattern": "Er [X]s stilling [Y]?"}
+{"pattern": "Er [X]s stilling som [Y]?"}
+{"pattern": "Er [X]s offentlige stilling [Y]?"}
+{"pattern": "Er [X]s offentlige stilling at v\u00e6re [Y]?"}
+{"pattern": "Er [X]s offentlige rolle [Y]?"}
+{"pattern": "Er [X]s offentlige rolle at v\u00e6re [Y]?"}
+{"pattern": "Er [X]s rolle [Y]?"}
+{"pattern": "Er [X]s rolle at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s officielle stilling [Y]?"}
+{"pattern": "Var [X]s officielle stilling at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s officielle rolle [Y]?"}
+{"pattern": "Var [X]s officielle rolle at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s stilling [Y]?"}
+{"pattern": "Var [X]s stilling at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s offentlige stilling [Y]?"}
+{"pattern": "Var [X]s offentlige stilling at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s offentlige rolle [Y]?"}
+{"pattern": "Var [X]s offentlige rolle at v\u00e6re [Y]?"}
+{"pattern": "Var [X]s rolle [Y]?"}
+{"pattern": "Var [X]s rolle at v\u00e6re [Y]?"}

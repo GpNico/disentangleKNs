@@ -2,3 +2,5 @@
 {"pattern": "[X] entstand in [Y]."}
 {"pattern": "[X] begann in [Y]."}
 {"pattern": "[X], gegr\u00fcndet in [Y]."}
+{"pattern": "Stammt [X] aus [Y]?"}
+{"pattern": "Begann die [X] in [Y]?"}

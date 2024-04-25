@@ -4,3 +4,4 @@
 {"pattern": "[X]s Beruf ist [Y]."}
 {"pattern": "[X] ist ein [Y]."}
 {"pattern": "[X] ist beruflich [Y]."}
+{"pattern": "Arbeitet [X] als [Y]?"}

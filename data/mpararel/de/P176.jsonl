@@ -3,3 +3,7 @@
 {"pattern": "[X], erstellt von [Y]."}
 {"pattern": "[X], entwickelt von [Y]."}
 {"pattern": "[X], produziert von [Y]."}
+{"pattern": "Ist der [X] ein Produkt von [Y]?"}
+{"pattern": "Ist [X] ein Produkt von [Y]?"}
+{"pattern": "War der [X] ein Produkt von [Y]?"}
+{"pattern": "War [X] ein Produkt von [Y]?"}

@@ -1,0 +1,14 @@
+{"pattern": "L'[X] t\u00e9 classe d'[Y]."}
+{"pattern": "La [X] \u00e9s una [Y]."}
+{"pattern": "La [X] \u00e9s una mena de [Y]."}
+{"pattern": "La [X] \u00e9s una subclasa de [Y]."}
+{"pattern": "La [X] \u00e9s un tipus de [Y]."}
+{"pattern": "La [X] \u00e9s de classe [Y]."}
+{"pattern": "[X], una subclasa de [Y]."}
+{"pattern": "[X], un tipus de [Y]."}
+{"pattern": "[X], que \u00e9s una subclasa de [Y]."}
+{"pattern": "L'[X] t\u00e9 classe d'[Y]?"}
+{"pattern": "La [X] \u00e9s una [Y]?"}
+{"pattern": "El [X] \u00e9s una mena de [Y]?"}
+{"pattern": "La [X] \u00e9s una subclasa de la [Y]?"}
+{"pattern": "La [X] \u00e9s un tipus de [Y]?"}

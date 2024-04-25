@@ -8,3 +8,9 @@
 {"pattern": "[X] kwam oorspronkelijk uit [Y]."}
 {"pattern": "[X]'s geboorteplaats is [Y]."}
 {"pattern": "[X]' geboorteplaats is [Y]."}
+{"pattern": "Kwam [X] uit [Y]?"}
+{"pattern": "Komt [X] uit [Y]?"}
+{"pattern": "Is [X] afkomstig uit [Y]?"}
+{"pattern": "Komt [X] oorspronkelijk uit [Y]?"}
+{"pattern": "Was [X] afkomstig uit [Y]?"}
+{"pattern": "Was [X] oorspronkelijk uit [Y]?"}

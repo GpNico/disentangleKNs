@@ -1,9 +1,17 @@
-{"pattern": "The continent of [X] is [Y] .", "bert-base-uncased_P@1": 0.0072992700729927005, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] belongs to continent [Y] .", "bert-base-uncased_P@1": 0.5693430656934306, "bert-base-multilingual-uncased_P@1": 0.2}
-{"pattern": "[X] belongs to the continent of [Y] .", "bert-base-uncased_P@1": 0.6329509906152242, "bert-base-multilingual-uncased_P@1": 0.6820512820512821}
-{"pattern": "[X] is a part of continent [Y] .", "bert-base-uncased_P@1": 0.3180396246089677, "bert-base-multilingual-uncased_P@1": 0.40512820512820513}
-{"pattern": "[X] is a part of the continent [Y] .", "bert-base-uncased_P@1": 0.3858185610010427, "bert-base-multilingual-uncased_P@1": 0.4205128205128205}
-{"pattern": "[X] is a part of the continent of [Y] .", "bert-base-uncased_P@1": 0.643378519290928, "bert-base-multilingual-uncased_P@1": 0.7846153846153846}
-{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.3722627737226277, "bert-base-multilingual-uncased_P@1": 0.24102564102564103}
-{"pattern": "[X] is located in continent [Y] .", "bert-base-uncased_P@1": 0.15015641293013557, "bert-base-multilingual-uncased_P@1": 0.17435897435897435}
-{"pattern": "[X] is located in the continent [Y] .", "bert-base-uncased_P@1": 0.10740354535974973, "bert-base-multilingual-uncased_P@1": 0.015384615384615385}
+{"pattern": "The continent of [X] is [Y] ."}
+{"pattern": "[X] belongs to continent [Y] ."}
+{"pattern": "[X] belongs to the continent of [Y] ."}
+{"pattern": "[X] is a part of continent [Y] ."}
+{"pattern": "[X] is a part of the continent [Y] ."}
+{"pattern": "[X] is a part of the continent of [Y] ."}
+{"pattern": "[X] is located in [Y] ."}
+{"pattern": "[X] is located in continent [Y] ."}
+{"pattern": "[X] is located in the continent [Y] ."}
+{"pattern": "Does [X] belong to continent [Y]?"}
+{"pattern": "Does [X] belong to the continent of [Y]?"}
+{"pattern": "Is [X] a part of continent [Y]?"}
+{"pattern": "Is [X] a part of the continent [Y]?"}
+{"pattern": "Is [X] a part of the continent of [Y]?"}
+{"pattern": "Is [X] located in [Y]?"}
+{"pattern": "Is [X] located in continent [Y]?"}
+{"pattern": "Is [X] located in the continent [Y]?"}

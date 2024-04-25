@@ -1,0 +1,17 @@
+{"pattern": "Kontinenten [X] \u00e4r [Y]."}
+{"pattern": "[X] tillh\u00f6r kontinenten [Y]."}
+{"pattern": "[X] Point tillh\u00f6r kontinenten [Y]."}
+{"pattern": "[X] \u00e4r en del av kontinenten [Y]."}
+{"pattern": "Mount [X] \u00e4r en del av kontinenten [Y]."}
+{"pattern": "[X] Point \u00e4r en del av kontinenten [Y]."}
+{"pattern": "[X] ligger i [Y]."}
+{"pattern": "[X] ligger p\u00e5 kontinenten [Y]."}
+{"pattern": "[X] Point ligger p\u00e5 kontinenten [Y]."}
+{"pattern": "Tillh\u00f6r [X] kontinenten [Y]?"}
+{"pattern": "Tillh\u00f6r [X] [Y]?"}
+{"pattern": "\u00c4r [X] en del av kontinenten [Y]?"}
+{"pattern": "\u00c4r Mount [X] en del av kontinenten [Y]?"}
+{"pattern": "\u00c4r [X] Point en del av kontinenten [Y]?"}
+{"pattern": "Ligger [X] i [Y]?"}
+{"pattern": "Ligger [X] p\u00e5 kontinenten [Y]?"}
+{"pattern": "Ligger [X] Point p\u00e5 kontinenten [Y]?"}

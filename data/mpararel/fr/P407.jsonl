@@ -1,7 +1,14 @@
-{"pattern": "La langue de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.5496688741721855}
-{"pattern": "La langue de [X] \u00e9tait l'[Y].", "bert-base-multilingual-uncased_P@1": 0.5496688741721855}
-{"pattern": "[X] est une \u0153uvre \u00e9crite en [Y].", "bert-base-multilingual-uncased_P@1": 0.5960264900662252}
-{"pattern": "[X] est \u00e9crit en [Y].", "bert-base-multilingual-uncased_P@1": 0.7019867549668874}
-{"pattern": "[X] \u00e9tait une \u0153uvre \u00e9crite en [Y].", "bert-base-multilingual-uncased_P@1": 0.5827814569536424}
-{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.006622516556291391}
-{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit en [Y].", "bert-base-multilingual-uncased_P@1": 0.6225165562913907}
+{"pattern": "La langue de [X] est l'[Y]."}
+{"pattern": "La langue de [X] \u00e9tait l'[Y]."}
+{"pattern": "[X] est une \u0153uvre \u00e9crite en [Y]."}
+{"pattern": "[X] est \u00e9crit en [Y]."}
+{"pattern": "[X] \u00e9tait une \u0153uvre \u00e9crite en [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 en [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit en [Y]."}
+{"pattern": "[X] est une \u0153uvre en [Y]?"}
+{"pattern": "[X] est-il une \u0153uvre \u00e9crite en [Y]?"}
+{"pattern": "[X] est-il \u00e9crit en [Y]?"}
+{"pattern": "[X] \u00e9tait-il une \u0153uvre en [Y]?"}
+{"pattern": "[X] \u00e9tait-il une \u0153uvre \u00e9crite en [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 cr\u00e9\u00e9 en [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 \u00e9crit en [Y]?"}

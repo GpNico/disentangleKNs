@@ -1,14 +1,23 @@
-{"pattern": "[X] and its product [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] builds [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.1368421052631579}
-{"pattern": "[X] develops [Y] .", "bert-base-uncased_P@1": 0.0017006802721088435, "bert-base-multilingual-uncased_P@1": 0.08421052631578947}
-{"pattern": "[X] makes [Y] .", "bert-base-uncased_P@1": 0.0017006802721088435, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] manufactures [Y] .", "bert-base-uncased_P@1": 0.003401360544217687, "bert-base-multilingual-uncased_P@1": 0.021052631578947368}
-{"pattern": "[X] produces [Y] .", "bert-base-uncased_P@1": 0.015306122448979591, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], that builds [Y] .", "bert-base-uncased_P@1": 0.015306122448979591, "bert-base-multilingual-uncased_P@1": 0.07368421052631578}
-{"pattern": "[X], that created [Y] .", "bert-base-uncased_P@1": 0.11394557823129252, "bert-base-multilingual-uncased_P@1": 0.12631578947368421}
-{"pattern": "[X], that developed [Y] .", "bert-base-uncased_P@1": 0.01020408163265306, "bert-base-multilingual-uncased_P@1": 0.3263157894736842}
-{"pattern": "[X], that develops [Y] .", "bert-base-uncased_P@1": 0.022108843537414966, "bert-base-multilingual-uncased_P@1": 0.07368421052631578}
-{"pattern": "[X], that makes [Y] .", "bert-base-uncased_P@1": 0.003401360544217687, "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], that manufactures [Y] .", "bert-base-uncased_P@1": 0.01870748299319728, "bert-base-multilingual-uncased_P@1": 0.042105263157894736}
-{"pattern": "[X], that produces [Y] .", "bert-base-uncased_P@1": 0.03231292517006803, "bert-base-multilingual-uncased_P@1": 0.021052631578947368}
-{"pattern": "[X], the creator of the [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.010526315789473684}
+{"pattern": "[X] and its product [Y] ."}
+{"pattern": "[X] builds [Y] ."}
+{"pattern": "[X] develops [Y] ."}
+{"pattern": "[X] makes [Y] ."}
+{"pattern": "[X] manufactures [Y] ."}
+{"pattern": "[X] produces [Y] ."}
+{"pattern": "[X], that builds [Y] ."}
+{"pattern": "[X], that created [Y] ."}
+{"pattern": "[X], that developed [Y] ."}
+{"pattern": "[X], that develops [Y] ."}
+{"pattern": "[X], that makes [Y] ."}
+{"pattern": "[X], that manufactures [Y] ."}
+{"pattern": "[X], that produces [Y] ."}
+{"pattern": "[X], the creator of the [Y] ."}
+{"pattern": "Did [X] create [Y]?"}
+{"pattern": "Does [X] develop [Y]?"}
+{"pattern": "Does [X] make [Y]?"}
+{"pattern": "Does [X] manufacture [Y]?"}
+{"pattern": "Does [X] produce [Y]?"}
+{"pattern": "Is [X] the creator of [Y]?"}
+{"pattern": "Is [X] the creator of the [Y]?"}
+{"pattern": "Was [X] the creator of [Y]?"}
+{"pattern": "Was [X] the creator of the [Y]?"}

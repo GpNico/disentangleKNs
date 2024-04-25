@@ -1,9 +1,15 @@
-{"pattern": "La langue de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936}
-{"pattern": "La langue de [X] \u00e9tait l'[Y].", "bert-base-multilingual-uncased_P@1": 0.35106382978723405}
-{"pattern": "La langue originale de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936}
-{"pattern": "La langue originale de [X] \u00e9tait l'[Y].", "bert-base-multilingual-uncased_P@1": 0.35106382978723405}
-{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.1276595744680851}
-{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9e en [Y].", "bert-base-multilingual-uncased_P@1": 0.11702127659574468}
-{"pattern": "[X] a \u00e9t\u00e9 initialement interpr\u00e9t\u00e9 dans la langue suivante: [Y].", "bert-base-multilingual-uncased_P@1": 0.4574468085106383}
-{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y].", "bert-base-multilingual-uncased_P@1": 0.2978723404255319}
-{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "La langue de [X] est l'[Y]."}
+{"pattern": "La langue de [X] \u00e9tait l'[Y]."}
+{"pattern": "La langue originale de [X] est l'[Y]."}
+{"pattern": "La langue originale de [X] \u00e9tait l'[Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9 en [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9e en [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 initialement interpr\u00e9t\u00e9 dans la langue suivante: [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y]."}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y]?"}
+{"pattern": "[X] a-t-elle \u00e9t\u00e9 jou\u00e9e \u00e0 l'origine en [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y]?"}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y]?"}
+{"pattern": "[X] ont-ils \u00e9t\u00e9 jou\u00e9s \u00e0 l'origine en [Y]?"}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y]?"}

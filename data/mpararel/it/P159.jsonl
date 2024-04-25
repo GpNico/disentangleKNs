@@ -1,0 +1,17 @@
+{"pattern": "La sede di [X] si trova a [Y]."}
+{"pattern": "La sede della [X] si trova a [Y]."}
+{"pattern": "La sede di [X] si trova ad [Y]."}
+{"pattern": "La sede dell'[X] si trova a [Y]."}
+{"pattern": "[X] ha sede a [Y]."}
+{"pattern": "La [X] ha sede a [Y]."}
+{"pattern": "[X] si trova a [Y]."}
+{"pattern": "Il quartier generale di [X] si trova a [Y]."}
+{"pattern": "[X], il cui quartier generale \u00e8 a [Y]."}
+{"pattern": "Il quartier generale di [X] e' a [Y]?"}
+{"pattern": "Il quartier generale della [X] e' a [Y]?"}
+{"pattern": "La sede di [X] si trova a [Y]?"}
+{"pattern": "La [X] ha sede a [Y]?"}
+{"pattern": "La sede di [X] \u00e8 a [Y]?"}
+{"pattern": "La [X] si trova a [Y]?"}
+{"pattern": "Il quartier generale di [X] \u00e8 a [Y]?"}
+{"pattern": "Il quartier generale della [X] si trova a [Y]?"}
