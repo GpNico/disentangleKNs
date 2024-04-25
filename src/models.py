@@ -112,12 +112,21 @@ class ModelWrapper(nn.Module):
         """
         
         # forward pass
-        if self.config.model_type != 't5':
-            with torch.no_grad():
+        
+        with torch.no_grad():
+            if self.config.model_type != 't5':
                 logits = self.forward(
                             input_ids = input_ids.to(self.device),
                             attention_mask = attention_mask.to(self.device)
                             ) # the .logits is in the wrapper class
+            else:
+                decoder_input_ids = torch.empty((input_ids.shape[0],1), dtype=torch.int32)
+                decoder_input_ids.fill_(tokenizer.pad_token_id)
+                logits = self.model(
+                            input_ids=input_ids.to(self.device), 
+                            attention_mask = attention_mask.to(self.device), 
+                            decoder_input_ids=decoder_input_ids.to(self.device)
+                            ).logits
         
         # Model Specific
         if self.config.model_type in ['bert', 'xlm']:
@@ -131,12 +140,4 @@ class ModelWrapper(nn.Module):
             return logits[torch.arange(input_ids.shape[0]),
                           attention_mask.sum(dim=-1)-1] # that's a neat trick!
         elif self.config.model_type == 't5':
-            prediction_logits = self.model.generate(
-                      input_ids=input_ids,
-                      attention_mask=attention_mask,
-                      max_length=10,
-                      output_scores=True,
-                      return_dict_in_generate=True
-                      ).scores[0] # get only first token logits
-            # Shape [Batch Size, Voc Size]
-            return prediction_logits
+            return logits[:,0,:]
