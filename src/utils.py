@@ -1,4 +1,4 @@
-
+import json
 import os
 import numpy as np
 import pandas as pd
@@ -181,5 +181,46 @@ def get_run_name(args) -> str:
             return 'KNs Evaluation'
     if args.kns_eval:
         return 'KNs Analysis'
+    
+def sort_by_seeds(model_name: str = 'all', config: Config = None) -> None:
+    
+    if model_name == 'all':
+        model_names = os.listdir(config.PATH_TO_SAVED_PROMPTS)
+    else:
+        model_names = [model_name]
+        
+    for _model_name in model_names:
+        print(f"Sorting {_model_name}...")
+        model_path = os.path.join(
+                config.PATH_TO_SAVED_PROMPTS,
+                _model_name
+            )
+        # Check if it is a multilingual model
+        langs = os.listdir(model_path)
+        if len(langs) == 0:
+            continue
+        if langs[0][0] == 'P':
+            langs = ['']
+            
+        for lang in langs:
+            if langs != '':
+                print(f"\tlang={lang}")
+            path = os.path.join(model_path, lang)
+            predicate_ids = [n[:-6] for n in os.listdir(path)]
+            for predicate_id in predicate_ids:
+                # Read the JSONL file and parse each line as a JSON object
+                with open(os.path.join(path, f'{predicate_id}.jsonl'), 'r') as file:
+                    lines = [json.loads(line.strip()) for line in file]
+
+                # Sort the lines based on the 'seed' value
+                sorted_lines = sorted(lines, key=lambda x: x['seed'])
+
+                # Write the sorted lines back to the JSONL file
+                with open(os.path.join(path, f'{predicate_id}.jsonl'), 'w') as file:
+                    for line in sorted_lines:
+                        file.write(json.dumps(line) + '\n')
+        
+    print("Done!") 
+    
     
     
