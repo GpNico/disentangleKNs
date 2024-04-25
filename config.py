@@ -10,7 +10,7 @@ class Config:
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True
     MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']
-    MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased']
+    MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased', 'flan-t5-xl']
     
     # Data
     PATH_TO_MLAMA = os.path.join('data', 'mlama1.1')
@@ -28,6 +28,7 @@ class Config:
     T_THRESH = 0.2 # paper 0.2
     P_THRESHS = [0.5, 0.6, 0.7, 0.8, 0.9] # Paper 0.7 (SToring multiple p thresholds)
     P_THRESH = 0.7 # the one chosen afterwards (maybe chose one per model)
+    T5_PART = 'encoder' # T5 has a encoder-decoder architechture so we could try both
     
     ACCROSS_UUIDS_THRESHOLD = 0.7 # sem_syn_kns thresholds
     TRIVIAL_PROMPT_ACTIVATION_FACT = 10.
