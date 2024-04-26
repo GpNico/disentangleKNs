@@ -178,9 +178,9 @@ def get_embeddings(model, config):
     elif 'llama' in config.model_type:
         embeddings = model.model.embed_tokens
     elif 't5' in config.model_type:
-        #embeddings = model.shared
+        embeddings = model.shared
         # or:
-        embeddings = model.encoder.embed_tokens
+        #embeddings = model.encoder.embed_tokens
     return embeddings
 
 
