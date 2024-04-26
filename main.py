@@ -194,7 +194,7 @@ if __name__ == '__main__':
         #           load_pretrained, 
         #           get_embeddings, 
         #           isupper, 
-        #           initial trigger part (~l.),
+        #           initial trigger part (~l.290),
         #           print lama part (~l.430, 470, 515, 527)
         #       utils.py
         #           TriggerTemplatizer

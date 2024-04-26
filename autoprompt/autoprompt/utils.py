@@ -175,6 +175,7 @@ class TriggerTemplatizer:
             add_special_tokens=self._add_special_tokens,
             return_tensors='pt'
         )
+        
         input_ids = model_inputs['input_ids']
         trigger_mask = input_ids.eq(self._tokenizer.trigger_token_id)
         predict_mask = input_ids.eq(self._tokenizer.predict_token_id)
@@ -192,12 +193,17 @@ class TriggerTemplatizer:
             model_inputs['attention_mask'] = model_inputs['attention_mask'][:,:-1] # /!\ don't forget /!\
             trigger_mask = trigger_mask[:,:-1]
             predict_mask = predict_mask[:,:-1] # useless here: all false
+        elif self._config.model_type == 't5':
+            # Should delete [P] and add </s>
+            # But I didn't put a [P] token to facilitate
+            # So nothing to do!
+            ...
         else:
             raise Exception(f'Model Type {self._config.model_type} is not supported!')
 
         model_inputs['trigger_mask'] = trigger_mask
         model_inputs['predict_mask'] = predict_mask
-
+        
         # For relation extraction with BERT, update token_type_ids to reflect the two different sequences
         if self._use_ctx and self._config.model_type == 'bert':
             sep_token_indices = (input_ids.squeeze(0) == self._tokenizer.convert_tokens_to_ids(self._tokenizer.sep_token)).nonzero().flatten()

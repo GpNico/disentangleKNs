@@ -12,7 +12,7 @@ import torch
 import torch.nn.functional as F
 from torch.utils.data import DataLoader
 import transformers
-from transformers import AutoConfig, AutoModelWithLMHead, AutoTokenizer, OPTForCausalLM, XLMWithLMHeadModel, LlamaForCausalLM
+from transformers import AutoConfig, AutoModelWithLMHead, T5Tokenizer, T5ForConditionalGeneration, AutoTokenizer, OPTForCausalLM, XLMWithLMHeadModel, LlamaForCausalLM
 from tqdm import tqdm
 
 import autoprompt.autoprompt.utils as utils
@@ -43,8 +43,9 @@ class PredictWrapper:
     PyTorch transformers model wrapper. Handles necc. preprocessing of inputs for triggers
     experiments.
     """
-    def __init__(self, model):
+    def __init__(self, model, device: str):
         self._model = model
+        self.device = device
 
     def __call__(self, model_inputs, trigger_ids, model_type: str):
         # Copy dict so pop operations don't have unwanted side-effects
@@ -52,8 +53,18 @@ class PredictWrapper:
         trigger_mask = model_inputs.pop('trigger_mask')
         predict_mask = model_inputs.pop('predict_mask')
         model_inputs = replace_trigger_tokens(model_inputs, trigger_ids, trigger_mask)
-        res = self._model(**model_inputs) # There was an error here in the original code
-        logits = res['logits']
+        if model_type != 't5':
+            res = self._model(**model_inputs) # There was an error here in the original code
+            logits = res['logits']
+        else:
+            decoder_input_ids = torch.empty((model_inputs['input_ids'].shape[0],1), dtype=torch.int32)
+            decoder_input_ids.fill_(0) # pad_token_id is 0 for T5
+            logits = self._model(
+                        input_ids=model_inputs['input_ids'], 
+                        attention_mask = model_inputs['attention_mask'], 
+                        decoder_input_ids=decoder_input_ids.to(self.device)
+                        ).logits
+            predict_logits = logits[:,0,:] # there is an extra dim with t5
         if model_type in ['bert', 'xlm']:
             # Here predict mask is usefull
             predict_logits = logits.masked_select(predict_mask.unsqueeze(-1)).view(logits.size(0), -1)
@@ -131,6 +142,10 @@ def load_pretrained(model_name):
         model = LlamaForCausalLM.from_pretrained(f"meta-llama/{model_name}", torch_dtype = torch.float16)
         tokenizer = AutoTokenizer.from_pretrained(f"meta-llama/{model_name}")
         tokenizer.pad_token = "[PAD]"
+    elif 't5' in model_name:
+        config = AutoConfig.from_pretrained(f"google/{model_name}", torch_dtype = torch.float16)
+        model = T5ForConditionalGeneration.from_pretrained(f"google/{model_name}", torch_dtype = torch.float16)
+        tokenizer = T5Tokenizer.from_pretrained(f"google/{model_name}")
     else:
         config = AutoConfig.from_pretrained(model_name, torch_dtype = torch.float16)
         model = AutoModelWithLMHead.from_pretrained(model_name, torch_dtype = torch.float16)
@@ -162,6 +177,10 @@ def get_embeddings(model, config):
         embeddings = model.transformer.embeddings
     elif 'llama' in config.model_type:
         embeddings = model.model.embed_tokens
+    elif 't5' in config.model_type:
+        #embeddings = model.shared
+        # or:
+        embeddings = model.encoder.embed_tokens
     return embeddings
 
 
@@ -241,7 +260,7 @@ def run_model(args):
     model.to(device)
     embeddings = get_embeddings(model, config)
     embedding_gradient = GradientStorage(embeddings) # CDA 
-    predictor = PredictWrapper(model)
+    predictor = PredictWrapper(model, device = device)
 
     if args.label_map is not None:
         label_map = json.loads(args.label_map)
@@ -270,7 +289,7 @@ def run_model(args):
     else: # Again for fact retrieval (or default behavior we are here)
         if config.model_type in ['bert', 'xlm']:
             trigger_ids = [tokenizer.mask_token_id] * templatizer.num_trigger_tokens
-        elif config.model_type in ['opt', 'llama']:
+        elif config.model_type in ['opt', 'llama', 't5']:
             trigger_ids = [tokenizer.unk_token_id] * templatizer.num_trigger_tokens # = </s>
     trigger_ids = torch.tensor(trigger_ids, device=device).unsqueeze(0)
     best_trigger_ids = trigger_ids.clone()
@@ -443,7 +462,7 @@ def run_model(args):
             if config.model_type in ['bert', 'xlm']:
                 if trigger_ids.eq(tokenizer.mask_token_id).any():
                     current_score = float('-inf')
-            elif config.model_type in ['opt', 'llama']:
+            elif config.model_type in ['opt', 'llama', 't5']:
                 if trigger_ids.eq(tokenizer.unk_token_id).any():
                     current_score = float('-inf')
 
@@ -483,7 +502,7 @@ def run_model(args):
             if config.model_type in ['bert', 'xlm']:
                 if best_trigger_ids.eq(tokenizer.mask_token_id).any():
                     best_dev_metric = float('-inf')
-            elif config.model_type in ['opt', 'llama']:
+            elif config.model_type in ['opt', 'llama', 't5']:
                 if best_trigger_ids.eq(tokenizer.unk_token_id).any():
                     best_dev_metric = float('-inf')
 
@@ -542,6 +561,9 @@ def run_model(args):
             elif config.model_type in ['opt', 'llama']:
                 template = tokenizer.decode(lama_template.squeeze(0)[1:]).replace('[ X ]', '[X]')
                 template += ' [Y]'
+            elif config.model_type in ['t5']:
+                template = tokenizer.decode(lama_template.squeeze(0)[1:]).replace('[ X ]', '[X]')
+                template += ' [Y]</s>'
         out = {
             'relation': args.train.parent.stem,
             'template': template

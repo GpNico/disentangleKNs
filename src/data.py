@@ -207,7 +207,8 @@ def load_trex_by_uuid(
                       
             # Store Data
             print(f"\t{predicate_id}: {len(dataset_by_uuid)} uuids; {num_prompts} prompts.")
-            dataset[predicate_id] = dataset_by_uuid
+            if len(dataset_by_uuid) > 0:
+                dataset[predicate_id] = dataset_by_uuid
             
         # Warning
         if warning_flag:

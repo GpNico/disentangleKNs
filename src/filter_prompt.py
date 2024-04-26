@@ -59,9 +59,9 @@ def _compute_trex_scores(
         if predicate_id == 'type':
             continue
         
-        rela_scores = {f'P@{k}': np.zeros( next(iter(dataset[predicate_id].values()))['num_prompts'] ) for k in config.ACCURACY_RANKS}
-        
-        for uuid in dataset[predicate_id].keys():
+        for idx, uuid in enumerate(dataset[predicate_id].keys()):
+            if idx == 0:
+                rela_scores = {f'P@{k}': np.zeros( dataset[predicate_id][uuid]['num_prompts'] ) for k in config.ACCURACY_RANKS}
             # Get template Tokens & Y 
             sentences_tok = dataset[predicate_id][uuid]['sentences_tok']    
             Y = dataset[predicate_id][uuid]['Y']
