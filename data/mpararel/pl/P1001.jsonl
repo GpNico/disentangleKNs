@@ -1,0 +1,6 @@
+{"pattern": "[X] liczy si\u0119 jako termin prawny w [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693, "flan-t5-xl_P@1": 0.21052631578947367}
+{"pattern": "[X] jest terminem prawnym w [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "[X] jest wa\u017cnym terminem prawnym w [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256, "flan-t5-xl_P@1": 0.21052631578947367}
+{"pattern": "Czy [X] liczy si\u0119 jako termin prawny w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Czy [X] jest terminem prawnym w [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Czy [X] jest wa\u017cnym terminem prawnym w [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128, "flan-t5-xl_P@1": 0.05263157894736842}

@@ -1,0 +1,8 @@
+{"pattern": "Landet [X] ligger i er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Staten [X] ligger i er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.125}
+{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.40425531914893614, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er beliggende i f\u00f8lgende land: [Y].", "bert-base-multilingual-uncased_P@1": 0.0425531914893617, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er beliggende i f\u00f8lgende stat: [Y].", "bert-base-multilingual-uncased_P@1": 0.0851063829787234, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.19148936170212766, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], som ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.2553191489361702, "flan-t5-xl_P@1": 0.0625}
+{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.14893617021276595, "flan-t5-xl_P@1": 0.0}

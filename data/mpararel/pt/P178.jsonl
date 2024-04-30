@@ -1,0 +1,23 @@
+{"pattern": "[X] e seu produto [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2597402597402597}
+{"pattern": "O [X] \u00e9 constru\u00eddo pela [Y].", "bert-base-multilingual-uncased_P@1": 0.5061728395061729, "flan-t5-xl_P@1": 0.4675324675324675}
+{"pattern": "O [X] \u00e9 desenvolvido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.5679012345679012, "flan-t5-xl_P@1": 0.5714285714285714}
+{"pattern": "O [X] faz a [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.22077922077922077}
+{"pattern": "O [X] \u00e9 fabricado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.4691358024691358, "flan-t5-xl_P@1": 0.5584415584415584}
+{"pattern": "O [X] produz a [Y].", "bert-base-multilingual-uncased_P@1": 0.16049382716049382, "flan-t5-xl_P@1": 0.24675324675324675}
+{"pattern": "[X], que constr\u00f3i a [Y].", "bert-base-multilingual-uncased_P@1": 0.2962962962962963, "flan-t5-xl_P@1": 0.3116883116883117}
+{"pattern": "[X], que criou a [Y].", "bert-base-multilingual-uncased_P@1": 0.4074074074074074, "flan-t5-xl_P@1": 0.3246753246753247}
+{"pattern": "[X], que desenvolveu a [Y].", "bert-base-multilingual-uncased_P@1": 0.345679012345679, "flan-t5-xl_P@1": 0.37662337662337664}
+{"pattern": "[X], que desenvolve a [Y].", "bert-base-multilingual-uncased_P@1": 0.35802469135802467, "flan-t5-xl_P@1": 0.33766233766233766}
+{"pattern": "[X], isso faz a [Y].", "bert-base-multilingual-uncased_P@1": 0.037037037037037035, "flan-t5-xl_P@1": 0.3116883116883117}
+{"pattern": "[X], que fabrica a [Y].", "bert-base-multilingual-uncased_P@1": 0.35802469135802467, "flan-t5-xl_P@1": 0.3246753246753247}
+{"pattern": "[X], que produz a [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.3116883116883117}
+{"pattern": "[X], o criador da [Y].", "bert-base-multilingual-uncased_P@1": 0.2962962962962963, "flan-t5-xl_P@1": 0.3116883116883117}
+{"pattern": "O [X] criou a [Y]?", "bert-base-multilingual-uncased_P@1": 0.04938271604938271, "flan-t5-xl_P@1": 0.2727272727272727}
+{"pattern": "O [X] desenvolve a [Y]?", "bert-base-multilingual-uncased_P@1": 0.037037037037037035, "flan-t5-xl_P@1": 0.2987012987012987}
+{"pattern": "O [X] faz a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.22077922077922077}
+{"pattern": "O [X] \u00e9 fabricado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.4074074074074074, "flan-t5-xl_P@1": 0.5584415584415584}
+{"pattern": "O [X] produz a [Y]?", "bert-base-multilingual-uncased_P@1": 0.037037037037037035, "flan-t5-xl_P@1": 0.24675324675324675}
+{"pattern": "O [X] \u00e9 o criador da [Y]?", "bert-base-multilingual-uncased_P@1": 0.20987654320987653, "flan-t5-xl_P@1": 0.3116883116883117}
+{"pattern": "A [X] \u00e9 a criadora da [Y]?", "bert-base-multilingual-uncased_P@1": 0.20987654320987653, "flan-t5-xl_P@1": 0.3246753246753247}
+{"pattern": "O [X] foi o criador da [Y]?", "bert-base-multilingual-uncased_P@1": 0.18518518518518517, "flan-t5-xl_P@1": 0.2987012987012987}
+{"pattern": "A [X] foi a criadora da [Y]?", "bert-base-multilingual-uncased_P@1": 0.2345679012345679, "flan-t5-xl_P@1": 0.23376623376623376}

@@ -1,0 +1,21 @@
+{"pattern": "[X] bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] har sitt ursprung i [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X] b\u00f6rjade i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] som grundades i [Y].", "bert-base-multilingual-uncased_P@1": 0.04225352112676056, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] skapades i [Y].", "bert-base-multilingual-uncased_P@1": 0.028169014084507043, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] Group bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.04225352112676056, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] grundades i [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] startades i [Y].", "bert-base-multilingual-uncased_P@1": 0.08450704225352113, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], skapad i [Y].", "bert-base-multilingual-uncased_P@1": 0.014084507042253521, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], grundad i [Y].", "bert-base-multilingual-uncased_P@1": 0.09859154929577464, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], som har sitt ursprung i [Y].", "bert-base-multilingual-uncased_P@1": 0.056338028169014086, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], som skapades i [Y].", "bert-base-multilingual-uncased_P@1": 0.028169014084507043, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], som bildades i [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], som startades i [Y].", "bert-base-multilingual-uncased_P@1": 0.08450704225352113, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Har [X] bildats i [Y]?", "bert-base-multilingual-uncased_P@1": 0.04225352112676056, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Har [X] sitt ursprung i [Y]?", "bert-base-multilingual-uncased_P@1": 0.056338028169014086, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "B\u00f6rjade [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.014084507042253521, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Skapades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Var [X] bildad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Grundades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.07042253521126761, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "B\u00f6rjades [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043, "flan-t5-xl_P@1": 0.017543859649122806}

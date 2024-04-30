@@ -1,0 +1,12 @@
+{"pattern": "[X] comunicou em [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] comunica em [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] fala [Y].", "bert-base-multilingual-uncased_P@1": 0.17117117117117117}
+{"pattern": "O [X] fala [Y].", "bert-base-multilingual-uncased_P@1": 0.5405405405405406}
+{"pattern": "[X] falava [Y].", "bert-base-multilingual-uncased_P@1": 0.3153153153153153}
+{"pattern": "[X] costumava comunicar-se em [Y].", "bert-base-multilingual-uncased_P@1": 0.5405405405405406}
+{"pattern": "O [X] comunicava-se em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] falava [Y]?", "bert-base-multilingual-uncased_P@1": 0.009009009009009009}
+{"pattern": "O [X] comunica em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "O [X] fala [Y]?", "bert-base-multilingual-uncased_P@1": 0.04504504504504504}
+{"pattern": "[X] fala [Y]?", "bert-base-multilingual-uncased_P@1": 0.02702702702702703}
+{"pattern": "[X] falava [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

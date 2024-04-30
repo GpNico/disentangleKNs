@@ -1,0 +1,8 @@
+{"pattern": "Het land waar [X] zich bevindt is [Y].", "bert-base-multilingual-uncased_P@1": 0.21929824561403508, "flan-t5-xl_P@1": 0.16216216216216217}
+{"pattern": "De staat [X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.3157894736842105, "flan-t5-xl_P@1": 0.2702702702702703}
+{"pattern": "[X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.2982456140350877, "flan-t5-xl_P@1": 0.10810810810810811}
+{"pattern": "[X] is gelegen in het volgende land: [Y].", "bert-base-multilingual-uncased_P@1": 0.42105263157894735, "flan-t5-xl_P@1": 0.24324324324324326}
+{"pattern": "[X] ligt in de volgende staat: [Y].", "bert-base-multilingual-uncased_P@1": 0.2894736842105263, "flan-t5-xl_P@1": 0.13513513513513514}
+{"pattern": "[X], gelegen in [Y].", "bert-base-multilingual-uncased_P@1": 0.03508771929824561, "flan-t5-xl_P@1": 0.10810810810810811}
+{"pattern": "[X] District, gelegen in [Y].", "bert-base-multilingual-uncased_P@1": 0.09649122807017543, "flan-t5-xl_P@1": 0.05405405405405406}
+{"pattern": "Is [X] gelegen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.23684210526315788, "flan-t5-xl_P@1": 0.21621621621621623}

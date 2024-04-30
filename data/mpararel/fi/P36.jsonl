@@ -1,0 +1,8 @@
+{"pattern": "[X]n p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6923076923076923, "flan-t5-xl_P@1": 0.45454545454545453}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6282051282051282, "flan-t5-xl_P@1": 0.5151515151515151}
+{"pattern": "[X] Boroughin p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6666666666666666, "flan-t5-xl_P@1": 0.18181818181818182}
+{"pattern": "[X]n p\u00e4\u00e4kaupunki, [Y].", "bert-base-multilingual-uncased_P@1": 0.08974358974358974, "flan-t5-xl_P@1": 0.42424242424242425}
+{"pattern": "[X]in departementin p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.7051282051282052, "flan-t5-xl_P@1": 0.36363636363636365}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki, [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693, "flan-t5-xl_P@1": 0.48484848484848486}
+{"pattern": "[X], jonka p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6410256410256411, "flan-t5-xl_P@1": 0.42424242424242425}
+{"pattern": "[X] Borough, jonka p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6923076923076923, "flan-t5-xl_P@1": 0.24242424242424243}

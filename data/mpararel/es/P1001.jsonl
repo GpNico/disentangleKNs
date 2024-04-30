@@ -1,0 +1,6 @@
+{"pattern": "El [X] cuenta como un t\u00e9rmino legal en [Y].", "bert-base-multilingual-uncased_P@1": 0.8461538461538461, "flan-t5-xl_P@1": 0.4594594594594595}
+{"pattern": "[X] es un t\u00e9rmino legal en [Y].", "bert-base-multilingual-uncased_P@1": 0.7948717948717948, "flan-t5-xl_P@1": 0.5675675675675675}
+{"pattern": "[X] es un t\u00e9rmino legal v\u00e1lido en [Y].", "bert-base-multilingual-uncased_P@1": 0.8974358974358975, "flan-t5-xl_P@1": 0.7027027027027027}
+{"pattern": "\u00bfEl [X] cuenta como un t\u00e9rmino legal en [Y]?", "bert-base-multilingual-uncased_P@1": 0.7435897435897436, "flan-t5-xl_P@1": 0.08108108108108109}
+{"pattern": "\u00bfEl [X] es un t\u00e9rmino legal en [Y]?", "bert-base-multilingual-uncased_P@1": 0.7564102564102564, "flan-t5-xl_P@1": 0.13513513513513514}
+{"pattern": "\u00bfEl [X] es un t\u00e9rmino legal v\u00e1lido en [Y]?", "bert-base-multilingual-uncased_P@1": 0.717948717948718, "flan-t5-xl_P@1": 0.32432432432432434}

@@ -1,0 +1,12 @@
+{"pattern": "[X] e a sua cidade irm\u00e3 [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e a sua cidade g\u00e9mea [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] tem uma cidade irm\u00e3, [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] tem a cidade g\u00eamea de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 uma cidade irm\u00e3 de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 uma cidade g\u00e9mea de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A cidade irm\u00e3 de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A cidade g\u00eamea de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 uma cidade irm\u00e3 de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 uma cidade g\u00e9mea de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 a cidade irm\u00e3 de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 a cidade g\u00eamea de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

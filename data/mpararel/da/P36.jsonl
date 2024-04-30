@@ -1,0 +1,8 @@
+{"pattern": "Hovedstaden i [X] er [Y].", "bert-base-multilingual-uncased_P@1": 0.7160493827160493, "flan-t5-xl_P@1": 0.06382978723404255}
+{"pattern": "[X]s hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.691358024691358, "flan-t5-xl_P@1": 0.23404255319148937}
+{"pattern": "[X]'s hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.7160493827160493, "flan-t5-xl_P@1": 0.2127659574468085}
+{"pattern": "[X]s hovedstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.35802469135802467, "flan-t5-xl_P@1": 0.44680851063829785}
+{"pattern": "[X] hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.691358024691358, "flan-t5-xl_P@1": 0.2127659574468085}
+{"pattern": "[X]'s hovedstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.345679012345679, "flan-t5-xl_P@1": 0.3829787234042553}
+{"pattern": "[X], som har hovedstaden [Y].", "bert-base-multilingual-uncased_P@1": 0.5679012345679012, "flan-t5-xl_P@1": 0.19148936170212766}
+{"pattern": "[X], hvis hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.7037037037037037, "flan-t5-xl_P@1": 0.19148936170212766}

@@ -1,0 +1,16 @@
+{"pattern": "[X] is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.23595505617977527, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "De [X] is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.10112359550561797, "flan-t5-xl_P@1": 0.5116279069767442}
+{"pattern": "[X] is vernoemd naar de [Y].", "bert-base-multilingual-uncased_P@1": 0.033707865168539325, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "De [X] werden genoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4418604651162791}
+{"pattern": "De [X] zijn vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.07865168539325842, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "[X], vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.39325842696629215, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "[X], die is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.3595505617977528, "flan-t5-xl_P@1": 0.6046511627906976}
+{"pattern": "[X], dat is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.3595505617977528, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "[X], dat is vernoemd naar de [Y].", "bert-base-multilingual-uncased_P@1": 0.033707865168539325, "flan-t5-xl_P@1": 0.5348837209302325}
+{"pattern": "[X], die werd genoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.10112359550561797, "flan-t5-xl_P@1": 0.6046511627906976}
+{"pattern": "[X], die vernoemd is naar [Y].", "bert-base-multilingual-uncased_P@1": 0.4157303370786517, "flan-t5-xl_P@1": 0.5813953488372093}
+{"pattern": "Is [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.1348314606741573, "flan-t5-xl_P@1": 0.4883720930232558}
+{"pattern": "Is de [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.06741573033707865, "flan-t5-xl_P@1": 0.3953488372093023}
+{"pattern": "Is [X] vernoemd naar de [Y]?", "bert-base-multilingual-uncased_P@1": 0.06741573033707865, "flan-t5-xl_P@1": 0.4883720930232558}
+{"pattern": "Werd de [X] genoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.12359550561797752, "flan-t5-xl_P@1": 0.5116279069767442}
+{"pattern": "Is het [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.0898876404494382, "flan-t5-xl_P@1": 0.13953488372093023}

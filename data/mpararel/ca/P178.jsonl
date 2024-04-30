@@ -1,0 +1,23 @@
+{"pattern": "[X] i el seu producte [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] construeix [Y].", "bert-base-multilingual-uncased_P@1": 0.27450980392156865, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "[X] desenvolupa [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] fabrica [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] produeix [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "[X], que construeix [Y].", "bert-base-multilingual-uncased_P@1": 0.45098039215686275, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], que va crear [Y].", "bert-base-multilingual-uncased_P@1": 0.6078431372549019, "flan-t5-xl_P@1": 0.3541666666666667}
+{"pattern": "[X], que va desenvolupar [Y].", "bert-base-multilingual-uncased_P@1": 0.6078431372549019, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], que desenvolupa [Y].", "bert-base-multilingual-uncased_P@1": 0.49019607843137253, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], aix\u00f2 fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], que fabrica [Y].", "bert-base-multilingual-uncased_P@1": 0.45098039215686275, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], que produeix [Y].", "bert-base-multilingual-uncased_P@1": 0.19607843137254902, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], el creador de [Y].", "bert-base-multilingual-uncased_P@1": 0.27450980392156865, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] va crear [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] desenvolupa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] fa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] fabrica [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] produeix [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "\u00c9s [X] el creador de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1568627450980392, "flan-t5-xl_P@1": 0.14583333333333334}
+{"pattern": "\u00c9s [X] el creador de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0784313725490196, "flan-t5-xl_P@1": 0.041666666666666664}
+{"pattern": "Va ser [X] el creador de [Y]?", "bert-base-multilingual-uncased_P@1": 0.09803921568627451, "flan-t5-xl_P@1": 0.08333333333333333}
+{"pattern": "Va ser [X] el creador de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0196078431372549, "flan-t5-xl_P@1": 0.0}

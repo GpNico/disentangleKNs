@@ -1,0 +1,13 @@
+{"pattern": "Spr\u00e5ket i [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.4888888888888889}
+{"pattern": "Spr\u00e5ket i [X] var [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
+{"pattern": "Det ursprungliga spr\u00e5ket f\u00f6r [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.6666666666666666}
+{"pattern": "Det ursprungliga spr\u00e5ket f\u00f6r [X] var [Y].", "bert-base-multilingual-uncased_P@1": 0.6444444444444445}
+{"pattern": "[X] framf\u00f6rdes ursprungligen p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.17777777777777778}
+{"pattern": "[X] spelades ursprungligen p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.28888888888888886}
+{"pattern": "[X] framf\u00f6rdes ursprungligen p\u00e5 f\u00f6ljande spr\u00e5k: [Y].", "bert-base-multilingual-uncased_P@1": 0.5111111111111111}
+{"pattern": "Var [X] ursprungligen uppf\u00f6rd p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.08888888888888889}
+{"pattern": "Var [X] ursprungligen utf\u00f6rd p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.3111111111111111}
+{"pattern": "Var [X] ursprungligen uppf\u00f6rd p\u00e5 f\u00f6ljande spr\u00e5k: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Spelades [X] ursprungligen p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Var [X] ursprungligen spelad p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.022222222222222223}
+{"pattern": "Spelades [X] ursprungligen p\u00e5 f\u00f6ljande spr\u00e5k: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

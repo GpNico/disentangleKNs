@@ -1,0 +1,7 @@
+{"pattern": "[X] und seine Schwesterstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.02247191011235955}
+{"pattern": "[X] und seine Zwillingsstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.0111731843575419, "flan-t5-xl_P@1": 0.02247191011235955}
+{"pattern": "[X] hat eine Schwesterstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.02247191011235955}
+{"pattern": "[X] hat eine Zwillingsstadt [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02247191011235955}
+{"pattern": "Die Schwesterstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.02247191011235955}
+{"pattern": "Die Zwillingsstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.011235955056179775}
+{"pattern": "Ist [X] die Zwillingsstadt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.00558659217877095, "flan-t5-xl_P@1": 0.02247191011235955}

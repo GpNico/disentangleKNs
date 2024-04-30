@@ -1,0 +1,23 @@
+{"pattern": "[X] och dess produkt [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X] bygger [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X] utvecklas av [Y].", "bert-base-multilingual-uncased_P@1": 0.6140350877192983, "flan-t5-xl_P@1": 0.33962264150943394}
+{"pattern": "[X] g\u00f6r [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X] tillverkar [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X] producerar [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], som bygger [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], som skapade [Y].", "bert-base-multilingual-uncased_P@1": 0.08771929824561403, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], som utvecklade [Y].", "bert-base-multilingual-uncased_P@1": 0.5087719298245614, "flan-t5-xl_P@1": 0.33962264150943394}
+{"pattern": "[X], som utvecklar [Y].", "bert-base-multilingual-uncased_P@1": 0.3157894736842105, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], det g\u00f6r [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], som tillverkar [Y].", "bert-base-multilingual-uncased_P@1": 0.07017543859649122, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], som producerar [Y].", "bert-base-multilingual-uncased_P@1": 0.03508771929824561, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "[X], skaparen av [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.32075471698113206}
+{"pattern": "Skapat [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.07547169811320754}
+{"pattern": "Utvecklar [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2830188679245283}
+{"pattern": "G\u00f6r [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.24528301886792453}
+{"pattern": "Tillverkar [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.05660377358490566}
+{"pattern": "Producerar [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.1320754716981132}
+{"pattern": "\u00c4r [X] skaparen av [Y]?", "bert-base-multilingual-uncased_P@1": 0.3157894736842105, "flan-t5-xl_P@1": 0.11320754716981132}
+{"pattern": "\u00c4r [X] Pro skaparen av [Y]?", "bert-base-multilingual-uncased_P@1": 0.38596491228070173, "flan-t5-xl_P@1": 0.1320754716981132}
+{"pattern": "Var [X] skaparen av [Y]?", "bert-base-multilingual-uncased_P@1": 0.2807017543859649, "flan-t5-xl_P@1": 0.24528301886792453}
+{"pattern": "Var [X] Pro skaparen av [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.1509433962264151}

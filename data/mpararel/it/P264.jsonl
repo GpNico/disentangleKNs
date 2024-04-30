@@ -1,0 +1,64 @@
+{"pattern": "L'etichetta musicale che rappresenta [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.16326530612244897, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale che rappresentava [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.24489795918367346, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale che rappresenta [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.20408163265306123, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale che rappresentava [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.1836734693877551, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica che rappresenta [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.08163265306122448, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica che rappresentava [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.1836734693877551, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica che rappresenta [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.20408163265306123, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 rappresentato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 rappresentato dall'etichetta musicale [Y].", "bert-base-multilingual-uncased_P@1": 0.32653061224489793, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 rappresentato dalla casa discografica [Y].", "bert-base-multilingual-uncased_P@1": 0.30612244897959184, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha firmato con la [Y].", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] etichetta: [Y].", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha registrato per la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] registra per la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato pubblicato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.08163265306122448, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato pubblicato dalla casa discografica [Y].", "bert-base-multilingual-uncased_P@1": 0.32653061224489793, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato pubblicato da [Y].", "bert-base-multilingual-uncased_P@1": 0.08163265306122448, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato pubblicato dall'etichetta discografica [Y].", "bert-base-multilingual-uncased_P@1": 0.2653061224489796, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' stato rilasciato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stata pubblicata dalla casa discografica [Y].", "bert-base-multilingual-uncased_P@1": 0.32653061224489793, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era rappresentato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato rappresentato dall'etichetta [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era rappresentato dalla casa discografica [Y].", "bert-base-multilingual-uncased_P@1": 0.2653061224489796, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Gli [X] firmarono con la [Y].", "bert-base-multilingual-uncased_P@1": 0.12244897959183673, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta di [X] e' la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta di [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.10204081632653061, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.16326530612244897, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale di [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.16326530612244897, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La casa discografica di [X] e' la [Y].", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La casa discografica di [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.12244897959183673, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica di [X] era la [Y].", "bert-base-multilingual-uncased_P@1": 0.10204081632653061, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], pubblicato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.12244897959183673, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che \u00e8 rappresentato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che era rappresentato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che e' rappresentato dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], rappresentata da [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha registrato per la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] registra per la [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' rappresentato dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' rappresentato dall'etichetta [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 rappresentato dall'etichetta [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' rappresentato dalla casa discografica [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha firmato con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta rappresenta [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta che rappresenta [X] e' la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale rappresenta la [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale che rappresenta [X] e' la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica rappresenta [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica che rappresenta [X] e' la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' stato pubblicato dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato pubblicato dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' stato rilasciato dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era rappresentato dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era rappresentato dall'etichetta [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Gli [X] erano rappresentati dall'etichetta [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era rappresentato dalla casa discografica [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Gli [X] avevano firmato con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta rappresentava [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta che rappresenta [X] era la [Y]?", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale rappresentava la [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta musicale che rappresenta [X] era la [Y]?", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica rappresentava la [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'etichetta discografica che rappresenta [X] era la [Y]?", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.0}

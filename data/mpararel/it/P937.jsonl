@@ -1,0 +1,14 @@
+{"pattern": "[X] trov\u00f2 lavoro a [Y].", "bert-base-multilingual-uncased_P@1": 0.3798449612403101, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 impiegato a [Y].", "bert-base-multilingual-uncased_P@1": 0.43410852713178294, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha iniziato a lavorare a [Y].", "bert-base-multilingual-uncased_P@1": 0.4186046511627907, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] lavorava a [Y].", "bert-base-multilingual-uncased_P@1": 0.32558139534883723, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era impiegato a [Y].", "bert-base-multilingual-uncased_P@1": 0.40310077519379844, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha lavorato a [Y].", "bert-base-multilingual-uncased_P@1": 0.4108527131782946, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] lavora a [Y].", "bert-base-multilingual-uncased_P@1": 0.40310077519379844, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha trovato un lavoro a [Y]?", "bert-base-multilingual-uncased_P@1": 0.43410852713178294, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha iniziato a lavorare a [Y]?", "bert-base-multilingual-uncased_P@1": 0.13178294573643412, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] lavorava a [Y]?", "bert-base-multilingual-uncased_P@1": 0.24806201550387597, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha lavorato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.34108527131782945, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] lavora a [Y]?", "bert-base-multilingual-uncased_P@1": 0.24031007751937986, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 impiegato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.4263565891472868, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era impiegato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.31007751937984496, "flan-t5-xl_P@1": 0.0}

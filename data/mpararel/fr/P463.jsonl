@@ -1,0 +1,14 @@
+{"pattern": "[X] appartient \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.09090909090909091, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartient aux [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartient \u00e0 l'organisation de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est membre de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est un membre des [Y].", "bert-base-multilingual-uncased_P@1": 0.18181818181818182, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est affili\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fait partie de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartient \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartient-il aux [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartient-il \u00e0 l'organisation de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est membre de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est membre des [Y]?", "bert-base-multilingual-uncased_P@1": 0.09090909090909091, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est affili\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fait partie de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

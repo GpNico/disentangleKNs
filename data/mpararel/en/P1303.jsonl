@@ -1,0 +1,5 @@
+{"pattern": "[X] plays [Y] .", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "[X] plays the [Y] .", "bert-base-multilingual-uncased_P@1": 0.04371584699453552, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "[X] plays the music instrument [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.26851851851851855}
+{"pattern": "Does [X] play [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Does [X] play the [Y]?", "bert-base-multilingual-uncased_P@1": 0.01092896174863388, "flan-t5-xl_P@1": 0.1388888888888889}

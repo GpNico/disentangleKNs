@@ -1,0 +1,23 @@
+{"pattern": "[X] e il suo prodotto [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] costruisce [Y].", "bert-base-multilingual-uncased_P@1": 0.1, "flan-t5-xl_P@1": 0.3191489361702128}
+{"pattern": "[X] sviluppa [Y].", "bert-base-multilingual-uncased_P@1": 0.01, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] produce [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2978723404255319}
+{"pattern": "[X] \u00e8 prodotto da [Y].", "bert-base-multilingual-uncased_P@1": 0.59, "flan-t5-xl_P@1": 0.6276595744680851}
+{"pattern": "[X], che costruisce [Y].", "bert-base-multilingual-uncased_P@1": 0.34, "flan-t5-xl_P@1": 0.2765957446808511}
+{"pattern": "[X], che ha creato [Y].", "bert-base-multilingual-uncased_P@1": 0.42, "flan-t5-xl_P@1": 0.2978723404255319}
+{"pattern": "[X], che ha sviluppato [Y].", "bert-base-multilingual-uncased_P@1": 0.45, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X], che sviluppa [Y].", "bert-base-multilingual-uncased_P@1": 0.41, "flan-t5-xl_P@1": 0.2978723404255319}
+{"pattern": "[X], che fa [Y].", "bert-base-multilingual-uncased_P@1": 0.01, "flan-t5-xl_P@1": 0.2872340425531915}
+{"pattern": "[X], che produce [Y].", "bert-base-multilingual-uncased_P@1": 0.07, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] per Android, che produce [Y].", "bert-base-multilingual-uncased_P@1": 0.07, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X], il creatore di [Y].", "bert-base-multilingual-uncased_P@1": 0.28, "flan-t5-xl_P@1": 0.2553191489361702}
+{"pattern": "[X] ha creato [Y]?", "bert-base-multilingual-uncased_P@1": 0.01, "flan-t5-xl_P@1": 0.2978723404255319}
+{"pattern": "[X] sviluppa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] fa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] produce [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2978723404255319}
+{"pattern": "[X] per Android produce [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.30851063829787234}
+{"pattern": "[X] \u00e8 il creatore di [Y]?", "bert-base-multilingual-uncased_P@1": 0.12, "flan-t5-xl_P@1": 0.20212765957446807}
+{"pattern": "[X] \u00e8 il creatore dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.1, "flan-t5-xl_P@1": 0.20212765957446807}
+{"pattern": "[X] \u00e8 stato il creatore di [Y]?", "bert-base-multilingual-uncased_P@1": 0.08, "flan-t5-xl_P@1": 0.20212765957446807}
+{"pattern": "Il [X] \u00e8 stato il creatore del [Y]?", "bert-base-multilingual-uncased_P@1": 0.15, "flan-t5-xl_P@1": 0.11702127659574468}

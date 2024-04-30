@@ -1,0 +1,14 @@
+{"pattern": "[X] has diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "[X] has diplomatic ties with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] holds diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.050505050505050504, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] holds diplomatic ties with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] maintains diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "[X] ties diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06565656565656566, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X], which has diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "[X], which ties diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "Does [X] have diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Does [X] have diplomatic ties with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "Does [X] hold diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.03535353535353535, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "Does [X] hold diplomatic ties with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "Does [X] maintain diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041, "flan-t5-xl_P@1": 0.005319148936170213}
+{"pattern": "Does [X] tie diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.05555555555555555, "flan-t5-xl_P@1": 0.02127659574468085}

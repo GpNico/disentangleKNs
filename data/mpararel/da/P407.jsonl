@@ -1,0 +1,10 @@
+{"pattern": "Sproget i [X] er [Y].", "bert-base-multilingual-uncased_P@1": 0.640625}
+{"pattern": "Sproget i [X] var [Y].", "bert-base-multilingual-uncased_P@1": 0.546875}
+{"pattern": "[X] er skrevet p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.796875}
+{"pattern": "[X] blev oprettet p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.09375}
+{"pattern": "[X] blev skrevet p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.703125}
+{"pattern": "Er [X] et v\u00e6rk p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.34375}
+{"pattern": "Er [X] skrevet p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.515625}
+{"pattern": "Var [X] et v\u00e6rk p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.375}
+{"pattern": "Blev [X] skabt p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0625}
+{"pattern": "Blev [X] skrevet p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.296875}

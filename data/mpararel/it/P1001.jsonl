@@ -1,0 +1,6 @@
+{"pattern": "[X] \u00e8 un termine legale in [Y].", "bert-base-multilingual-uncased_P@1": 0.45161290322580644, "flan-t5-xl_P@1": 0.6216216216216216}
+{"pattern": "La [X] \u00e8 un termine legale in [Y].", "bert-base-multilingual-uncased_P@1": 0.46774193548387094, "flan-t5-xl_P@1": 0.7837837837837838}
+{"pattern": "[X] \u00e8 un termine legale valido in [Y].", "bert-base-multilingual-uncased_P@1": 0.6935483870967742, "flan-t5-xl_P@1": 0.6216216216216216}
+{"pattern": "La [X] conta come termine legale in [Y]?", "bert-base-multilingual-uncased_P@1": 0.24193548387096775, "flan-t5-xl_P@1": 0.35135135135135137}
+{"pattern": "[X] \u00e8 un termine legale in [Y]?", "bert-base-multilingual-uncased_P@1": 0.2903225806451613, "flan-t5-xl_P@1": 0.6216216216216216}
+{"pattern": "[X] \u00e8 un termine legale valido in [Y]?", "bert-base-multilingual-uncased_P@1": 0.6290322580645161, "flan-t5-xl_P@1": 0.6216216216216216}

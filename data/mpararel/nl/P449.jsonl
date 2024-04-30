@@ -1,0 +1,12 @@
+{"pattern": "[X] debuteert op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "[X] ging in premi\u00e8re op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "[X] debuut op [Y].", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "[X] werd oorspronkelijk uitgezonden op [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Heeft [X] zijn debuut op [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Had [X] een premi\u00e8re op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "Heeft [X] een premi\u00e8re op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "Is [X] aan het debuut op [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "Werd [X] uitgezonden op [Y]?", "bert-base-multilingual-uncased_P@1": 0.03571428571428571, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Was [X] oorspronkelijk uitgezonden op [Y]?", "bert-base-multilingual-uncased_P@1": 0.10714285714285714, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Was [X] oorspronkelijk te zien op [Y]?", "bert-base-multilingual-uncased_P@1": 0.21428571428571427, "flan-t5-xl_P@1": 0.05555555555555555}
+{"pattern": "Is [X] uitgebracht op [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.0}

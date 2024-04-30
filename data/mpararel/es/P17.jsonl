@@ -1,0 +1,8 @@
+{"pattern": "El pa\u00eds en el que se encuentra [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156, "flan-t5-xl_P@1": 0.08}
+{"pattern": "El estado en el que se encuentra [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.4519230769230769, "flan-t5-xl_P@1": 0.04}
+{"pattern": "[X] se encuentra en el siguiente pa\u00eds: [Y].", "bert-base-multilingual-uncased_P@1": 0.49038461538461536, "flan-t5-xl_P@1": 0.36}
+{"pattern": "[X] se encuentra en el siguiente estado: [Y].", "bert-base-multilingual-uncased_P@1": 0.4423076923076923, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], ubicado en [Y].", "bert-base-multilingual-uncased_P@1": 0.36538461538461536, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.4326923076923077, "flan-t5-xl_P@1": 0.04}
+{"pattern": "\u00bf[X] se encuentra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154, "flan-t5-xl_P@1": 0.0}

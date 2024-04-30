@@ -1,0 +1,14 @@
+{"pattern": "La [X] ha relazioni diplomatiche con la [Y].", "bert-base-multilingual-uncased_P@1": 0.0223463687150838, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha rapporti diplomatici con l'[Y].", "bert-base-multilingual-uncased_P@1": 0.0223463687150838, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] ha relazioni diplomatiche con l'[Y].", "bert-base-multilingual-uncased_P@1": 0.027932960893854747, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha relazioni diplomatiche con l'[Y].", "bert-base-multilingual-uncased_P@1": 0.03910614525139665, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] mantiene relazioni diplomatiche con la [Y].", "bert-base-multilingual-uncased_P@1": 0.0111731843575419, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] instaura relazioni diplomatiche con la [Y].", "bert-base-multilingual-uncased_P@1": 0.0223463687150838, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X], che ha relazioni diplomatiche con l'[Y].", "bert-base-multilingual-uncased_P@1": 0.0335195530726257, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X], che intrattiene relazioni diplomatiche con l'[Y].", "bert-base-multilingual-uncased_P@1": 0.03910614525139665, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha relazioni diplomatiche con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha legami diplomatici con l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.05027932960893855, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha relazioni diplomatiche con l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0446927374301676, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] ha rapporti diplomatici con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.01675977653631285, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] mantiene relazioni diplomatiche con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.0111731843575419, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] ha relazioni diplomatiche con l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.03910614525139665, "flan-t5-xl_P@1": 0.0}

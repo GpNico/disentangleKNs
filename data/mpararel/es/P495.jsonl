@@ -1,0 +1,38 @@
+{"pattern": "[X] vino de [Y].", "bert-base-multilingual-uncased_P@1": 0.06422018348623854, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] viene de [Y].", "bert-base-multilingual-uncased_P@1": 0.03669724770642202, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] se form\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.27522935779816515, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es de [Y].", "bert-base-multilingual-uncased_P@1": 0.11926605504587157, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] se origin\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.26605504587155965, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue creado en [Y].", "bert-base-multilingual-uncased_P@1": 0.1926605504587156, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue desarrollado en [Y].", "bert-base-multilingual-uncased_P@1": 0.29357798165137616, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "[X] fue creado por primera vez en [Y].", "bert-base-multilingual-uncased_P@1": 0.21100917431192662, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "[X] fue hecho por primera vez en [Y].", "bert-base-multilingual-uncased_P@1": 0.28440366972477066, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "[X] fue producido por primera vez en [Y].", "bert-base-multilingual-uncased_P@1": 0.3577981651376147, "flan-t5-xl_P@1": 0.13333333333333333}
+{"pattern": "[X] fue formado en [Y].", "bert-base-multilingual-uncased_P@1": 0.13761467889908258, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue formulado en [Y].", "bert-base-multilingual-uncased_P@1": 0.3211009174311927, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era de [Y].", "bert-base-multilingual-uncased_P@1": 0.10091743119266056, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], creado en [Y].", "bert-base-multilingual-uncased_P@1": 0.14678899082568808, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], desarrollado en [Y].", "bert-base-multilingual-uncased_P@1": 0.3211009174311927, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "[X], formulado en [Y].", "bert-base-multilingual-uncased_P@1": 0.21100917431192662, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], de [Y].", "bert-base-multilingual-uncased_P@1": 0.09174311926605505, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que se origin\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.3119266055045872, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "[X], que fue creado en [Y].", "bert-base-multilingual-uncased_P@1": 0.26605504587155965, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que fue desarrollado en [Y].", "bert-base-multilingual-uncased_P@1": 0.3577981651376147, "flan-t5-xl_P@1": 0.13333333333333333}
+{"pattern": "[X], que se form\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.24770642201834864, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que fue formulado en [Y].", "bert-base-multilingual-uncased_P@1": 0.3119266055045872, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que era de [Y].", "bert-base-multilingual-uncased_P@1": 0.05504587155963303, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] vino de [Y]?", "bert-base-multilingual-uncased_P@1": 0.09174311926605505, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfSe form\u00f3 [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.28440366972477066, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] se origin\u00f3 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.26605504587155965, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "\u00bf[X] viene de [Y]?", "bert-base-multilingual-uncased_P@1": 0.07339449541284404, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl [X] se origina en [Y]?", "bert-base-multilingual-uncased_P@1": 0.27522935779816515, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 formulado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.23853211009174313, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] es de [Y]?", "bert-base-multilingual-uncased_P@1": 0.045871559633027525, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue creado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.28440366972477066, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue desarrollado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.22935779816513763, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue creado por primera vez en [Y]?", "bert-base-multilingual-uncased_P@1": 0.25688073394495414, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "\u00bf[X] fue hecho por primera vez en [Y]?", "bert-base-multilingual-uncased_P@1": 0.28440366972477066, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue producido por primera vez en [Y]?", "bert-base-multilingual-uncased_P@1": 0.26605504587155965, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "\u00bf[X] fue formado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.24770642201834864, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue formulado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.30275229357798167, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] era de [Y]?", "bert-base-multilingual-uncased_P@1": 0.05504587155963303, "flan-t5-xl_P@1": 0.0}

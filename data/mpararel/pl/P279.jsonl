@@ -1,0 +1,6 @@
+{"pattern": "[X] ma klasowy [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2222222222222222}
+{"pattern": "[X] to [Y].", "bert-base-multilingual-uncased_P@1": 0.13043478260869565, "flan-t5-xl_P@1": 0.2222222222222222}
+{"pattern": "[X], podklasa [Y].", "bert-base-multilingual-uncased_P@1": 0.21739130434782608, "flan-t5-xl_P@1": 0.1111111111111111}
+{"pattern": "[X], rodzaj [Y].", "bert-base-multilingual-uncased_P@1": 0.13043478260869565, "flan-t5-xl_P@1": 0.2222222222222222}
+{"pattern": "Czy [X] to [Y]?", "bert-base-multilingual-uncased_P@1": 0.391304347826087, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Czy [X] jest podklas\u0105 [Y]?", "bert-base-multilingual-uncased_P@1": 0.08695652173913043, "flan-t5-xl_P@1": 0.0}

@@ -1,0 +1,8 @@
+{"pattern": "[X] \u00e9 a capital do [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.6363636363636364}
+{"pattern": "[X] \u00e9 a capital da [Y].", "bert-base-multilingual-uncased_P@1": 0.5294117647058824, "flan-t5-xl_P@1": 0.36363636363636365}
+{"pattern": "[X], \u00e9 a capital do [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.45454545454545453}
+{"pattern": "[X], \u00e9 a capital da [Y].", "bert-base-multilingual-uncased_P@1": 0.4117647058823529, "flan-t5-xl_P@1": 0.36363636363636365}
+{"pattern": "[X], a capital do [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.18181818181818182}
+{"pattern": "[X], a capital da [Y].", "bert-base-multilingual-uncased_P@1": 0.38235294117647056, "flan-t5-xl_P@1": 0.18181818181818182}
+{"pattern": "[X] \u00e9 a capital do [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.6363636363636364}
+{"pattern": "[X] \u00e9 a capital da [Y]?", "bert-base-multilingual-uncased_P@1": 0.4117647058823529, "flan-t5-xl_P@1": 0.36363636363636365}

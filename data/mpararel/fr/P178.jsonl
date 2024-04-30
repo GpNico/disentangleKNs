@@ -1,0 +1,23 @@
+{"pattern": "[X] et son produit [Y].", "bert-base-multilingual-uncased_P@1": 0.09009009009009009, "flan-t5-xl_P@1": 0.31683168316831684}
+{"pattern": "[X] est construit par [Y].", "bert-base-multilingual-uncased_P@1": 0.5855855855855856, "flan-t5-xl_P@1": 0.3564356435643564}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.5945945945945946, "flan-t5-xl_P@1": 0.5742574257425742}
+{"pattern": "[X] fait [Y].", "bert-base-multilingual-uncased_P@1": 0.009009009009009009, "flan-t5-xl_P@1": 0.31683168316831684}
+{"pattern": "[X] est fabriqu\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.5765765765765766, "flan-t5-xl_P@1": 0.5841584158415841}
+{"pattern": "[X] est produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.6036036036036037, "flan-t5-xl_P@1": 0.594059405940594}
+{"pattern": "[X], qui construit [Y].", "bert-base-multilingual-uncased_P@1": 0.2882882882882883, "flan-t5-xl_P@1": 0.31683168316831684}
+{"pattern": "[X], qui a cr\u00e9\u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.35135135135135137, "flan-t5-xl_P@1": 0.36633663366336633}
+{"pattern": "[X], qui a d\u00e9velopp\u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.40540540540540543, "flan-t5-xl_P@1": 0.32673267326732675}
+{"pattern": "[X], qui d\u00e9veloppe [Y].", "bert-base-multilingual-uncased_P@1": 0.14414414414414414, "flan-t5-xl_P@1": 0.32673267326732675}
+{"pattern": "[X], c'est ce qui fait [Y].", "bert-base-multilingual-uncased_P@1": 0.02702702702702703, "flan-t5-xl_P@1": 0.31683168316831684}
+{"pattern": "[X], qui est fabriqu\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.6036036036036037, "flan-t5-xl_P@1": 0.6039603960396039}
+{"pattern": "[X], qui produit [Y].", "bert-base-multilingual-uncased_P@1": 0.16216216216216217, "flan-t5-xl_P@1": 0.31683168316831684}
+{"pattern": "[X], le cr\u00e9ateur de [Y].", "bert-base-multilingual-uncased_P@1": 0.2702702702702703, "flan-t5-xl_P@1": 0.33663366336633666}
+{"pattern": "Est-ce que [X] a cr\u00e9\u00e9 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2871287128712871}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.2072072072072072, "flan-t5-xl_P@1": 0.5742574257425742}
+{"pattern": "Est-ce que [X] fait [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.19801980198019803}
+{"pattern": "[X] est fabriqu\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.2882882882882883, "flan-t5-xl_P@1": 0.5841584158415841}
+{"pattern": "Est-ce que [X] est produit par [Y]?", "bert-base-multilingual-uncased_P@1": 0.4864864864864865, "flan-t5-xl_P@1": 0.5742574257425742}
+{"pattern": "[X] est le cr\u00e9ateur de [Y]?", "bert-base-multilingual-uncased_P@1": 0.08108108108108109, "flan-t5-xl_P@1": 0.3564356435643564}
+{"pattern": "[X] est le cr\u00e9ateur de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.07207207207207207, "flan-t5-xl_P@1": 0.3564356435643564}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 le cr\u00e9ateur de [Y]?", "bert-base-multilingual-uncased_P@1": 0.26126126126126126, "flan-t5-xl_P@1": 0.3069306930693069}
+{"pattern": "[X] \u00e9tait le cr\u00e9ateur de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.07207207207207207, "flan-t5-xl_P@1": 0.3564356435643564}

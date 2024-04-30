@@ -1,0 +1,13 @@
+{"pattern": "[X] belongs to the genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.11827956989247312, "flan-t5-xl_P@1": 0.027972027972027972}
+{"pattern": "[X] is a musician in [Y] .", "bert-base-multilingual-uncased_P@1": 0.010752688172043012, "flan-t5-xl_P@1": 0.02097902097902098}
+{"pattern": "[X] plays [Y] .", "bert-base-multilingual-uncased_P@1": 0.010752688172043012, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] plays the following genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] plays the following music genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.027972027972027972}
+{"pattern": "[X] plays the genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02097902097902098}
+{"pattern": "[X] plays the genre of [Y] .", "bert-base-multilingual-uncased_P@1": 0.021505376344086023, "flan-t5-xl_P@1": 0.0979020979020979}
+{"pattern": "[X] plays the music genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.24193548387096775, "flan-t5-xl_P@1": 0.013986013986013986}
+{"pattern": "[X] plays the music genre of [Y] .", "bert-base-multilingual-uncased_P@1": 0.25268817204301075, "flan-t5-xl_P@1": 0.07692307692307693}
+{"pattern": "[X] specializes in the genre [Y] .", "bert-base-multilingual-uncased_P@1": 0.07526881720430108, "flan-t5-xl_P@1": 0.006993006993006993}
+{"pattern": "[X], who plays [Y] .", "bert-base-multilingual-uncased_P@1": 0.010752688172043012, "flan-t5-xl_P@1": 0.013986013986013986}
+{"pattern": "Does [X] play [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02097902097902098}
+{"pattern": "Is [X] a musician playing [Y]?", "bert-base-multilingual-uncased_P@1": 0.016129032258064516, "flan-t5-xl_P@1": 0.07692307692307693}

@@ -1,0 +1,18 @@
+{"pattern": "La [X] prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.1232876712328767, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "[X] prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123, "flan-t5-xl_P@1": 0.5}
+{"pattern": "L'[X] prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.0684931506849315, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "[X] prende il nome dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0410958904109589, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "Il [X] prende il nome dall'[Y].", "bert-base-multilingual-uncased_P@1": 0.0821917808219178, "flan-t5-xl_P@1": 0.4166666666666667}
+{"pattern": "[X], chiamato dopo [Y].", "bert-base-multilingual-uncased_P@1": 0.2602739726027397, "flan-t5-xl_P@1": 0.4722222222222222}
+{"pattern": "[X], intitolato a [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123, "flan-t5-xl_P@1": 0.5555555555555556}
+{"pattern": "[X], chiamato per [Y].", "bert-base-multilingual-uncased_P@1": 0.0410958904109589, "flan-t5-xl_P@1": 0.5833333333333334}
+{"pattern": "[X], che prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.3972602739726027, "flan-t5-xl_P@1": 0.5}
+{"pattern": "L'[X], che prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123, "flan-t5-xl_P@1": 0.4722222222222222}
+{"pattern": "[X], che prende il nome dal [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "[X], che \u00e8 stato chiamato dopo [Y].", "bert-base-multilingual-uncased_P@1": 0.0410958904109589, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X], che prende il nome dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.0136986301369863, "flan-t5-xl_P@1": 0.4166666666666667}
+{"pattern": "La [X], che prende il nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123, "flan-t5-xl_P@1": 0.5}
+{"pattern": "La [X] prende il nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "Il [X] prende il nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4166666666666667}
+{"pattern": "L'[X] prende il nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "[X] prende il nome dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0273972602739726, "flan-t5-xl_P@1": 0.4444444444444444}

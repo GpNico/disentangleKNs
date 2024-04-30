@@ -1,0 +1,16 @@
+{"pattern": "El lugar de nacimiento de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.12121212121212122, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.03636363636363636, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] es originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.04242424242424243, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.030303030303030304, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] es originaria de [Y].", "bert-base-multilingual-uncased_P@1": 0.024242424242424242, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] naci\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.15757575757575756, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.048484848484848485, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "[X] era originario de [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] nacieron en [Y].", "bert-base-multilingual-uncased_P@1": 0.09696969696969697, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue originario de [Y]?", "bert-base-multilingual-uncased_P@1": 0.048484848484848485, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] es originario de [Y]?", "bert-base-multilingual-uncased_P@1": 0.048484848484848485, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] es nativo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.04242424242424243, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "\u00bf[X] es originaria de [Y]?", "bert-base-multilingual-uncased_P@1": 0.03636363636363636, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] naci\u00f3 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.07272727272727272, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] era nativo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.03636363636363636, "flan-t5-xl_P@1": 0.010638297872340425}
+{"pattern": "\u00bf[X] era originario de [Y]?", "bert-base-multilingual-uncased_P@1": 0.06060606060606061, "flan-t5-xl_P@1": 0.0}

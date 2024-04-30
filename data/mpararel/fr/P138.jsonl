@@ -1,0 +1,21 @@
+{"pattern": "L'[X] porte le nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.32653061224489793, "flan-t5-xl_P@1": 0.28}
+{"pattern": "[X] est nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.42}
+{"pattern": "L'[X] est nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.01020408163265306, "flan-t5-xl_P@1": 0.4}
+{"pattern": "L'[X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.01020408163265306, "flan-t5-xl_P@1": 0.36}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.38}
+{"pattern": "Le [X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s le [Y].", "bert-base-multilingual-uncased_P@1": 0.07142857142857142, "flan-t5-xl_P@1": 0.32}
+{"pattern": "L'[X], nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.030612244897959183, "flan-t5-xl_P@1": 0.36}
+{"pattern": "[X], nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.1326530612244898, "flan-t5-xl_P@1": 0.42}
+{"pattern": "[X], nomm\u00e9 d'apr\u00e8s le [Y].", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.28}
+{"pattern": "L'[X], qui porte le nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.41836734693877553, "flan-t5-xl_P@1": 0.42}
+{"pattern": "[X], qui porte le nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.4897959183673469, "flan-t5-xl_P@1": 0.44}
+{"pattern": "[X], qui est nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.04081632653061224, "flan-t5-xl_P@1": 0.46}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.02040816326530612, "flan-t5-xl_P@1": 0.44}
+{"pattern": "L'[X], qui a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y].", "bert-base-multilingual-uncased_P@1": 0.01020408163265306, "flan-t5-xl_P@1": 0.38}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 pour le [Y].", "bert-base-multilingual-uncased_P@1": 0.01020408163265306, "flan-t5-xl_P@1": 0.34}
+{"pattern": "L'[X] porte le nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.28}
+{"pattern": "L'[X] porte-t-il le nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.15306122448979592, "flan-t5-xl_P@1": 0.24}
+{"pattern": "Le [X] est-il nomm\u00e9 d'apr\u00e8s [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.24}
+{"pattern": "L'[X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.1}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s le [Y]?", "bert-base-multilingual-uncased_P@1": 0.061224489795918366, "flan-t5-xl_P@1": 0.14}

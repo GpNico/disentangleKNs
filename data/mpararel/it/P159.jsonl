@@ -1,0 +1,17 @@
+{"pattern": "La sede di [X] si trova a [Y].", "bert-base-multilingual-uncased_P@1": 0.4383561643835616, "flan-t5-xl_P@1": 0.1276595744680851}
+{"pattern": "La sede della [X] si trova a [Y].", "bert-base-multilingual-uncased_P@1": 0.410958904109589, "flan-t5-xl_P@1": 0.1702127659574468}
+{"pattern": "La sede di [X] si trova ad [Y].", "bert-base-multilingual-uncased_P@1": 0.1643835616438356, "flan-t5-xl_P@1": 0.02127659574468085}
+{"pattern": "La sede dell'[X] si trova a [Y].", "bert-base-multilingual-uncased_P@1": 0.410958904109589, "flan-t5-xl_P@1": 0.0851063829787234}
+{"pattern": "[X] ha sede a [Y].", "bert-base-multilingual-uncased_P@1": 0.3424657534246575, "flan-t5-xl_P@1": 0.1702127659574468}
+{"pattern": "La [X] ha sede a [Y].", "bert-base-multilingual-uncased_P@1": 0.4383561643835616, "flan-t5-xl_P@1": 0.14893617021276595}
+{"pattern": "[X] si trova a [Y].", "bert-base-multilingual-uncased_P@1": 0.3972602739726027, "flan-t5-xl_P@1": 0.0851063829787234}
+{"pattern": "Il quartier generale di [X] si trova a [Y].", "bert-base-multilingual-uncased_P@1": 0.4246575342465753, "flan-t5-xl_P@1": 0.0425531914893617}
+{"pattern": "[X], il cui quartier generale \u00e8 a [Y].", "bert-base-multilingual-uncased_P@1": 0.3835616438356164, "flan-t5-xl_P@1": 0.14893617021276595}
+{"pattern": "Il quartier generale di [X] e' a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0136986301369863, "flan-t5-xl_P@1": 0.02127659574468085}
+{"pattern": "Il quartier generale della [X] e' a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0136986301369863, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La sede di [X] si trova a [Y]?", "bert-base-multilingual-uncased_P@1": 0.2465753424657534, "flan-t5-xl_P@1": 0.1276595744680851}
+{"pattern": "La [X] ha sede a [Y]?", "bert-base-multilingual-uncased_P@1": 0.3287671232876712, "flan-t5-xl_P@1": 0.14893617021276595}
+{"pattern": "La sede di [X] \u00e8 a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0821917808219178, "flan-t5-xl_P@1": 0.2553191489361702}
+{"pattern": "La [X] si trova a [Y]?", "bert-base-multilingual-uncased_P@1": 0.2465753424657534, "flan-t5-xl_P@1": 0.02127659574468085}
+{"pattern": "Il quartier generale di [X] \u00e8 a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0821917808219178, "flan-t5-xl_P@1": 0.14893617021276595}
+{"pattern": "Il quartier generale della [X] si trova a [Y]?", "bert-base-multilingual-uncased_P@1": 0.2328767123287671, "flan-t5-xl_P@1": 0.02127659574468085}

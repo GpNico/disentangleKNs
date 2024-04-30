@@ -1,0 +1,7 @@
+{"pattern": "Das Land, in dem sich [X] befindet, ist [Y].", "bert-base-multilingual-uncased_P@1": 0.08547008547008547, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Der Staat [X] liegt in [Y].", "bert-base-multilingual-uncased_P@1": 0.4188034188034188, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3418803418803419, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "[X] befindet sich in dem folgenden Land: [Y].", "bert-base-multilingual-uncased_P@1": 0.11965811965811966, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "[X] befindet sich in dem folgenden Bundesstaat: [Y].", "bert-base-multilingual-uncased_P@1": 0.3162393162393162, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], in [Y].", "bert-base-multilingual-uncased_P@1": 0.08547008547008547, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Liegt [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.24786324786324787, "flan-t5-xl_P@1": 0.017543859649122806}

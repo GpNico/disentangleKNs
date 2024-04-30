@@ -1,0 +1,6 @@
+{"pattern": "Die Hauptstadt von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6608695652173913, "flan-t5-xl_P@1": 0.4642857142857143}
+{"pattern": "Die Hauptstadt [X]s ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6434782608695652, "flan-t5-xl_P@1": 0.42857142857142855}
+{"pattern": "Die Hauptstadt des [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6347826086956522, "flan-t5-xl_P@1": 0.4642857142857143}
+{"pattern": "Die Hauptstadt von [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.02608695652173913, "flan-t5-xl_P@1": 0.4642857142857143}
+{"pattern": "Die Hauptstadt der [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.6434782608695652, "flan-t5-xl_P@1": 0.4642857142857143}
+{"pattern": "[X]s Hauptstadt, [Y].", "bert-base-multilingual-uncased_P@1": 0.1565217391304348, "flan-t5-xl_P@1": 0.5357142857142857}

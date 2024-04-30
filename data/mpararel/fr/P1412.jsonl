@@ -1,0 +1,12 @@
+{"pattern": "[X] a communiqu\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.19653179190751446, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] communique en [Y].", "bert-base-multilingual-uncased_P@1": 0.028901734104046242, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est un locuteur d'[Y].", "bert-base-multilingual-uncased_P@1": 0.3930635838150289, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parle [Y].", "bert-base-multilingual-uncased_P@1": 0.11560693641618497, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parlait [Y].", "bert-base-multilingual-uncased_P@1": 0.14450867052023122, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] communiquait en [Y].", "bert-base-multilingual-uncased_P@1": 0.2658959537572254, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] communiquait en [Y]?", "bert-base-multilingual-uncased_P@1": 0.1329479768786127, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parlait [Y]?", "bert-base-multilingual-uncased_P@1": 0.028901734104046242, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] communique-t-il en [Y]?", "bert-base-multilingual-uncased_P@1": 0.005780346820809248, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parle le [Y]?", "bert-base-multilingual-uncased_P@1": 0.2774566473988439, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] parlait-il l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.017341040462427744, "flan-t5-xl_P@1": 0.0}

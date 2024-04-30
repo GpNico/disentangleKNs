@@ -1,0 +1,16 @@
+{"pattern": "De geboorteplaats van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.036585365853658534, "flan-t5-xl_P@1": 0.022222222222222223}
+{"pattern": "[X] is geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.0975609756097561, "flan-t5-xl_P@1": 0.1111111111111111}
+{"pattern": "[X] komt uit [Y].", "bert-base-multilingual-uncased_P@1": 0.012195121951219513, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] komt oorspronkelijk uit [Y].", "bert-base-multilingual-uncased_P@1": 0.012195121951219513, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is afkomstig uit [Y].", "bert-base-multilingual-uncased_P@1": 0.12195121951219512, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] werd geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.1402439024390244, "flan-t5-xl_P@1": 0.14444444444444443}
+{"pattern": "[X] was geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.054878048780487805, "flan-t5-xl_P@1": 0.14444444444444443}
+{"pattern": "[X] kwam oorspronkelijk uit [Y].", "bert-base-multilingual-uncased_P@1": 0.018292682926829267, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s geboorteplaats is [Y].", "bert-base-multilingual-uncased_P@1": 0.1402439024390244, "flan-t5-xl_P@1": 0.022222222222222223}
+{"pattern": "[X]' geboorteplaats is [Y].", "bert-base-multilingual-uncased_P@1": 0.10365853658536585, "flan-t5-xl_P@1": 0.044444444444444446}
+{"pattern": "Kwam [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.006097560975609756, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Komt [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.012195121951219513, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] afkomstig uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.042682926829268296, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Komt [X] oorspronkelijk uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.006097560975609756, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X] afkomstig uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.04878048780487805, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X] oorspronkelijk uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.012195121951219513, "flan-t5-xl_P@1": 0.0}

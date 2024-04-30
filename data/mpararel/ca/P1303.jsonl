@@ -1,0 +1,4 @@
+{"pattern": "[X] toca el [Y]."}
+{"pattern": "[X] toca la [Y]."}
+{"pattern": "[X] toca el [Y]?"}
+{"pattern": "[X] toca la [Y]?"}

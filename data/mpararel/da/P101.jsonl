@@ -1,0 +1,14 @@
+{"pattern": "[X]s aktivitetsomr\u00e5de er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X]s arbejdsomr\u00e5de er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]s ekspertise er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] arbejder inden for [Y].", "bert-base-multilingual-uncased_P@1": 0.35, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X] arbejder p\u00e5 omr\u00e5det i [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]s ekspertiseomr\u00e5de er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X]'s arbejdsomr\u00e5de er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X]'s aktivitetsomr\u00e5de er [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X] arbejder som [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X] er ekspert i [Y].", "bert-base-multilingual-uncased_P@1": 0.225, "flan-t5-xl_P@1": 0.4}
+{"pattern": "[X]s ekspertise er i [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Arbejder [X] i felt[Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Arbejder [X] inden for [Y]?", "bert-base-multilingual-uncased_P@1": 0.15, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X]s ekspertise i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1, "flan-t5-xl_P@1": 0.0}

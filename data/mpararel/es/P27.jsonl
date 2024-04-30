@@ -1,0 +1,11 @@
+{"pattern": "[X] tiene la ciudadan\u00eda de [Y].", "bert-base-multilingual-uncased_P@1": 0.1956521739130435, "flan-t5-xl_P@1": 0.4186046511627907}
+{"pattern": "[X] tiene la ciudadan\u00eda de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.32558139534883723}
+{"pattern": "[X] es ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.18478260869565216, "flan-t5-xl_P@1": 0.23255813953488372}
+{"pattern": "[X], un ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.16304347826086957, "flan-t5-xl_P@1": 0.09302325581395349}
+{"pattern": "[X], que tiene la ciudadan\u00eda de [Y].", "bert-base-multilingual-uncased_P@1": 0.19021739130434784, "flan-t5-xl_P@1": 0.3953488372093023}
+{"pattern": "[X], quien tiene la ciudadan\u00eda de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.046511627906976744}
+{"pattern": "[X], que es ciudadano de [Y].", "bert-base-multilingual-uncased_P@1": 0.11413043478260869, "flan-t5-xl_P@1": 0.09302325581395349}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda de [Y]?", "bert-base-multilingual-uncased_P@1": 0.33695652173913043, "flan-t5-xl_P@1": 0.37209302325581395}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.08152173913043478, "flan-t5-xl_P@1": 0.046511627906976744}
+{"pattern": "\u00bf[X] tiene la ciudadan\u00eda del [Y]?", "bert-base-multilingual-uncased_P@1": 0.005434782608695652, "flan-t5-xl_P@1": 0.046511627906976744}
+{"pattern": "\u00bf[X] es ciudadano de [Y]?", "bert-base-multilingual-uncased_P@1": 0.2391304347826087, "flan-t5-xl_P@1": 0.0}

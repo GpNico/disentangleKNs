@@ -1,0 +1,28 @@
+{"pattern": "[X] est un produit de [Y].", "bert-base-multilingual-uncased_P@1": 0.7678571428571429, "flan-t5-xl_P@1": 0.8466666666666667}
+{"pattern": "[X] est cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523, "flan-t5-xl_P@1": 0.84}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8095238095238095, "flan-t5-xl_P@1": 0.8333333333333334}
+{"pattern": "[X] est produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334, "flan-t5-xl_P@1": 0.8533333333333334}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523, "flan-t5-xl_P@1": 0.8533333333333334}
+{"pattern": "[X] a \u00e9t\u00e9 d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.8266666666666667}
+{"pattern": "[X] a \u00e9t\u00e9 produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334, "flan-t5-xl_P@1": 0.86}
+{"pattern": "[X], un produit cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.84}
+{"pattern": "[X], un produit d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.8466666666666667}
+{"pattern": "[X], un produit fabriqu\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8333333333333334, "flan-t5-xl_P@1": 0.86}
+{"pattern": "[X], un produit de [Y].", "bert-base-multilingual-uncased_P@1": 0.6071428571428571, "flan-t5-xl_P@1": 0.8333333333333334}
+{"pattern": "[X], cr\u00e9\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.7933333333333333}
+{"pattern": "[X], d\u00e9velopp\u00e9 par [Y].", "bert-base-multilingual-uncased_P@1": 0.8273809523809523, "flan-t5-xl_P@1": 0.7866666666666666}
+{"pattern": "[X], produit par [Y].", "bert-base-multilingual-uncased_P@1": 0.8452380952380952, "flan-t5-xl_P@1": 0.7933333333333333}
+{"pattern": "La [X] est-elle un produit cr\u00e9\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8214285714285714, "flan-t5-xl_P@1": 0.84}
+{"pattern": "La [X] est-elle un produit d\u00e9velopp\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8273809523809523, "flan-t5-xl_P@1": 0.8333333333333334}
+{"pattern": "La [X] est-elle un produit fabriqu\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8452380952380952, "flan-t5-xl_P@1": 0.7666666666666667}
+{"pattern": "La [X] est un produit de [Y]?", "bert-base-multilingual-uncased_P@1": 0.6488095238095238, "flan-t5-xl_P@1": 0.8466666666666667}
+{"pattern": "La [X] est cr\u00e9\u00e9e par [Y]?", "bert-base-multilingual-uncased_P@1": 0.017857142857142856, "flan-t5-xl_P@1": 0.84}
+{"pattern": "La [X] est-elle d\u00e9velopp\u00e9e par [Y]?", "bert-base-multilingual-uncased_P@1": 0.7916666666666666, "flan-t5-xl_P@1": 0.76}
+{"pattern": "La [X] est produite par [Y]?", "bert-base-multilingual-uncased_P@1": 0.2261904761904762, "flan-t5-xl_P@1": 0.84}
+{"pattern": "La [X] \u00e9tait-elle un produit cr\u00e9\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8214285714285714, "flan-t5-xl_P@1": 0.8333333333333334}
+{"pattern": "La [X] \u00e9tait-elle un produit d\u00e9velopp\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8273809523809523, "flan-t5-xl_P@1": 0.7866666666666666}
+{"pattern": "La [X] \u00e9tait-elle un produit fabriqu\u00e9 par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.7866666666666666}
+{"pattern": "La [X] \u00e9tait un produit de [Y]?", "bert-base-multilingual-uncased_P@1": 0.6547619047619048, "flan-t5-xl_P@1": 0.8466666666666667}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 cr\u00e9\u00e9e par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.7866666666666666}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 d\u00e9velopp\u00e9e par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8214285714285714, "flan-t5-xl_P@1": 0.7933333333333333}
+{"pattern": "La [X] a-t-elle \u00e9t\u00e9 produite par [Y]?", "bert-base-multilingual-uncased_P@1": 0.8154761904761905, "flan-t5-xl_P@1": 0.8333333333333334}

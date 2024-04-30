@@ -1,0 +1,10 @@
+{"pattern": "[X] har medborgarskap i [Y].", "bert-base-multilingual-uncased_P@1": 0.35772357723577236, "flan-t5-xl_P@1": 0.17647058823529413}
+{"pattern": "[X] of Cambodia har medborgarskap i [Y].", "bert-base-multilingual-uncased_P@1": 0.21138211382113822, "flan-t5-xl_P@1": 0.08823529411764706}
+{"pattern": "[X] \u00e4r medborgare i [Y].", "bert-base-multilingual-uncased_P@1": 0.2845528455284553, "flan-t5-xl_P@1": 0.29411764705882354}
+{"pattern": "[X], en medborgare i [Y].", "bert-base-multilingual-uncased_P@1": 0.3902439024390244, "flan-t5-xl_P@1": 0.23529411764705882}
+{"pattern": "[X], som har medborgarskap i [Y].", "bert-base-multilingual-uncased_P@1": 0.2682926829268293, "flan-t5-xl_P@1": 0.20588235294117646}
+{"pattern": "Apollo [X], som har medborgarskap i [Y].", "bert-base-multilingual-uncased_P@1": 0.16260162601626016, "flan-t5-xl_P@1": 0.23529411764705882}
+{"pattern": "[X], som \u00e4r medborgare i [Y].", "bert-base-multilingual-uncased_P@1": 0.2032520325203252, "flan-t5-xl_P@1": 0.29411764705882354}
+{"pattern": "Har [X] medborgarskap i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2682926829268293, "flan-t5-xl_P@1": 0.029411764705882353}
+{"pattern": "Har Apollo [X] medborgarskap i [Y]?", "bert-base-multilingual-uncased_P@1": 0.23577235772357724, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00c4r [X] medborgare i [Y]?", "bert-base-multilingual-uncased_P@1": 0.24390243902439024, "flan-t5-xl_P@1": 0.0}

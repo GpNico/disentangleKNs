@@ -1,0 +1,5 @@
+{"pattern": "Die [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3644067796610169, "flan-t5-xl_P@1": 0.3484848484848485}
+{"pattern": "[X] ist in [Y].", "bert-base-multilingual-uncased_P@1": 0.22033898305084745, "flan-t5-xl_P@1": 0.2878787878787879}
+{"pattern": "Das [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3389830508474576, "flan-t5-xl_P@1": 0.3484848484848485}
+{"pattern": "Ist das [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1440677966101695, "flan-t5-xl_P@1": 0.30303030303030304}
+{"pattern": "Ist die [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.13559322033898305, "flan-t5-xl_P@1": 0.30303030303030304}

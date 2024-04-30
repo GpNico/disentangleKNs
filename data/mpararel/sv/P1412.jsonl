@@ -1,0 +1,5 @@
+{"pattern": "[X] brukade kommunicera p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.2894736842105263}
+{"pattern": "Pratade [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Kommunicerar [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.02631578947368421}
+{"pattern": "Talar [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Talade [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

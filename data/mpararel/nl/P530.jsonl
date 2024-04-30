@@ -1,0 +1,9 @@
+{"pattern": "[X] heeft diplomatieke betrekkingen met [Y].", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] heeft diplomatieke banden met [Y].", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] onderhoudt diplomatieke betrekkingen met [Y].", "bert-base-multilingual-uncased_P@1": 0.03488372093023256, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De [X] heeft diplomatieke betrekkingen met [Y].", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], dat diplomatieke betrekkingen heeft met [Y].", "bert-base-multilingual-uncased_P@1": 0.03488372093023256, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], dat diplomatieke betrekkingen onderhoudt met [Y].", "bert-base-multilingual-uncased_P@1": 0.046511627906976744, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Heeft [X] diplomatieke betrekkingen met [Y]?", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Heeft [X] diplomatieke banden met [Y]?", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Heeft de [X] diplomatieke banden met [Y]?", "bert-base-multilingual-uncased_P@1": 0.029069767441860465, "flan-t5-xl_P@1": 0.0}

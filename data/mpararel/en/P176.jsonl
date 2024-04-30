@@ -1,0 +1,28 @@
+{"pattern": "[X] is a product of [Y] .", "bert-base-multilingual-uncased_P@1": 0.8186813186813187, "flan-t5-xl_P@1": 0.8536585365853658}
+{"pattern": "[X] is created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297, "flan-t5-xl_P@1": 0.8475609756097561}
+{"pattern": "[X] is developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297, "flan-t5-xl_P@1": 0.8658536585365854}
+{"pattern": "[X] is produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407, "flan-t5-xl_P@1": 0.8536585365853658}
+{"pattern": "[X] was created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297, "flan-t5-xl_P@1": 0.8109756097560976}
+{"pattern": "[X] was developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407, "flan-t5-xl_P@1": 0.8536585365853658}
+{"pattern": "[X] was produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8406593406593407, "flan-t5-xl_P@1": 0.8658536585365854}
+{"pattern": "[X], a product created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297, "flan-t5-xl_P@1": 0.8292682926829268}
+{"pattern": "[X], a product developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8461538461538461, "flan-t5-xl_P@1": 0.8536585365853658}
+{"pattern": "[X], a product manufactured by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8516483516483516, "flan-t5-xl_P@1": 0.8109756097560976}
+{"pattern": "[X], a product of [Y] .", "bert-base-multilingual-uncased_P@1": 0.8461538461538461, "flan-t5-xl_P@1": 0.8536585365853658}
+{"pattern": "[X], created by [Y] .", "bert-base-multilingual-uncased_P@1": 0.7967032967032966, "flan-t5-xl_P@1": 0.7804878048780488}
+{"pattern": "[X], developed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8296703296703297, "flan-t5-xl_P@1": 0.8475609756097561}
+{"pattern": "[X], produced by [Y] .", "bert-base-multilingual-uncased_P@1": 0.8131868131868132, "flan-t5-xl_P@1": 0.8658536585365854}
+{"pattern": "Is [X] a product created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8186813186813187, "flan-t5-xl_P@1": 0.8414634146341463}
+{"pattern": "Is [X] a product developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8131868131868132, "flan-t5-xl_P@1": 0.8292682926829268}
+{"pattern": "Is [X] a product manufactured by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8516483516483516, "flan-t5-xl_P@1": 0.7682926829268293}
+{"pattern": "Is [X] a product of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6923076923076923, "flan-t5-xl_P@1": 0.7682926829268293}
+{"pattern": "Is [X] created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7747252747252747, "flan-t5-xl_P@1": 0.6707317073170732}
+{"pattern": "Is [X] developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7967032967032966, "flan-t5-xl_P@1": 0.7621951219512195}
+{"pattern": "Is [X] produced by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8076923076923077, "flan-t5-xl_P@1": 0.7560975609756098}
+{"pattern": "Was [X] a product created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8351648351648352, "flan-t5-xl_P@1": 0.823170731707317}
+{"pattern": "Was [X] a product developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8241758241758241, "flan-t5-xl_P@1": 0.8170731707317073}
+{"pattern": "Was [X] a product manufactured by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8516483516483516, "flan-t5-xl_P@1": 0.8048780487804879}
+{"pattern": "Was [X] a product of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6923076923076923, "flan-t5-xl_P@1": 0.8353658536585366}
+{"pattern": "Was [X] created by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7747252747252747, "flan-t5-xl_P@1": 0.7560975609756098}
+{"pattern": "Was [X] developed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.8076923076923077, "flan-t5-xl_P@1": 0.7987804878048781}
+{"pattern": "Was [X] produced by [Y]?", "bert-base-multilingual-uncased_P@1": 0.7967032967032966, "flan-t5-xl_P@1": 0.774390243902439}

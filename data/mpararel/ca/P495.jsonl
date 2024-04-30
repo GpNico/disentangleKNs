@@ -1,0 +1,38 @@
+{"pattern": "[X] va venir de [Y].", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ve de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va formar a [Y].", "bert-base-multilingual-uncased_P@1": 0.14583333333333334, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s d'[Y].", "bert-base-multilingual-uncased_P@1": 0.08333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va originar a [Y].", "bert-base-multilingual-uncased_P@1": 0.22916666666666666, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser creat a [Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser desenvolupat a [Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser creat per primera vegada a [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va fer per primera vegada a [Y].", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser produ\u00eft per primera vegada a [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va formar al [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser formulat a [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era d'[Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], creat a [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], desenvolupat a [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], formulat a [Y].", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], d'[Y].", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que es va originar a [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que va ser creat a [Y].", "bert-base-multilingual-uncased_P@1": 0.08333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que va ser desenvolupat a [Y].", "bert-base-multilingual-uncased_P@1": 0.08333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que es va formar a [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que va ser formulat a [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que era d'[Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va venir de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va formar a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va originar a [Y]?", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ve de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] t\u00e9 el seu origen a [Y]?", "bert-base-multilingual-uncased_P@1": 0.041666666666666664, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El [X] \u00e9s formulat a [Y]?", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser creat a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser desenvolupat a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser creat per primera vegada a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es va fer per primera vegada a [Y]?", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] va ser produ\u00eft per primera vegada a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Es va formar [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El [X] va ser formulat a [Y]?", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

@@ -1,0 +1,12 @@
+{"pattern": "[X] en zijn zusterstad [Y].", "bert-base-multilingual-uncased_P@1": 0.012903225806451613, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "[X] en zijn tweelingstad [Y].", "bert-base-multilingual-uncased_P@1": 0.03225806451612903, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "[X] heeft een zusterstad [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.013888888888888888}
+{"pattern": "[X] heeft een tweelingstad [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.013888888888888888}
+{"pattern": "[X] is een zusterstad van [Y].", "bert-base-multilingual-uncased_P@1": 0.025806451612903226, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "[X] is een tweelingstad van [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "De zusterstad van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.025806451612903226, "flan-t5-xl_P@1": 0.041666666666666664}
+{"pattern": "De tweelingstad van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.03225806451612903, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "Is [X] een zusterstad van [Y]?", "bert-base-multilingual-uncased_P@1": 0.025806451612903226, "flan-t5-xl_P@1": 0.013888888888888888}
+{"pattern": "Is [X] een tweelingstad van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.013888888888888888}
+{"pattern": "Is [X] de zusterstad van [Y]?", "bert-base-multilingual-uncased_P@1": 0.012903225806451613, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "Is [X] de tweelingstad van [Y]?", "bert-base-multilingual-uncased_P@1": 0.0064516129032258064, "flan-t5-xl_P@1": 0.027777777777777776}

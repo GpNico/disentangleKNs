@@ -1,0 +1,6 @@
+{"pattern": "[X] es empleado de [Y].", "bert-base-multilingual-uncased_P@1": 0.05405405405405406, "flan-t5-xl_P@1": 0.08450704225352113}
+{"pattern": "[X] trabaja para [Y].", "bert-base-multilingual-uncased_P@1": 0.0945945945945946, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que es empleado de [Y].", "bert-base-multilingual-uncased_P@1": 0.05405405405405406, "flan-t5-xl_P@1": 0.09859154929577464}
+{"pattern": "[X], que trabaja para [Y].", "bert-base-multilingual-uncased_P@1": 0.04054054054054054, "flan-t5-xl_P@1": 0.1267605633802817}
+{"pattern": "\u00bf[X] trabaja para [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] es empleado de [Y]?", "bert-base-multilingual-uncased_P@1": 0.02702702702702703, "flan-t5-xl_P@1": 0.014084507042253521}

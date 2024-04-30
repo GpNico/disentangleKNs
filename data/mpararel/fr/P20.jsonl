@@ -1,0 +1,25 @@
+{"pattern": "Le lieu de la mort de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Le lieu de la mort de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.023529411764705882, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Le lieu de d\u00e9c\u00e8s de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0423728813559322}
+{"pattern": "Le lieu de d\u00e9c\u00e8s de [X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0847457627118644}
+{"pattern": "Le lieu de d\u00e9c\u00e8s d'[X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03389830508474576}
+{"pattern": "Le lieu de la mort d'[X] \u00e9tait [Y].", "bert-base-multilingual-uncased_P@1": 0.011764705882352941, "flan-t5-xl_P@1": 0.025423728813559324}
+{"pattern": "[X] est mort \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3588235294117647, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3588235294117647, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.35294117647058826, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] expira \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a perdu la vie \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.32941176470588235, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a succomb\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La vie de [X] s'est termin\u00e9e \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.34705882352941175, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est mort \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2823529411764706, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est morte \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.3058823529411765, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9e \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.29411764705882354, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est-il d\u00e9c\u00e9d\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.32941176470588235, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-il perdu sa vie \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2529411764705882, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-il perdu la vie \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.19411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.31176470588235294, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est- il mort \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.31176470588235294, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-il succomb\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a succomb\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0058823529411764705, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La vie de [X] s'est termin\u00e9e \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.11176470588235295, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La vie de [X] s'est-elle termin\u00e9e \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2823529411764706, "flan-t5-xl_P@1": 0.0}

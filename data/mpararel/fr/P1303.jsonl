@@ -1,0 +1,4 @@
+{"pattern": "[X] joue du [Y]."}
+{"pattern": "[X] joue de la [Y]."}
+{"pattern": "[X] joue du [Y]?"}
+{"pattern": "[X] joue de la [Y]?"}

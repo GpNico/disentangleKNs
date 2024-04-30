@@ -1,0 +1,8 @@
+{"pattern": "[X] tilh\u00f8rer [Y].", "bert-base-multilingual-uncased_P@1": 0.4642857142857143, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er tilknyttet [Y].", "bert-base-multilingual-uncased_P@1": 0.42857142857142855, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en del af [Y].", "bert-base-multilingual-uncased_P@1": 0.39285714285714285, "flan-t5-xl_P@1": 0.0}
+{"pattern": "H\u00f8rer [X] til [Y]?", "bert-base-multilingual-uncased_P@1": 0.42857142857142855, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Tilh\u00f8rer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] medlem af [Y]?", "bert-base-multilingual-uncased_P@1": 0.35714285714285715, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] tilknyttet [Y]?", "bert-base-multilingual-uncased_P@1": 0.2857142857142857, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en del af [Y]?", "bert-base-multilingual-uncased_P@1": 0.35714285714285715, "flan-t5-xl_P@1": 0.0}

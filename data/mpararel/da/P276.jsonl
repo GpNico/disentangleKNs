@@ -1,0 +1,6 @@
+{"pattern": "[X] kan findes i [Y].", "bert-base-multilingual-uncased_P@1": 0.10204081632653061, "flan-t5-xl_P@1": 0.32}
+{"pattern": "[X] er i [Y].", "bert-base-multilingual-uncased_P@1": 0.20408163265306123, "flan-t5-xl_P@1": 0.24}
+{"pattern": "[X] er placeret i [Y].", "bert-base-multilingual-uncased_P@1": 0.3673469387755102, "flan-t5-xl_P@1": 0.28}
+{"pattern": "Kan [X] findes i [Y]?", "bert-base-multilingual-uncased_P@1": 0.08163265306122448, "flan-t5-xl_P@1": 0.04}
+{"pattern": "Er [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.20408163265306123, "flan-t5-xl_P@1": 0.12}
+{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.40816326530612246, "flan-t5-xl_P@1": 0.28}

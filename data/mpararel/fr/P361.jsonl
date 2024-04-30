@@ -1,0 +1,4 @@
+{"pattern": "La [X] fait partie de la [Y]."}
+{"pattern": "L'[X] fait partie de l'[Y]."}
+{"pattern": "La [X] fait-elle partie de la [Y]?"}
+{"pattern": "L'[X] fait-elle partie de l'[Y]?"}

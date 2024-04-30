@@ -1,0 +1,28 @@
+{"pattern": "[X] \u00e9s un producte de [Y].", "bert-base-multilingual-uncased_P@1": 0.8666666666666667, "flan-t5-xl_P@1": 0.8974358974358975}
+{"pattern": "[X] \u00e9s creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111, "flan-t5-xl_P@1": 0.8461538461538461}
+{"pattern": "[X] \u00e9s desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8205128205128205}
+{"pattern": "[X] \u00e9s produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111, "flan-t5-xl_P@1": 0.7435897435897436}
+{"pattern": "[X] va ser creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.7692307692307693}
+{"pattern": "[X] va ser desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8666666666666667, "flan-t5-xl_P@1": 0.8205128205128205}
+{"pattern": "[X] va ser produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.5128205128205128}
+{"pattern": "[X], un producte creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8717948717948718}
+{"pattern": "[X], un producte desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111, "flan-t5-xl_P@1": 0.8717948717948718}
+{"pattern": "[X], un producte fabricat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8717948717948718}
+{"pattern": "[X], un producte de [Y].", "bert-base-multilingual-uncased_P@1": 0.7333333333333333, "flan-t5-xl_P@1": 0.9230769230769231}
+{"pattern": "[X], creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8461538461538461}
+{"pattern": "[X], desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111, "flan-t5-xl_P@1": 0.8205128205128205}
+{"pattern": "[X], produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8461538461538461}
+{"pattern": "El [X] \u00e9s un producte creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8461538461538461}
+{"pattern": "El [X] \u00e9s un producte desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8974358974358975}
+{"pattern": "El [X] \u00e9s un producte fabricat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8461538461538461}
+{"pattern": "El [X] \u00e9s un producte de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5777777777777777, "flan-t5-xl_P@1": 0.8974358974358975}
+{"pattern": "El [X] \u00e9s creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.26666666666666666, "flan-t5-xl_P@1": 0.6923076923076923}
+{"pattern": "El [X] \u00e9s desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8666666666666667, "flan-t5-xl_P@1": 0.358974358974359}
+{"pattern": "El [X] \u00e9s produ\u00eft per [Y]?", "bert-base-multilingual-uncased_P@1": 0.5111111111111111, "flan-t5-xl_P@1": 0.358974358974359}
+{"pattern": "El [X] va ser un producte creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.7948717948717948}
+{"pattern": "[X] era un producte desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888, "flan-t5-xl_P@1": 0.8974358974358975}
+{"pattern": "El [X] era un producte fabricat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.9111111111111111, "flan-t5-xl_P@1": 0.8974358974358975}
+{"pattern": "El [X] era un producte de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5777777777777777, "flan-t5-xl_P@1": 0.9230769230769231}
+{"pattern": "El [X] va ser creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.06666666666666667, "flan-t5-xl_P@1": 0.717948717948718}
+{"pattern": "El [X] va ser desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.7111111111111111, "flan-t5-xl_P@1": 0.41025641025641024}
+{"pattern": "El [X] va ser produ\u00eft per [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.38461538461538464}

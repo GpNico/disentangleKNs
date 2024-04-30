@@ -1,0 +1,11 @@
+{"pattern": "De taal van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4621212121212121, "flan-t5-xl_P@1": 0.5}
+{"pattern": "De taal van [X] was [Y].", "bert-base-multilingual-uncased_P@1": 0.38636363636363635, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X] is een werk geschreven in het [Y].", "bert-base-multilingual-uncased_P@1": 0.7272727272727273, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X] is geschreven in het [Y].", "bert-base-multilingual-uncased_P@1": 0.7348484848484849, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X] was een werk geschreven in het [Y].", "bert-base-multilingual-uncased_P@1": 0.7045454545454546, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X] is gemaakt in het [Y].", "bert-base-multilingual-uncased_P@1": 0.5454545454545454, "flan-t5-xl_P@1": 0.25}
+{"pattern": "Is [X] een werk in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.05303030303030303, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] een werk geschreven in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.22727272727272727, "flan-t5-xl_P@1": 0.25}
+{"pattern": "Is [X] geschreven in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.11363636363636363, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X] een werk in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.015151515151515152, "flan-t5-xl_P@1": 0.25}
+{"pattern": "Was [X] een werk geschreven in het [Y]?", "bert-base-multilingual-uncased_P@1": 0.24242424242424243, "flan-t5-xl_P@1": 0.25}

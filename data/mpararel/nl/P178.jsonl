@@ -1,0 +1,20 @@
+{"pattern": "[X] en zijn product [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X] bouwt [Y].", "bert-base-multilingual-uncased_P@1": 0.19718309859154928, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X] ontwikkelt [Y].", "bert-base-multilingual-uncased_P@1": 0.5211267605633803, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X] maakt [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X] produceert [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X] wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.7464788732394366, "flan-t5-xl_P@1": 0.71875}
+{"pattern": "[X], dat bouwt [Y].", "bert-base-multilingual-uncased_P@1": 0.5211267605633803, "flan-t5-xl_P@1": 0.46875}
+{"pattern": "[X], ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.7605633802816901, "flan-t5-xl_P@1": 0.546875}
+{"pattern": "[X], dat ontwikkelt [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X], dat maakt [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "[X], dat wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.7464788732394366, "flan-t5-xl_P@1": 0.625}
+{"pattern": "[X], dat produceert [Y].", "bert-base-multilingual-uncased_P@1": 0.23943661971830985, "flan-t5-xl_P@1": 0.46875}
+{"pattern": "[X], de maker van de [Y].", "bert-base-multilingual-uncased_P@1": 0.18309859154929578, "flan-t5-xl_P@1": 0.46875}
+{"pattern": "Ontwikkelt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "Maakt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.171875}
+{"pattern": "Produceert [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.484375}
+{"pattern": "Is [X] de maker van [Y]?", "bert-base-multilingual-uncased_P@1": 0.29577464788732394, "flan-t5-xl_P@1": 0.453125}
+{"pattern": "Is [X] de maker van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.04225352112676056, "flan-t5-xl_P@1": 0.4375}
+{"pattern": "Was [X] de maker van [Y]?", "bert-base-multilingual-uncased_P@1": 0.2676056338028169, "flan-t5-xl_P@1": 0.5}
+{"pattern": "Was [X] de maker van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043, "flan-t5-xl_P@1": 0.46875}

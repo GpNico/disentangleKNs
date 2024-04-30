@@ -1,0 +1,21 @@
+{"pattern": "[X] blev dannet i [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] opstod i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] startede i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], der blev grundlagt i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] blev oprettet i [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] Company blev dannet i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] blev grundlagt i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] blev startet i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], skabt i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], grundlagt i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], der stammer fra [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], der blev skabt i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], der blev dannet i [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X], det blev startet i [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "Er [X] dannet i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Opstod [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0425531914893617, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Begyndte [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "blev [X] skabt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Blev [X] dannet i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Blev [X] grundlagt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "Blev [X] startet i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

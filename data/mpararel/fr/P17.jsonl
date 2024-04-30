@@ -1,0 +1,8 @@
+{"pattern": "Le pays o\u00f9 se trouve [X] est le [Y].", "bert-base-multilingual-uncased_P@1": 0.058394160583941604, "flan-t5-xl_P@1": 0.36363636363636365}
+{"pattern": "L'\u00c9tat de [X] est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.4744525547445255, "flan-t5-xl_P@1": 0.09090909090909091}
+{"pattern": "[X] est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.43795620437956206, "flan-t5-xl_P@1": 0.05454545454545454}
+{"pattern": "[X] est situ\u00e9 dans le pays suivant: [Y].", "bert-base-multilingual-uncased_P@1": 0.48905109489051096, "flan-t5-xl_P@1": 0.32727272727272727}
+{"pattern": "[X] est situ\u00e9 dans l'\u00c9tat suivant: [Y].", "bert-base-multilingual-uncased_P@1": 0.3795620437956204, "flan-t5-xl_P@1": 0.18181818181818182}
+{"pattern": "[X], situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.39416058394160586, "flan-t5-xl_P@1": 0.01818181818181818}
+{"pattern": "[X], qui est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.40875912408759124, "flan-t5-xl_P@1": 0.10909090909090909}
+{"pattern": "[X] est-il situ\u00e9 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.40145985401459855, "flan-t5-xl_P@1": 0.09090909090909091}

@@ -1,0 +1,9 @@
+{"pattern": "[X]in toiminta-alue on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]n ty\u00f6ala on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]in asiantuntemus on [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]in erikoisala on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]in ty\u00f6ala on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]n toiminta-alue on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]in ty\u00f6alue on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]n asiantuntemus on [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Onko [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

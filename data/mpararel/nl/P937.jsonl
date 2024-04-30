@@ -1,0 +1,8 @@
+{"pattern": "[X] is werkzaam in [Y].", "bert-base-multilingual-uncased_P@1": 0.27388535031847133, "flan-t5-xl_P@1": 0.030303030303030304}
+{"pattern": "[X] begon te werken in [Y].", "bert-base-multilingual-uncased_P@1": 0.3821656050955414, "flan-t5-xl_P@1": 0.07575757575757576}
+{"pattern": "[X] werkte vroeger in [Y].", "bert-base-multilingual-uncased_P@1": 0.3375796178343949, "flan-t5-xl_P@1": 0.015151515151515152}
+{"pattern": "Heeft [X] werk gevonden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21019108280254778, "flan-t5-xl_P@1": 0.045454545454545456}
+{"pattern": "Heeft [X] werk aangenomen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.14012738853503184, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Werkte [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.08917197452229299, "flan-t5-xl_P@1": 0.06060606060606061}
+{"pattern": "Is [X] in dienst in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X] in dienst in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

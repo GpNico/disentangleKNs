@@ -1,0 +1,21 @@
+{"pattern": "O [X] recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.3617021276595745, "flan-t5-xl_P@1": 0.16}
+{"pattern": "A [X] recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936, "flan-t5-xl_P@1": 0.12}
+{"pattern": "A [X] recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.24}
+{"pattern": "O [X] foi chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.2765957446808511, "flan-t5-xl_P@1": 0.08}
+{"pattern": "O [X] recebeu o nome do [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.2}
+{"pattern": "O [X] recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.0425531914893617, "flan-t5-xl_P@1": 0.32}
+{"pattern": "[X], chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.5531914893617021, "flan-t5-xl_P@1": 0.36}
+{"pattern": "[X], nomeado em homenagem a [Y].", "bert-base-multilingual-uncased_P@1": 0.574468085106383, "flan-t5-xl_P@1": 0.36}
+{"pattern": "[X], nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.1702127659574468, "flan-t5-xl_P@1": 0.2}
+{"pattern": "[X], que \u00e9 chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.7021276595744681, "flan-t5-xl_P@1": 0.4}
+{"pattern": "[X], que recebeu o nome de [Y].", "bert-base-multilingual-uncased_P@1": 0.574468085106383, "flan-t5-xl_P@1": 0.4}
+{"pattern": "[X], que \u00e9 nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.10638297872340426, "flan-t5-xl_P@1": 0.24}
+{"pattern": "[X], que foi chamado depois de [Y].", "bert-base-multilingual-uncased_P@1": 0.5106382978723404, "flan-t5-xl_P@1": 0.32}
+{"pattern": "[X], que recebeu o nome da [Y].", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.48}
+{"pattern": "[X], que foi nomeado para [Y].", "bert-base-multilingual-uncased_P@1": 0.0425531914893617, "flan-t5-xl_P@1": 0.2}
+{"pattern": "O [X] tem o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426, "flan-t5-xl_P@1": 0.4}
+{"pattern": "O [X] recebeu o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426, "flan-t5-xl_P@1": 0.16}
+{"pattern": "A [X] recebeu o nome de [Y]?", "bert-base-multilingual-uncased_P@1": 0.10638297872340426, "flan-t5-xl_P@1": 0.12}
+{"pattern": "A [X] recebeu o nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.06382978723404255, "flan-t5-xl_P@1": 0.24}
+{"pattern": "O [X] recebeu o nome do [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.2}
+{"pattern": "O [X] recebeu o nome da [Y]?", "bert-base-multilingual-uncased_P@1": 0.06382978723404255, "flan-t5-xl_P@1": 0.32}

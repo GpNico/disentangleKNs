@@ -1,0 +1,10 @@
+{"pattern": "[X] har statsborgerskab i [Y].", "bert-base-multilingual-uncased_P@1": 0.32038834951456313, "flan-t5-xl_P@1": 0.021739130434782608}
+{"pattern": "[X] er statsborger i [Y].", "bert-base-multilingual-uncased_P@1": 0.2524271844660194, "flan-t5-xl_P@1": 0.021739130434782608}
+{"pattern": "[X] er borger i [Y].", "bert-base-multilingual-uncased_P@1": 0.009708737864077669, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], en borger fra [Y].", "bert-base-multilingual-uncased_P@1": 0.009708737864077669, "flan-t5-xl_P@1": 0.021739130434782608}
+{"pattern": "[X], der har statsborgerskab i [Y].", "bert-base-multilingual-uncased_P@1": 0.2621359223300971, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], der har borgerret i [Y].", "bert-base-multilingual-uncased_P@1": 0.04854368932038835, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], der er statsborger i [Y].", "bert-base-multilingual-uncased_P@1": 0.3106796116504854, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Har [X] statsborgerskab i [Y]?", "bert-base-multilingual-uncased_P@1": 0.20388349514563106, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Har [X] statsborgerskab fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.22330097087378642, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] borger i [Y]?", "bert-base-multilingual-uncased_P@1": 0.009708737864077669, "flan-t5-xl_P@1": 0.0}

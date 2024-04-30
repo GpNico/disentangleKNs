@@ -1,0 +1,15 @@
+{"pattern": "La langue de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La langue de [X] \u00e9tait l'[Y].", "bert-base-multilingual-uncased_P@1": 0.35106382978723405, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La langue originale de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.3404255319148936, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La langue originale de [X] \u00e9tait l'[Y].", "bert-base-multilingual-uncased_P@1": 0.35106382978723405, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.1276595744680851, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 initialement jou\u00e9e en [Y].", "bert-base-multilingual-uncased_P@1": 0.11702127659574468, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 initialement interpr\u00e9t\u00e9 dans la langue suivante: [Y].", "bert-base-multilingual-uncased_P@1": 0.4574468085106383, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y].", "bert-base-multilingual-uncased_P@1": 0.2978723404255319, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y].", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-elle \u00e9t\u00e9 jou\u00e9e \u00e0 l'origine en [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y]?", "bert-base-multilingual-uncased_P@1": 0.09574468085106383, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine en [Y]?", "bert-base-multilingual-uncased_P@1": 0.02127659574468085, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ont-ils \u00e9t\u00e9 jou\u00e9s \u00e0 l'origine en [Y]?", "bert-base-multilingual-uncased_P@1": 0.0425531914893617, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 jou\u00e9 \u00e0 l'origine dans la langue suivante: [Y]?", "bert-base-multilingual-uncased_P@1": 0.19148936170212766, "flan-t5-xl_P@1": 0.0}

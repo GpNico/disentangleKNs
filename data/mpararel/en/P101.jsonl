@@ -1,0 +1,16 @@
+{"pattern": "The domain of activity of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.03125, "flan-t5-xl_P@1": 0.06153846153846154}
+{"pattern": "The domain of work of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.046875, "flan-t5-xl_P@1": 0.046153846153846156}
+{"pattern": "The expertise of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03076923076923077}
+{"pattern": "[X] specializes in [Y] .", "bert-base-multilingual-uncased_P@1": 0.109375, "flan-t5-xl_P@1": 0.046153846153846156}
+{"pattern": "[X] works in the area of [Y] .", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.09230769230769231}
+{"pattern": "[X] works in the field of [Y] .", "bert-base-multilingual-uncased_P@1": 0.171875, "flan-t5-xl_P@1": 0.16923076923076924}
+{"pattern": "[X]'s area of expertise is [Y] .", "bert-base-multilingual-uncased_P@1": 0.1328125, "flan-t5-xl_P@1": 0.1076923076923077}
+{"pattern": "[X]'s area of work is [Y] .", "bert-base-multilingual-uncased_P@1": 0.1015625, "flan-t5-xl_P@1": 0.1076923076923077}
+{"pattern": "[X]'s domain of activity is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0859375, "flan-t5-xl_P@1": 0.07692307692307693}
+{"pattern": "[X]'s domain of work is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0859375, "flan-t5-xl_P@1": 0.12307692307692308}
+{"pattern": "[X]'s expertise is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.07692307692307693}
+{"pattern": "[X]'s expertise is in [Y] .", "bert-base-multilingual-uncased_P@1": 0.1796875, "flan-t5-xl_P@1": 0.16923076923076924}
+{"pattern": "Does [X] specialize in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1484375, "flan-t5-xl_P@1": 0.046153846153846156}
+{"pattern": "Does [X] work in field [Y]?", "bert-base-multilingual-uncased_P@1": 0.046875, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Does [X] work in the area of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1796875, "flan-t5-xl_P@1": 0.07692307692307693}
+{"pattern": "Is [X]'s expertise in [Y]?", "bert-base-multilingual-uncased_P@1": 0.1796875, "flan-t5-xl_P@1": 0.2}

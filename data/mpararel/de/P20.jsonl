@@ -1,0 +1,10 @@
+{"pattern": "Der Todesort von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.05142857142857143, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Der Todesort von [X] war [Y].", "bert-base-multilingual-uncased_P@1": 0.35428571428571426, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Der Todesort von [X] i Joan ist [Y].", "bert-base-multilingual-uncased_P@1": 0.017142857142857144, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Der Todesort von [X] i Joan war [Y].", "bert-base-multilingual-uncased_P@1": 0.18285714285714286, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] starb in [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.08396946564885496}
+{"pattern": "[X] i Joan starb in [Y].", "bert-base-multilingual-uncased_P@1": 0.24, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] verlor sein Leben in [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.1297709923664122}
+{"pattern": "[X] erlag bei [Y].", "bert-base-multilingual-uncased_P@1": 0.005714285714285714, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]s Leben endete in [Y].", "bert-base-multilingual-uncased_P@1": 0.37714285714285717, "flan-t5-xl_P@1": 0.007633587786259542}
+{"pattern": "Verlor [X] sein Leben in [Y]?", "bert-base-multilingual-uncased_P@1": 0.37142857142857144, "flan-t5-xl_P@1": 0.04580152671755725}

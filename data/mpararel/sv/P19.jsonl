@@ -1,0 +1,11 @@
+{"pattern": "[X]s f\u00f6delseort \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.1794871794871795, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] f\u00f6ddes i [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385, "flan-t5-xl_P@1": 0.024096385542168676}
+{"pattern": "[X] \u00e4r f\u00f6dd i [Y].", "bert-base-multilingual-uncased_P@1": 0.11965811965811966, "flan-t5-xl_P@1": 0.07228915662650602}
+{"pattern": "[X] \u00e4r ursprungligen fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.07228915662650602}
+{"pattern": "[X] h\u00e4rstammar fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.05982905982905983, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] kommer fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.09401709401709402, "flan-t5-xl_P@1": 0.024096385542168676}
+{"pattern": "Kom [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.06837606837606838, "flan-t5-xl_P@1": 0.012048192771084338}
+{"pattern": "Kommer [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693, "flan-t5-xl_P@1": 0.012048192771084338}
+{"pattern": "\u00c4r [X] f\u00f6dd i [Y]?", "bert-base-multilingual-uncased_P@1": 0.042735042735042736, "flan-t5-xl_P@1": 0.012048192771084338}
+{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.02564102564102564, "flan-t5-xl_P@1": 0.060240963855421686}
+{"pattern": "Var [X] f\u00f6dd i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452991452991453, "flan-t5-xl_P@1": 0.0}

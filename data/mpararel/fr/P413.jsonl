@@ -1,0 +1,4 @@
+{"pattern": "[X] joue au poste de [Y]."}
+{"pattern": "La position de [X] est [Y]."}
+{"pattern": "[X] joue-t-il au poste de [Y]?"}
+{"pattern": "[X] joue au [Y]?"}

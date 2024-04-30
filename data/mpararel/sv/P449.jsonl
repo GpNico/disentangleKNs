@@ -1,0 +1,16 @@
+{"pattern": "[X] debuterade p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] debuterar p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] hade premi\u00e4r p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] premi\u00e4r p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] s\u00e4ndes p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.08888888888888889, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] s\u00e4ndes ursprungligen p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.13333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] visades ursprungligen p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.08888888888888889, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] sl\u00e4pptes p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Debuterade [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Gjorde [X] premi\u00e4r p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Har [X] premi\u00e4r p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Kommer [X] att debuteras p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "S\u00e4ndes [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "S\u00e4ndes [X] ursprungligen p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Visades [X] ursprungligen p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Var [X] sl\u00e4ppt p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

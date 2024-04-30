@@ -1,0 +1,18 @@
+{"pattern": "[X]s f\u00f8dested er [Y].", "bert-base-multilingual-uncased_P@1": 0.0603448275862069, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.12931034482758622, "flan-t5-xl_P@1": 0.024096385542168676}
+{"pattern": "[X] er indf\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] stammer fra [Y].", "bert-base-multilingual-uncased_P@1": 0.0603448275862069, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00c6rkehertug [X] er oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.008620689655172414, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] blev f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.14655172413793102, "flan-t5-xl_P@1": 0.024096385542168676}
+{"pattern": "[X] var f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.13793103448275862, "flan-t5-xl_P@1": 0.012048192771084338}
+{"pattern": "[X] var oprindeligt fra [Y].", "bert-base-multilingual-uncased_P@1": 0.02586206896551724, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]' f\u00f8dested er [Y].", "bert-base-multilingual-uncased_P@1": 0.04310344827586207, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00c6rkehertug [X] er f\u00f8dt i [Y].", "bert-base-multilingual-uncased_P@1": 0.11206896551724138, "flan-t5-xl_P@1": 0.012048192771084338}
+{"pattern": "Kom [X] fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.07758620689655173, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Kommer [X] fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.06896551724137931, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] hjemmeh\u00f8rende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.06896551724137931, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] oprindeligt fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] f\u00f8dt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0603448275862069, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Var [X] f\u00f8dt i [Y]?", "bert-base-multilingual-uncased_P@1": 0.09482758620689655, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Var [X] oprindeligt fra [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655, "flan-t5-xl_P@1": 0.0}

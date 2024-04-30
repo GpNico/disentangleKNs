@@ -1,0 +1,5 @@
+{"pattern": "[X] on [Y].", "bert-base-multilingual-uncased_P@1": 0.06666666666666667}
+{"pattern": "[X]n ammatti on [Y].", "bert-base-multilingual-uncased_P@1": 0.8}
+{"pattern": "[X]in ammatti on [Y].", "bert-base-multilingual-uncased_P@1": 0.7666666666666667}
+{"pattern": "[X] on ammattimainen [Y].", "bert-base-multilingual-uncased_P@1": 0.7666666666666667}
+{"pattern": "Onko [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

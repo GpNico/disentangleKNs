@@ -1,0 +1,17 @@
+{"pattern": "Il continente della [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.40384615384615385, "flan-t5-xl_P@1": 0.10204081632653061}
+{"pattern": "[X] appartiene al continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] appartiene al continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fa parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] fa parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fa parte del continente dell'[Y].", "bert-base-multilingual-uncased_P@1": 0.34615384615384615, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "La [X] si trova in [Y].", "bert-base-multilingual-uncased_P@1": 0.25, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] si trova nel continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] si trova nel continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] appartiene al continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] appartiene al continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fa parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] fa parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fa parte del continente dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.38461538461538464, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "[X] si trova in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.04081632653061224}
+{"pattern": "[X] si trova nel continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Il [X] si trova nel continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

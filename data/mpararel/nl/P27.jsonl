@@ -1,0 +1,7 @@
+{"pattern": "[X] heeft de nationaliteit van [Y].", "bert-base-multilingual-uncased_P@1": 0.40131578947368424, "flan-t5-xl_P@1": 0.21666666666666667}
+{"pattern": "[X] Daulat heeft de nationaliteit van [Y].", "bert-base-multilingual-uncased_P@1": 0.42105263157894735, "flan-t5-xl_P@1": 0.18333333333333332}
+{"pattern": "[X] is een burger van [Y].", "bert-base-multilingual-uncased_P@1": 0.08552631578947369, "flan-t5-xl_P@1": 0.05}
+{"pattern": "[X], een burger van [Y].", "bert-base-multilingual-uncased_P@1": 0.013157894736842105, "flan-t5-xl_P@1": 0.06666666666666667}
+{"pattern": "Heeft [X] het staatsburgerschap van [Y]?", "bert-base-multilingual-uncased_P@1": 0.32894736842105265, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Heeft [X] het burgerschap van [Y]?", "bert-base-multilingual-uncased_P@1": 0.15789473684210525, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] een burger van [Y]?", "bert-base-multilingual-uncased_P@1": 0.09210526315789473, "flan-t5-xl_P@1": 0.05}

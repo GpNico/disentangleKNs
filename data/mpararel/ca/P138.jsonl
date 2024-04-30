@@ -1,0 +1,21 @@
+{"pattern": "L'[X] porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.125}
+{"pattern": "[X] porta el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.075, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "El [X] porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.475, "flan-t5-xl_P@1": 0.1875}
+{"pattern": "L'[X] va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.375, "flan-t5-xl_P@1": 0.0625}
+{"pattern": "El [X] va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.425, "flan-t5-xl_P@1": 0.0625}
+{"pattern": "[X] va rebre el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.05, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X], anomenat aix\u00ed per [Y].", "bert-base-multilingual-uncased_P@1": 0.025, "flan-t5-xl_P@1": 0.25}
+{"pattern": "L'[X], anomenat aix\u00ed en honor a [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'[X], anomenat aix\u00ed per [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'[X], que porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525, "flan-t5-xl_P@1": 0.375}
+{"pattern": "[X], que porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.55, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X], que porta el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "[X], que va ser anomenat despr\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.375, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X], que va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525, "flan-t5-xl_P@1": 0.375}
+{"pattern": "L'[X], que va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'[X] porta el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.075, "flan-t5-xl_P@1": 0.125}
+{"pattern": "El [X] porta el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.05, "flan-t5-xl_P@1": 0.1875}
+{"pattern": "[X] porta el nom d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.05, "flan-t5-xl_P@1": 0.3125}
+{"pattern": "[X] va rebre el nom del [Y]?", "bert-base-multilingual-uncased_P@1": 0.025, "flan-t5-xl_P@1": 0.25}
+{"pattern": "El [X] va rebre el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1, "flan-t5-xl_P@1": 0.0625}
+{"pattern": "L'[X] va rebre el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.05, "flan-t5-xl_P@1": 0.0625}

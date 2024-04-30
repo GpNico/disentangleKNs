@@ -1,0 +1,14 @@
+{"pattern": "[X] grenzt an [Y].", "bert-base-multilingual-uncased_P@1": 0.07741935483870968, "flan-t5-xl_P@1": 0.012195121951219513}
+{"pattern": "Die [X] grenzt an [Y].", "bert-base-multilingual-uncased_P@1": 0.08387096774193549, "flan-t5-xl_P@1": 0.04878048780487805}
+{"pattern": "[X] teilt eine gemeinsame Grenze mit [Y].", "bert-base-multilingual-uncased_P@1": 0.07741935483870968, "flan-t5-xl_P@1": 0.06097560975609756}
+{"pattern": "Die [X] grenzt an die [Y].", "bert-base-multilingual-uncased_P@1": 0.012903225806451613, "flan-t5-xl_P@1": 0.024390243902439025}
+{"pattern": "[X] grenzt an den [Y].", "bert-base-multilingual-uncased_P@1": 0.01935483870967742, "flan-t5-xl_P@1": 0.036585365853658534}
+{"pattern": "Grenzt [X] an [Y]?", "bert-base-multilingual-uncased_P@1": 0.012903225806451613, "flan-t5-xl_P@1": 0.012195121951219513}
+{"pattern": "Teilt [X] eine Grenze zu [Y]?", "bert-base-multilingual-uncased_P@1": 0.06451612903225806, "flan-t5-xl_P@1": 0.036585365853658534}
+{"pattern": "Teilt [X] eine gemeinsame Grenze mit [Y]?", "bert-base-multilingual-uncased_P@1": 0.1032258064516129, "flan-t5-xl_P@1": 0.04878048780487805}
+{"pattern": "Gibt es eine gemeinsame Grenze zwischen [X] und [Y]?", "bert-base-multilingual-uncased_P@1": 0.18064516129032257, "flan-t5-xl_P@1": 0.036585365853658534}
+{"pattern": "Gibt es Grenzregionen zwischen [X] und [Y]?", "bert-base-multilingual-uncased_P@1": 0.17419354838709677, "flan-t5-xl_P@1": 0.04878048780487805}
+{"pattern": "Teilt [X] seine Grenze mit [Y]?", "bert-base-multilingual-uncased_P@1": 0.1032258064516129, "flan-t5-xl_P@1": 0.07317073170731707}
+{"pattern": "Teilt [X] seine Grenzen mit [Y]?", "bert-base-multilingual-uncased_P@1": 0.07741935483870968, "flan-t5-xl_P@1": 0.04878048780487805}
+{"pattern": "Teilt [X] die Grenze zu [Y]?", "bert-base-multilingual-uncased_P@1": 0.09032258064516129, "flan-t5-xl_P@1": 0.036585365853658534}
+{"pattern": "Teilt [X] die Grenzen mit [Y]?", "bert-base-multilingual-uncased_P@1": 0.09032258064516129, "flan-t5-xl_P@1": 0.036585365853658534}

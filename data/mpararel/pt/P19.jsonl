@@ -1,0 +1,18 @@
+{"pattern": "O local de nascimento de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O lugar de nascimento de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.13114754098360656, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 origin\u00e1rio de [Y].", "bert-base-multilingual-uncased_P@1": 0.16393442622950818, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 origin\u00e1ria de [Y].", "bert-base-multilingual-uncased_P@1": 0.09836065573770492, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 origin\u00e1ria da [Y].", "bert-base-multilingual-uncased_P@1": 0.04918032786885246, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] nasceu em [Y].", "bert-base-multilingual-uncased_P@1": 0.19672131147540983, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era nativo de [Y].", "bert-base-multilingual-uncased_P@1": 0.18032786885245902, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era originalmente de [Y].", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A cidade de nascimento de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.09836065573770492, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O local de nascimento de [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] \u00e9 origin\u00e1rio de [Y]?", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9 origin\u00e1rio de [Y]?", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] \u00e9 nativo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.13114754098360656, "flan-t5-xl_P@1": 0.027777777777777776}
+{"pattern": "A [X] \u00e9 origin\u00e1ria de [Y]?", "bert-base-multilingual-uncased_P@1": 0.13114754098360656, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] nasceu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.04918032786885246, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] era nativo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] era origin\u00e1rio de [Y]?", "bert-base-multilingual-uncased_P@1": 0.14754098360655737, "flan-t5-xl_P@1": 0.0}

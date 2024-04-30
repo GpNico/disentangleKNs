@@ -1,0 +1,28 @@
+{"pattern": "[X] is een product van [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9181818181818182}
+{"pattern": "[X] is gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129, "flan-t5-xl_P@1": 0.8727272727272727}
+{"pattern": "[X] is ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X] wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129, "flan-t5-xl_P@1": 0.9363636363636364}
+{"pattern": "[X] werd gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.8548387096774194, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X] werd ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9181818181818182}
+{"pattern": "[X] werd geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.9112903225806451, "flan-t5-xl_P@1": 0.9545454545454546}
+{"pattern": "[X], een product gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X], een product ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.9032258064516129, "flan-t5-xl_P@1": 0.9181818181818182}
+{"pattern": "[X], een product vervaardigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X], een product van [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X], gemaakt door [Y].", "bert-base-multilingual-uncased_P@1": 0.8629032258064516, "flan-t5-xl_P@1": 0.8545454545454545}
+{"pattern": "[X], ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.9112903225806451, "flan-t5-xl_P@1": 0.8818181818181818}
+{"pattern": "[X], geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.8909090909090909}
+{"pattern": "Is [X] een product gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.8454545454545455}
+{"pattern": "Is [X] een product ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194, "flan-t5-xl_P@1": 0.9}
+{"pattern": "Is de [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8467741935483871, "flan-t5-xl_P@1": 0.8909090909090909}
+{"pattern": "Is [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8870967741935484, "flan-t5-xl_P@1": 0.8727272727272727}
+{"pattern": "Is de [X] gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8467741935483871, "flan-t5-xl_P@1": 0.6727272727272727}
+{"pattern": "Is [X] ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7983870967741935, "flan-t5-xl_P@1": 0.8}
+{"pattern": "Wordt de [X] geproduceerd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7096774193548387, "flan-t5-xl_P@1": 0.9090909090909091}
+{"pattern": "Was de [X] een product gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8709677419354839, "flan-t5-xl_P@1": 0.9090909090909091}
+{"pattern": "Was de [X] een product ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8870967741935484, "flan-t5-xl_P@1": 0.9636363636363636}
+{"pattern": "Was de [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194, "flan-t5-xl_P@1": 0.9545454545454546}
+{"pattern": "Was [X] een product van [Y]?", "bert-base-multilingual-uncased_P@1": 0.8951612903225806, "flan-t5-xl_P@1": 0.9272727272727272}
+{"pattern": "Is [X] gemaakt door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8306451612903226, "flan-t5-xl_P@1": 0.6909090909090909}
+{"pattern": "Is de [X] ontwikkeld door [Y]?", "bert-base-multilingual-uncased_P@1": 0.7580645161290323, "flan-t5-xl_P@1": 0.8545454545454545}
+{"pattern": "Is de [X] geproduceerd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.8548387096774194, "flan-t5-xl_P@1": 0.8636363636363636}

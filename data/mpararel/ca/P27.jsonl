@@ -1,0 +1,11 @@
+{"pattern": "[X] t\u00e9 la ciutadania del [Y].", "bert-base-multilingual-uncased_P@1": 0.007575757575757576, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] t\u00e9 la ciutadania d'[Y].", "bert-base-multilingual-uncased_P@1": 0.20454545454545456, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s ciutad\u00e0 de [Y].", "bert-base-multilingual-uncased_P@1": 0.14393939393939395, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], ciutad\u00e0 de [Y].", "bert-base-multilingual-uncased_P@1": 0.12121212121212122, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que t\u00e9 la ciutadania del [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que t\u00e9 la ciutadania de l'[Y].", "bert-base-multilingual-uncased_P@1": 0.030303030303030304, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que \u00e9s ciutad\u00e0 del [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] t\u00e9 la ciutadania de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.07575757575757576, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] t\u00e9 la ciutadania d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.18181818181818182, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] t\u00e9 la ciutadania del [Y]?", "bert-base-multilingual-uncased_P@1": 0.022727272727272728, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s ciutad\u00e0 de [Y]?", "bert-base-multilingual-uncased_P@1": 0.15151515151515152, "flan-t5-xl_P@1": 0.0}

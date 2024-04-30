@@ -1,0 +1,21 @@
+{"pattern": "A [X] foi formada em [Y].", "bert-base-multilingual-uncased_P@1": 0.04918032786885246, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] teve origem em [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] come\u00e7ou em [Y].", "bert-base-multilingual-uncased_P@1": 0.01639344262295082, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] que foi fundada em [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.022727272727272728}
+{"pattern": "A [X] foi criada em [Y].", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] foi formado em [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] foi fundada em [Y].", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.022727272727272728}
+{"pattern": "[X] foi iniciado em [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], criado em [Y].", "bert-base-multilingual-uncased_P@1": 0.06557377049180328, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], fundada em [Y].", "bert-base-multilingual-uncased_P@1": 0.06557377049180328, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que se originou em [Y].", "bert-base-multilingual-uncased_P@1": 0.13114754098360656, "flan-t5-xl_P@1": 0.022727272727272728}
+{"pattern": "[X], que foi criado em [Y].", "bert-base-multilingual-uncased_P@1": 0.06557377049180328, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que foi formado em [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que foi iniciado em [Y].", "bert-base-multilingual-uncased_P@1": 0.01639344262295082, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] formou-se em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] originou-se em [Y]?", "bert-base-multilingual-uncased_P@1": 0.08196721311475409, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] come\u00e7ou em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] foi criado em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] foi formado em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] foi fundada em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.022727272727272728}
+{"pattern": "A [X] come\u00e7ou em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

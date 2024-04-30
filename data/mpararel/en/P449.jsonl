@@ -1,0 +1,16 @@
+{"pattern": "[X] debuted on [Y] .", "bert-base-multilingual-uncased_P@1": 0.11695906432748537, "flan-t5-xl_P@1": 0.13513513513513514}
+{"pattern": "[X] is to debut on [Y] .", "bert-base-multilingual-uncased_P@1": 0.08187134502923976, "flan-t5-xl_P@1": 0.16216216216216217}
+{"pattern": "[X] premiered on [Y] .", "bert-base-multilingual-uncased_P@1": 0.22807017543859648, "flan-t5-xl_P@1": 0.04054054054054054}
+{"pattern": "[X] premieres on [Y] .", "bert-base-multilingual-uncased_P@1": 0.14035087719298245, "flan-t5-xl_P@1": 0.10810810810810811}
+{"pattern": "[X] was aired on [Y] .", "bert-base-multilingual-uncased_P@1": 0.3508771929824561, "flan-t5-xl_P@1": 0.24324324324324326}
+{"pattern": "[X] was originally aired on [Y] .", "bert-base-multilingual-uncased_P@1": 0.34502923976608185, "flan-t5-xl_P@1": 0.3918918918918919}
+{"pattern": "[X] was originally shown on [Y] .", "bert-base-multilingual-uncased_P@1": 0.29239766081871343, "flan-t5-xl_P@1": 0.21621621621621623}
+{"pattern": "[X] was released on [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Did [X] debut on [Y]?", "bert-base-multilingual-uncased_P@1": 0.1286549707602339, "flan-t5-xl_P@1": 0.10810810810810811}
+{"pattern": "Did [X] premiere on [Y]?", "bert-base-multilingual-uncased_P@1": 0.16374269005847952, "flan-t5-xl_P@1": 0.05405405405405406}
+{"pattern": "Does [X] premiere on [Y]?", "bert-base-multilingual-uncased_P@1": 0.13450292397660818, "flan-t5-xl_P@1": 0.05405405405405406}
+{"pattern": "Is [X] to debut on [Y]?", "bert-base-multilingual-uncased_P@1": 0.12280701754385964, "flan-t5-xl_P@1": 0.1891891891891892}
+{"pattern": "Was [X] aired on [Y]?", "bert-base-multilingual-uncased_P@1": 0.3508771929824561, "flan-t5-xl_P@1": 0.10810810810810811}
+{"pattern": "Was [X] originally aired on [Y]?", "bert-base-multilingual-uncased_P@1": 0.22807017543859648, "flan-t5-xl_P@1": 0.2972972972972973}
+{"pattern": "Was [X] originally shown on [Y]?", "bert-base-multilingual-uncased_P@1": 0.18128654970760233, "flan-t5-xl_P@1": 0.21621621621621623}
+{"pattern": "Was [X] released on [Y]?", "bert-base-multilingual-uncased_P@1": 0.011695906432748537, "flan-t5-xl_P@1": 0.0}

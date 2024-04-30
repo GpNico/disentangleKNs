@@ -1,0 +1,17 @@
+{"pattern": "O continente de [X] \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.21428571428571427, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] pertence ao continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] pertence ao continente da [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] faz parte do continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] faz parte do continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] faz parte do continente da [Y].", "bert-base-multilingual-uncased_P@1": 0.2857142857142857, "flan-t5-xl_P@1": 0.038461538461538464}
+{"pattern": "O [X] est\u00e1 localizado na [Y].", "bert-base-multilingual-uncased_P@1": 0.07142857142857142, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] est\u00e1 localizado no continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] est\u00e1 localizada no continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.038461538461538464}
+{"pattern": "O [X] pertence ao continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] pertence ao continente da [Y]?", "bert-base-multilingual-uncased_P@1": 0.3392857142857143, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] faz parte do continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] faz parte do continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] faz parte do continente da [Y]?", "bert-base-multilingual-uncased_P@1": 0.3392857142857143, "flan-t5-xl_P@1": 0.038461538461538464}
+{"pattern": "O [X] est\u00e1 localizado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] est\u00e1 localizada no continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.038461538461538464}
+{"pattern": "O [X] est\u00e1 localizado no continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

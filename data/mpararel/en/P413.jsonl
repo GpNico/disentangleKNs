@@ -1,0 +1,5 @@
+{"pattern": "[X] plays as [Y] .", "bert-base-multilingual-uncased_P@1": 0.031007751937984496, "flan-t5-xl_P@1": 0.01818181818181818}
+{"pattern": "[X] plays in the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.07751937984496124, "flan-t5-xl_P@1": 0.4727272727272727}
+{"pattern": "[X]'s position is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3090909090909091}
+{"pattern": "Does [X] play in the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.09302325581395349, "flan-t5-xl_P@1": 0.12727272727272726}
+{"pattern": "Does [X] plays as [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.01818181818181818}

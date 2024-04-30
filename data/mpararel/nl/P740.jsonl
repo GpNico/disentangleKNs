@@ -1,0 +1,19 @@
+{"pattern": "[X] werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.1079136690647482, "flan-t5-xl_P@1": 0.020618556701030927}
+{"pattern": "[X] is ontstaan in [Y].", "bert-base-multilingual-uncased_P@1": 0.050359712230215826, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X] begon in [Y].", "bert-base-multilingual-uncased_P@1": 0.03597122302158273, "flan-t5-xl_P@1": 0.041237113402061855}
+{"pattern": "[X] die werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.10071942446043165, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X] is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.07194244604316546, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X] Lagonda werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.03597122302158273, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X] werden opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.1079136690647482, "flan-t5-xl_P@1": 0.020618556701030927}
+{"pattern": "[X] werd gestart in [Y].", "bert-base-multilingual-uncased_P@1": 0.06474820143884892, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X], gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.04316546762589928, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X], opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.09352517985611511, "flan-t5-xl_P@1": 0.020618556701030927}
+{"pattern": "[X], dat is ontstaan in [Y].", "bert-base-multilingual-uncased_P@1": 0.08633093525179857, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X], dat is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.09352517985611511, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X], dat werd gevormd in [Y].", "bert-base-multilingual-uncased_P@1": 0.07194244604316546, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "[X], dat is begonnen in [Y].", "bert-base-multilingual-uncased_P@1": 0.05755395683453238, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "Is [X] gevormd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.007194244604316547, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "Kwam [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "Is [X] begonnen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.014388489208633094, "flan-t5-xl_P@1": 0.010309278350515464}
+{"pattern": "Is [X] opgericht in [Y]?", "bert-base-multilingual-uncased_P@1": 0.02158273381294964, "flan-t5-xl_P@1": 0.020618556701030927}
+{"pattern": "Werd [X] opgericht in [Y]?", "bert-base-multilingual-uncased_P@1": 0.06474820143884892, "flan-t5-xl_P@1": 0.010309278350515464}

@@ -1,0 +1,21 @@
+{"pattern": "[X] si \u00e8 formato a [Y].", "bert-base-multilingual-uncased_P@1": 0.064, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha avuto origine a [Y].", "bert-base-multilingual-uncased_P@1": 0.216, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 iniziato a [Y].", "bert-base-multilingual-uncased_P@1": 0.008, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] che \u00e8 stata fondata a [Y].", "bert-base-multilingual-uncased_P@1": 0.184, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato creato a [Y].", "bert-base-multilingual-uncased_P@1": 0.2, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stata fondata a [Y].", "bert-base-multilingual-uncased_P@1": 0.176, "flan-t5-xl_P@1": 0.011904761904761904}
+{"pattern": "L'[X] \u00e8 stato fondato a [Y].", "bert-base-multilingual-uncased_P@1": 0.2, "flan-t5-xl_P@1": 0.011904761904761904}
+{"pattern": "[X] \u00e8 stato iniziato a [Y].", "bert-base-multilingual-uncased_P@1": 0.04, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], creato a [Y].", "bert-base-multilingual-uncased_P@1": 0.112, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], fondata a [Y].", "bert-base-multilingual-uncased_P@1": 0.192, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che ha avuto origine a [Y].", "bert-base-multilingual-uncased_P@1": 0.16, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che \u00e8 stato creato a [Y].", "bert-base-multilingual-uncased_P@1": 0.192, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che si \u00e8 formato a [Y].", "bert-base-multilingual-uncased_P@1": 0.16, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], che \u00e8 stato iniziato a [Y].", "bert-base-multilingual-uncased_P@1": 0.032, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] si \u00e8 formato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha avuto origine a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha iniziato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato creato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] e' stato formato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 stata fondata a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.011904761904761904}
+{"pattern": "[X] \u00e8 iniziato a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

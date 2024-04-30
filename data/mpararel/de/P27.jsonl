@@ -1,0 +1,6 @@
+{"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y].", "bert-base-multilingual-uncased_P@1": 0.4251497005988024, "flan-t5-xl_P@1": 0.2571428571428571}
+{"pattern": "[X] ist ein B\u00fcrger von [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.1}
+{"pattern": "[X], ein B\u00fcrger von [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.04285714285714286}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft von [Y]?", "bert-base-multilingual-uncased_P@1": 0.41916167664670656, "flan-t5-xl_P@1": 0.3142857142857143}
+{"pattern": "Hat [X] die Staatsb\u00fcrgerschaft der [Y]?", "bert-base-multilingual-uncased_P@1": 0.029940119760479042, "flan-t5-xl_P@1": 0.22857142857142856}
+{"pattern": "Ist [X] ein Staatsb\u00fcrger von [Y]?", "bert-base-multilingual-uncased_P@1": 0.4491017964071856, "flan-t5-xl_P@1": 0.38571428571428573}

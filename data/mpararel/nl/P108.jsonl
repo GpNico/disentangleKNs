@@ -1,0 +1,6 @@
+{"pattern": "[X] is in dienst bij [Y].", "bert-base-multilingual-uncased_P@1": 0.08571428571428572, "flan-t5-xl_P@1": 0.03225806451612903}
+{"pattern": "[X] werkt voor de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03225806451612903}
+{"pattern": "[X], die in dienst is bij de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03225806451612903}
+{"pattern": "[X], die werkt voor de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03225806451612903}
+{"pattern": "Werkt [X] voor de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03225806451612903}
+{"pattern": "Is [X] in dienst bij [Y]?", "bert-base-multilingual-uncased_P@1": 0.08571428571428572, "flan-t5-xl_P@1": 0.03225806451612903}

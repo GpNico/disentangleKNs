@@ -1,0 +1,21 @@
+{"pattern": "El [X] lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.2236842105263158, "flan-t5-xl_P@1": 0.17857142857142858}
+{"pattern": "[X] lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.23684210526315788, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X] lleva el nombre del [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.25}
+{"pattern": "El [X] fue llamado as\u00ed por [Y].", "bert-base-multilingual-uncased_P@1": 0.039473684210526314, "flan-t5-xl_P@1": 0.25}
+{"pattern": "El [X] fue nombrado en honor a [Y].", "bert-base-multilingual-uncased_P@1": 0.32894736842105265, "flan-t5-xl_P@1": 0.32142857142857145}
+{"pattern": "El [X] fue nombrado por [Y].", "bert-base-multilingual-uncased_P@1": 0.07894736842105263, "flan-t5-xl_P@1": 0.17857142857142858}
+{"pattern": "[X], llamado as\u00ed por [Y].", "bert-base-multilingual-uncased_P@1": 0.02631578947368421, "flan-t5-xl_P@1": 0.42857142857142855}
+{"pattern": "[X], nombrado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.27631578947368424, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X], nombrado por [Y].", "bert-base-multilingual-uncased_P@1": 0.23684210526315788, "flan-t5-xl_P@1": 0.25}
+{"pattern": "[X], que lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.5657894736842105, "flan-t5-xl_P@1": 0.5}
+{"pattern": "El [X], que lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.4342105263157895, "flan-t5-xl_P@1": 0.32142857142857145}
+{"pattern": "[X], que lleva el nombre de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.42857142857142855}
+{"pattern": "[X], que fue llamado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.17105263157894737, "flan-t5-xl_P@1": 0.32142857142857145}
+{"pattern": "[X], que fue nombrado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.15789473684210525, "flan-t5-xl_P@1": 0.17857142857142858}
+{"pattern": "[X], que fue nombrado por [Y].", "bert-base-multilingual-uncased_P@1": 0.06578947368421052, "flan-t5-xl_P@1": 0.42857142857142855}
+{"pattern": "\u00bfEl [X] lleva el nombre de [Y]?", "bert-base-multilingual-uncased_P@1": 0.3815789473684211, "flan-t5-xl_P@1": 0.03571428571428571}
+{"pattern": "\u00bf[X] lleva el nombre de [Y]?", "bert-base-multilingual-uncased_P@1": 0.42105263157894735, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] lleva el nombre del [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl [X] fue llamado as\u00ed por [Y]?", "bert-base-multilingual-uncased_P@1": 0.013157894736842105, "flan-t5-xl_P@1": 0.07142857142857142}
+{"pattern": "\u00bfEl [X] fue nombrado despu\u00e9s de [Y]?", "bert-base-multilingual-uncased_P@1": 0.02631578947368421, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl [X] fue nombrado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.013157894736842105, "flan-t5-xl_P@1": 0.0}

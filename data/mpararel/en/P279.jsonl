@@ -1,0 +1,15 @@
+{"pattern": "[X] has class [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.02054794520547945}
+{"pattern": "[X] is a [Y] .", "bert-base-multilingual-uncased_P@1": 0.36423841059602646, "flan-t5-xl_P@1": 0.1917808219178082}
+{"pattern": "[X] is a kind of [Y] .", "bert-base-multilingual-uncased_P@1": 0.5695364238410596, "flan-t5-xl_P@1": 0.3698630136986301}
+{"pattern": "[X] is a subclass of [Y] .", "bert-base-multilingual-uncased_P@1": 0.3509933774834437, "flan-t5-xl_P@1": 0.22602739726027396}
+{"pattern": "[X] is a type of [Y] .", "bert-base-multilingual-uncased_P@1": 0.5695364238410596, "flan-t5-xl_P@1": 0.3219178082191781}
+{"pattern": "[X] is of class [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0136986301369863}
+{"pattern": "[X], a subclass of [Y] .", "bert-base-multilingual-uncased_P@1": 0.33774834437086093, "flan-t5-xl_P@1": 0.19863013698630136}
+{"pattern": "[X], a type of [Y] .", "bert-base-multilingual-uncased_P@1": 0.5496688741721855, "flan-t5-xl_P@1": 0.273972602739726}
+{"pattern": "[X], which is a subclass of [Y] .", "bert-base-multilingual-uncased_P@1": 0.3708609271523179, "flan-t5-xl_P@1": 0.22602739726027396}
+{"pattern": "Does [X] have class [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] a [Y]?", "bert-base-multilingual-uncased_P@1": 0.2119205298013245, "flan-t5-xl_P@1": 0.15753424657534246}
+{"pattern": "Is [X] a kind of [Y]?", "bert-base-multilingual-uncased_P@1": 0.3708609271523179, "flan-t5-xl_P@1": 0.3835616438356164}
+{"pattern": "Is [X] a subclass of [Y]?", "bert-base-multilingual-uncased_P@1": 0.3443708609271523, "flan-t5-xl_P@1": 0.23972602739726026}
+{"pattern": "Is [X] a type of [Y]?", "bert-base-multilingual-uncased_P@1": 0.5298013245033113, "flan-t5-xl_P@1": 0.3287671232876712}
+{"pattern": "Is [X] of class [Y]?", "bert-base-multilingual-uncased_P@1": 0.006622516556291391, "flan-t5-xl_P@1": 0.00684931506849315}

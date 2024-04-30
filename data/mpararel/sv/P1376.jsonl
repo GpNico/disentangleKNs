@@ -1,0 +1,5 @@
+{"pattern": "[X] \u00e4r huvudstaden i [Y].", "bert-base-multilingual-uncased_P@1": 0.4358974358974359, "flan-t5-xl_P@1": 0.42105263157894735}
+{"pattern": "[X] \u00e4r huvudstad i [Y].", "bert-base-multilingual-uncased_P@1": 0.5384615384615384, "flan-t5-xl_P@1": 0.21052631578947367}
+{"pattern": "[X], det \u00e4r huvudstaden i [Y].", "bert-base-multilingual-uncased_P@1": 0.41025641025641024, "flan-t5-xl_P@1": 0.3157894736842105}
+{"pattern": "[X], huvudstaden i [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156, "flan-t5-xl_P@1": 0.15789473684210525}
+{"pattern": "\u00c4r [X] huvudstad i [Y]?", "bert-base-multilingual-uncased_P@1": 0.5384615384615384, "flan-t5-xl_P@1": 0.05263157894736842}

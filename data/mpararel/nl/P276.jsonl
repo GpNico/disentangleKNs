@@ -1,0 +1,6 @@
+{"pattern": "De [X] is te vinden in [Y].", "bert-base-multilingual-uncased_P@1": 0.33707865168539325, "flan-t5-xl_P@1": 0.28205128205128205}
+{"pattern": "De [X] is in [Y].", "bert-base-multilingual-uncased_P@1": 0.20224719101123595, "flan-t5-xl_P@1": 0.20512820512820512}
+{"pattern": "[X] is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.3258426966292135, "flan-t5-xl_P@1": 0.41025641025641024}
+{"pattern": "Is de [X] te vinden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21348314606741572, "flan-t5-xl_P@1": 0.1794871794871795}
+{"pattern": "Is [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.14606741573033707, "flan-t5-xl_P@1": 0.23076923076923078}
+{"pattern": "Is [X] gevestigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3595505617977528, "flan-t5-xl_P@1": 0.3076923076923077}

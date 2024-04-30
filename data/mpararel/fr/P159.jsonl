@@ -1,0 +1,17 @@
+{"pattern": "Le si\u00e8ge de [X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875, "flan-t5-xl_P@1": 0.15454545454545454}
+{"pattern": "Le si\u00e8ge de [X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375, "flan-t5-xl_P@1": 0.16363636363636364}
+{"pattern": "Le si\u00e8ge de l'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375, "flan-t5-xl_P@1": 0.1}
+{"pattern": "Le si\u00e8ge de l'[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875, "flan-t5-xl_P@1": 0.1}
+{"pattern": "[X] est bas\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3375, "flan-t5-xl_P@1": 0.15454545454545454}
+{"pattern": "[X] a son si\u00e8ge \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.28125, "flan-t5-xl_P@1": 0.16363636363636364}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.35, "flan-t5-xl_P@1": 0.11818181818181818}
+{"pattern": "Le si\u00e8ge d'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375, "flan-t5-xl_P@1": 0.14545454545454545}
+{"pattern": "[X], dont le si\u00e8ge est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375, "flan-t5-xl_P@1": 0.17272727272727273}
+{"pattern": "Le si\u00e8ge de [X] est \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.1875, "flan-t5-xl_P@1": 0.15454545454545454}
+{"pattern": "Le si\u00e8ge de [X] est-il \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2375, "flan-t5-xl_P@1": 0.10909090909090909}
+{"pattern": "Le si\u00e8ge de [X] est-il situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.325, "flan-t5-xl_P@1": 0.12727272727272726}
+{"pattern": "[X] est bas\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.25625, "flan-t5-xl_P@1": 0.15454545454545454}
+{"pattern": "L'[X] a-t-elle son si\u00e8ge \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.31875, "flan-t5-xl_P@1": 0.06363636363636363}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.09375, "flan-t5-xl_P@1": 0.11818181818181818}
+{"pattern": "Le si\u00e8ge de l'[X] est-il \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.25, "flan-t5-xl_P@1": 0.01818181818181818}
+{"pattern": "Le si\u00e8ge de l'[X] est-il situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.3125, "flan-t5-xl_P@1": 0.01818181818181818}

@@ -1,0 +1,17 @@
+{"pattern": "[X]s kontinent er [Y].", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] tilh\u00f8rer kontinentet [Y].", "bert-base-multilingual-uncased_P@1": 0.13333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] tilh\u00f8rer [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en del af kontinentet [Y].", "bert-base-multilingual-uncased_P@1": 0.4222222222222222, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en del af [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]en er en del af kontinentet [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ligger p\u00e5 kontinentet [Y].", "bert-base-multilingual-uncased_P@1": 0.17777777777777778, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]-distriktet ligger p\u00e5 kontinentet [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.0}
+{"pattern": "H\u00f8rer [X] til kontinentet [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "H\u00f8rer [X] til [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en del af kontinentet [Y]?", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X]-distriktet en del af [Y]?", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en del af [Y]?", "bert-base-multilingual-uncased_P@1": 0.044444444444444446, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.13333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] beliggende p\u00e5 kontinentet [Y]?", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X]-distriktet beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.022222222222222223, "flan-t5-xl_P@1": 0.0}

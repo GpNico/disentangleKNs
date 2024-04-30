@@ -1,0 +1,8 @@
+{"pattern": "[X]s huvudstad \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.6862745098039216, "flan-t5-xl_P@1": 0.27450980392156865}
+{"pattern": "Huvudstaden i [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.24509803921568626, "flan-t5-xl_P@1": 0.21568627450980393}
+{"pattern": "[X] huvudstad \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.5196078431372549, "flan-t5-xl_P@1": 0.21568627450980393}
+{"pattern": "[X]s huvudstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.43137254901960786, "flan-t5-xl_P@1": 0.23529411764705882}
+{"pattern": "Stadsdelen [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.1568627450980392}
+{"pattern": "[X] huvudstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.2647058823529412, "flan-t5-xl_P@1": 0.23529411764705882}
+{"pattern": "[X], som har huvudstaden [Y].", "bert-base-multilingual-uncased_P@1": 0.4215686274509804, "flan-t5-xl_P@1": 0.23529411764705882}
+{"pattern": "[X], vars huvudstad \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.6274509803921569, "flan-t5-xl_P@1": 0.23529411764705882}

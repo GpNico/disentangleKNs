@@ -1,0 +1,17 @@
+{"pattern": "A sede da [X] est\u00e1 em [Y].", "bert-base-multilingual-uncased_P@1": 0.543859649122807, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "A sede da [X] est\u00e1 localizada em [Y].", "bert-base-multilingual-uncased_P@1": 0.5263157894736842, "flan-t5-xl_P@1": 0.07894736842105263}
+{"pattern": "A sede do [X] est\u00e1 em [Y].", "bert-base-multilingual-uncased_P@1": 0.5263157894736842, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "A sede do [X] est\u00e1 localizada em [Y].", "bert-base-multilingual-uncased_P@1": 0.5263157894736842, "flan-t5-xl_P@1": 0.07894736842105263}
+{"pattern": "A [X] tem sede em [Y].", "bert-base-multilingual-uncased_P@1": 0.5614035087719298, "flan-t5-xl_P@1": 0.15789473684210525}
+{"pattern": "A [X] tem a sua sede em [Y].", "bert-base-multilingual-uncased_P@1": 0.543859649122807, "flan-t5-xl_P@1": 0.18421052631578946}
+{"pattern": "A [X] est\u00e1 localizada em [Y].", "bert-base-multilingual-uncased_P@1": 0.5789473684210527, "flan-t5-xl_P@1": 0.13157894736842105}
+{"pattern": "A sede da [X] est\u00e1 no [Y].", "bert-base-multilingual-uncased_P@1": 0.14035087719298245, "flan-t5-xl_P@1": 0.07894736842105263}
+{"pattern": "[X], cuja sede est\u00e1 em [Y].", "bert-base-multilingual-uncased_P@1": 0.543859649122807, "flan-t5-xl_P@1": 0.18421052631578946}
+{"pattern": "A sede da [X] est\u00e1 em [Y]?", "bert-base-multilingual-uncased_P@1": 0.38596491228070173, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "A sede do [X] est\u00e1 em [Y]?", "bert-base-multilingual-uncased_P@1": 0.38596491228070173, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "A sede da [X] est\u00e1 localizada em [Y]?", "bert-base-multilingual-uncased_P@1": 0.42105263157894735, "flan-t5-xl_P@1": 0.07894736842105263}
+{"pattern": "A [X] tem sede em [Y]?", "bert-base-multilingual-uncased_P@1": 0.40350877192982454, "flan-t5-xl_P@1": 0.15789473684210525}
+{"pattern": "A [X] tem a sua sede em [Y]?", "bert-base-multilingual-uncased_P@1": 0.45614035087719296, "flan-t5-xl_P@1": 0.18421052631578946}
+{"pattern": "A [X] est\u00e1 localizada em [Y]?", "bert-base-multilingual-uncased_P@1": 0.3157894736842105, "flan-t5-xl_P@1": 0.13157894736842105}
+{"pattern": "A sede da [X] est\u00e1 no [Y]?", "bert-base-multilingual-uncased_P@1": 0.03508771929824561, "flan-t5-xl_P@1": 0.07894736842105263}
+{"pattern": "A sede do [X] est\u00e1 localizada em [Y]?", "bert-base-multilingual-uncased_P@1": 0.40350877192982454, "flan-t5-xl_P@1": 0.07894736842105263}

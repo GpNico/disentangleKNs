@@ -1,0 +1,21 @@
+{"pattern": "[X] is called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.5135135135135135}
+{"pattern": "[X] is named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787, "flan-t5-xl_P@1": 0.5405405405405406}
+{"pattern": "[X] is named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.035398230088495575, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X] was called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894, "flan-t5-xl_P@1": 0.527027027027027}
+{"pattern": "[X] was named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894, "flan-t5-xl_P@1": 0.527027027027027}
+{"pattern": "[X] was named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4594594594594595}
+{"pattern": "[X], called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.07079646017699115, "flan-t5-xl_P@1": 0.5405405405405406}
+{"pattern": "[X], named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.07964601769911504, "flan-t5-xl_P@1": 0.5540540540540541}
+{"pattern": "[X], named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.09734513274336283, "flan-t5-xl_P@1": 0.5135135135135135}
+{"pattern": "[X], which is called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X], which is named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787, "flan-t5-xl_P@1": 0.5135135135135135}
+{"pattern": "[X], which is named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787, "flan-t5-xl_P@1": 0.527027027027027}
+{"pattern": "[X], which was called after [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4864864864864865}
+{"pattern": "[X], which was named after [Y] .", "bert-base-multilingual-uncased_P@1": 0.017699115044247787, "flan-t5-xl_P@1": 0.527027027027027}
+{"pattern": "[X], which was named for [Y] .", "bert-base-multilingual-uncased_P@1": 0.008849557522123894, "flan-t5-xl_P@1": 0.5135135135135135}
+{"pattern": "Is [X] called after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3108108108108108}
+{"pattern": "Is [X] named after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3783783783783784}
+{"pattern": "Is [X] named for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4189189189189189}
+{"pattern": "Was [X] called after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3108108108108108}
+{"pattern": "Was [X] named after [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4189189189189189}
+{"pattern": "Was [X] named for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.43243243243243246}

@@ -1,0 +1,12 @@
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X] - [Y].", "bert-base-multilingual-uncased_P@1": 0.06349206349206349}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X] \u0431\u044b\u043b\u043e [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X]\u0430 - [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X] \u0431\u044b\u043b [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X] \u0410\u0440\u0430\u0433\u043e\u043d\u0441\u043a\u043e\u0433\u043e - [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0441\u043c\u0435\u0440\u0442\u0438 [X]\u0430 \u0431\u044b\u043b\u043e [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u0443\u043c\u0435\u0440 \u0432 [Y].", "bert-base-multilingual-uncased_P@1": 0.015873015873015872}
+{"pattern": "[X] \u043f\u043e\u0433\u0438\u0431 \u0432 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u0432 [Y].", "bert-base-multilingual-uncased_P@1": 0.031746031746031744}
+{"pattern": "\u0416\u0438\u0437\u043d\u044c [X] \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0430\u0441\u044c \u0432 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u0443\u043c\u0435\u0440 \u0432 [Y]?", "bert-base-multilingual-uncased_P@1": 0.015873015873015872}
+{"pattern": "[X] \u043f\u043e\u0433\u0438\u0431 \u0432 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

@@ -1,0 +1,7 @@
+{"pattern": "La religione di [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.9705882352941176, "flan-t5-xl_P@1": 0.42424242424242425}
+{"pattern": "[X] crede nell'[Y].", "bert-base-multilingual-uncased_P@1": 0.7647058823529411, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 un credente dell'[Y].", "bert-base-multilingual-uncased_P@1": 0.9411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 un seguace dell'[Y].", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] crede nell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.8235294117647058, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] crede nel [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e8 un seguace dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.11764705882352941, "flan-t5-xl_P@1": 0.0}

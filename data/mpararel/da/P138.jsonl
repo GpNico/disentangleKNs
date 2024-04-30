@@ -1,0 +1,17 @@
+{"pattern": "[X] er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.10416666666666667, "flan-t5-xl_P@1": 0.2857142857142857}
+{"pattern": "[X], Gardermoen er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X]n er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.08333333333333333, "flan-t5-xl_P@1": 0.2857142857142857}
+{"pattern": "[X] blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.041666666666666664, "flan-t5-xl_P@1": 0.42857142857142855}
+{"pattern": "[X], Gardermoen blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.5357142857142857}
+{"pattern": "[X]n blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.35714285714285715}
+{"pattern": "[X], opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.5357142857142857}
+{"pattern": "[X], Gardermoen, opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.4642857142857143}
+{"pattern": "[X], som er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.14583333333333334, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X], Gardermoen, som er opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.041666666666666664, "flan-t5-xl_P@1": 0.5}
+{"pattern": "[X], som blev opkaldt efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.5}
+{"pattern": "Er [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0625, "flan-t5-xl_P@1": 0.2857142857142857}
+{"pattern": "Er [X], Gardermoen opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "Er Den [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.041666666666666664, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Blev [X] opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.041666666666666664, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "Er [X]n opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.020833333333333332, "flan-t5-xl_P@1": 0.21428571428571427}
+{"pattern": "Blev [X], Gardermoen opkaldt efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

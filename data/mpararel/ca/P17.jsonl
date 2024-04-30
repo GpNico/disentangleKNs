@@ -1,0 +1,8 @@
+{"pattern": "El pa\u00eds on es troba [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.46774193548387094, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'estat en qu\u00e8 es troba [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.25806451612903225, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba a [Y].", "bert-base-multilingual-uncased_P@1": 0.4032258064516129, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba en el seg\u00fcent pa\u00eds: [Y].", "bert-base-multilingual-uncased_P@1": 0.5483870967741935, "flan-t5-xl_P@1": 0.125}
+{"pattern": "[X] es troba en el seg\u00fcent estat: [Y].", "bert-base-multilingual-uncased_P@1": 0.43548387096774194, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], situat a [Y].", "bert-base-multilingual-uncased_P@1": 0.11290322580645161, "flan-t5-xl_P@1": 0.125}
+{"pattern": "[X], que es troba a [Y].", "bert-base-multilingual-uncased_P@1": 0.4032258064516129, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba a [Y]?", "bert-base-multilingual-uncased_P@1": 0.06451612903225806, "flan-t5-xl_P@1": 0.0}

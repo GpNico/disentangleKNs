@@ -1,0 +1,18 @@
+{"pattern": "[X] limita con [Y].", "bert-base-multilingual-uncased_P@1": 0.08552631578947369, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] comparte una frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684, "flan-t5-xl_P@1": 0.0379746835443038}
+{"pattern": "[X] comparte una frontera com\u00fan con [Y].", "bert-base-multilingual-uncased_P@1": 0.07894736842105263, "flan-t5-xl_P@1": 0.0379746835443038}
+{"pattern": "[X] comparte frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.11842105263157894, "flan-t5-xl_P@1": 0.06329113924050633}
+{"pattern": "[X] comparte fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684, "flan-t5-xl_P@1": 0.02531645569620253}
+{"pattern": "[X] comparte su frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.1118421052631579, "flan-t5-xl_P@1": 0.06329113924050633}
+{"pattern": "[X] comparte sus fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.125, "flan-t5-xl_P@1": 0.05063291139240506}
+{"pattern": "[X] comparte la frontera con [Y].", "bert-base-multilingual-uncased_P@1": 0.10526315789473684, "flan-t5-xl_P@1": 0.0759493670886076}
+{"pattern": "[X] comparte las fronteras con [Y].", "bert-base-multilingual-uncased_P@1": 0.11842105263157894, "flan-t5-xl_P@1": 0.05063291139240506}
+{"pattern": "\u00bf[X] tiene frontera con [Y]?", "bert-base-multilingual-uncased_P@1": 0.05921052631578947, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte una frontera con [Y]?", "bert-base-multilingual-uncased_P@1": 0.05921052631578947, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte una frontera com\u00fan con [Y]?", "bert-base-multilingual-uncased_P@1": 0.07236842105263158, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte frontera con [Y]?", "bert-base-multilingual-uncased_P@1": 0.06578947368421052, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte fronteras con [Y]?", "bert-base-multilingual-uncased_P@1": 0.07894736842105263, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte su frontera con [Y]?", "bert-base-multilingual-uncased_P@1": 0.08552631578947369, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte sus fronteras con [Y]?", "bert-base-multilingual-uncased_P@1": 0.08552631578947369, "flan-t5-xl_P@1": 0.012658227848101266}
+{"pattern": "\u00bf[X] comparte la frontera con [Y]?", "bert-base-multilingual-uncased_P@1": 0.07894736842105263, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] comparte las fronteras con [Y]?", "bert-base-multilingual-uncased_P@1": 0.07236842105263158, "flan-t5-xl_P@1": 0.0}

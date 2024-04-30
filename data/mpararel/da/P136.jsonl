@@ -1,0 +1,8 @@
+{"pattern": "[X] tilh\u00f8rer genren [Y].", "bert-base-multilingual-uncased_P@1": 0.15315315315315314, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er musiker i [Y].", "bert-base-multilingual-uncased_P@1": 0.009009009009009009, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] spiller f\u00f8lgende genre [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] spiller f\u00f8lgende musikgenre [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] spiller [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] spiller musikgenren [Y].", "bert-base-multilingual-uncased_P@1": 0.5765765765765766, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] har specialiseret sig i genren [Y].", "bert-base-multilingual-uncased_P@1": 0.22522522522522523, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en musiker, der spiller [Y]?", "bert-base-multilingual-uncased_P@1": 0.2972972972972973, "flan-t5-xl_P@1": 0.0}

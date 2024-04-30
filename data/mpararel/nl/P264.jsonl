@@ -1,0 +1,64 @@
+{"pattern": "Het muzieklabel dat [X] vertegenwoordigt is [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "Het muzieklabel dat [X] vertegenwoordigde was [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "Het muzieklabel dat [X] I'm Yours vertegenwoordigt is [Y].", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "Het muzieklabel dat [X] I'm Yours vertegenwoordigde was [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "Het platenlabel dat [X] vertegenwoordigt is [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "Het platenlabel dat [X] vertegenwoordigde was [Y].", "bert-base-multilingual-uncased_P@1": 0.057692307692307696}
+{"pattern": "Het platenlabel dat de [X] vertegenwoordigt is [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "[X] wordt vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] wordt vertegenwoordigd door het muzieklabel [Y].", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "[X] wordt vertegenwoordigd door het platenlabel [Y].", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "[X] heeft een contract bij [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] label: [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "[X] opgenomen voor [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] neemt op voor [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] werd uitgegeven door [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "[X] werd uitgegeven door het platenlabel [Y].", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
+{"pattern": "[X] I'm Yours werd uitgegeven door [Y].", "bert-base-multilingual-uncased_P@1": 0.19230769230769232}
+{"pattern": "[X] werd uitgegeven door platenlabel [Y].", "bert-base-multilingual-uncased_P@1": 0.17307692307692307}
+{"pattern": "[X] werd uitgebracht door [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "[X] werd uitgebracht door het platenlabel [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "[X] werd vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] werd vertegenwoordigd door het muzieklabel [Y].", "bert-base-multilingual-uncased_P@1": 0.19230769230769232}
+{"pattern": "[X] werd vertegenwoordigd door het platenlabel [Y].", "bert-base-multilingual-uncased_P@1": 0.17307692307692307}
+{"pattern": "[X] tekende bij [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X]'s label is [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "[X]'s label was [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "[X]'s muzieklabel is [Y].", "bert-base-multilingual-uncased_P@1": 0.057692307692307696}
+{"pattern": "[X]'s muzieklabel was [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "[X]'s platenmaatschappij is [Y].", "bert-base-multilingual-uncased_P@1": 0.057692307692307696}
+{"pattern": "[X]'s platenmaatschappij was [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "[X]'s platenlabel is [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "[X]'s platenlabel was [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], uitgebracht door [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
+{"pattern": "[X], dat wordt vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], dat werd vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], die wordt vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X], die werd vertegenwoordigd door [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Heeft [X] opgenomen voor [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "Schrijft [X] voor [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] vertegenwoordigd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is [X] vertegenwoordigd door het label [Y]?", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
+{"pattern": "Is [X] vertegenwoordigd door het muzieklabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "Is [X] vertegenwoordigd door het platenlabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "Heeft [X] een contract bij [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
+{"pattern": "Is het label [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is het label dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Verteenwoordigt het muzieklabel [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is het muzieklabel dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is het platenlabel [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Is het platenlabel dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] uitgegeven door [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "Is [X] uitgegeven door [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "Is [X] uitgebracht door [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] vertegenwoordigd door [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was [X] vertegenwoordigd door het label [Y]?", "bert-base-multilingual-uncased_P@1": 0.057692307692307696}
+{"pattern": "Was [X] vertegenwoordigd door het muzieklabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
+{"pattern": "Was [X] vertegenwoordigd door het platenlabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
+{"pattern": "Was [X] getekend bij [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Stond het label voor [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was het label dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was het muzieklabel [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was het muzieklabel dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was het platenlabel [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Was het platenlabel dat [X] vertegenwoordigt [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

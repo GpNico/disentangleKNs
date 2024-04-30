@@ -1,0 +1,14 @@
+{"pattern": "A [X] tem rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] tem rela\u00e7\u00f5es diplom\u00e1ticas com o [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] mant\u00e9m rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.03529411764705882, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] mant\u00e9m rela\u00e7\u00f5es diplom\u00e1ticas com o [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705, "flan-t5-xl_P@1": 0.0}
+{"pattern": "O [X] mant\u00e9m rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.03529411764705882, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] estabelece rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.041176470588235294, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que tem rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.011764705882352941, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que estabelece rela\u00e7\u00f5es diplom\u00e1ticas com a [Y].", "bert-base-multilingual-uncased_P@1": 0.01764705882352941, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] tem rela\u00e7\u00f5es diplom\u00e1ticas com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] tem la\u00e7os diplom\u00e1ticos com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.01764705882352941, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] mant\u00e9m rela\u00e7\u00f5es diplom\u00e1ticas com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] mant\u00e9m la\u00e7os diplom\u00e1ticos com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.01764705882352941, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] mant\u00e9m rela\u00e7\u00f5es diplom\u00e1ticas com o [Y]?", "bert-base-multilingual-uncased_P@1": 0.047058823529411764, "flan-t5-xl_P@1": 0.0}
+{"pattern": "A [X] estabelece rela\u00e7\u00f5es diplom\u00e1ticas com a [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353, "flan-t5-xl_P@1": 0.0}

@@ -1,0 +1,7 @@
+{"pattern": "L'occupazione di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "La professione di [X] \u00e8 quella di [Y].", "bert-base-multilingual-uncased_P@1": 0.04477611940298507}
+{"pattern": "L'occupazione di [X] \u00e8 quella di [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "L'occupazione di [X] \u00e8 un [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "L'occupazione di [X] e' un [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "La professione di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "La professione di [X] e' quella di [Y].", "bert-base-multilingual-uncased_P@1": 0.03731343283582089}

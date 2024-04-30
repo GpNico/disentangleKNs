@@ -1,0 +1,8 @@
+{"pattern": "[X] is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727, "flan-t5-xl_P@1": 0.9333333333333333}
+{"pattern": "[X] is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727, "flan-t5-xl_P@1": 0.9333333333333333}
+{"pattern": "[X], that is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7272727272727273, "flan-t5-xl_P@1": 0.9333333333333333}
+{"pattern": "[X], that is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7045454545454546, "flan-t5-xl_P@1": 0.9}
+{"pattern": "[X], the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727, "flan-t5-xl_P@1": 0.9333333333333333}
+{"pattern": "[X], the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.75, "flan-t5-xl_P@1": 0.9333333333333333}
+{"pattern": "Is [X] the capital city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.7272727272727273, "flan-t5-xl_P@1": 0.8666666666666667}
+{"pattern": "Is [X] the capital of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6363636363636364, "flan-t5-xl_P@1": 0.8333333333333334}

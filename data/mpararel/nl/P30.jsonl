@@ -1,0 +1,17 @@
+{"pattern": "Het continent van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.00819672131147541, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] behoort tot het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.19672131147540983, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Kaap [X] behoort tot het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.3114754098360656, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is een deel van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "[X] maakt deel uit van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.10655737704918032, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Kaap [X] is een deel van het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.3442622950819672, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ligt in [Y].", "bert-base-multilingual-uncased_P@1": 0.11475409836065574, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ligt op het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.23770491803278687, "flan-t5-xl_P@1": 0.02702702702702703}
+{"pattern": "Kaap [X] ligt op het continent [Y].", "bert-base-multilingual-uncased_P@1": 0.14754098360655737, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Hoort [X] bij het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Behoort [X] tot het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] een deel van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.2540983606557377, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is Kaap [X] een deel van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.1557377049180328, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Maakt [X] deel uit van het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] gelegen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.04918032786885246, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] gelegen op het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.09836065573770492, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is Kaap [X] gelegen op het continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.06557377049180328, "flan-t5-xl_P@1": 0.0}

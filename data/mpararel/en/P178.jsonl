@@ -1,0 +1,23 @@
+{"pattern": "[X] and its product [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4157303370786517}
+{"pattern": "[X] builds [Y] .", "bert-base-multilingual-uncased_P@1": 0.1368421052631579, "flan-t5-xl_P@1": 0.4044943820224719}
+{"pattern": "[X] develops [Y] .", "bert-base-multilingual-uncased_P@1": 0.08421052631578947, "flan-t5-xl_P@1": 0.4044943820224719}
+{"pattern": "[X] makes [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4157303370786517}
+{"pattern": "[X] manufactures [Y] .", "bert-base-multilingual-uncased_P@1": 0.021052631578947368, "flan-t5-xl_P@1": 0.42696629213483145}
+{"pattern": "[X] produces [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.38202247191011235}
+{"pattern": "[X], that builds [Y] .", "bert-base-multilingual-uncased_P@1": 0.07368421052631578, "flan-t5-xl_P@1": 0.39325842696629215}
+{"pattern": "[X], that created [Y] .", "bert-base-multilingual-uncased_P@1": 0.12631578947368421, "flan-t5-xl_P@1": 0.42696629213483145}
+{"pattern": "[X], that developed [Y] .", "bert-base-multilingual-uncased_P@1": 0.3263157894736842, "flan-t5-xl_P@1": 0.47191011235955055}
+{"pattern": "[X], that develops [Y] .", "bert-base-multilingual-uncased_P@1": 0.07368421052631578, "flan-t5-xl_P@1": 0.39325842696629215}
+{"pattern": "[X], that makes [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.39325842696629215}
+{"pattern": "[X], that manufactures [Y] .", "bert-base-multilingual-uncased_P@1": 0.042105263157894736, "flan-t5-xl_P@1": 0.4606741573033708}
+{"pattern": "[X], that produces [Y] .", "bert-base-multilingual-uncased_P@1": 0.021052631578947368, "flan-t5-xl_P@1": 0.38202247191011235}
+{"pattern": "[X], the creator of the [Y] .", "bert-base-multilingual-uncased_P@1": 0.010526315789473684, "flan-t5-xl_P@1": 0.33707865168539325}
+{"pattern": "Did [X] create [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0898876404494382}
+{"pattern": "Does [X] develop [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.33707865168539325}
+{"pattern": "Does [X] make [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.15730337078651685}
+{"pattern": "Does [X] manufacture [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.2247191011235955}
+{"pattern": "Does [X] produce [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0449438202247191}
+{"pattern": "Is [X] the creator of [Y]?", "bert-base-multilingual-uncased_P@1": 0.12631578947368421, "flan-t5-xl_P@1": 0.24719101123595505}
+{"pattern": "Is [X] the creator of the [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3595505617977528}
+{"pattern": "Was [X] the creator of [Y]?", "bert-base-multilingual-uncased_P@1": 0.14736842105263157, "flan-t5-xl_P@1": 0.3595505617977528}
+{"pattern": "Was [X] the creator of the [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.39325842696629215}

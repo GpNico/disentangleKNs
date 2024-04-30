@@ -1,0 +1,12 @@
+{"pattern": "[X] communicated in [Y] .", "bert-base-multilingual-uncased_P@1": 0.11458333333333333, "flan-t5-xl_P@1": 0.2154696132596685}
+{"pattern": "[X] communicates in [Y] .", "bert-base-multilingual-uncased_P@1": 0.23958333333333334, "flan-t5-xl_P@1": 0.425414364640884}
+{"pattern": "[X] is a speaker of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.425414364640884}
+{"pattern": "[X] speaks [Y] .", "bert-base-multilingual-uncased_P@1": 0.5260416666666666, "flan-t5-xl_P@1": 0.011049723756906077}
+{"pattern": "[X] spoke [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0055248618784530384}
+{"pattern": "[X] used to communicate in [Y] .", "bert-base-multilingual-uncased_P@1": 0.5989583333333334, "flan-t5-xl_P@1": 0.7403314917127072}
+{"pattern": "Did [X] communicate in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21354166666666666, "flan-t5-xl_P@1": 0.2430939226519337}
+{"pattern": "Did [X] speak [Y]?", "bert-base-multilingual-uncased_P@1": 0.46875, "flan-t5-xl_P@1": 0.13812154696132597}
+{"pattern": "Does [X] communicate in [Y]?", "bert-base-multilingual-uncased_P@1": 0.4322916666666667, "flan-t5-xl_P@1": 0.5082872928176796}
+{"pattern": "Does [X] speak [Y]?", "bert-base-multilingual-uncased_P@1": 0.5885416666666666, "flan-t5-xl_P@1": 0.5303867403314917}
+{"pattern": "Is [X] a speaker of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.1712707182320442}
+{"pattern": "Was [X] a speaker of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.027624309392265192}

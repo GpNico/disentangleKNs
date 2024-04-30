@@ -1,0 +1,9 @@
+{"pattern": "[X] on luokan [Y].", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] on [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] on er\u00e4\u00e4nlainen [Y].", "bert-base-multilingual-uncased_P@1": 0.42857142857142855, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X] on luokkaa [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "[X], er\u00e4\u00e4nlainen [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "Onko [X]lla luokan [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "Onko [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Onko [X] er\u00e4\u00e4nlainen [Y]?", "bert-base-multilingual-uncased_P@1": 0.21428571428571427, "flan-t5-xl_P@1": 0.3333333333333333}
+{"pattern": "Onko [X] luokan [Y]?", "bert-base-multilingual-uncased_P@1": 0.14285714285714285, "flan-t5-xl_P@1": 0.3333333333333333}

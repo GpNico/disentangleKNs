@@ -1,0 +1,6 @@
+{"pattern": "[X] r\u00e4knas som en juridisk term i [Y].", "bert-base-multilingual-uncased_P@1": 0.7543859649122807, "flan-t5-xl_P@1": 0.8}
+{"pattern": "[X] \u00e4r en juridisk term i [Y].", "bert-base-multilingual-uncased_P@1": 0.7368421052631579, "flan-t5-xl_P@1": 0.84}
+{"pattern": "[X] \u00e4r en giltig juridisk term i [Y].", "bert-base-multilingual-uncased_P@1": 0.7719298245614035, "flan-t5-xl_P@1": 0.8}
+{"pattern": "R\u00e4knas [X] som en juridisk term i [Y]?", "bert-base-multilingual-uncased_P@1": 0.3508771929824561, "flan-t5-xl_P@1": 0.36}
+{"pattern": "\u00c4r [X] en juridisk term i [Y]?", "bert-base-multilingual-uncased_P@1": 0.45614035087719296, "flan-t5-xl_P@1": 0.2}
+{"pattern": "\u00c4r [X] en giltig juridisk term i [Y]?", "bert-base-multilingual-uncased_P@1": 0.38596491228070173, "flan-t5-xl_P@1": 0.12}

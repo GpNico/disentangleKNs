@@ -1,0 +1,6 @@
+{"pattern": "[X] kommunizierte auf [Y].", "bert-base-multilingual-uncased_P@1": 0.1450381679389313, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] kommuniziert auf [Y].", "bert-base-multilingual-uncased_P@1": 0.16030534351145037, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] kommunizierte fr\u00fcher auf [Y].", "bert-base-multilingual-uncased_P@1": 0.25190839694656486, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Kommunizierte [X] auf [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Spricht [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Sprach [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

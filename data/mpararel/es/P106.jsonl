@@ -1,0 +1,10 @@
+{"pattern": "La ocupaci\u00f3n de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La profesi\u00f3n de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.014705882352941176}
+{"pattern": "[X] trabaja como [Y].", "bert-base-multilingual-uncased_P@1": 0.011976047904191617, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La ocupaci\u00f3n de [X] es el [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La ocupaci\u00f3n de [X] es un [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La profesi\u00f3n de [X] es el [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La profesi\u00f3n de [X] es la de [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La profesi\u00f3n de [X] es un [Y].", "bert-base-multilingual-uncased_P@1": 0.0718562874251497, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que trabaja como [Y].", "bert-base-multilingual-uncased_P@1": 0.059880239520958084, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] trabaja como [Y]?", "bert-base-multilingual-uncased_P@1": 0.11976047904191617, "flan-t5-xl_P@1": 0.0}

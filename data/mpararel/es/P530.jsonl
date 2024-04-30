@@ -1,0 +1,12 @@
+{"pattern": "[X] tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.014705882352941176}
+{"pattern": "La [X] tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.014705882352941176}
+{"pattern": "La [X] mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.014705882352941176}
+{"pattern": "[X] establece relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419, "flan-t5-xl_P@1": 0.014705882352941176}
+{"pattern": "[X], que tiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.031413612565445025, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que mantiene relaciones diplom\u00e1ticas con [Y].", "bert-base-multilingual-uncased_P@1": 0.02617801047120419, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] tiene relaciones diplom\u00e1ticas con [Y]?", "bert-base-multilingual-uncased_P@1": 0.015706806282722512, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] tiene lazos diplom\u00e1ticos con [Y]?", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfLa [X] tiene relaciones diplom\u00e1ticas con [Y]?", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfLa [X] mantiene relaciones diplom\u00e1ticas con [Y]?", "bert-base-multilingual-uncased_P@1": 0.020942408376963352, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] mantiene relaciones diplom\u00e1ticas con [Y]?", "bert-base-multilingual-uncased_P@1": 0.015706806282722512, "flan-t5-xl_P@1": 0.0}

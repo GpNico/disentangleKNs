@@ -1,0 +1,14 @@
+{"pattern": "De [X] behoort tot de [Y].", "bert-base-multilingual-uncased_P@1": 0.7037037037037037, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] behoort tot de [Y].", "bert-base-multilingual-uncased_P@1": 0.7407407407407407, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] behoort tot de organisatie van [Y].", "bert-base-multilingual-uncased_P@1": 0.5555555555555556, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is lid van [Y].", "bert-base-multilingual-uncased_P@1": 0.8148148148148148, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is lid van de [Y].", "bert-base-multilingual-uncased_P@1": 0.6296296296296297, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De [X] is aangesloten bij de [Y].", "bert-base-multilingual-uncased_P@1": 0.7777777777777778, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] maakt deel uit van [Y].", "bert-base-multilingual-uncased_P@1": 0.25925925925925924, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Hoort [X] bij [Y]?", "bert-base-multilingual-uncased_P@1": 0.037037037037037035, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Hoort [X] bij de [Y]?", "bert-base-multilingual-uncased_P@1": 0.8148148148148148, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Hoort [X] bij de organisatie van [Y]?", "bert-base-multilingual-uncased_P@1": 0.14814814814814814, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] lid van [Y]?", "bert-base-multilingual-uncased_P@1": 0.7037037037037037, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] lid van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5925925925925926, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] verbonden met [Y]?", "bert-base-multilingual-uncased_P@1": 0.5555555555555556, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] deel van [Y]?", "bert-base-multilingual-uncased_P@1": 0.4444444444444444, "flan-t5-xl_P@1": 0.0}

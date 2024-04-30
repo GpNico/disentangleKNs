@@ -1,0 +1,16 @@
+{"pattern": "Het domein van activiteit van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.02, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Het werkgebied van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.02, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De expertise van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is gespecialiseerd in [Y].", "bert-base-multilingual-uncased_P@1": 0.08, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] werkt op het gebied van [Y].", "bert-base-multilingual-uncased_P@1": 0.12, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] werkt op het gebied van de [Y].", "bert-base-multilingual-uncased_P@1": 0.12, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s vakgebied is [Y].", "bert-base-multilingual-uncased_P@1": 0.02, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s werkgebied is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s domein van activiteit is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]' werkgebied is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s expertise is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "[X]'s expertise is in [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.14285714285714285}
+{"pattern": "Is [X] gespecialiseerd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.06, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Werkt [X] in de veld[Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Werkt [X] op het gebied van [Y]?", "bert-base-multilingual-uncased_P@1": 0.1, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s expertise in [Y]?", "bert-base-multilingual-uncased_P@1": 0.02, "flan-t5-xl_P@1": 0.2857142857142857}

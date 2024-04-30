@@ -1,0 +1,4 @@
+{"pattern": "[X] ist ein Teil der [Y]."}
+{"pattern": "[X] ist Teil der [Y]."}
+{"pattern": "Ist [X] ein Teil der [Y]?"}
+{"pattern": "Ist [X] Teil der [Y]?"}

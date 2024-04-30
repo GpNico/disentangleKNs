@@ -1,0 +1,6 @@
+{"pattern": "[X] \u00e9 empregado da [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111, "flan-t5-xl_P@1": 0.04}
+{"pattern": "[X] trabalha para a [Y].", "bert-base-multilingual-uncased_P@1": 0.1111111111111111, "flan-t5-xl_P@1": 0.04}
+{"pattern": "[X], que \u00e9 empregado da [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.04}
+{"pattern": "[X], que trabalha para a [Y].", "bert-base-multilingual-uncased_P@1": 0.18518518518518517, "flan-t5-xl_P@1": 0.04}
+{"pattern": "O [X] trabalha para a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.04}
+{"pattern": "O [X] \u00e9 empregado da [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.04}

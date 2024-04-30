@@ -1,0 +1,17 @@
+{"pattern": "[X] har hovedkvarter i [Y].", "bert-base-multilingual-uncased_P@1": 0.38, "flan-t5-xl_P@1": 0.11764705882352941}
+{"pattern": "Hovedkvarteret for [X] er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.36, "flan-t5-xl_P@1": 0.11764705882352941}
+{"pattern": "[X]s hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.44, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "[X]s hovedkvarter er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.11764705882352941}
+{"pattern": "[X] er baseret i [Y].", "bert-base-multilingual-uncased_P@1": 0.38, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "James [X] & Sons har hovedkvarter i [Y].", "bert-base-multilingual-uncased_P@1": 0.32, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "[X] er beliggende i [Y].", "bert-base-multilingual-uncased_P@1": 0.24, "flan-t5-xl_P@1": 0.08823529411764706}
+{"pattern": "[X]'s hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.42, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "[X], hvis hovedkvarter er i [Y].", "bert-base-multilingual-uncased_P@1": 0.42, "flan-t5-xl_P@1": 0.11764705882352941}
+{"pattern": "Er [X]s hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.34, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er hovedkvarteret for [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.24, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er [X]s hovedkvarter beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.28, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er [X] baseret i [Y]?", "bert-base-multilingual-uncased_P@1": 0.24, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er [X] hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.22, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.22, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er [X]'s hovedkvarter i [Y]?", "bert-base-multilingual-uncased_P@1": 0.36, "flan-t5-xl_P@1": 0.058823529411764705}
+{"pattern": "Er hovedkvarteret for [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.2, "flan-t5-xl_P@1": 0.058823529411764705}

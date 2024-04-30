@@ -1,0 +1,6 @@
+{"pattern": "[X] is employed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.2413793103448276, "flan-t5-xl_P@1": 0.11538461538461539}
+{"pattern": "[X] works for [Y] .", "bert-base-multilingual-uncased_P@1": 0.034482758620689655, "flan-t5-xl_P@1": 0.15384615384615385}
+{"pattern": "[X], who is employed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.2413793103448276, "flan-t5-xl_P@1": 0.11538461538461539}
+{"pattern": "[X], who works for [Y] .", "bert-base-multilingual-uncased_P@1": 0.1724137931034483, "flan-t5-xl_P@1": 0.15384615384615385}
+{"pattern": "Does [X] work for [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655, "flan-t5-xl_P@1": 0.11538461538461539}
+{"pattern": "Is [X] employed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.2413793103448276, "flan-t5-xl_P@1": 0.11538461538461539}

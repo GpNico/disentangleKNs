@@ -1,0 +1,17 @@
+{"pattern": "El continent de [X] \u00e9s [Y].", "bert-base-multilingual-uncased_P@1": 0.021739130434782608, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] pertany al continent d'[Y].", "bert-base-multilingual-uncased_P@1": 0.5869565217391305, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] pertany al continent d'[Y].", "bert-base-multilingual-uncased_P@1": 0.5869565217391305, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s una part del continent [Y].", "bert-base-multilingual-uncased_P@1": 0.06521739130434782, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'[X] \u00e9s una part del continent [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] \u00e9s una part del continent d'[Y].", "bert-base-multilingual-uncased_P@1": 0.5869565217391305, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba a [Y].", "bert-base-multilingual-uncased_P@1": 0.2391304347826087, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] es troba al continent d'[Y].", "bert-base-multilingual-uncased_P@1": 0.5652173913043478, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba al continent d'[Y].", "bert-base-multilingual-uncased_P@1": 0.4782608695652174, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] pertany al continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.043478260869565216, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] pertany al continent d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.6086956521739131, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La [X] forma part del continent de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.2391304347826087, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] forma part del continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] forma part del continent d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.5652173913043478, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba a [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] es troba al continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.08695652173913043, "flan-t5-xl_P@1": 0.0}
+{"pattern": "L'[X] es troba al continent d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.5434782608695652, "flan-t5-xl_P@1": 0.0}

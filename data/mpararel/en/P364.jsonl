@@ -1,0 +1,16 @@
+{"pattern": "The language of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.4152046783625731, "flan-t5-xl_P@1": 0.5886524822695035}
+{"pattern": "The language of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.3157894736842105, "flan-t5-xl_P@1": 0.5673758865248227}
+{"pattern": "The original language of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.45614035087719296, "flan-t5-xl_P@1": 0.6453900709219859}
+{"pattern": "The original language of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.45614035087719296, "flan-t5-xl_P@1": 0.6099290780141844}
+{"pattern": "[X] was originally performed in [Y] .", "bert-base-multilingual-uncased_P@1": 0.029239766081871343, "flan-t5-xl_P@1": 0.09929078014184398}
+{"pattern": "[X] was originally performed in language [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.48226950354609927}
+{"pattern": "[X] was originally performed in the following language: [Y] .", "bert-base-multilingual-uncased_P@1": 0.4444444444444444, "flan-t5-xl_P@1": 0.6099290780141844}
+{"pattern": "[X] was originally played in [Y] .", "bert-base-multilingual-uncased_P@1": 0.011695906432748537, "flan-t5-xl_P@1": 0.09219858156028368}
+{"pattern": "[X] was originally played in language [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.44680851063829785}
+{"pattern": "[X] was originally played in the following language: [Y] .", "bert-base-multilingual-uncased_P@1": 0.47953216374269003, "flan-t5-xl_P@1": 0.574468085106383}
+{"pattern": "Was [X] originally performed in [Y]?", "bert-base-multilingual-uncased_P@1": 0.005847953216374269, "flan-t5-xl_P@1": 0.0851063829787234}
+{"pattern": "Was [X] originally performed in language [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.41134751773049644}
+{"pattern": "Was [X] originally performed in the following language: [Y]?", "bert-base-multilingual-uncased_P@1": 0.017543859649122806, "flan-t5-xl_P@1": 0.5886524822695035}
+{"pattern": "Was [X] originally played in [Y]?", "bert-base-multilingual-uncased_P@1": 0.011695906432748537, "flan-t5-xl_P@1": 0.06382978723404255}
+{"pattern": "Was [X] originally played in language [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.4326241134751773}
+{"pattern": "Was [X] originally played in the following language: [Y]?", "bert-base-multilingual-uncased_P@1": 0.07602339181286549, "flan-t5-xl_P@1": 0.574468085106383}

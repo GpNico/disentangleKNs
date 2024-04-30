@@ -1,0 +1,59 @@
+{"pattern": "El sello musical que representa a [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.28846153846153844, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello musical que representaba a [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello musical que est\u00e1 representando a [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello musical que represent\u00f3 a [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.25, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello discogr\u00e1fico que representa a [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.34615384615384615, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello discogr\u00e1fico que representaba a [X] era [Y].", "bert-base-multilingual-uncased_P@1": 0.2692307692307692, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello discogr\u00e1fico que est\u00e1 representando a [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.34615384615384615, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est\u00e1 representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est\u00e1 representado por el sello musical [Y].", "bert-base-multilingual-uncased_P@1": 0.25, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] est\u00e1 representado por el sello discogr\u00e1fico [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] ha firmado con [Y].", "bert-base-multilingual-uncased_P@1": 0.09615384615384616, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] etiqueta: [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] grab\u00f3 para [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] graba para [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue emitido por [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue publicado por el sello discogr\u00e1fico [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue publicado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue lanzado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue representado por el sello musical [Y].", "bert-base-multilingual-uncased_P@1": 0.21153846153846154, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] fue representado por el sello discogr\u00e1fico [Y].", "bert-base-multilingual-uncased_P@1": 0.057692307692307696, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] firm\u00f3 con [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello musical de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello musical de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693, "flan-t5-xl_P@1": 0.0}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello discogr\u00e1fico de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846, "flan-t5-xl_P@1": 0.0}
+{"pattern": "El sello discogr\u00e1fico de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], lanzado por [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que est\u00e1 representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], que fue representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] grab\u00f3 para [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] graba para [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 representado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello musical [Y]?", "bert-base-multilingual-uncased_P@1": 0.038461538461538464, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello discogr\u00e1fico [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] ha firmado con [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEs el sello que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello de m\u00fasica representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEs el sello musical que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello discogr\u00e1fico representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEs el sello discogr\u00e1fico que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] fue publicado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue [X] publicado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue [X] lanzado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue [X] representado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] estaba representado por el sello [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] estaba representado por el sello musical [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] estaba representado por el sello discogr\u00e1fico [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bf[X] firm\u00f3 con [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue el sello que representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello de m\u00fasica representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue el sello musical que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfEl sello discogr\u00e1fico representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "\u00bfFue el sello discogr\u00e1fico que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

@@ -1,0 +1,8 @@
+{"pattern": "The capital city of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6323529411764706, "flan-t5-xl_P@1": 0.5977011494252874}
+{"pattern": "The capital of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6470588235294118, "flan-t5-xl_P@1": 0.5632183908045977}
+{"pattern": "[X]'s capital city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6397058823529411, "flan-t5-xl_P@1": 0.6206896551724138}
+{"pattern": "[X]'s capital city, [Y] .", "bert-base-multilingual-uncased_P@1": 0.5, "flan-t5-xl_P@1": 0.6436781609195402}
+{"pattern": "[X]'s capital is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6544117647058824, "flan-t5-xl_P@1": 0.5977011494252874}
+{"pattern": "[X]'s capital, [Y] .", "bert-base-multilingual-uncased_P@1": 0.4852941176470588, "flan-t5-xl_P@1": 0.6091954022988506}
+{"pattern": "[X], which has the capital [Y] .", "bert-base-multilingual-uncased_P@1": 0.45588235294117646, "flan-t5-xl_P@1": 0.5517241379310345}
+{"pattern": "[X], which has the capital city [Y] .", "bert-base-multilingual-uncased_P@1": 0.6102941176470589, "flan-t5-xl_P@1": 0.6436781609195402}

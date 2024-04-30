@@ -1,0 +1,7 @@
+{"pattern": "[X]s religion \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X] tror p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
+{"pattern": "[X] \u00e4r en troende i [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e4r en anh\u00e4ngare av [Y].", "bert-base-multilingual-uncased_P@1": 0.40476190476190477}
+{"pattern": "Tror [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.07142857142857142}
+{"pattern": "\u00c4r [X] en troende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
+{"pattern": "\u00c4r [X] en anh\u00e4ngare av [Y]?", "bert-base-multilingual-uncased_P@1": 0.2857142857142857}

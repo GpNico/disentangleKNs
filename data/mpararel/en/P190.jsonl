@@ -1,0 +1,12 @@
+{"pattern": "[X] and its sister city [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "[X] and its twin city [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "[X] has sister city [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "[X] has twin city [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "[X] is a sister city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "[X] is a twin city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s sister city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.015384615384615385}
+{"pattern": "[X]'s twin city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.015384615384615385}
+{"pattern": "Is [X] a sister city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] a twin city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.007692307692307693}
+{"pattern": "Is [X] the sister city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] the twin city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.00510204081632653, "flan-t5-xl_P@1": 0.007692307692307693}

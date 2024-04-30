@@ -1,0 +1,16 @@
+{"pattern": "La lingua di [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.4069767441860465}
+{"pattern": "La lingua di [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.4883720930232558}
+{"pattern": "La lingua originale di [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.47674418604651164}
+{"pattern": "La lingua originale di [X] era l'[Y].", "bert-base-multilingual-uncased_P@1": 0.5116279069767442}
+{"pattern": "[X] \u00e8 stato originariamente eseguito in [Y].", "bert-base-multilingual-uncased_P@1": 0.19767441860465115}
+{"pattern": "[X] \u00e8 stato originariamente eseguito in lingua [Y].", "bert-base-multilingual-uncased_P@1": 0.47674418604651164}
+{"pattern": "[X] \u00e8 stato originariamente eseguito nella seguente lingua: [Y].", "bert-base-multilingual-uncased_P@1": 0.45348837209302323}
+{"pattern": "[X] \u00e8 stato originariamente giocato in [Y].", "bert-base-multilingual-uncased_P@1": 0.011627906976744186}
+{"pattern": "[X] \u00e8 stato originariamente giocato in lingua [Y].", "bert-base-multilingual-uncased_P@1": 0.46511627906976744}
+{"pattern": "[X] \u00e8 stato originariamente giocato nella seguente lingua: [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X] \u00e8 stato originariamente eseguito in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato originariamente eseguito in lingua [Y]?", "bert-base-multilingual-uncased_P@1": 0.3953488372093023}
+{"pattern": "[X] \u00e8 stato originariamente eseguito nella seguente lingua: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e8 stato originariamente suonato in [Y]?", "bert-base-multilingual-uncased_P@1": 0.023255813953488372}
+{"pattern": "[X] \u00e8 stato originariamente giocato in lingua [Y]?", "bert-base-multilingual-uncased_P@1": 0.47674418604651164}
+{"pattern": "[X] \u00e8 stato originariamente suonato nella seguente lingua: [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

@@ -1,0 +1,8 @@
+{"pattern": "De hoofdstad van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4230769230769231, "flan-t5-xl_P@1": 0.39655172413793105}
+{"pattern": "De hoofdstad van het [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156, "flan-t5-xl_P@1": 0.39655172413793105}
+{"pattern": "De hoofdstad van de [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.4423076923076923, "flan-t5-xl_P@1": 0.3448275862068966}
+{"pattern": "De hoofdstad van [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.27884615384615385, "flan-t5-xl_P@1": 0.3793103448275862}
+{"pattern": "De hoofdstad van de Bourbon [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156, "flan-t5-xl_P@1": 0.22413793103448276}
+{"pattern": "De hoofdstad van de [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.2980769230769231, "flan-t5-xl_P@1": 0.3620689655172414}
+{"pattern": "[X], met de hoofdstad [Y].", "bert-base-multilingual-uncased_P@1": 0.49038461538461536, "flan-t5-xl_P@1": 0.1896551724137931}
+{"pattern": "[X] van Belgi\u00eb, met als hoofdstad [Y].", "bert-base-multilingual-uncased_P@1": 0.22115384615384615, "flan-t5-xl_P@1": 0.1724137931034483}

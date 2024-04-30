@@ -1,0 +1,14 @@
+{"pattern": "The language of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6358381502890174, "flan-t5-xl_P@1": 0.7514792899408284}
+{"pattern": "The language of [X] was [Y] .", "bert-base-multilingual-uncased_P@1": 0.3930635838150289, "flan-t5-xl_P@1": 0.7692307692307693}
+{"pattern": "[X] is a work written in [Y] .", "bert-base-multilingual-uncased_P@1": 0.7398843930635838, "flan-t5-xl_P@1": 0.7455621301775148}
+{"pattern": "[X] is written in [Y] .", "bert-base-multilingual-uncased_P@1": 0.7109826589595376, "flan-t5-xl_P@1": 0.6863905325443787}
+{"pattern": "[X] was a work written in [Y] .", "bert-base-multilingual-uncased_P@1": 0.7341040462427746, "flan-t5-xl_P@1": 0.6982248520710059}
+{"pattern": "[X] was created in [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.005917159763313609}
+{"pattern": "[X] was written in [Y] .", "bert-base-multilingual-uncased_P@1": 0.6936416184971098, "flan-t5-xl_P@1": 0.5798816568047337}
+{"pattern": "Is [X] a work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.07514450867052024, "flan-t5-xl_P@1": 0.44970414201183434}
+{"pattern": "Is [X] a work written in [Y]?", "bert-base-multilingual-uncased_P@1": 0.7109826589595376, "flan-t5-xl_P@1": 0.7455621301775148}
+{"pattern": "Is [X] written in [Y]?", "bert-base-multilingual-uncased_P@1": 0.6473988439306358, "flan-t5-xl_P@1": 0.6331360946745562}
+{"pattern": "Was [X] a work in [Y]?", "bert-base-multilingual-uncased_P@1": 0.03468208092485549, "flan-t5-xl_P@1": 0.23668639053254437}
+{"pattern": "Was [X] a work written in [Y]?", "bert-base-multilingual-uncased_P@1": 0.7167630057803468, "flan-t5-xl_P@1": 0.5857988165680473}
+{"pattern": "Was [X] created in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.005917159763313609}
+{"pattern": "Was [X] written in [Y]?", "bert-base-multilingual-uncased_P@1": 0.6011560693641619, "flan-t5-xl_P@1": 0.33136094674556216}

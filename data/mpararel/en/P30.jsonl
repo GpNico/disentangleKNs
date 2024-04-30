@@ -1,0 +1,17 @@
+{"pattern": "The continent of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.7407407407407407}
+{"pattern": "[X] belongs to continent [Y] .", "bert-base-multilingual-uncased_P@1": 0.2, "flan-t5-xl_P@1": 0.8703703703703703}
+{"pattern": "[X] belongs to the continent of [Y] .", "bert-base-multilingual-uncased_P@1": 0.6871794871794872, "flan-t5-xl_P@1": 0.4444444444444444}
+{"pattern": "[X] is a part of continent [Y] .", "bert-base-multilingual-uncased_P@1": 0.41025641025641024, "flan-t5-xl_P@1": 0.6851851851851852}
+{"pattern": "[X] is a part of the continent [Y] .", "bert-base-multilingual-uncased_P@1": 0.4205128205128205, "flan-t5-xl_P@1": 0.5370370370370371}
+{"pattern": "[X] is a part of the continent of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7846153846153846, "flan-t5-xl_P@1": 0.5370370370370371}
+{"pattern": "[X] is located in [Y] .", "bert-base-multilingual-uncased_P@1": 0.24102564102564103, "flan-t5-xl_P@1": 0.3148148148148148}
+{"pattern": "[X] is located in continent [Y] .", "bert-base-multilingual-uncased_P@1": 0.17435897435897435, "flan-t5-xl_P@1": 0.8518518518518519}
+{"pattern": "[X] is located in the continent [Y] .", "bert-base-multilingual-uncased_P@1": 0.015384615384615385, "flan-t5-xl_P@1": 0.8333333333333334}
+{"pattern": "Does [X] belong to continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.16923076923076924, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Does [X] belong to the continent of [Y]?", "bert-base-multilingual-uncased_P@1": 0.4512820512820513, "flan-t5-xl_P@1": 0.7592592592592593}
+{"pattern": "Is [X] a part of continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.18974358974358974, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] a part of the continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.005128205128205128, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] a part of the continent of [Y]?", "bert-base-multilingual-uncased_P@1": 0.37948717948717947, "flan-t5-xl_P@1": 0.7962962962962963}
+{"pattern": "Is [X] located in [Y]?", "bert-base-multilingual-uncased_P@1": 0.11282051282051282, "flan-t5-xl_P@1": 0.37037037037037035}
+{"pattern": "Is [X] located in continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.2, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] located in the continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.005128205128205128, "flan-t5-xl_P@1": 0.0}

@@ -1,0 +1,136 @@
+{"pattern": "[X] had the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16759776536312848, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] had the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] had the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X] had the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X] had the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.11173184357541899, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] had the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1340782122905028, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] has the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.18435754189944134, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] has the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] has the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16201117318435754, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X] has the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] has the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.11173184357541899, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X] has the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.12290502793296089, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] held the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] held the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1564245810055866, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] held the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16201117318435754, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X] held the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X] held the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X] held the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] holds the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] holds the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] holds the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1564245810055866, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] holds the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1564245810055866, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] holds the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] holds the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X] officially held the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1564245810055866, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] officially held the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] officially holds the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] officially holds the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s official position is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s official position was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s official role is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s official role was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s position is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X]'s position was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s public position is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X]'s public position was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s public role is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X]'s public role was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s role is [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s role was [Y] .", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who had the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who had the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16201117318435754, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who had the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16759776536312848, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X], who had the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.12849162011173185, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X], who had the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who had the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.11731843575418995, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who has the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16759776536312848, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who has the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who has the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X], who has the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who has the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0782122905027933, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who has the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X], who held the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.18435754189944134, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], who held the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.18435754189944134, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who held the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.16759776536312848, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who held the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1340782122905028, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "[X], who held the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.12290502793296089, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who held the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X], who holds the official position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.18435754189944134, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who holds the official role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who holds the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who holds the public position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who holds the public role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.11731843575418995, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], who holds the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1340782122905028, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X], who officially held the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.2011173184357542, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "[X], who officially held the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.1787709497206704, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who officially holds the position of [Y] .", "bert-base-multilingual-uncased_P@1": 0.21787709497206703, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], who officially holds the role of [Y] .", "bert-base-multilingual-uncased_P@1": 0.2011173184357542, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose official position is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.055865921787709494, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose official position was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.08379888268156424, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose official role is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.061452513966480445, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose official role was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0782122905027933, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose position is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.027932960893854747, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X], whose position was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.07262569832402235, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "[X], whose public position is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0335195530726257, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X], whose public position was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.0670391061452514, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "[X], whose public role is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.05027932960893855, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose public role was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.05027932960893855, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose role is that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.03910614525139665, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], whose role was that of [Y] .", "bert-base-multilingual-uncased_P@1": 0.061452513966480445, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Did [X] have the official position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.12280701754385964}
+{"pattern": "Did [X] have the official role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.12290502793296089, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Did [X] have the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.11173184357541899, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Did [X] have the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0670391061452514, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Did [X] have the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.07262569832402235, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Did [X] have the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.08379888268156424, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Did [X] hold the official position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Did [X] hold the official role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.11731843575418995, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Did [X] hold the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Did [X] hold the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Did [X] hold the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "Did [X] hold the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "Did [X] officially hold the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.13966480446927373, "flan-t5-xl_P@1": 0.14035087719298245}
+{"pattern": "Did [X] officially hold the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Did [X] officially hold the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.12290502793296089, "flan-t5-xl_P@1": 0.12280701754385964}
+{"pattern": "Did [X] officially hold the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.11731843575418995, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "Does [X] have the official position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.15083798882681565, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Does [X] have the official role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.12290502793296089, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Does [X] have the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Does [X] have the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0670391061452514, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Does [X] have the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0670391061452514, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Does [X] have the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0893854748603352, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Does [X] hold the official position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452513966480447, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Does [X] hold the official role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Does [X] hold the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Does [X] hold the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.08379888268156424, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Does [X] hold the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1005586592178771, "flan-t5-xl_P@1": 0.10526315789473684}
+{"pattern": "Does [X] hold the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.10614525139664804, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Does [X] officially hold the position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.13966480446927373, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Does [X] officially hold the public position of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1340782122905028, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Does [X] officially hold the public role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.13966480446927373, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Does [X] officially hold the role of [Y]?", "bert-base-multilingual-uncased_P@1": 0.1340782122905028, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Is [X]'s official position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s official position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.055865921787709494, "flan-t5-xl_P@1": 0.08771929824561403}
+{"pattern": "Is [X]'s official role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s official role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0111731843575419, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Is [X]'s position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Is [X]'s position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Is [X]'s public position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s public position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Is [X]'s public role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s public role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s official position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Was [X]'s official position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0446927374301676, "flan-t5-xl_P@1": 0.07017543859649122}
+{"pattern": "Was [X]'s official role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.017543859649122806}
+{"pattern": "Was [X]'s official role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0111731843575419, "flan-t5-xl_P@1": 0.05263157894736842}
+{"pattern": "Was [X]'s position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Was [X]'s position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.03508771929824561}
+{"pattern": "Was [X]'s public position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s public position that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s public role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s public role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s role [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Was [X]'s role that of [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}

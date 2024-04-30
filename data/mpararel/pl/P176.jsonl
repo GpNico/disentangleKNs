@@ -1,0 +1,28 @@
+{"pattern": "[X] jest produktem [Y].", "bert-base-multilingual-uncased_P@1": 0.7724137931034483, "flan-t5-xl_P@1": 0.8650793650793651}
+{"pattern": "[X] jest tworzony przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8206896551724138, "flan-t5-xl_P@1": 0.8571428571428571}
+{"pattern": "[X] jest opracowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8344827586206897, "flan-t5-xl_P@1": 0.7222222222222222}
+{"pattern": "[X] jest produkowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.896551724137931, "flan-t5-xl_P@1": 0.8571428571428571}
+{"pattern": "[X] zosta\u0142 stworzony przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8206896551724138, "flan-t5-xl_P@1": 0.8650793650793651}
+{"pattern": "[X] zosta\u0142 opracowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8206896551724138, "flan-t5-xl_P@1": 0.7142857142857143}
+{"pattern": "[X] zosta\u0142 wyprodukowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8620689655172413, "flan-t5-xl_P@1": 0.8888888888888888}
+{"pattern": "[X], produkt stworzony przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8758620689655172, "flan-t5-xl_P@1": 0.873015873015873}
+{"pattern": "[X], produkt opracowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8827586206896552, "flan-t5-xl_P@1": 0.873015873015873}
+{"pattern": "[X], produkt produkowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8689655172413793, "flan-t5-xl_P@1": 0.8809523809523809}
+{"pattern": "[X], produkt [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.8650793650793651}
+{"pattern": "[X], stworzony przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8068965517241379, "flan-t5-xl_P@1": 0.8650793650793651}
+{"pattern": "[X], opracowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.7862068965517242, "flan-t5-xl_P@1": 0.7936507936507936}
+{"pattern": "[X], produkowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8896551724137931, "flan-t5-xl_P@1": 0.873015873015873}
+{"pattern": "Czy [X] jest produktem stworzonym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8620689655172413, "flan-t5-xl_P@1": 0.3492063492063492}
+{"pattern": "Czy [X] jest produktem opracowanym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8413793103448276, "flan-t5-xl_P@1": 0.1349206349206349}
+{"pattern": "Czy [X] jest produktem produkowanym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8758620689655172, "flan-t5-xl_P@1": 0.49206349206349204}
+{"pattern": "Czy [X] jest produktem [Y]?", "bert-base-multilingual-uncased_P@1": 0.006896551724137931, "flan-t5-xl_P@1": 0.48412698412698413}
+{"pattern": "Czy [X] zosta\u0142o stworzone przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.7724137931034483, "flan-t5-xl_P@1": 0.21428571428571427}
+{"pattern": "Czy [X] zosta\u0142 opracowany przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.7655172413793103, "flan-t5-xl_P@1": 0.10317460317460317}
+{"pattern": "Czy [X] jest produkowany przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8, "flan-t5-xl_P@1": 0.2857142857142857}
+{"pattern": "Czy [X] by\u0142 produktem stworzonym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8482758620689655, "flan-t5-xl_P@1": 0.5}
+{"pattern": "Czy [X] by\u0142 produktem opracowanym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8413793103448276, "flan-t5-xl_P@1": 0.11904761904761904}
+{"pattern": "Czy [X] by\u0142 produktem produkowanym przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8551724137931035, "flan-t5-xl_P@1": 0.5952380952380952}
+{"pattern": "Czy [X] by\u0142o produktem [Y]?", "bert-base-multilingual-uncased_P@1": 0.013793103448275862, "flan-t5-xl_P@1": 0.29365079365079366}
+{"pattern": "Czy [X] zosta\u0142 stworzony przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.7517241379310344, "flan-t5-xl_P@1": 0.38095238095238093}
+{"pattern": "Czy [X] zosta\u0142o opracowane przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.7448275862068966, "flan-t5-xl_P@1": 0.07142857142857142}
+{"pattern": "Czy [X] zosta\u0142 wyprodukowany przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.8137931034482758, "flan-t5-xl_P@1": 0.40476190476190477}

@@ -1,0 +1,17 @@
+{"pattern": "Der Hauptsitz von [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.40869565217391307, "flan-t5-xl_P@1": 0.379746835443038}
+{"pattern": "Der Hauptsitz der [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.41739130434782606, "flan-t5-xl_P@1": 0.3670886075949367}
+{"pattern": "Der Hauptsitz des [X]ordens befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3826086956521739, "flan-t5-xl_P@1": 0.34177215189873417}
+{"pattern": "Der Hauptsitz des [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.40869565217391307, "flan-t5-xl_P@1": 0.3670886075949367}
+{"pattern": "[X] hat seinen Sitz in [Y].", "bert-base-multilingual-uncased_P@1": 0.391304347826087, "flan-t5-xl_P@1": 0.34177215189873417}
+{"pattern": "[X] hat seinen Hauptsitz in [Y].", "bert-base-multilingual-uncased_P@1": 0.41739130434782606, "flan-t5-xl_P@1": 0.3670886075949367}
+{"pattern": "[X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.3391304347826087, "flan-t5-xl_P@1": 0.22784810126582278}
+{"pattern": "Das Hauptquartier von [X] befindet sich in [Y].", "bert-base-multilingual-uncased_P@1": 0.4, "flan-t5-xl_P@1": 0.379746835443038}
+{"pattern": "[X] mit Hauptsitz in [Y].", "bert-base-multilingual-uncased_P@1": 0.3565217391304348, "flan-t5-xl_P@1": 0.24050632911392406}
+{"pattern": "Ist das Hauptquartier von [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.25217391304347825, "flan-t5-xl_P@1": 0.3924050632911392}
+{"pattern": "Ist der Hauptsitz von [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.2608695652173913, "flan-t5-xl_P@1": 0.3037974683544304}
+{"pattern": "Ist der Hauptsitz der [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.26956521739130435, "flan-t5-xl_P@1": 0.2911392405063291}
+{"pattern": "Hat [X] seinen Sitz in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3391304347826087, "flan-t5-xl_P@1": 0.3037974683544304}
+{"pattern": "Hat [X] seinen Hauptsitz in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3652173913043478, "flan-t5-xl_P@1": 0.3037974683544304}
+{"pattern": "Die [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.12173913043478261, "flan-t5-xl_P@1": 0.0759493670886076}
+{"pattern": "Ist das Hauptquartier des [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.2608695652173913, "flan-t5-xl_P@1": 0.34177215189873417}
+{"pattern": "Ist der Hauptsitz des [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.2782608695652174, "flan-t5-xl_P@1": 0.2911392405063291}

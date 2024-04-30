@@ -1,0 +1,21 @@
+{"pattern": "De plaats van de dood van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De plaats van de dood van [X] was [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De plaats van overlijden van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De plaats van overlijden van [X] was [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De overlijdensplaats van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "De plaats van overlijden van [X]l was [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] stierf in [Y].", "bert-base-multilingual-uncased_P@1": 0.1870967741935484, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]l stierf in [Y].", "bert-base-multilingual-uncased_P@1": 0.18064516129032257, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] is overleden in [Y].", "bert-base-multilingual-uncased_P@1": 0.3548387096774194, "flan-t5-xl_P@1": 0.029850746268656716}
+{"pattern": "[X] overleed in [Y].", "bert-base-multilingual-uncased_P@1": 0.3096774193548387, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] verloor zijn leven bij [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.014925373134328358}
+{"pattern": "[X]l is overleden in [Y].", "bert-base-multilingual-uncased_P@1": 0.3741935483870968, "flan-t5-xl_P@1": 0.014925373134328358}
+{"pattern": "[X] bezweek bij [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X]'s leven eindigde in [Y].", "bert-base-multilingual-uncased_P@1": 0.3419354838709677, "flan-t5-xl_P@1": 0.07462686567164178}
+{"pattern": "Is [X] gestorven in [Y]?", "bert-base-multilingual-uncased_P@1": 0.07741935483870968, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] overleden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.07096774193548387, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Heeft [X] zijn leven verloren in [Y]?", "bert-base-multilingual-uncased_P@1": 0.14838709677419354, "flan-t5-xl_P@1": 0.07462686567164178}
+{"pattern": "Is [X] omgekomen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.12903225806451613, "flan-t5-xl_P@1": 0.029850746268656716}
+{"pattern": "Is [X]l overleden in [Y]?", "bert-base-multilingual-uncased_P@1": 0.03225806451612903, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X] bezweken bij [Y]?", "bert-base-multilingual-uncased_P@1": 0.012903225806451613, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Is [X]'s leven ge\u00ebindigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0967741935483871, "flan-t5-xl_P@1": 0.0}

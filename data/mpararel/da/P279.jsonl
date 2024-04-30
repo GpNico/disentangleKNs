@@ -1,0 +1,15 @@
+{"pattern": "[X] har klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en [Y].", "bert-base-multilingual-uncased_P@1": 0.14814814814814814, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en slags [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.2962962962962963, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er en type [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X] er af klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], en type [Y].", "bert-base-multilingual-uncased_P@1": 0.2222222222222222, "flan-t5-xl_P@1": 0.0}
+{"pattern": "[X], som er en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.37037037037037035, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Har [X] klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.14814814814814814, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en slags [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en underklasse af [Y]?", "bert-base-multilingual-uncased_P@1": 0.2222222222222222, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] en type [Y]?", "bert-base-multilingual-uncased_P@1": 0.18518518518518517, "flan-t5-xl_P@1": 0.0}
+{"pattern": "Er [X] af klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0, "flan-t5-xl_P@1": 0.0}
