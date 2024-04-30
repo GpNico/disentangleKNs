@@ -1,0 +1,10 @@
+{"pattern": ["televisieserie", "##horidae", "stanach", "\u0441\u0435\u0440\u0438\u0430\u043b", "\u0441\u0430\u0438\u0446\u0435"], "ids": [53208, 91977, 36926, 49947, 39719], "seed": 0}
+{"pattern": ["primetime", "amptelike", "\u0441\u0435\u0440\u0438\u0430\u043b", "www", "\u06af\u0645\u06cc\u0646\u0627"], "ids": [81969, 93982, 49947, 10561, 75607], "seed": 1}
+{"pattern": ["episode", "indiana", "adaptation", "\u0441\u0430\u0438\u0442\u0435", "\u043a\u0430\u043d\u0430\u043b\u0430"], "ids": [12293, 16261, 26351, 39947, 57415], "seed": 2}
+{"pattern": ["\u0441\u043f\u0438\u0441\u043e\u043a", "episodes", "primetime", "sketches", "\u0441\u0430\u0438\u0446\u0435"], "ids": [24063, 16950, 81969, 71258, 39719], "seed": 3}
+{"pattern": ["stagione", "primetime", "\u05d1\u05d0\u05ea\u05e8", "\u0441\u0430\u0438\u0442", "\u05e9\u05dc"], "ids": [14573, 81969, 70937, 21115, 10357], "seed": 4}
+{"pattern": ["abc", "espn", "asimov", "zdf", "amc"], "ids": [16081, 31564, 95069, 59100, 81292], "seed": 5}
+{"pattern": ["kuhusu", "columbia", "##\u05d9\u05e0\u05d5\u05ea", "##\u0432\u0438\u0434\u0435\u043d\u0438\u044f", "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0438"], "ids": [53741, 13289, 63609, 92341, 30928], "seed": 6}
+{"pattern": ["arrondissementer", "abc", "chaine", "principal", "\u1106\u1175\u1100\u116e\u11a8\u110b\u1174"], "ids": [56054, 16081, 31861, 11773, 37379], "seed": 7}
+{"pattern": ["via", "abc", "cheyenne", "televisieserie", "via"], "ids": [11310, 16081, 84726, 53208, 11310], "seed": 8}
+{"pattern": ["cw", "situs", "emmy", "cithakan", "municipais"], "ids": [58248, 20757, 26332, 60596, 75026], "seed": 9}

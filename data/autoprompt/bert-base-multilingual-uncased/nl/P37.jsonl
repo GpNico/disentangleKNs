@@ -1,0 +1,10 @@
+{"pattern": ["romanul", "officiele", "inligting", "llengues", "enkel"], "ids": [75696, 30704, 69256, 68017, 32830], "seed": 0}
+{"pattern": ["filma", "\u0434\u043e\u0445\u0438\u043b", "\u0444\u0456\u043b\u044c\u043c", "van", "\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430\u0438"], "ids": [25246, 25167, 31667, 10147, 84788], "seed": 1}
+{"pattern": ["bronnen", "jaras", "\u0563\u0565\u057f\u056b", "websteed", "berbahasa"], "ids": [11085, 88174, 29284, 94284, 85859], "seed": 2}
+{"pattern": ["bronnen", "litteralement", "language", "bijna", "koninklijk"], "ids": [11085, 95930, 12823, 40331, 90109], "seed": 3}
+{"pattern": ["\u0440\u0435\u043a\u0430", "britannica", "noten", "rivier", "wikang"], "ids": [17515, 14221, 11110, 34564, 42575], "seed": 4}
+{"pattern": ["websteed", "\u043e\u0437\u044b\u043d", "huvudavrinningsomrade", "genoemd", "tieng"], "ids": [94284, 86065, 33746, 22441, 14648], "seed": 5}
+{"pattern": ["tumani", "aeroport", "##moord", "##\u0c36\u0c21\u0c41", "\u0441\u0430\u0438\u0446\u0435"], "ids": [23658, 28614, 82430, 75687, 39719], "seed": 6}
+{"pattern": ["websteed", "voor", "##ians", "zodynas", "tieng"], "ids": [94284, 10461, 38300, 86893, 14648], "seed": 7}
+{"pattern": ["websteed", "\u10d9\u10db", "gelijknamige", "kommun", "vanuit"], "ids": [94284, 58191, 88797, 15313, 32649], "seed": 8}
+{"pattern": ["anglicky", "\u0441\u0430\u0438\u0446\u0435", "##\u0435\u043b\u0435\u043d\u0438", "plaatsen", "jazyka"], "ids": [41767, 39719, 82628, 31400, 88496], "seed": 9}

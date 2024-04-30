@@ -1,0 +1,10 @@
+{"pattern": ["\u043b\u044e\u0431\u0432\u0438", "federacio", "comuna", "counties", "din"], "ids": [60514, 82037, 12229, 18819, 10621], "seed": 0}
+{"pattern": ["regional", "##\u10ec\u10d4\u10e0\u10d0", "website", "joves", "miss"], "ids": [12536, 51449, 12699, 76605, 14344], "seed": 1}
+{"pattern": ["county", "##\u0643\u0627\u0644\u0629", "arrondissementer", "regionale", "republikken"], "ids": [10663, 91627, 56054, 22015, 83107], "seed": 2}
+{"pattern": ["\u0441\u0432\u043e\u0435\u043c\u0443", "llengues", "website", "regio", "of"], "ids": [56529, 68017, 12699, 14454, 10108], "seed": 3}
+{"pattern": ["distret", "##\u0627\u0631\u0629", "arrondissementer", "drzave", "de"], "ids": [75819, 24215, 56054, 20175, 10102], "seed": 4}
+{"pattern": ["\u043f\u043e\u0434\u0431\u0430\u0441\u0441\u0435\u0438\u043d", "administrativ", "ciuda", "##rques", "de"], "ids": [70509, 31002, 22020, 92440, 10102], "seed": 5}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "websteed", "federacio", "assembly", "\u043f\u0456\u0432\u0434\u0435\u043d\u043d\u043e\u0456"], "ids": [28937, 94284, 82037, 16174, 96187], "seed": 6}
+{"pattern": ["city", "##rament", "\u0440\u0430\u0434\u0456", "comunas", "##vnega"], "ids": [10575, 50605, 60082, 40662, 66910], "seed": 7}
+{"pattern": ["county", "imaxes", "ganet", "harta", "republik"], "ids": [10663, 93625, 52446, 38407, 16536], "seed": 8}
+{"pattern": ["\u043e\u0440\u0443\u0436\u0438\u0435", "county", "imaxes", "comunas", "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"], "ids": [64734, 10663, 93625, 40662, 14598], "seed": 9}

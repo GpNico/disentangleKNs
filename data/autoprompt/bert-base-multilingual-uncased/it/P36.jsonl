@@ -1,0 +1,10 @@
+{"pattern": ["\u091b\u0924\u0924\u0940\u0938\u0917\u0922", "##mora", "bancian", "rasmi", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [28537, 71630, 75080, 51464, 63022], "seed": 0}
+{"pattern": ["tourist", "bureau", "aeroporto", "metropolitana", "di"], "ids": [41181, 12287, 31158, 25859, 10120], "seed": 1}
+{"pattern": ["senate", "sito", "##\u044c\u0431\u0443", "citta", "di"], "ids": [21724, 30880, 57670, 12801, 10120], "seed": 2}
+{"pattern": ["arrondissementer", "aeroport", "stazione", "metropolitana", "di"], "ids": [56054, 28614, 22759, 25859, 10120], "seed": 3}
+{"pattern": ["nelle", "arrondissementer", "\u25a0", "city", "di"], "ids": [13057, 56054, 1432, 10575, 10120], "seed": 4}
+{"pattern": ["\u00b7", "department", "secretariat", "citta", "di"], "ids": [193, 12406, 66847, 12801, 10120], "seed": 5}
+{"pattern": ["basketball", "ceux", "charlotte", "liverpool", "olimpia"], "ids": [16722, 19840, 17443, 18720, 61618], "seed": 6}
+{"pattern": ["arrondissementer", "\u0446\u0435\u043d\u0442\u044a\u0440", "distretto", "metropolitana", "di"], "ids": [56054, 41168, 27490, 25859, 10120], "seed": 7}
+{"pattern": ["statistical", "courthouse", "\u25ba", "citta", "di"], "ids": [18898, 86279, 1440, 12801, 10120], "seed": 8}
+{"pattern": ["arrondissementer", "administrativement", "\u25a0", "city", "\u0644\u0645\u062d\u0627\u0641\u0638\u0629"], "ids": [56054, 81930, 1432, 10575, 43270], "seed": 9}

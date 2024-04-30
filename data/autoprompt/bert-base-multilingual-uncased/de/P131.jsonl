@@ -1,0 +1,10 @@
+{"pattern": ["archaeological", "##skt", "wikimedia", "orten", "sydostra"], "ids": [21045, 49098, 13609, 44365, 15748], "seed": 0}
+{"pattern": ["railway", "##mang", "namn", "\u0434\u0430\u0440", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [13790, 73661, 17295, 11869, 63022], "seed": 1}
+{"pattern": ["\u0448\u0443\u0440\u043e\u0438", "gazetteer", "dochter", "universiteit", "vun"], "ids": [75044, 30674, 31308, 21425, 11086], "seed": 2}
+{"pattern": ["##\u0631\u0633\u0629", "website", "der", "universitaten", "in"], "ids": [86282, 12699, 10118, 58090, 10104], "seed": 3}
+{"pattern": ["\u04b3\u0430\u0432\u043e\u0433\u0430\u0440\u0434\u0438", "einwohnern", "astronomie", "district", "vun"], "ids": [91697, 28391, 48364, 11091, 11086], "seed": 4}
+{"pattern": ["district", "websteed", "constituencies", "vun", "deelstaat"], "ids": [11091, 94284, 89586, 11086, 44839], "seed": 5}
+{"pattern": ["\u06cc\u0648\u0646\u06cc\u0648\u0631\u0633\u0679\u06cc", "national", "\u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f\u0441\u0435\u043d\u043d\u04d9\u043d", "vun", "universitat"], "ids": [65135, 10551, 31987, 11086, 12663], "seed": 6}
+{"pattern": ["tramway", "bei", "websteed", "universitaten", "vun"], "ids": [69186, 10478, 94284, 58090, 11086], "seed": 7}
+{"pattern": ["district", "narmaste", "buidl", "\u05e2\u05dc", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [11091, 13444, 55957, 10654, 55892], "seed": 8}
+{"pattern": ["siehe", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "beziak", "perbandaran", "in"], "ids": [23892, 28937, 91628, 30712, 10104], "seed": 9}

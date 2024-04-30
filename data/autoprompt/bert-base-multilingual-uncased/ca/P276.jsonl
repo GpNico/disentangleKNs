@@ -1,0 +1,10 @@
+{"pattern": ["\u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915", "\u044e\u043d\u0435\u0441\u043a\u043e", "ciutat", "##sos", "de"], "ids": [91740, 83793, 15684, 17416, 10102], "seed": 0}
+{"pattern": ["wikimedia", "glottolog", "lista", "ciutat", "##\u110b\u1171\u110b\u1166"], "ids": [13609, 72555, 14247, 15684, 69364], "seed": 1}
+{"pattern": ["database", "pagina", "\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u043a", "ciutats", "de"], "ids": [10326, 16833, 74036, 51953, 10102], "seed": 2}
+{"pattern": ["sive", "nacions", "\u0986\u09ae\u09ab\u09c7\u09be\u09af\u09c7", "metropolitana", "de"], "ids": [44145, 55794, 80061, 25859, 10102], "seed": 3}
+{"pattern": ["\u0433\u043b\u043e\u0431\u0443\u0441", "angles", "names", "ciutat", "\u0641\u06cc\u0644\u0645\u0647\u0627\u06cc"], "ids": [80063, 22624, 12276, 15684, 81560], "seed": 4}
+{"pattern": ["wikimedia", "\u0438\u0441\u043f\u0430\u043d\u0438", "tou", "ciudaes", "de"], "ids": [13609, 37810, 42149, 84812, 10102], "seed": 5}
+{"pattern": ["planeti", "website", "ciutat", "diplopoda", "de"], "ids": [25347, 12699, 15684, 65921, 10102], "seed": 6}
+{"pattern": ["llista", "\u0432\u043e\u0434\u043d\u043e\u043c", "gemengen", "ciutat", "\u03b5\u03b9\u03c2"], "ids": [31324, 95496, 50455, 15684, 86460], "seed": 7}
+{"pattern": ["pagina", "\u043e\u043e\u043d", "ciutat", "principal", "de"], "ids": [16833, 41297, 15684, 11773, 10102], "seed": 8}
+{"pattern": ["llista", "##\u093f\u092f\u092e", "ciutat", "##jee", "de"], "ids": [31324, 48869, 15684, 86908, 10102], "seed": 9}

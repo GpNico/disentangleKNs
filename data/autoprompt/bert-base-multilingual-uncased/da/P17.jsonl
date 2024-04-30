@@ -1,0 +1,10 @@
+{"pattern": ["\u0645\u0645\u062b\u0644", "\u0ba8\u0b9f\u0b95\u0b95\u0bbf\u0ba9\u0bb1\u0ba4\u0bc1", "samband", "comunas", "vun"], "ids": [68609, 73511, 37757, 40662, 11086], "seed": 0}
+{"pattern": ["##\u0441\u043b\u0435\u0434", "##vision", "\u0444\u0440\u0430\u043d\u0446\u0438\u044f", "anden", "##vision"], "ids": [70761, 42676, 27041, 28018, 42676], "seed": 1}
+{"pattern": ["danimarca", "storbritannien", "anden", "\u0431\u0435\u043e\u0433\u0440\u0430\u0434", "##riget"], "ids": [85375, 28676, 28018, 31190, 78752], "seed": 2}
+{"pattern": ["##skab", "s\u00f8lv", "\u0627\u0644\u0627\u0637\u0644\u0627\u0639", "laget", "\u0627\u0647\u0644"], "ids": [49433, 42106, 75163, 23851, 17435], "seed": 3}
+{"pattern": ["indbyggere", "belgia", "tysk", "##round", "sydostra"], "ids": [56173, 37615, 20596, 74502, 15748], "seed": 4}
+{"pattern": ["comune", "\u0441\u0430\u0438\u0446\u0435", "foren", "##skabet", "\u05de\u05dc\u05da"], "ids": [12900, 39719, 31952, 91021, 42512], "seed": 5}
+{"pattern": ["ane", "\u0441\u0430\u0438\u0446\u0435", "grosser", "indbyggere", "republikken"], "ids": [31207, 39719, 72424, 56173, 83107], "seed": 6}
+{"pattern": ["unesco", "indbyggere", "website", "nord\u00f8st", "\u0441\u0442\u0438\u0433\u0430\u043b"], "ids": [16077, 56173, 12699, 91465, 77156], "seed": 7}
+{"pattern": ["indbyggere", "alemania", "turing", "kwiaty", "bahrain"], "ids": [56173, 21629, 68678, 93040, 54629], "seed": 8}
+{"pattern": ["websteed", "\u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u044c", "kommun", "indbyggere", "sydostra"], "ids": [94284, 56131, 15313, 56173, 15748], "seed": 9}

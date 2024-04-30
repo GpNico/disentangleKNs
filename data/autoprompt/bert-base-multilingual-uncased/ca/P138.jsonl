@@ -1,0 +1,10 @@
+{"pattern": ["huvudavrinningsomrade", "imaxes", "\u0586\u0580\u0561\u0576\u057d\u056b\u0561\u0575\u056b", "municipais", "namens"], "ids": [33746, 93625, 46314, 75026, 32490], "seed": 0}
+{"pattern": ["facts", "overview", "anomenada", "istoria", "de"], "ids": [20203, 51275, 48127, 33150, 10102], "seed": 1}
+{"pattern": ["\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0568", "wikipedia", "gjeld", "trata", "de"], "ids": [78029, 12834, 76638, 21139, 10102], "seed": 2}
+{"pattern": ["##\u0250", "\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "##\u0438\u0447\u043a\u0435", "grans", "de"], "ids": [96689, 26814, 92427, 25187, 10102], "seed": 3}
+{"pattern": ["database", "pagina", "estadounidense", "comunas", "##\u0639\u0631\u0641"], "ids": [10326, 16833, 16903, 40662, 67202], "seed": 4}
+{"pattern": ["homepage", "##\u0435\u0433\u0438\u043e\u043d\u044b\u043d\u044b\u04a3", "org", "ganed", "prifysgol"], "ids": [61916, 64116, 10355, 75304, 83024], "seed": 5}
+{"pattern": ["timeline", "pagina", "grans", "##\u0632\u0644\u0629", "de"], "ids": [80182, 16833, 25187, 79938, 10102], "seed": 6}
+{"pattern": ["glottolog", "peul", "unicode", "ciutat", "\u0634\u0648\u0631\u0627\u06cc"], "ids": [72555, 45149, 52269, 15684, 44368], "seed": 7}
+{"pattern": ["wikimedia", "glottolog", "urbo", "d", "amerikanische"], "ids": [13609, 72555, 23462, 146, 31688], "seed": 8}
+{"pattern": ["oficialment", "##duutsch", "litteralement", "ciutat", "de"], "ids": [66580, 77498, 95930, 15684, 10102], "seed": 9}

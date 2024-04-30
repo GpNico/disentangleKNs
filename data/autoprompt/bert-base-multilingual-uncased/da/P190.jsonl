@@ -1,0 +1,10 @@
+{"pattern": ["navn", "moskau", "amman", "flughafen", "flughafen"], "ids": [20707, 40833, 82347, 45078, 45078], "seed": 0}
+{"pattern": ["internasjonale", "##racije", "peking", "slovenija", "##racije"], "ids": [47354, 82331, 45508, 43473, 82331], "seed": 1}
+{"pattern": ["regnet", "##sjon", "warschau", "baghdad", "peking"], "ids": [77415, 22113, 69590, 54489, 45508], "seed": 2}
+{"pattern": ["honolulu", "med", "##bruk", "amman", "olimpia"], "ids": [51401, 10180, 44688, 82347, 61618], "seed": 3}
+{"pattern": ["\u0628\u0627\u0631\u064a\u0633", "##\u05e2\u05d5\u05e8", "s\u00f8r", "\u0441\u043e\u0444\u0438\u044f", "provinshuvudstaden"], "ids": [70285, 94463, 17650, 22210, 61272], "seed": 4}
+{"pattern": ["k\u00f8benhavns", "republikken", "peking", "sfr", "republikken"], "ids": [57358, 83107, 45508, 52282, 83107], "seed": 5}
+{"pattern": ["hovedstaden", "honolulu", "baghdad", "milan", "astana"], "ids": [76328, 51401, 54489, 15378, 58496], "seed": 6}
+{"pattern": ["##sjon", "warschau", "hanoi", "alba", "##sjon"], "ids": [22113, 69590, 50020, 18654, 22113], "seed": 7}
+{"pattern": ["kokku", "courage", "londen", "hanoi", "baghdad"], "ids": [51811, 46718, 35196, 50020, 54489], "seed": 8}
+{"pattern": ["namn", "fury", "bucharest", "peking", "cairo"], "ids": [17295, 45752, 60641, 45508, 35698], "seed": 9}

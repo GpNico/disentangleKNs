@@ -1,0 +1,10 @@
+{"pattern": ["jail", "\u0433\u044a\u0440\u0446\u0438\u044f", "vast", "duitsland", "vastra"], "ids": [56349, 57001, 30816, 27097, 16725], "seed": 0}
+{"pattern": ["huvudavrinningsomrade", "ovrigt", "database", "\u0642\u0627\u064a\u0645\u0629", "\u0576\u057e\u056b\u0580\u057e\u0561\u056e"], "ids": [33746, 36405, 10326, 25012, 95236], "seed": 1}
+{"pattern": ["locality", "ej", "gemengen", "##bundet", "republikken"], "ids": [67958, 40481, 50455, 76382, 83107], "seed": 2}
+{"pattern": ["gleichnamigen", "gemengen", "##v\u00e6rk", "\u06f2\u06f0\u06f1\u06f7", "republikken"], "ids": [44078, 50455, 90046, 22769, 83107], "seed": 3}
+{"pattern": ["liste", "sista", "olympiska", "komune", "i"], "ids": [13593, 40844, 64758, 43202, 151], "seed": 4}
+{"pattern": ["concello", "wahlkreis", "ledamot", "eleccions", "c\u0443\u0440ce\u0440"], "ids": [26215, 55108, 56297, 28165, 71173], "seed": 5}
+{"pattern": ["hongrois", "fodd", "##slagen", "kommun", "republiken"], "ids": [73108, 15384, 58550, 15313, 44067], "seed": 6}
+{"pattern": ["doden", "##\u05e8\u05d8", "infrastruktur", "institutionen", "\u05d1\u05e8\u05d7\u05d1\u05d9"], "ids": [77522, 35763, 66582, 82459, 49570], "seed": 7}
+{"pattern": ["ar", "\u0438\u0442\u0430\u043b\u0438\u0458\u0430", "##tal", "landsby", "vestlige"], "ids": [10133, 70401, 14782, 86607, 57229], "seed": 8}
+{"pattern": ["\u056f\u0578\u0574\u0578\u0582\u0576\u0561", "##skab", "\u05e9\u05de\u05d5", "##endt", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [86912, 49433, 38948, 81210, 55892], "seed": 9}

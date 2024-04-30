@@ -1,0 +1,10 @@
+{"pattern": ["scienze", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430", "zoologia", "filosofi", "mecanica"], "ids": [53991, 58754, 71793, 58625, 44555], "seed": 0}
+{"pattern": ["tratado", "tratado", "fisico", "##logia", "tratado"], "ids": [26833, 26833, 30794, 16099, 26833], "seed": 1}
+{"pattern": ["equipaggio", "scienze", "pittura", "chemie", "teoria"], "ids": [87504, 53991, 78798, 37046, 15671], "seed": 2}
+{"pattern": ["c\u0443\u0442c\u0430\u043d\u0442\u0430\u043ba\u043a", "teoria", "portal", "riguarda", "la"], "ids": [46181, 15671, 17375, 56926, 10106], "seed": 3}
+{"pattern": ["bounded", "scienze", "geology", "sociology", "quimica"], "ids": [91682, 53991, 59151, 57208, 29699], "seed": 4}
+{"pattern": ["\u0444\u0438\u0437\u0438\u043a\u0430", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430", "composizione", "scienze", "quimica"], "ids": [44591, 58754, 59004, 53991, 29699], "seed": 5}
+{"pattern": ["composizione", "\u0444\u0438\u0437\u0438\u043a\u0430", "scienze", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430", "quimica"], "ids": [59004, 44591, 53991, 58754, 29699], "seed": 6}
+{"pattern": ["\u043a\u0435\u043f", "contributo", "teori", "\u043e\u0431\u043b\u0430\u0441\u0442\u0442\u0430", "della"], "ids": [14934, 91181, 37449, 67196, 10322], "seed": 7}
+{"pattern": ["hurling", "scienze", "naturala", "astronomi", "kimia"], "ids": [85614, 53991, 89242, 81082, 50978], "seed": 8}
+{"pattern": ["vincitore", "oscar", "##ament", "aplicada", "\u043d\u0435\u0433\u043e\u0432\u0430\u0442\u0430"], "ids": [49682, 13783, 18758, 75354, 23094], "seed": 9}

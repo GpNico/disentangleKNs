@@ -1,0 +1,10 @@
+{"pattern": ["websteed", "offisiell", "\u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044b\u0438", "\u0627\u0644\u0627\u0637\u0644\u0627\u0639", "pa"], "ids": [94284, 93352, 78624, 75163, 10202], "seed": 0}
+{"pattern": ["sprog", "bokmal", "suomen", "##tisk", "arabisk"], "ids": [76453, 81452, 15975, 39238, 79052], "seed": 1}
+{"pattern": ["\u04e9\u04a3\u0456\u0440\u0456\u043d\u0435", "websteed", "offisiell", "kaupunki", "pa"], "ids": [40317, 94284, 93352, 38998, 10202], "seed": 2}
+{"pattern": ["stanovnistva", "websteed", "mengebor", "kommune", "pa"], "ids": [14695, 94284, 35756, 15418, 10202], "seed": 3}
+{"pattern": ["fylke", "hovedstaden", "websteed", "\u04af\u0499\u04d9\u0433\u0435\u043d\u04d9", "##ver"], "ids": [14466, 76328, 94284, 74808, 12817], "seed": 4}
+{"pattern": ["dalam", "lexicon", "offisiell", "\u0441\u0435\u043b\u0438\u0449\u0435", "berbahasa"], "ids": [10693, 66706, 93352, 48482, 85859], "seed": 5}
+{"pattern": ["population", "indbyggere", "dial", "##\u0447\u043d\u0438\u043c\u0438", "\u0441\u0430\u0438\u0446\u0435"], "ids": [10509, 56173, 88243, 59316, 39719], "seed": 6}
+{"pattern": ["offisiell", "offeecial", "##\ufffc", "\u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a", "nordre"], "ids": [93352, 83806, 105868, 84592, 93494], "seed": 7}
+{"pattern": ["kapell", "\u0434\u0430\u0440\u044b\u044f\u043d\u044b\u043d", "websteed", "wikipedia", "pa"], "ids": [85836, 39242, 94284, 12834, 10202], "seed": 8}
+{"pattern": ["innbyggjarar", "foljande", "heim", "\u0441\u0430\u0438\u0446\u0435", "idioma"], "ids": [49548, 22801, 59593, 39719, 30293], "seed": 9}

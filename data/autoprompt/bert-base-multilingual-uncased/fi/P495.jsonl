@@ -1,0 +1,10 @@
+{"pattern": ["\u0917\u093e\u0935", "talianu", "komune", "ontario", "provinsi"], "ids": [23266, 61862, 43202, 15354, 14925], "seed": 0}
+{"pattern": ["\u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", "finnland", "jabatan", "komune", "utanfor"], "ids": [57182, 75366, 22561, 43202, 41885], "seed": 1}
+{"pattern": ["valtion", "esempi", "wakil", "francja", "wakil"], "ids": [69331, 68991, 46334, 77994, 46334], "seed": 2}
+{"pattern": ["populer", "\u043a\u0438\u0448\u0432\u0430\u0440\u0438", "canada", "sukses", "\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430\u0438"], "ids": [49785, 41954, 11309, 57511, 84788], "seed": 3}
+{"pattern": ["ajan", "\u0441\u043f\u043e\u0440\u0442\u0443", "sinema", "yhdysvallat", "sinema"], "ids": [32430, 53465, 58564, 87289, 58564], "seed": 4}
+{"pattern": ["\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03c2", "##skapet", "harta", "orodha", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [87257, 38153, 38407, 45482, 38937], "seed": 5}
+{"pattern": ["tieng", "finlandia", "australie", "##\u093e\u0924", "tieng"], "ids": [14648, 21984, 23673, 15154, 14648], "seed": 6}
+{"pattern": ["\u06a9\u0627\u0646\u0627\u062f\u0627", "cithakan", "\u0432\u0456\u0446\u0435\u0431\u0441\u043a\u0430\u0438", "sprint", "nagrada"], "ids": [66537, 60596, 75517, 25730, 24640], "seed": 7}
+{"pattern": ["\u043a\u04cf\u043e\u0448\u0442", "finlandia", "canada", "brabant", "nagara"], "ids": [14257, 21984, 11309, 39549, 42734], "seed": 8}
+{"pattern": ["sonntag", "pratelan", "instituti", "lugha", "pou"], "ids": [96602, 83253, 52331, 22052, 22492], "seed": 9}

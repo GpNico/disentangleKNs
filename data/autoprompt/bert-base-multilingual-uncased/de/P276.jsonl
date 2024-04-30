@@ -1,0 +1,10 @@
+{"pattern": ["wikimedia", "buidl", "provincies", "ostan", "stod"], "ids": [13609, 55957, 49303, 52102, 22517], "seed": 0}
+{"pattern": ["gazetteer", "britannica", "metro", "##zentrum", "vun"], "ids": [30674, 14221, 11340, 42688, 11086], "seed": 1}
+{"pattern": ["-", "\u043a\u0438\u0440\u043e\u0432", "##vuti", "rasmi", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [118, 41279, 82008, 51464, 63022], "seed": 2}
+{"pattern": ["yaitu", "websteed", "perbandaran", "dat", "greater"], "ids": [20351, 94284, 30712, 10539, 18860], "seed": 3}
+{"pattern": ["##ului", "websteed", "unesco", "##echte", "orasul"], "ids": [12745, 94284, 16077, 88784, 37845], "seed": 4}
+{"pattern": ["wikimedia", "websteed", "metro", "rytuose", "##taat"], "ids": [13609, 94284, 11340, 68235, 69791], "seed": 5}
+{"pattern": ["wurr", "dopuniti", "websteed", "\u0443\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442", "in"], "ids": [49875, 29517, 94284, 94587, 10104], "seed": 6}
+{"pattern": ["lescht", "finlande", "##\u05e0\u05d8\u05e8\u05e0\u05d8", "gemengen", "\u05d1\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [27798, 70222, 77396, 50455, 41187], "seed": 7}
+{"pattern": ["##ancia", "pagina", "##taden", "namn", "kutha"], "ids": [92645, 16833, 93105, 17295, 34730], "seed": 8}
+{"pattern": ["##\u0927\u093f\u0915", "portal", "offiziellen", "metropole", "von"], "ids": [58054, 17375, 67024, 51959, 10168], "seed": 9}

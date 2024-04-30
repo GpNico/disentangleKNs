@@ -1,0 +1,10 @@
+{"pattern": ["divi", "##\u0446\u0438\u043e\u043d\u043d\u044b\u0435", "arrondissementer", "barnet", "republikken"], "ids": [88987, 64840, 56054, 74862, 83107], "seed": 0}
+{"pattern": ["fylke", "##\u05d5\u05db\u05df", "norte", "rexion", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [14466, 59625, 11954, 54169, 55892], "seed": 1}
+{"pattern": ["romanul", "rik", "\u0443\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442", "administrativ", "\u06cc\u0648\u0627\u0633\u0627\u0633"], "ids": [75696, 74848, 94587, 31002, 90450], "seed": 2}
+{"pattern": ["sentral", "sentral", "##vudstad", "\u0433\u0435\u0440\u0446\u043e\u0433", "of"], "ids": [46779, 46779, 90424, 65787, 10108], "seed": 3}
+{"pattern": ["hrabstwo", "prowincji", "tur", "goldwyn", "/"], "ids": [74591, 33270, 20956, 83446, 120], "seed": 4}
+{"pattern": ["loser", "##arske", "\u09a4\u09be\u09b2\u09bf\u0995\u09be", "krajine", "provincie"], "ids": [31580, 75387, 75275, 80446, 17211], "seed": 5}
+{"pattern": ["\u6405", "\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea", "xxiii", "innbyggjarar", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [4144, 77220, 48550, 49548, 55892], "seed": 6}
+{"pattern": ["districtul", "##\u0430\u0440\u0434\u043e", "tribunale", "districtul", "din"], "ids": [95967, 96213, 94079, 95967, 10621], "seed": 7}
+{"pattern": ["\u7ed5", "siemens", "administrativement", "arrondissementer", "\u0634\u0645\u0627\u0644"], "ids": [6743, 40941, 81930, 56054, 22120], "seed": 8}
+{"pattern": ["##\u0561\u0570\u0561\u0576\u057e\u0565\u056c", "spindelart", "cithakan", "\u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432", "kutha"], "ids": [69531, 47185, 60596, 28796, 34730], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["spisak", "institucions", "govern", "oficialment", "de"], "ids": [13990, 83920, 21679, 66580, 10102], "seed": 0}
+{"pattern": ["spisak", "municipis", "asimov", "municipis", "de"], "ids": [13990, 67932, 95069, 67932, 10102], "seed": 1}
+{"pattern": ["pagina", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "paisos", "\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u043e\u0432", "de"], "ids": [16833, 28937, 34351, 62729, 10102], "seed": 2}
+{"pattern": ["wikimedia", "unul", "lloc", "institucions", "din"], "ids": [13609, 33688, 19891, 83920, 10621], "seed": 3}
+{"pattern": ["hrvata", "angles", "database", "comunas", "##vnega"], "ids": [71603, 22624, 10326, 40662, 66910], "seed": 4}
+{"pattern": ["pagina", "gwasg", "govern", "comunas", "##\u0430\u043b\u044c\u043d\u043e\u0433\u043e"], "ids": [16833, 85672, 21679, 40662, 30400], "seed": 5}
+{"pattern": ["oficialment", "spisak", "altesa", "govern", "de"], "ids": [66580, 13990, 36181, 21679, 10102], "seed": 6}
+{"pattern": ["\u05d0\u05d5\u05ea\u05d5", "lloc", "\u05de\u05d5\u05e8\u05d7\u05d1", "##\u0444\u0438\u043b\u044c\u043c", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [18158, 19891, 56477, 66312, 55892], "seed": 7}
+{"pattern": ["dels", "\u091a\u0932\u091a\u093f\u0924\u0930", "database", "govern", "adtong"], "ids": [10869, 78073, 10326, 21679, 12416], "seed": 8}
+{"pattern": ["web", "lloc", "##\u043e\u043c\u044b\u0445", "gemengen", "adtong"], "ids": [11903, 19891, 95365, 50455, 12416], "seed": 9}

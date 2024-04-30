@@ -1,0 +1,10 @@
+{"pattern": ["cratere", "gazetteer", "municipi", "estadi", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [91539, 30674, 19710, 92862, 55892], "seed": 0}
+{"pattern": ["\u0b8e\u0ba9\u0ba9\u0bc1\u0bae", "organitzacio", "zyrtare", "##\u05d6\u05de\u05e8", "wikang"], "ids": [26014, 55691, 87630, 78042, 42575], "seed": 1}
+{"pattern": ["libretto", "ulohan", "produk", "##\u0446\u044b\u0438\u043d\u0430", "wikang"], "ids": [45586, 10566, 47400, 82562, 42575], "seed": 2}
+{"pattern": ["homepage", "zyrtare", "llengues", "oficialment", "en"], "ids": [61916, 87630, 68017, 66580, 10109], "seed": 3}
+{"pattern": ["portail", "angl", "lenga", "##\u0448\u044b\u043d\u044e", "portail"], "ids": [92346, 31465, 20915, 93816, 92346], "seed": 4}
+{"pattern": ["titol", "ingles", "otros", "tableaux", "##boll"], "ids": [24503, 12194, 12532, 62177, 70935], "seed": 5}
+{"pattern": ["istorija", "llengues", "titol", "\u0627\u063a\u0646\u064a\u0629", "en"], "ids": [64060, 68017, 24503, 81551, 10109], "seed": 6}
+{"pattern": ["engeland", "oficial", "llengues", "sueca", "lo"], "ids": [38137, 13562, 68017, 77853, 10387], "seed": 7}
+{"pattern": ["olimpiai", "anglaise", "llengues", "effets", "olimpiai"], "ids": [57057, 48671, 68017, 48714, 57057], "seed": 8}
+{"pattern": ["publicat", "lloc", "eftir", "sayti", "tieng"], "ids": [41490, 19891, 24378, 33735, 14648], "seed": 9}

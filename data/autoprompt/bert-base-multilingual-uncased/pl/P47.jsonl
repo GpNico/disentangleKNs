@@ -1,0 +1,10 @@
+{"pattern": ["\u05db\u05d7\u05dc\u05e7", "w", "\u05de\u05d5\u05e8\u05d7\u05d1", "##\u0d35\u0d3f\u0d27\u0d3e\u0d28\u0d02", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [62266, 165, 56477, 83360, 55892], "seed": 0}
+{"pattern": ["stany", "ostan", "poznan", "kara", "##gton"], "ids": [95495, 52102, 35032, 19047, 77153], "seed": 1}
+{"pattern": ["gota", "vychod", "reno", "zanzibar", "lebanon"], "ids": [62384, 85861, 44120, 76065, 38835], "seed": 2}
+{"pattern": ["kantoni", "posod", "##javi", "perbandaran", "\u0432\u0438\u043b\u043e\u044f\u0442\u0438"], "ids": [70914, 20553, 73438, 30712, 22848], "seed": 3}
+{"pattern": ["vasutvonal", "\u0561\u0580\u0587\u0574\u0578\u0582\u057f\u0584", "cithakan", "skupaj", "districtul"], "ids": [71457, 96035, 60596, 49029, 95967], "seed": 4}
+{"pattern": ["ceca", "bush", "##raan", "comunas", "regiunea"], "ids": [78053, 20267, 57106, 40662, 23315], "seed": 5}
+{"pattern": ["gmina", "##\u043e\u043c\u044b\u0445", "\u05de\u05d9\u05d5\u05d7\u05d3", "komune", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [14507, 95365, 92778, 43202, 55892], "seed": 6}
+{"pattern": ["borough", "matematicas", "po\u0142noc", "arrondissementer", "dla"], "ids": [23326, 73179, 52243, 56054, 12304], "seed": 7}
+{"pattern": ["arrondissementer", "##barth", "\u043f\u043e\u043b\u044c\u0448\u0435", "##padan", "greater"], "ids": [56054, 93332, 92837, 65210, 18860], "seed": 8}
+{"pattern": ["hrabstwo", "kidul", "ostan", "tachinidae", "##niczy"], "ids": [74591, 36939, 52102, 32196, 66879], "seed": 9}

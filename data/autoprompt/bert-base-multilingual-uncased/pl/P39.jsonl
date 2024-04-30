@@ -1,0 +1,10 @@
+{"pattern": ["cinsin\u0259", "\u043f\u0435\u0447\u043e\u0440\u0430", "sarajevo", "2018", "katolicki"], "ids": [63039, 25140, 20288, 10520, 59766], "seed": 0}
+{"pattern": ["glottolog", "kategorie", "pape", "warszawa", "duchowny"], "ids": [72555, 22030, 13847, 21238, 68128], "seed": 1}
+{"pattern": ["\u0441\u043c\u044a\u0440\u0442\u0442\u0430", "krzyz", "judas", "katolicki", "judas"], "ids": [54047, 33853, 49731, 59766, 49731], "seed": 2}
+{"pattern": ["erzbischof", "\u06f2\u06f0\u06f1\u06f8", "##odow", "##\u062c\u0631\u064a", "pratelan"], "ids": [46161, 22894, 90241, 56758, 83253], "seed": 3}
+{"pattern": ["erzbischof", "legat", "piotr", "brazilian", "##fikacja"], "ids": [46161, 79313, 32420, 31246, 87343], "seed": 4}
+{"pattern": ["\u0445\u044c\u043e\u043b\u0430\u0445\u044c", "##\u0142uga", "pius", "cebu", "narodni"], "ids": [69903, 93532, 32721, 89179, 28179], "seed": 5}
+{"pattern": ["erzbischof", "km\u00b2ko", "\u0631\u062f", "##znosci", "pratelan"], "ids": [46161, 76828, 68121, 48764, 83253], "seed": 6}
+{"pattern": ["\u0633\u0648", "##\u0142y", "adalbert", "\u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438", "##diocese"], "ids": [39814, 13514, 89372, 50984, 59720], "seed": 7}
+{"pattern": ["episcopal", "\u0441\u0430\u0438\u0442", "henryk", "resigned", "jako"], "ids": [36134, 21115, 45701, 33967, 10746], "seed": 8}
+{"pattern": ["bistum", "\u06f2\u06f0\u06f1\u06f8", "##\u10ec\u10d4\u10e0\u10d0", "stopnia", "katholischer"], "ids": [57311, 22894, 51449, 46145, 95957], "seed": 9}

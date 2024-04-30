@@ -1,0 +1,10 @@
+{"pattern": ["paxina", "\u0444\u0443\u0442\u0431\u043e\u043b\u0456\u0441\u0442", "damaskus", "badan", "agama"], "ids": [34978, 58920, 83533, 19605, 24694], "seed": 0}
+{"pattern": ["islamic", "\u0627\u0645\u0631\u06cc\u06a9\u06cc", "morocco", "agama", "bukan"], "ids": [21903, 50993, 54705, 24694, 31488], "seed": 1}
+{"pattern": ["\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "\u0438\u0441\u043b\u0430\u043c", "##ism", "iliz", "selepas"], "ids": [44209, 53504, 14081, 87321, 26281], "seed": 2}
+{"pattern": ["\u0438\u0441\u043b\u0430\u043c", "agama", "acidente", "##ismus", "darul"], "ids": [53504, 24694, 90676, 24096, 64830], "seed": 3}
+{"pattern": ["##\u0baa\u0baa\u0bc8", "\u062c\u0627\u0645\u0639\u0629", "\u0438\u0441\u043b\u0430\u043c", "universitetet", "for"], "ids": [63717, 23580, 53504, 32624, 10139], "seed": 4}
+{"pattern": ["komune", "islamica", "revolusi", "wcw", "umat"], "ids": [43202, 69707, 91131, 58941, 66742], "seed": 5}
+{"pattern": ["kostel", "\u0627\u0633\u0644\u0627\u0645", "cithakan", "\u0567\u057d\u057f\u0578\u0576\u056b\u0561\u0575\u056b", "agama"], "ids": [32237, 28452, 60596, 34146, 24694], "seed": 6}
+{"pattern": ["\u043f\u0430\u043a\u0443\u043b\u044c", "kurulmustur", "\u0438\u0441\u043b\u0430\u043c", "\u0627\u0644\u0628\u062d\u0631\u064a\u0646", "ulkenin"], "ids": [34958, 79205, 53504, 90206, 73251], "seed": 7}
+{"pattern": ["\u043f\u0435\u0434\u0440\u043e", "kacamatan", "\u0438\u0441\u043b\u0430\u043c", "cithakan", "kacamatan"], "ids": [84200, 19267, 53504, 60596, 19267], "seed": 8}
+{"pattern": ["oer", "sistem", "muslim", "pagina", "\u0641\u06cc"], "ids": [28738, 15522, 19918, 16833, 64046], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["wikimedia", "##\u043e\u043c\u044b\u0445", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "leksikon", "hoofdstad"], "ids": [13609, 95365, 56604, 48246, 52007], "seed": 0}
+{"pattern": ["inclusiv", "enciclopedia", "bbc", "ciuda", "\u05db\u05d3\u05d5\u05e8"], "ids": [77187, 36286, 11896, 22020, 79887], "seed": 1}
+{"pattern": ["\u0627\u06d2", "buidl", "commons", "universiteit", "\u10d6\u10e6\u10d5\u10d8\u10e1"], "ids": [12542, 55957, 14197, 21425, 41653], "seed": 2}
+{"pattern": ["inwahners", "##ccidae", "diakses", "universite", "vun"], "ids": [36108, 84085, 12517, 15081, 11086], "seed": 3}
+{"pattern": ["wikimedia", "pa", "gemengen", "universitetet", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b"], "ids": [13609, 10202, 50455, 32624, 56604], "seed": 4}
+{"pattern": ["wikimedia", "\u09af\u09af\u09be\u09ae", "stader", "maraton", "vun"], "ids": [13609, 83057, 65805, 82524, 11086], "seed": 5}
+{"pattern": ["\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "orodha", "\u0441\u0443\u043f\u0440\u0430\u0446\u044c", "city", "ya"], "ids": [26814, 45482, 62975, 10575, 10593], "seed": 6}
+{"pattern": ["zyrtare", "##\u0433\u043e\u04b3\u0438", "##westen", "universiteti", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [87630, 50641, 56606, 57962, 63022], "seed": 7}
+{"pattern": ["indbyggere", "befolkning", "website", "universitetet", "##\u0430\u043b\u044c\u043d\u043e\u0433\u043e"], "ids": [56173, 57641, 12699, 32624, 30400], "seed": 8}
+{"pattern": ["orodha", "perpustakaan", "\u043d\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u043c\u0438", "metropolitana", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [45482, 80792, 81885, 25859, 55892], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["wikimedia", "\u0627\u0644\u0627\u0633\u0645", "concello", "##xion", ":"], "ids": [13609, 29461, 26215, 70593, 131], "seed": 0}
+{"pattern": ["cithakan", "\u043e\u0441\u043e\u0431\u043e\u0441\u043f\u043e\u0436\u0438\u0432\u0430\u0447\u0430", "obci", "a", "orasului"], "ids": [60596, 49536, 17715, 143, 48045], "seed": 1}
+{"pattern": ["\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442", "database", "britannica", "cithakan", "kutha"], "ids": [21985, 10326, 14221, 60596, 34730], "seed": 2}
+{"pattern": ["cithakan", "\u043e\u043a\u0440\u0443\u0433\u044b\u043d\u0434\u0430", "iana", "din", "judetul"], "ids": [60596, 21036, 84745, 10621, 28313], "seed": 3}
+{"pattern": ["dostupne", "britannica", "##\u0435\u0432\u0438", "ceety", "o"], "ids": [96247, 14221, 73910, 32469, 157], "seed": 4}
+{"pattern": ["@", "\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435", "gemengen", "govpubs", "von"], "ids": [137, 86647, 50455, 18126, 10168], "seed": 5}
+{"pattern": ["enterprises", "wikimedia", "wsoy", "saesneg", "prifysgol"], "ids": [53206, 13609, 72723, 22693, 83024], "seed": 6}
+{"pattern": ["\u7363", "wiki", "##duutsch", "cidade", "vun"], "ids": [5658, 25883, 77498, 12813, 11086], "seed": 7}
+{"pattern": ["\u10e8\u10d4\u10e1\u10d0\u10ee\u10d4\u10d1", "timeline", "engelsk", "staden", "for"], "ids": [47722, 80182, 17347, 24787, 10139], "seed": 8}
+{"pattern": ["\u05d1\u05e1\u05d5\u05e4\u05d5", "hienn", "imdb", "website", "universiteit"], "ids": [78851, 39915, 18103, 12699, 21425], "seed": 9}

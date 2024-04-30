@@ -1,0 +1,10 @@
+{"pattern": ["verwaltung", "##wegs", "abitanti", "distretto", "##\u0430\u0431\u0435\u0442"], "ids": [37513, 71216, 17319, 27490, 86682], "seed": 0}
+{"pattern": ["\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "perbandaran", "obcina", "ostan", "perbandaran"], "ids": [21655, 30712, 75231, 52102, 30712], "seed": 1}
+{"pattern": ["gazetteer", "forsta", "resedinta", "universitetet", "din"], "ids": [30674, 15578, 36622, 32624, 10621], "seed": 2}
+{"pattern": ["district", "ffilm", "##fel", "arrondissementer", "gan"], "ids": [11091, 95533, 19045, 56054, 12537], "seed": 3}
+{"pattern": ["\u0642\u0627\u064a\u0645\u0629", "skadespelare", "##nade", "kaunti", "huvudstaden"], "ids": [25012, 53228, 39023, 71868, 11015], "seed": 4}
+{"pattern": ["va", "wikimedia", "\u091c\u093e\u0924\u094b", "beziak", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [10222, 13609, 94633, 91628, 55892], "seed": 5}
+{"pattern": ["liste", "officiel", "##rna", "stader", "delstatshuvudstaden"], "ids": [13593, 31692, 13518, 65805, 34076], "seed": 6}
+{"pattern": ["fivondronan", "finns", "\u10e1\u10d0\u10d8\u10e2\u10d8", "ostan", "greater"], "ids": [21214, 10406, 60143, 52102, 18860], "seed": 7}
+{"pattern": ["perbandaran", "biografie", "den", "universitetet", "##\u0441\u0442\u0443\u043f\u043d\u0430\u044f"], "ids": [30712, 53508, 10129, 32624, 96528], "seed": 8}
+{"pattern": ["district", "quam", "##taden", "gjeld", "republikken"], "ids": [11091, 28472, 93105, 76638, 83107], "seed": 9}

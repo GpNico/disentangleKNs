@@ -1,0 +1,10 @@
+{"pattern": ["quran", "\u0627\u0644\u0627\u062d\u062f\u0627\u062b", "arabes", "beliefs", "umat"], "ids": [73594, 92637, 34192, 63699, 66742], "seed": 0}
+{"pattern": ["\u0627\u0633\u0644\u0627\u0645", "kecamatan", "\u0438\u0441\u043b\u0430\u043c", "cithakan", "##\u1105\u1173\u1100\u1169"], "ids": [28452, 14726, 53504, 60596, 77129], "seed": 1}
+{"pattern": ["##\u03c6\u03b5\u03c4\u03b1\u03b9", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "partija", "beliefs", "darul"], "ids": [96177, 44209, 59510, 63699, 64830], "seed": 2}
+{"pattern": ["sajeroning", "##\u0436\u0430\u0449\u0438\u0445", "\u091a\u0932\u091a\u093f\u0924\u0930", "masjid", "encyclopaedia"], "ids": [61326, 62999, 78073, 26574, 32064], "seed": 3}
+{"pattern": ["smp", "\u0438\u0441\u043b\u0430\u043c", "cithakan", "database", "##\u10d2\u10d4\u10d1\u10d0"], "ids": [61814, 53504, 60596, 10326, 79173], "seed": 4}
+{"pattern": ["results", "religious", "##\u0440\u0430\u0432\u044b", "ffilm", "koran"], "ids": [15569, 17348, 76951, 95533, 70966], "seed": 5}
+{"pattern": ["igrexa", "\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443", "##ology", "group", "musulmanes"], "ids": [56442, 64964, 18323, 11069, 72608], "seed": 6}
+{"pattern": ["1x", "##kteur", "\u0438\u0441\u043b\u0430\u043c", "cithakan", "opgeheven"], "ids": [88738, 82611, 53504, 60596, 88523], "seed": 7}
+{"pattern": ["insee", "\u0645\u0633\u062c\u062f", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "www", "\u0442\u044d\u043c\u0435"], "ids": [11862, 32443, 44209, 10561, 26608], "seed": 8}
+{"pattern": ["\u09ae\u09a1\u09c7\u09b2", "musulmanes", "simbad", "##ualne", "sebuah"], "ids": [93890, 72608, 16860, 80641, 11462], "seed": 9}

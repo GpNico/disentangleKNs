@@ -1,0 +1,10 @@
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "##hed", "pr\u00e6sident", "historie", "sodra"], "ids": [58703, 16795, 91750, 21826, 16128], "seed": 0}
+{"pattern": ["\u0432\u0441\u0435\u0433\u0434\u0430", "bnf", "\u0441\u0430\u0438\u0442\u044b", "indbyggere", "republik"], "ids": [39189, 37392, 19295, 56173, 16536], "seed": 1}
+{"pattern": ["fodd", "websteed", "\u4ef7", "province", "##\u0430\u043b\u044c\u043d\u043e\u0438"], "ids": [15384, 94284, 1800, 12092, 39266], "seed": 2}
+{"pattern": ["gitarr", "bild", "ofisiel", "\u0440\u0430\u0434\u0438\u043e", "tieng"], "ids": [62357, 27576, 63620, 25743, 14648], "seed": 3}
+{"pattern": ["af", "biografie", "\u05e9\u05dd", "\u6b61", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [10513, 53508, 16693, 4845, 55892], "seed": 4}
+{"pattern": ["database", "olympique", "##skabet", "heimat", "fur"], "ids": [10326, 29768, 91021, 37402, 10325], "seed": 5}
+{"pattern": ["##\u056f\u0561\u0580\u056b\u0579", "anden", "\u0430\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", "\u0444\u0440\u0430\u043d\u0446\u0438\u044f", "armenien"], "ids": [87895, 28018, 57182, 27041, 87789], "seed": 6}
+{"pattern": ["s\u00f8lv", "-", "anden", "slalom", "\u05e0\u05d1\u05d7\u05e8\u05ea"], "ids": [42106, 118, 28018, 36468, 54432], "seed": 7}
+{"pattern": ["archive", "wikimedia", "##heder", "\u056f\u0561\u057f\u0561\u0580\u0578\u0582\u0574", "sydostra"], "ids": [16579, 13609, 49972, 59531, 15748], "seed": 8}
+{"pattern": ["deltog", "landslaget", "\u0432\u043e\u0435\u043d\u043d\u043e\u0438", "\u00b9", "representerte"], "ids": [33350, 71599, 42026, 194, 38044], "seed": 9}

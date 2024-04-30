@@ -1,0 +1,10 @@
+{"pattern": ["\u043e\u0444\u0456\u0446\u0456\u0438\u043d\u043e", "sitcom", "##\u110e\u1166\u1100\u1161", "\u0441\u0448\u0430", "stacja"], "ids": [60941, 58988, 86887, 13089, 40289], "seed": 0}
+{"pattern": ["franta", "nbc", "paramount", "\u05d1\u05d0\u05e4\u05e8\u05d9\u05dc", "##\u05e8\u05d5\u05e5"], "ids": [32149, 22083, 38163, 36411, 56812], "seed": 1}
+{"pattern": ["filmi", "\u043c\u0443\u0437\u0438\u043a\u0430", "abc", "sabrina", "\u043c\u0443\u0437\u0438\u043a\u0430"], "ids": [32622, 43435, 16081, 69401, 43435], "seed": 2}
+{"pattern": ["legend", "televizni", "nbc", "britney", "televizni"], "ids": [20466, 86892, 22083, 46646, 86892], "seed": 3}
+{"pattern": ["nbc", "laporan", "nick", "aired", "\u0434\u0430\u0440"], "ids": [22083, 79060, 16463, 28645, 11869], "seed": 4}
+{"pattern": ["pratelan", "##blja", "paramount", "pratelan", "serialu"], "ids": [83253, 94315, 38163, 83253, 33327], "seed": 5}
+{"pattern": ["springfield", "listy", "sitcom", "centers", "\u0441\u0430\u0438\u0446\u0435"], "ids": [36741, 35084, 58988, 33855, 39719], "seed": 6}
+{"pattern": ["primetime", "springfield", "program", "rasmi", "\u0441\u0430\u0438\u0446\u0435"], "ids": [81969, 36741, 11660, 51464, 39719], "seed": 7}
+{"pattern": ["nick", "paxina", "bilangan", "studiju", "daytime"], "ids": [16463, 34978, 55831, 87278, 92828], "seed": 8}
+{"pattern": ["asteroidi", "stranica", "sitcom", "\u044d\u043f\u0438\u0437\u043e\u0434", "kanala"], "ids": [23988, 45112, 58988, 58053, 92606], "seed": 9}

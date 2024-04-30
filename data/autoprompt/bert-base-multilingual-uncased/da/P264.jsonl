@@ -1,0 +1,10 @@
+{"pattern": ["\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0568", "##nescu", "discogs", "sljedeci", "rca"], "ids": [78029, 94326, 71064, 38356, 31708], "seed": 0}
+{"pattern": ["pratelan", "##das\u0131", "decca", "pratelan", "label"], "ids": [83253, 65955, 59724, 83253, 15593], "seed": 1}
+{"pattern": ["iana", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "praefecturae", "##\u05d9\u05e4\u05d4", "##gration"], "ids": [84745, 74724, 17098, 58832, 74497], "seed": 2}
+{"pattern": ["reakciju", "fairfax", "rumania", "decca", "\u2192"], "ids": [83254, 93386, 61861, 59724, 1354], "seed": 3}
+{"pattern": ["disque", "genesis", "officiel", "edito", "chez"], "ids": [43699, 30508, 31692, 85283, 15967], "seed": 4}
+{"pattern": ["decca", "remi", "rca", "remi", "northern"], "ids": [59724, 87397, 31708, 87397, 12968], "seed": 5}
+{"pattern": ["\u043f\u0435\u0441\u0435\u043d", "faithful", "\u0925\u0935", "##\u0441\u0435\u0438", "odeon"], "ids": [36024, 93461, 10866, 89069, 65497], "seed": 6}
+{"pattern": ["sljedeci", "alabbi", "wikipedia", "discogs", "odeon"], "ids": [38356, 27627, 12834, 71064, 65497], "seed": 7}
+{"pattern": ["avro", "eszak", "sony", "polydor", "mitsubishi"], "ids": [78418, 45177, 18189, 76826, 43569], "seed": 8}
+{"pattern": ["imdb", "cimet", "\u0434\u0438\u043d\u0430\u043c\u0456\u043a\u0430", "grupa", "mihai"], "ids": [18103, 56250, 30817, 18801, 52959], "seed": 9}

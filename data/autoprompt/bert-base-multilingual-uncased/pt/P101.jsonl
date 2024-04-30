@@ -1,0 +1,10 @@
+{"pattern": ["\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438", "psychology", "planck", "cymdeithas", "\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f"], "ids": [66524, 27658, 46922, 27750, 88663], "seed": 0}
+{"pattern": ["matematicas", "magia", "\u0440\u0435\u0441\u0443\u0440\u0441\u0442\u0430\u0440", "##zica", "chimica"], "ids": [73179, 46705, 32379, 60875, 79041], "seed": 1}
+{"pattern": ["astronomi", "##\u093f\u0936\u093e", "jogo", "zoologia", "religiao"], "ids": [81082, 93944, 20387, 71793, 86193], "seed": 2}
+{"pattern": ["ciencies", "\u043a\u043e\u0440\u0435\u044f", "llengues", "fizika", "kimia"], "ids": [54099, 68044, 68017, 63030, 50978], "seed": 3}
+{"pattern": ["\u0432\u043e\u043b\u043e\u0441\u0442\u0456", "matematicas", "religiao", "direito", "\u0444\u0438\u0437\u0438\u043a\u0430"], "ids": [83789, 73179, 86193, 28945, 44591], "seed": 4}
+{"pattern": ["arrondissementer", "\u5c7f", "umana", "\u0444\u0438\u0437\u0438\u043a\u0430", "naturalista"], "ids": [56054, 3324, 53188, 44591, 77103], "seed": 5}
+{"pattern": ["matematicas", "missao", "ciencias", "\u0444\u0438\u0437\u0438\u043a\u0430", "magia"], "ids": [73179, 57861, 21771, 44591, 46705], "seed": 6}
+{"pattern": ["theorem", "spagna", "nobel", "preses", "##\u043d\u0435\u0433\u043e"], "ids": [54707, 29813, 16303, 80470, 27076], "seed": 7}
+{"pattern": ["mythologie", "mathematik", "barcellona", "dipartimento", "\u56a2"], "ids": [58965, 56282, 77332, 31469, 2715], "seed": 8}
+{"pattern": ["governorate", "##logia", "matematicas", "\u10d4\u10e1", "##logia"], "ids": [75190, 16099, 73179, 25891, 16099], "seed": 9}

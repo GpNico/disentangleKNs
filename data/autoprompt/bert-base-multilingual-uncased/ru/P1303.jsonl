@@ -1,0 +1,10 @@
+{"pattern": ["stud", "verejnosti", "perkusja", "\u0434\u043c\u0438\u0442\u0440\u0438\u0438", "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0438"], "ids": [89210, 94200, 65256, 34098, 72827], "seed": 0}
+{"pattern": ["\u0432\u043e\u043a\u0430\u043b", "basso", "emilia", "\u0905\u0927\u0940\u0928\u092f", "\u0441\u0435\u043a\u0442\u043e\u0440"], "ids": [32347, 19964, 25568, 27854, 79547], "seed": 1}
+{"pattern": ["wikipedia", "grabacion", "\u043f\u0435\u0441\u043d\u044f", "discogs", "\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442"], "ids": [12834, 52188, 30925, 71064, 79098], "seed": 2}
+{"pattern": ["paxina", "bucharest", "\u2212", "oboe", "\u0442\u0430\u0442\u0430"], "ids": [34978, 60641, 1373, 84571, 19760], "seed": 3}
+{"pattern": ["gitaar", "pianoforte", "\u043f\u0430\u0432\u0435\u043b", "lands", "\u043a\u043b\u0430\u0441\u0441"], "ids": [64968, 48021, 31437, 25111, 64420], "seed": 4}
+{"pattern": ["kytara", "\u0447\u0435\u0440\u043d\u044b\u0438", "piano", "\u0441\u043e\u043b", "\u05d1\u05d0\u05d5\u05ea\u05d5"], "ids": [67583, 73188, 12510, 23794, 54820], "seed": 5}
+{"pattern": ["gemengen", "numbered", "perkusja", "\u0447\u0435\u0440\u043d\u044b\u0438", "liczba"], "ids": [50455, 34669, 65256, 73188, 30641], "seed": 6}
+{"pattern": ["fender", "chopin", "\u056f\u0574", "##uluh", "\u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0445"], "ids": [60511, 57993, 26789, 83712, 96499], "seed": 7}
+{"pattern": ["trumpet", "basses", "gitara", "turkischen", "\u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0445"], "ids": [56025, 89274, 22089, 75715, 96499], "seed": 8}
+{"pattern": ["pianoforte", "unicode", "\u0442\u0430\u0440\u0438\u0445\u0438", "\u564f", "elektrische"], "ids": [48021, 52269, 58842, 2685, 54027], "seed": 9}

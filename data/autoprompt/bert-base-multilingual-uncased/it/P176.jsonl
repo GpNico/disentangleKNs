@@ -1,0 +1,10 @@
+{"pattern": ["barcelone", "anglo", "bristol", "motorola", "basque"], "ids": [55367, 22498, 24724, 63870, 43930], "seed": 0}
+{"pattern": ["motors", "\u043b\u044e\u0431\u0432\u0438", "##vuti", "mang", "##\u0433\u043e\u04b3\u0438"], "ids": [27591, 60514, 82008, 16580, 50641], "seed": 1}
+{"pattern": ["##word", "\u056f\u0574\u00b2", "chassis", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u0438\u0446\u0435"], "ids": [60961, 21436, 53808, 21115, 39719], "seed": 2}
+{"pattern": ["##child", "japan", "\u043a\u044a\u0438\u043b\u0431\u0430", "##vuti", "kuhusu"], "ids": [60148, 11937, 31953, 82008, 53741], "seed": 3}
+{"pattern": ["production", "##\u05e9\u05e8\u05d4", "announcement", "peugeot", "\u0565\u0582"], "ids": [11961, 55635, 63447, 42756, 19069], "seed": 4}
+{"pattern": ["motors", "lccn", "##\u0438\u0446\u0430\u0442\u0430", "ofisiel", "\u043d\u0430"], "ids": [27591, 75997, 81439, 63620, 10124], "seed": 5}
+{"pattern": ["minuti", "chrysler", "##alna", "\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430", "\u0634\u0631\u0643\u0629"], "ids": [40506, 51879, 72646, 63606, 29005], "seed": 6}
+{"pattern": ["cavalry", "\u0441\u0430\u0438\u0446\u0435", "\u0434\u043e\u043b\u0443\u0448", "specifications", "firmy"], "ids": [36098, 39719, 61214, 83096, 37255], "seed": 7}
+{"pattern": ["processor", "cithakan", "\u0627\u0644\u0645\u0627\u0646\u062c\u0627", "biografi", "apie"], "ids": [74074, 60596, 91844, 78785, 19776], "seed": 8}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "\u043f\u043e\u044f\u0441\u0443", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "firma", "resmi"], "ids": [58703, 83388, 56604, 16063, 20234], "seed": 9}

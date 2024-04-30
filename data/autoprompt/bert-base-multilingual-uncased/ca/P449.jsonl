@@ -1,0 +1,10 @@
+{"pattern": ["simpsons", "\u062a\u0634\u064a\u0631", "cbs", "himno", "\u0431\u0430\u0440\u043e\u0438"], "ids": [60017, 91294, 19154, 89136, 42793], "seed": 0}
+{"pattern": ["gamespot", "telenovela", "stacja", "biografi", "##\u0627\u06cc\u062f"], "ids": [83688, 41081, 40289, 78785, 66054], "seed": 1}
+{"pattern": ["filmul", "cbs", "kc", "weaver", "filmul"], "ids": [68377, 19154, 40275, 53613, 68377], "seed": 2}
+{"pattern": ["timeline", "primetime", "episodios", "espaco", "\u0441\u0430\u0438\u0446\u0435"], "ids": [80182, 81969, 29443, 37179, 39719], "seed": 3}
+{"pattern": ["\u0441\u0435\u0440\u0438\u0430\u043b", "cbs", "supernatural", "\u0441\u0435\u0440\u0438\u0430\u043b\u0435", "\u0441\u0430\u0438\u0446\u0435"], "ids": [49947, 19154, 70266, 94614, 39719], "seed": 4}
+{"pattern": ["serialu", "pagina", "cnn", "sitcom", "pagina"], "ids": [33327, 16833, 30047, 58988, 16833], "seed": 5}
+{"pattern": ["cbs", "fernsehfilm", "pratelan", "\u0441\u0430\u0438\u0442\u0456", "rangkaian"], "ids": [19154, 49662, 83253, 54741, 95374], "seed": 6}
+{"pattern": ["cbs", "pertsona", "sitcom", "cnn", "sitcom"], "ids": [19154, 15240, 58988, 30047, 58988], "seed": 7}
+{"pattern": ["cleopatra", "episoden", "hulu", "cbs", "&"], "ids": [58800, 52125, 58970, 19154, 111], "seed": 8}
+{"pattern": ["cbs", "\u0441\u0435\u0440\u0456\u044f", "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646\u06cc", "\u0441\u0430\u0438\u0446\u0435", "\u0444\u043e\u043d\u0434\u0443"], "ids": [19154, 89911, 45589, 39719, 81568], "seed": 9}

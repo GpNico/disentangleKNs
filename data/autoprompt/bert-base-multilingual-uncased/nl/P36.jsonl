@@ -1,0 +1,10 @@
+{"pattern": ["arrondissementer", "\u05d6\u05db\u05ea\u05d4", "instituut", "gemengen", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [56054, 36780, 58271, 50455, 62170], "seed": 0}
+{"pattern": ["parlement", "public", "bureau", "arrondissement", "van"], "ids": [26603, 11347, 12287, 15773, 10147], "seed": 1}
+{"pattern": ["gemengen", "##ponivel", "hoofdstad", "aeropuertu", "van"], "ids": [50455, 96364, 52007, 74657, 10147], "seed": 2}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "profiel", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "concello", "hoofdstad"], "ids": [58703, 60008, 56604, 26215, 52007], "seed": 3}
+{"pattern": ["arrondissementer", "odonata", "gemengen", "city", "##\u043d\u0442\u043e\u043c"], "ids": [56054, 34160, 50455, 10575, 63045], "seed": 4}
+{"pattern": ["\u25ba", "obcini", "harta", "\u0632\u06cc\u0631", "orasul"], "ids": [1440, 93604, 38407, 22869, 37845], "seed": 5}
+{"pattern": ["arrondissementer", "##\u043e\u043c\u044b\u0445", "\u0935\u093f\u0936\u0935\u0935\u093f\u0926\u092f\u093e\u0932\u092f", "gymraeg", "prifysgol"], "ids": [56054, 95365, 51833, 75925, 83024], "seed": 6}
+{"pattern": ["gemeente", "\u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0438", "##ografie", "harta", "stad"], "ids": [13250, 47742, 87252, 38407, 13740], "seed": 7}
+{"pattern": ["naitional", "naitional", "imaxes", "aeroporto", "gefangnis"], "ids": [87207, 87207, 93625, 31158, 76128], "seed": 8}
+{"pattern": ["\u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e", "bolsa", "bureau", "arrondissement", "van"], "ids": [79089, 66877, 12287, 15773, 10147], "seed": 9}

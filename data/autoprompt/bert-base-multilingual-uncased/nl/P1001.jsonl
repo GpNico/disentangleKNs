@@ -1,0 +1,10 @@
+{"pattern": ["een", "dictionary", "video", "parlement", "van"], "ids": [10207, 13844, 11379, 26603, 10147], "seed": 0}
+{"pattern": ["homepage", "vanwege", "offisjele", "parlement", "van"], "ids": [61916, 34150, 95708, 26603, 10147], "seed": 1}
+{"pattern": ["pagina", "mythologie", "gesloten", "parlament", "van"], "ids": [16833, 58965, 68197, 22096, 10147], "seed": 2}
+{"pattern": ["-", "officieel", "web", "parlement", "van"], "ids": [118, 68437, 11903, 26603, 10147], "seed": 3}
+{"pattern": ["homepage", "##closed", "officiele", "parlement", "van"], "ids": [61916, 69933, 30704, 26603, 10147], "seed": 4}
+{"pattern": ["een", "geonames", "\u0432\u0435\u0431", "parlement", "van"], "ids": [10207, 10298, 39895, 26603, 10147], "seed": 5}
+{"pattern": ["bronnen", "\u0441\u0430\u0438\u0442", "wikimedia", "atlas", "voor"], "ids": [11085, 21115, 13609, 12410, 10461], "seed": 6}
+{"pattern": ["##\u0430\u043b\u044c\u043d\u044b\u0438", "imdb", "officiele", "parlement", "van"], "ids": [39460, 18103, 30704, 26603, 10147], "seed": 7}
+{"pattern": ["##\u0444\u0435\u0438", "\u0441\u0430\u0438\u0442", "belangrijkste", "parlement", "van"], "ids": [73220, 21115, 26688, 26603, 10147], "seed": 8}
+{"pattern": ["\u0648\u06cc\u0628", "photographic", "pagina", "plaatsen", "##\u0561\u0576\u0580"], "ids": [78814, 71535, 16833, 31400, 91393], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["\u10dd\u10e4\u10d8\u10ea\u10d8\u10d0\u10da\u10e3\u10e0\u10d8", "chamado", "rivista", "guidelines", "sulla"], "ids": [46048, 23240, 36693, 69087, 13266], "seed": 0}
+{"pattern": ["##nina", "\u0441\u0442\u0430\u0442\u044c\u044f", "wikimedia", "concetto", "di"], "ids": [38584, 51005, 13609, 73305, 10120], "seed": 1}
+{"pattern": ["information", "protein", "##\u093e\u0924\u0940\u0932", "panorama", "della"], "ids": [11285, 16883, 25843, 34077, 10322], "seed": 2}
+{"pattern": ["##\u064a\u06cc\u06ba", "\u0642\u0627\u064a\u0645\u0629", "proteine", "##atore", "\u06cc\u0627"], "ids": [68906, 25012, 70946, 55311, 12465], "seed": 3}
+{"pattern": ["cithakan", "overview", "seguente", "mechanisms", "della"], "ids": [60596, 51275, 32394, 51439, 10322], "seed": 4}
+{"pattern": ["dalle", "proteine", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "ostala", "\u0442\u044d\u043c\u0435"], "ids": [15956, 70946, 56604, 70802, 26608], "seed": 5}
+{"pattern": ["\u091a\u0932\u091a\u093f\u0924\u0930", "ncbi", "wikisky", "classifica", "\u1106\u1161\u11ab\u1103\u1173\u11ab"], "ids": [78073, 61322, 34791, 23255, 70226], "seed": 6}
+{"pattern": ["\u0430\u043c\u0456\u043d\u043e\u043a\u0438\u0441\u043b\u043e\u0442", "\u0905\u092a\u0935", "\u0435\u043b\u0433\u044b", "definition", "della"], "ids": [72172, 58798, 24601, 22267, 10322], "seed": 7}
+{"pattern": ["ou", "lega", "genetic", "dati", "sive"], "ids": [10391, 30544, 34640, 27401, 44145], "seed": 8}
+{"pattern": ["##\u043e\u043c\u044b\u0445", "##sels", "\u06c1\u062c\u0631\u06cc", "##giano", "\u06cc\u0627"], "ids": [95365, 48037, 73209, 77673, 12465], "seed": 9}

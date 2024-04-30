@@ -1,0 +1,10 @@
+{"pattern": ["\u043f\u0440\u043e\u0446\u0435\u0441\u0456", "zyrtare", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "localizada", "\u06a9\u0634\u0648\u0631"], "ids": [66369, 87630, 25693, 23490, 16984], "seed": 0}
+{"pattern": ["um", "dopuniti", "##strada", "comunas", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [10316, 29517, 52540, 40662, 55892], "seed": 1}
+{"pattern": ["\u0432\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f", "espirito", "##landia", "turing", "poza"], "ids": [51676, 43861, 41962, 68678, 32432], "seed": 2}
+{"pattern": ["silnice", "municipais", "profissional", "comunas", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [59607, 75026, 38142, 40662, 55892], "seed": 3}
+{"pattern": ["highway", "atual", "reino", "ducado", "##imet"], "ids": [16101, 33142, 14855, 80434, 51616], "seed": 4}
+{"pattern": ["plantia", "tigkapulak", "naseljeno", "kommune", "republikken"], "ids": [76338, 52385, 24095, 15418, 83107], "seed": 5}
+{"pattern": ["##selage", "norvegia", "brazilia", "pegasus", "energia"], "ids": [96251, 51274, 67109, 80335, 16065], "seed": 6}
+{"pattern": ["\u0433\u043e\u0434\u0443", "metrage", "pirenen", "estat", "ng"], "ids": [10582, 40681, 28794, 14198, 10822], "seed": 7}
+{"pattern": ["nationalpark", "melhor", "aldeia", "natural", "##nba"], "ids": [60933, 18895, 84606, 11753, 90930], "seed": 8}
+{"pattern": ["tumani", "botanico", "lista", "comunas", "##ilise"], "ids": [23658, 33344, 14247, 40662, 84168], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["##\u043a\u043e\u0432\u0435", "quartet", "situs", "textus", "utah"], "ids": [83015, 32819, 20757, 68354, 21163], "seed": 0}
+{"pattern": ["electronica", "ballet", "fusion", "goodman", "latin"], "ids": [46039, 25353, 20934, 44343, 12855], "seed": 1}
+{"pattern": ["\u0ca6\u0cd5\u0cb5\u0cbe\u0cb2\u0caf", "##a\u043a", "\u043e\u043f\u0435\u0440\u0430", "contemporary", "cuban"], "ids": [84434, 86295, 48178, 14948, 57665], "seed": 2}
+{"pattern": ["bagdad", "bayreuth", "ellington", "\u0633\u0628\u06a9", "african"], "ids": [48030, 67914, 87219, 47453, 14028], "seed": 3}
+{"pattern": ["pianist", "studium", "##album", "franseisch", "klassisk"], "ids": [35175, 20395, 32723, 47752, 74162], "seed": 4}
+{"pattern": ["\u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e", "ballet", "klassisk", "electronica", "klassisk"], "ids": [75891, 25353, 74162, 46039, 74162], "seed": 5}
+{"pattern": ["commons", "##iterium", "##musik", "gjeld", "contemporary"], "ids": [14197, 90981, 34610, 76638, 14948], "seed": 6}
+{"pattern": ["classical", "classica", "cabaret", "ellington", "latin"], "ids": [20429, 37156, 61107, 87219, 12855], "seed": 7}
+{"pattern": ["hudba", "fusion", "flamenco", "elektronik", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [86785, 20934, 75303, 52909, 28937], "seed": 8}
+{"pattern": ["football", "flamenco", "duke", "ellington", "latin"], "ids": [11420, 75303, 14170, 87219, 12855], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["\u0441\u0435\u0440\u0438\u0458\u0430", "fox", "abc", "nirvana", "\u0441\u0435\u0440\u0438\u0458\u0430"], "ids": [82773, 14530, 16081, 61668, 82773], "seed": 0}
+{"pattern": ["playhouse", "zespo\u0142", "abc", "cnn", "zespo\u0142"], "ids": [77225, 22703, 16081, 30047, 22703], "seed": 1}
+{"pattern": ["soprano", "springfield", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "serial", "\u043a\u0430\u043d\u0430\u043b\u0430"], "ids": [31640, 36741, 58703, 18891, 57415], "seed": 2}
+{"pattern": ["ratings", "diagnosis", "cimu", "finale", "paramount"], "ids": [39332, 56689, 16791, 11979, 38163], "seed": 3}
+{"pattern": ["wikispecies", "\u043e\u0444\u0456\u0446\u0456\u0438\u043d\u043e", "@", "daytime", "@"], "ids": [80150, 60941, 137, 92828, 137], "seed": 4}
+{"pattern": ["vh1", "\u0448\u043e\u0443", "abc", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "##\u0a69"], "ids": [81660, 28904, 16081, 58703, 96858], "seed": 5}
+{"pattern": ["daytime", "springfield", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "televisieserie", "\u043a\u0430\u043d\u0430\u043b\u0430"], "ids": [92828, 36741, 58703, 53208, 57415], "seed": 6}
+{"pattern": ["sheldon", "episodio", "\u0441\u0430\u0438\u0446\u0435", "televizni", "stacja"], "ids": [68031, 14629, 39719, 86892, 40289], "seed": 7}
+{"pattern": ["primetime", "springfield", "programming", "##\u09b7\u09a0\u09be\u09a8", "\u0441\u0430\u0438\u0446\u0435"], "ids": [81969, 36741, 23515, 90865, 39719], "seed": 8}
+{"pattern": ["tonight", "family", "daytime", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u0438\u0446\u0435"], "ids": [31200, 11214, 92828, 21115, 39719], "seed": 9}

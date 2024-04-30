@@ -1,0 +1,10 @@
+{"pattern": ["franseisch", "fusion", "piano", "franseisch", "contemporary"], "ids": [47752, 20934, 12510, 47752, 14948], "seed": 0}
+{"pattern": ["none", "biller", "ballet", "klassisk", "smooth"], "ids": [32884, 39225, 25353, 74162, 48093], "seed": 1}
+{"pattern": ["oper", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "baviera", "syarikat", "smooth"], "ids": [39899, 74724, 33222, 28052, 48093], "seed": 2}
+{"pattern": ["progression", "operas", "##sone", "\u0441\u0430\u0438\u0446\u0435", "contemporary"], "ids": [70105, 56799, 90790, 39719, 14948], "seed": 3}
+{"pattern": ["hop", "espanol", "piano", "trao", "chamber"], "ids": [13365, 14682, 12510, 34245, 23816], "seed": 4}
+{"pattern": ["ellington", "libretto", "situs", "international", "smooth"], "ids": [87219, 45586, 20757, 10668, 48093], "seed": 5}
+{"pattern": ["stijl", "cithakan", "##\u0433\u043d\u0435\u043c", "operas", "smooth"], "ids": [51741, 60596, 77069, 56799, 48093], "seed": 6}
+{"pattern": ["alpine", "muziek", "salsa", "electronica", "savoy"], "ids": [39296, 32396, 65355, 46039, 71796], "seed": 7}
+{"pattern": ["##hosidae", "peul", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f", "musica", "|"], "ids": [86380, 45149, 14504, 12041, 170], "seed": 8}
+{"pattern": ["bissau", "fusion", "muziek", "klassisk", "savoy"], "ids": [61480, 20934, 32396, 74162, 71796], "seed": 9}

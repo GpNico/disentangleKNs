@@ -1,0 +1,10 @@
+{"pattern": ["usgs", "isten", "honlapja", "\u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0430\u043b\u044c", "##tikus"], "ids": [70595, 82166, 83065, 45747, 69296], "seed": 0}
+{"pattern": ["atari", "webgunean", "##goa", "molekul", "##\u043d\u0441\u043a\u0430\u0442\u0430"], "ids": [43957, 27294, 66806, 65495, 32247], "seed": 1}
+{"pattern": ["\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "astronomie", "istituto", "brasiliano", "privind"], "ids": [89067, 48364, 18442, 83962, 85884], "seed": 2}
+{"pattern": ["abdomen", "akademii", "##\u05dc\u05d9\u05df", "katedra", "mpanao"], "ids": [75791, 28651, 40510, 58538, 71933], "seed": 3}
+{"pattern": ["##\u0434\u04af\u043d", "##wiec", "zoologia", "\u0431\u0438\u043e\u043b\u043e\u0433\u0438\u044f", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430"], "ids": [58809, 58694, 71793, 71794, 58754], "seed": 4}
+{"pattern": ["uranus", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430", "nauczyciel", "medicina", "&"], "ids": [94694, 58754, 89338, 20517, 111], "seed": 5}
+{"pattern": ["\u0935\u093f\u091c\u091e\u093e\u0928", "\u00f8konomisk", "astronomie", "\u043e\u0437\u043d\u0430\u0447\u0430\u0454", "##nska"], "ids": [54794, 64836, 48364, 76079, 18865], "seed": 6}
+{"pattern": ["archivado", "\u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f", "astronomie", "cithakan", "mahallenin"], "ids": [59231, 82054, 48364, 60596, 30408], "seed": 7}
+{"pattern": ["knjizevnost", "inglese", "teleskop", "dipartimento", "\u06a9\u0646\u062f\u06cc\u0646"], "ids": [83234, 20235, 84934, 31469, 51911], "seed": 8}
+{"pattern": ["\u043e\u0441\u0442\u0440\u0432\u0430", "astronomie", "\u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f", "##\u0a32", "\u043d\u0435\u0458\u0437\u0438\u043d\u0430\u0442\u0430"], "ids": [77826, 48364, 56079, 13737, 93742], "seed": 9}

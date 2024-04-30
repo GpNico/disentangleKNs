@@ -1,0 +1,10 @@
+{"pattern": ["respublikasi", "prezidenti", "a", "ciudat", "de"], "ids": [84110, 71431, 143, 56823, 10102], "seed": 0}
+{"pattern": ["arrondissementer", "insee", "aeroport", "ciutat", "lebenden"], "ids": [56054, 11862, 28614, 15684, 91769], "seed": 1}
+{"pattern": ["bestar", "arrondissementer", "parlament", "ciutat", "de"], "ids": [13308, 56054, 22096, 15684, 10102], "seed": 2}
+{"pattern": ["arrondissementer", "districte", "paginam", "metropolitana", "de"], "ids": [56054, 35879, 70512, 25859, 10102], "seed": 3}
+{"pattern": ["arrondissementer", "imaxes", "universidade", "metropolitana", "delstatshuvudstaden"], "ids": [56054, 93625, 18032, 25859, 34076], "seed": 4}
+{"pattern": ["gazetteer", "\u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f", "commons", "gjeld", "hovedstaden"], "ids": [30674, 55779, 14197, 76638, 76328], "seed": 5}
+{"pattern": ["barruko", "alabbi", "imaxes", "aeroporto", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [21320, 27627, 93625, 31158, 63022], "seed": 6}
+{"pattern": ["muga", "naitional", "anthem", "ciudat", "de"], "ids": [44462, 87207, 53178, 56823, 10102], "seed": 7}
+{"pattern": ["voida", "imaxes", "aeropuertu", "internacional", "##\u0561\u0563\u0580\u0561\u056f\u0561\u0576"], "ids": [38631, 93625, 74657, 12989, 52072], "seed": 8}
+{"pattern": ["wikimedia", "engleski", "zerrenda", "city", "darul"], "ids": [13609, 12710, 46930, 10575, 64830], "seed": 9}

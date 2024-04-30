@@ -1,0 +1,10 @@
+{"pattern": ["##burn", "\u0441\u0430\u0438\u0442", "oficial", "em", "idioma"], "ids": [32547, 21115, 13562, 10252, 30293], "seed": 0}
+{"pattern": ["\u10dd\u10e4\u10d8\u10ea\u10d8\u10d0\u10da\u10e3\u10e0\u10d8", "publicacao", "em", "idioma", "em"], "ids": [46048, 85523, 10252, 30293, 10252], "seed": 1}
+{"pattern": ["traducao", "literalmente", "\u0441\u0430\u0438\u0442", "website", "em"], "ids": [88604, 88735, 21115, 12699, 10252], "seed": 2}
+{"pattern": ["bastion", "webgunea", "\u0441\u0430\u0438\u0442", "traducao", "em"], "ids": [88600, 52015, 21115, 88604, 10252], "seed": 3}
+{"pattern": ["pola", "igrexa", "paxina", "wikipedia", "##\u04b3\u043e\u0438"], "ids": [14064, 56442, 34978, 12834, 15300], "seed": 4}
+{"pattern": ["\u0431\u0430\u0442\u0442\u0430\u0445\u044c", "##day", "hivatalos", "traducao", "em"], "ids": [29730, 28570, 24151, 88604, 10252], "seed": 5}
+{"pattern": ["ffilm", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u0438", "site", "traducao", "em"], "ids": [95533, 59714, 11692, 88604, 10252], "seed": 6}
+{"pattern": ["\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0438", "\u0441\u0430\u0438\u0442", "\u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915", "traducao", "em"], "ids": [39877, 21115, 91740, 88604, 10252], "seed": 7}
+{"pattern": ["inglese", "wikipedia", "wefan", "campeonatu", "skating"], "ids": [20235, 12834, 36772, 72021, 63083], "seed": 8}
+{"pattern": ["futebolista", "alison", "\u0440\u043e\u0434\u0435\u043d", "escritor", "idioma"], "ids": [44789, 48250, 26413, 21250, 30293], "seed": 9}

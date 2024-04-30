@@ -1,0 +1,10 @@
+{"pattern": ["\u0440\u0443\u0441\u0438", "french", "franceze", "originaltitel", "ruotsin"], "ids": [19509, 12112, 78835, 81243, 48449], "seed": 0}
+{"pattern": ["stacja", "##\u0432\u043e\u0440\u0435\u043d\u0438\u044f", "oversattning", "till", "\u0441\u0430\u0438\u0446\u0435"], "ids": [40289, 91704, 66985, 10775, 39719], "seed": 1}
+{"pattern": ["kungliga", "\u0642\u0627\u064a\u0645\u0629", "rijeka", "rumunjski", "och"], "ids": [62358, 25012, 37695, 72875, 10186], "seed": 2}
+{"pattern": ["civilisation", "##imientos", "sprak", "\u0444\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0438", "lilla"], "ids": [73552, 76624, 29571, 72627, 54308], "seed": 3}
+{"pattern": ["swedish", "skadespelare", "dialekt", "principal", "sodra"], "ids": [21662, 53228, 65818, 11773, 16128], "seed": 4}
+{"pattern": ["\u0644\u063a\u0629", "francuski", "svedska", "muzea", "\u0644\u063a\u0629"], "ids": [74419, 33280, 89184, 86243, 74419], "seed": 5}
+{"pattern": ["webgunea", "ursprungligen", "flesta", "sueca", "\u0438\u043b\u0438"], "ids": [52015, 68714, 61490, 77853, 11007], "seed": 6}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "flesta", "\u043c\u043e\u0432\u0430", "forutom", "den"], "ids": [58703, 61490, 46183, 77726, 10129], "seed": 7}
+{"pattern": ["literatura", "angles", "ling", "##arna", "literatura"], "ids": [17437, 22624, 48902, 22037, 17437], "seed": 8}
+{"pattern": ["skadespelare", "kanji", "\u043d\u0435\u043c\u0441\u043a\u0438", "sueca", "kanji"], "ids": [53228, 94405, 46245, 77853, 94405], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["nobel", "titol", "regione", "escriptor", "en"], "ids": [16303, 24503, 13684, 70566, 10109], "seed": 0}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "lloc", "\u0633\u0628\u0627\u0642", "##ment", "en"], "ids": [58703, 19891, 94261, 10503, 10109], "seed": 1}
+{"pattern": ["escreveu", "inghilterra", "\u0441\u0430\u0438\u0446\u0435", "llibre", "tradicional"], "ids": [47662, 35586, 39719, 30031, 21729], "seed": 2}
+{"pattern": ["imdb", "lloc", "cannes", "per", "idioma"], "ids": [18103, 19891, 27049, 10174, 30293], "seed": 3}
+{"pattern": ["##duutsch", "escriure", "portal", "\u0567\u057d\u057f\u0578\u0576\u056b\u0561\u0575\u056b", "berbahasa"], "ids": [77498, 45562, 17375, 34146, 85859], "seed": 4}
+{"pattern": ["municipalitat", "anglaterra", "italo", "milwaukee", "castel"], "ids": [51212, 49600, 52491, 35718, 35896], "seed": 5}
+{"pattern": ["websteed", "\u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044b\u043c", "##xement", "barbarossa", "en"], "ids": [94284, 96459, 84182, 71254, 10109], "seed": 6}
+{"pattern": ["inghilterra", "anglicky", "llibre", "inglese", "llibre"], "ids": [35586, 41767, 30031, 20235, 30031], "seed": 7}
+{"pattern": ["oficialment", "nivell", "paginam", "lexicon", "tieng"], "ids": [66580, 39099, 70512, 66706, 14648], "seed": 8}
+{"pattern": ["zrod\u0142o", "imdb", "dal", "catalans", "dal"], "ids": [61525, 18103, 10761, 58089, 10761], "seed": 9}

@@ -1,0 +1,10 @@
+{"pattern": ["reaktion", "aldaar", "websait", "\u0440\u043e\u0441\u0441\u0438\u0438\u043d", "##museum"], "ids": [57730, 43032, 69121, 13908, 26857], "seed": 0}
+{"pattern": ["portrait", "aan", "museo", "imperial", "in"], "ids": [22835, 10790, 14866, 15815, 10104], "seed": 1}
+{"pattern": ["\u0445\u043e\u0437\u044f\u0438\u0441\u0442\u0432\u0430", "\u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0438", "database", "museum", "universiteit"], "ids": [44378, 47742, 10326, 11217, 21425], "seed": 2}
+{"pattern": ["bij", "bronnen", "\u0433\u0430\u043b\u0435\u0440\u0435\u044f", "museet", "##\u0a73"], "ids": [11277, 11085, 74329, 57366, 96866], "seed": 3}
+{"pattern": ["bij", "hogar", "rusos", "museum", "van"], "ids": [11277, 49201, 91322, 11217, 10147], "seed": 4}
+{"pattern": ["\u2016", "hogar", "bewerkingsgeschiedenis", "##museum", "van"], "ids": [1268, 49201, 63590, 26857, 10147], "seed": 5}
+{"pattern": ["gpu", "departamentin", "database", "gemeente", "metropolitan"], "ids": [96078, 73576, 10326, 13250, 19077], "seed": 6}
+{"pattern": ["\u043f\u043e\u043b\u0435\u0442\u0430", "een", "##huis", "unesco", "vanuit"], "ids": [69276, 10207, 26091, 16077, 32649], "seed": 7}
+{"pattern": ["pagina", "circus", "photographic", "arrondissement", "van"], "ids": [16833, 33431, 71535, 15773, 10147], "seed": 8}
+{"pattern": ["\u05d6\u05db\u05d4", "pagina", "paleis", "van", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [24538, 16833, 93795, 10147, 62170], "seed": 9}

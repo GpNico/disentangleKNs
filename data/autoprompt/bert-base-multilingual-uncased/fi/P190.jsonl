@@ -1,0 +1,10 @@
+{"pattern": ["vienna", "pohja", "cairo", "honolulu", "puteri"], "ids": [19930, 46956, 35698, 51401, 76092], "seed": 0}
+{"pattern": ["hoofdstad", "boyer", "vienna", "baghdad", "nanjing"], "ids": [52007, 30087, 19930, 54489, 84576], "seed": 1}
+{"pattern": ["universitatea", "londyn", "skoda", "cairo", "universitatea"], "ids": [56586, 90254, 48962, 35698, 56586], "seed": 2}
+{"pattern": ["airways", "##dola", "konstantinopel", "nanjing", "und"], "ids": [29480, 75743, 67930, 84576, 10138], "seed": 3}
+{"pattern": ["lahti", "berlijn", "tunis", "amman", "metropole"], "ids": [38917, 69417, 45052, 82347, 51959], "seed": 4}
+{"pattern": ["\u82ac", "stacja", "paris", "amman", "stacja"], "ids": [7167, 40289, 10718, 82347, 40289], "seed": 5}
+{"pattern": ["totaal", "##kond", "bogor", "baghdad", "nanjing"], "ids": [40412, 29408, 63390, 54489, 84576], "seed": 6}
+{"pattern": ["##elane", "bucharest", "perth", "mailand", "baghdad"], "ids": [73630, 60641, 31202, 64814, 54489], "seed": 7}
+{"pattern": ["helsingin", "amman", "baghdad", "nanjing", "belvedere"], "ids": [28303, 82347, 54489, 84576, 80561], "seed": 8}
+{"pattern": ["cairo", "hanoi", "semarang", "tallinn", "alexandria"], "ids": [35698, 50020, 58421, 27564, 30525], "seed": 9}

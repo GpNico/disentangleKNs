@@ -1,0 +1,10 @@
+{"pattern": ["\u0927\u0932\u0903", "gemengen", "##museum", "aeroport", "din"], "ids": [39690, 50455, 26857, 28614, 10621], "seed": 0}
+{"pattern": ["##sstandes", "nuts", "websteed", "aeroport", "greater"], "ids": [70186, 66366, 94284, 28614, 18860], "seed": 1}
+{"pattern": ["kebangsaan", "situs", "varosi", "duca", "\u043c\u0438\u043b\u043b\u0438\u0438"], "ids": [20682, 20757, 63600, 31515, 70813], "seed": 2}
+{"pattern": ["arrondissementer", "commons", "\u0627\u0644\u0631\u0633\u0645\u064a", "perbandaran", "greater"], "ids": [56054, 14197, 28378, 30712, 18860], "seed": 3}
+{"pattern": ["arrondissementer", "forsamlingen", "cithakan", "aeroport", "greater"], "ids": [56054, 72926, 60596, 28614, 18860], "seed": 4}
+{"pattern": ["\u0c2e\u0c02\u0c21\u0c32\u0c28\u0c15", "fylke", "britannica", "harta", "orasului"], "ids": [52679, 14466, 14221, 38407, 48045], "seed": 5}
+{"pattern": ["orodha", "harta", "harta", "city", "##\u05d1\u05d9\u05e8\u05d4"], "ids": [45482, 38407, 38407, 10575, 74586], "seed": 6}
+{"pattern": ["\u0935\u093f\u0936\u0935\u0935\u093f\u0926\u092f\u093e\u0932\u092f", "\u0435\u0441\u0446\u044c", "\u0442\u044d\u043c\u0435", "universitetet", "##\u0926\u0930\u0936\u093f\u0924"], "ids": [51833, 42021, 26608, 32624, 92472], "seed": 7}
+{"pattern": ["##\u10e0\u10d0\u10da\u10e3\u10e0\u10d8", "\u0627\u0645\u0627\u0631", "digitalisat", "arrondissement", "von"], "ids": [93802, 22309, 63119, 15773, 10168], "seed": 8}
+{"pattern": ["territory", "\u25ba", "\u0438\u043d\u0434\u0435\u043a\u0441\u044b", "ceety", "o"], "ids": [18607, 1440, 41225, 32469, 157], "seed": 9}

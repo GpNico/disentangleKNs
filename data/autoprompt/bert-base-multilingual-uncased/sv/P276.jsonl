@@ -1,0 +1,10 @@
+{"pattern": ["ungefar", "commons", "liv", "stader", "i"], "ids": [62894, 14197, 21786, 65805, 151], "seed": 0}
+{"pattern": ["wikimedia", "wikipedia", "over", "stader", "##\u09af\u09be\u09b2"], "ids": [13609, 12834, 10323, 65805, 80525], "seed": 1}
+{"pattern": ["iana", "##taden", "jabatan", "commons", "gemeng"], "ids": [84745, 93105, 22561, 14197, 43075], "seed": 2}
+{"pattern": ["\u0438\u043b\u0438", "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432", "##nade", "universitetet", "i"], "ids": [11007, 79380, 39023, 32624, 151], "seed": 3}
+{"pattern": ["wikimedia", "glottolog", "samband", "parlamentet", "\u0448\u0430\u04b3\u0440\u0438"], "ids": [13609, 72555, 37757, 81408, 63022], "seed": 4}
+{"pattern": ["\u05d1\u05e9\u05e0\u05d4", "wikipedia", "list", "stader", "kring"], "ids": [76966, 12834, 11438, 65805, 30054], "seed": 5}
+{"pattern": ["neighbourhood", "\u09ac\u09bf\u09ad\u09be\u0997\u09b0", "websait", "stad", "republikken"], "ids": [74106, 69093, 69121, 13740, 83107], "seed": 6}
+{"pattern": ["wikimedia", "jpg", "britannica", "staden", "utanfor"], "ids": [13609, 87588, 14221, 24787, 41885], "seed": 7}
+{"pattern": ["\u2192", "##\u043e\u0437\u0435\u0444", "##rnas", "universitetet", "i"], "ids": [1354, 64672, 57194, 32624, 151], "seed": 8}
+{"pattern": ["\u0ca6\u0cd5\u0cb5\u0cbe\u0cb2\u0caf", "##mang", "namn", "commons", "\u0432\u0438\u043b\u043e\u044f\u0442\u0438"], "ids": [84434, 73661, 17295, 14197, 22848], "seed": 9}

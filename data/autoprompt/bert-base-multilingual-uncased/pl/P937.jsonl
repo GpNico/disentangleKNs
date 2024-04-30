@@ -1,0 +1,10 @@
+{"pattern": ["database", "colours", "stronie", "chirurgie", "universiti"], "ids": [10326, 53234, 40976, 84618, 57911], "seed": 0}
+{"pattern": ["rhestr", "biografi", "\u0440\u0430\u0437\u043f\u043e\u043b\u043e\u0436\u0435\u043d", "ulice", "dinas"], "ids": [17092, 78785, 69133, 44403, 71103], "seed": 1}
+{"pattern": ["murit", "polski", "odeon", "##hall", "din"], "ids": [66502, 13865, 65497, 26874, 10621], "seed": 2}
+{"pattern": ["liczy\u0142a", "\u10e1\u10d0\u10d8\u10e2\u10d8", "cithakan", "urzad", "greater"], "ids": [40271, 60143, 60596, 52966, 18860], "seed": 3}
+{"pattern": ["wuppertal", "polska", "londres", "\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "metropolis"], "ids": [81810, 19434, 14450, 89067, 59596], "seed": 4}
+{"pattern": ["\u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9", "##ppard", "biography", "polska", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [80358, 74714, 14097, 19434, 62170], "seed": 5}
+{"pattern": ["rhestr", "swojej", "galeria", "\u05d1\u05d9\u05d5\u05e0\u05d9", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [17092, 32917, 21681, 34525, 62170], "seed": 6}
+{"pattern": ["stronie", "biografi", "arrondissementer", "city", "dwyrain"], "ids": [40976, 78785, 56054, 10575, 80355], "seed": 7}
+{"pattern": ["stettin", "warschau", "\u0142odz", "essen", "greenwich"], "ids": [72871, 69590, 40581, 32357, 44893], "seed": 8}
+{"pattern": ["galeria", "gminy", "metropolita", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "-"], "ids": [21681, 22718, 92101, 21655, 118], "seed": 9}

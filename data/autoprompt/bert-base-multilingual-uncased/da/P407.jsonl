@@ -1,0 +1,10 @@
+{"pattern": ["historie", "kjeldene", "botany", "dialekt", "klassisk"], "ids": [21826, 51669, 57093, 65818, 74162], "seed": 0}
+{"pattern": ["indbyggere", "\u0441\u0430\u0438\u0446\u0435", "ibukota", "offisiell", "##\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u056b\u0581"], "ids": [56173, 39719, 80088, 93352, 58714], "seed": 1}
+{"pattern": ["hivatalos", "\u10e0\u10d0\u10d8\u10dd\u10dc\u10e8\u10d8", "english", "offisiell", "wikipedia"], "ids": [24151, 78558, 11807, 93352, 12834], "seed": 2}
+{"pattern": ["database", "offisiell", "##\u0627\u0631\u064a\u0627", "##ingar", "berbahasa"], "ids": [10326, 93352, 70818, 36485, 85859], "seed": 3}
+{"pattern": ["ashes", "websteed", "offisielle", "pagina", "uden"], "ids": [65487, 94284, 84425, 16833, 34782], "seed": 4}
+{"pattern": ["\u0441\u043f\u043e\u0440\u0435\u0434", "treliste", "wojewodztwo", "offisiell", "bahasa"], "ids": [16283, 67819, 63035, 93352, 13683], "seed": 5}
+{"pattern": ["##isjon", "bronse", "nasjonale", "database", "\u0441\u0430\u0438\u0446\u0435"], "ids": [48910, 63910, 67923, 10326, 39719], "seed": 6}
+{"pattern": ["artikkelen", "dalam", "database", "ned", "bahasa"], "ids": [23154, 10693, 10326, 15986, 13683], "seed": 7}
+{"pattern": ["\u0434\u0456\u0442\u0435\u0438", "d\u00f8mes", "situs", "officiel", "\u0632\u0628\u0627\u0646"], "ids": [36751, 82303, 20757, 31692, 18694], "seed": 8}
+{"pattern": ["spraket", "\u5857", "f\u00f8lgende", "\u0441\u0430\u0438\u0446\u0435", "offisiell"], "ids": [73635, 2891, 39617, 39719, 93352], "seed": 9}

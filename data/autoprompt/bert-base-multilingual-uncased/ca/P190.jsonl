@@ -1,0 +1,10 @@
+{"pattern": ["hoofdstad", "llati", "amman", "moskou", "maraton"], "ids": [52007, 63593, 82347, 81155, 82524], "seed": 0}
+{"pattern": ["academie", "londra", "\u0627\u0644\u062c\u0627\u0645\u0639\u0629", "universitetet", "\u06a9\u0646\u062f\u06cc"], "ids": [19549, 22907, 58120, 32624, 60157], "seed": 1}
+{"pattern": ["pronssia", "mindanao", "israele", "architects", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [55433, 77542, 93591, 46067, 62170], "seed": 2}
+{"pattern": ["baghdad", "ciutat", "split", "warsaw", "mumbai"], "ids": [54489, 15684, 18389, 34891, 37175], "seed": 3}
+{"pattern": ["el", "honolulu", "skopje", "ciutat", "##\u043a\u0442\u0438\u043a\u0438"], "ids": [10117, 51401, 44576, 15684, 91127], "seed": 4}
+{"pattern": ["\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea", "amman", "moskau", "architects", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [62170, 82347, 40833, 46067, 62170], "seed": 5}
+{"pattern": ["paisos", "gilmore", "baghdad", "berlijn", "antalya"], "ids": [34351, 86312, 54489, 69417, 73708], "seed": 6}
+{"pattern": ["3166", "##adors", "bucharest", "moscu", "baghdad"], "ids": [47436, 52826, 60641, 56849, 54489], "seed": 7}
+{"pattern": ["ciutats", "honolulu", "bucharest", "tarzan", "metropole"], "ids": [51953, 51401, 60641, 57465, 51959], "seed": 8}
+{"pattern": ["abel", "iorque", "belgrado", "islamabad", "aurora"], "ids": [32262, 66400, 81269, 47779, 31162], "seed": 9}

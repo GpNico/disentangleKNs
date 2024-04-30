@@ -1,0 +1,10 @@
+{"pattern": ["\u05de\u05d5\u05e8\u05d7\u05d1", "\u1107\u1162\u110b\u116e\u110b\u1175\u1103\u1161", "##ischer", "schriftsteller", "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8\u110b\u1174"], "ids": [56477, 79576, 16631, 32226, 27775], "seed": 0}
+{"pattern": ["actor", "englisch", "milan", "kossuth", "osterreichischer"], "ids": [13544, 24159, 15378, 75419, 43025], "seed": 1}
+{"pattern": ["tumani", "moliere", "slovenia", "geburt", "osterreichischer"], "ids": [23658, 57099, 34090, 74414, 43025], "seed": 2}
+{"pattern": ["\u0639\u0634\u0642", "cbe", "omonimo", "recife", "der"], "ids": [78149, 81997, 49791, 69833, 10118], "seed": 3}
+{"pattern": ["maler", "\u0639\u0644\u0627\u0642\u06c1", "##piller", "ernst", "bayerisches"], "ids": [28597, 26040, 72349, 14749, 57922], "seed": 4}
+{"pattern": ["dramas", "leningrad", "##bild", "ehemaliger", "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8\u110b\u1174"], "ids": [84514, 37061, 32799, 34045, 27775], "seed": 5}
+{"pattern": ["shakespeare", "adina", "ives", "ehemaliger", "osterreichischer"], "ids": [20195, 30855, 95838, 34045, 43025], "seed": 6}
+{"pattern": ["\u1100\u1165\u11ba\u110b\u1175\u1103\u1161", "\u0437\u0430\u043c\u0443\u0436", "babel", "ehemaliger", "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8\u110b\u1174"], "ids": [24493, 66822, 79295, 34045, 27775], "seed": 7}
+{"pattern": ["skadespelare", "\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430", "baldwin", "volk", "##\u0565\u0574\u0562\u0565\u0580"], "ids": [53228, 41551, 37828, 32598, 90119], "seed": 8}
+{"pattern": ["duitsland", "chaplin", "glumica", "volk", "\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u0435\u0440"], "ids": [27097, 48978, 94376, 32598, 88180], "seed": 9}

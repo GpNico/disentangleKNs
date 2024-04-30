@@ -1,0 +1,10 @@
+{"pattern": ["##\u1106\u116e\u11af", "gazetteer", "gamla", "contea", "din"], "ids": [29366, 30674, 37278, 27472, 10621], "seed": 0}
+{"pattern": ["nyaeta", "vasutvonal", "websteed", "\u0441\u0443\u0437\u0456\u0440", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [17916, 71457, 94284, 84091, 55892], "seed": 1}
+{"pattern": ["\u05de\u05d4", "##\u043a\u0437\u0430\u043b", "##ellt", "websteed", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [27988, 89029, 73365, 94284, 55892], "seed": 2}
+{"pattern": ["liste", "arrondissementer", "inden", "fylke", "\u05e9\u05dc"], "ids": [13593, 56054, 39908, 14466, 10357], "seed": 3}
+{"pattern": ["##\u05dc\u05d5\u05e0\u05d3\u05d5\u05df", "imaxes", "samband", "stader", "\u0648\u0644\u0627\u064a\u0629"], "ids": [72428, 93625, 37757, 65805, 31489], "seed": 4}
+{"pattern": ["prema", "dylan", "govpubs", "\u0438\u0441\u043f\u0430\u043d\u0438", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [11992, 24826, 18126, 37810, 28937], "seed": 5}
+{"pattern": ["\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443", "arrondissementer", "af", "provins", "\u05e9\u05dc"], "ids": [64964, 56054, 10513, 57108, 10357], "seed": 6}
+{"pattern": ["\u05e9\u05d4\u05d9\u05d9\u05ea\u05d4", "fakultat", "##alen", "websteed", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [52548, 47124, 29063, 94284, 55892], "seed": 7}
+{"pattern": ["\u0434\u0437\u0435\u043d\u044c", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "wikipedia", "province", "sodra"], "ids": [90837, 56604, 12834, 12092, 16128], "seed": 8}
+{"pattern": ["autonomous", "\u2193", "##vudort", "##sland", "sydostra"], "ids": [41133, 1355, 67793, 40503, 15748], "seed": 9}

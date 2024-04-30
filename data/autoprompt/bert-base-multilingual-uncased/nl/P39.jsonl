@@ -1,0 +1,10 @@
+{"pattern": ["emeritus", "curia", "baixos", "brazilie", "oude"], "ids": [65819, 95927, 40315, 68966, 23809], "seed": 0}
+{"pattern": ["angolul", "unicode", "##pele", "kathedrale", "zonder"], "ids": [42164, 52269, 50937, 96306, 27212], "seed": 1}
+{"pattern": ["\u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e", "kathedrale", "bronnen", "portret", "voormalige"], "ids": [54370, 96306, 11085, 59671, 36676], "seed": 2}
+{"pattern": ["\u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8", "website", "bamberg", "emeritus", "zuidelijke"], "ids": [82512, 12699, 64058, 65819, 69203], "seed": 3}
+{"pattern": ["bronnen", "benedikt", "martir", "benoemd", "nieuwe"], "ids": [11085, 66517, 82274, 47385, 16030], "seed": 4}
+{"pattern": ["pfarrkirche", "voor", "##laat", "overleden", "romeinse"], "ids": [43180, 10461, 72844, 45137, 50529], "seed": 5}
+{"pattern": ["\u043d\u0435\u0458\u0437\u0438\u043d\u0430\u0442\u0430", "bischof", "werd", "nijmegen", "\u043d\u0435\u0458\u0437\u0438\u043d\u0430\u0442\u0430"], "ids": [93742, 26922, 10665, 77329, 93742], "seed": 6}
+{"pattern": ["sejarah", "bisdom", "\u0632\u06cc\u0631", "overleden", "voormalige"], "ids": [27736, 81668, 22869, 45137, 36676], "seed": 7}
+{"pattern": ["niederlandischen", "\u0441\u0430\u0438\u0446\u0435", "##diocese", "cithakan", "##\u0627\u0647\u0631\u0629"], "ids": [64789, 39719, 59720, 60596, 67852], "seed": 8}
+{"pattern": ["\u043c\u0438\u0440\u0435", "\u0432\u0438\u0434\u0435\u043e", "priester", "##beeld", "voormalige"], "ids": [31928, 38395, 48516, 36920, 36676], "seed": 9}

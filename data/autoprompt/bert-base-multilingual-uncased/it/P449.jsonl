@@ -1,0 +1,10 @@
+{"pattern": ["emmy", "\u0627\u0633\u062a\u0642\u0644\u0627\u0644", "##mentul", "cw", "districtul"], "ids": [26332, 74783, 69624, 58248, 95967], "seed": 0}
+{"pattern": ["\u0633\u0627\u062d\u0647\u0633\u06cc", "sitcom", "daytime", "\u0634\u0627\u0628\u0644\u0648\u0646", "\u043f\u0440\u0430\u0432\u0430\u0445"], "ids": [79859, 58988, 92828, 26148, 73253], "seed": 1}
+{"pattern": ["cantant", "\u0430\u043c\u0440\u0438\u043a\u043e", "situs", "redakcija", "primetime"], "ids": [85175, 63434, 20757, 74881, 81969], "seed": 2}
+{"pattern": ["\u05d1\u05d0\u05ea\u05e8", "rasmi", "serialu", "primetime", "\u05e9\u05dc"], "ids": [70937, 51464, 33327, 81969, 10357], "seed": 3}
+{"pattern": ["marekani", "televisione", "abc", "##\u05e4\u05da", "televisivo"], "ids": [64935, 71541, 16081, 68509, 48927], "seed": 4}
+{"pattern": ["motown", "pratelan", "serije", "zvanicni", "##\u043a\u0430\u043b\u044b\u049b"], "ids": [85512, 83253, 54166, 77263, 77570], "seed": 5}
+{"pattern": ["garner", "odcinek", "##lmesi", "interview", "stacja"], "ids": [85777, 71331, 82840, 16705, 40289], "seed": 6}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "\u0441\u0435\u0437\u043e\u043d", "abc", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "gabeko"], "ids": [58703, 20612, 16081, 58703, 29915], "seed": 7}
+{"pattern": ["\u0441\u0435\u0440\u0438\u0438", "primetime", "\u0628\u0645\u062f\u064a\u0631\u064a\u0629", "shows", "\u0441\u0430\u0438\u0446\u0435"], "ids": [22539, 81969, 46767, 15503, 39719], "seed": 8}
+{"pattern": ["stacja", "\u0627\u0645\u0631\u06cc\u06a9\u0627", "abc", "www", "##\u043d\u0435\u0433\u043e"], "ids": [40289, 13151, 16081, 10561, 27076], "seed": 9}

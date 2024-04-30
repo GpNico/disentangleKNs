@@ -1,0 +1,10 @@
+{"pattern": ["aerodrome", "pagina", "llocs", "municipi", "##\u0259d\u0259n"], "ids": [79367, 16833, 57482, 19710, 81455], "seed": 0}
+{"pattern": ["\u0c17\u0c23\u0c02\u0c15\u0c32", "mpilalao", "teatre", "pel", "wikang"], "ids": [26780, 27446, 32995, 12513, 42575], "seed": 1}
+{"pattern": ["\u05c3", "perteneciente", "\u88ad", "titol", "wikang"], "ids": [416, 28305, 7698, 24503, 42575], "seed": 2}
+{"pattern": ["\u7b19", "pintor", "lumot", "##stiques", "wikang"], "ids": [6384, 25881, 86321, 48814, 42575], "seed": 3}
+{"pattern": ["\u06a9\u0648\u0647", "llibre", "ecrivain", "llibre", "en"], "ids": [28463, 30031, 32087, 30031, 10109], "seed": 4}
+{"pattern": ["biografi", "\u20aa", "pare", "escriptor", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [78785, 1328, 16226, 70566, 55892], "seed": 5}
+{"pattern": ["paxina", "gmoa", "paraules", "\u0437", "en"], "ids": [34978, 64677, 92743, 314, 10109], "seed": 6}
+{"pattern": ["pagina", "amb", "##\u0430\u043b\u044c\u043d\u0430\u0433\u0430", "\u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0435", "\u0441\u0431\u043e\u0440\u043d\u043e\u0438"], "ids": [16833, 10627, 77458, 87592, 24853], "seed": 7}
+{"pattern": ["efeitos", "seccio", "oficials", "leksikon", "tieng"], "ids": [71129, 80396, 88868, 48246, 14648], "seed": 8}
+{"pattern": ["\u0b8e\u0ba9\u0ba9\u0bc1\u0bae", "kilala", "lexicon", "llibre", "wikang"], "ids": [26014, 88477, 66706, 30031, 42575], "seed": 9}

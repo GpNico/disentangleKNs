@@ -1,0 +1,10 @@
+{"pattern": ["motorola", "\u5c7f", "arp", "\u044f\u043f\u043e\u043d\u0438\u044f", "siemens"], "ids": [63870, 3324, 66137, 51992, 40941], "seed": 0}
+{"pattern": ["amd", "www", "\u0434\u0430\u0440", "##\u95d0", "##\u04b3\u043e\u0438"], "ids": [51990, 10561, 11869, 104840, 15300], "seed": 1}
+{"pattern": ["offizielle", "\u0432\u043e\u0434\u043d\u044b\u0438", "cpu", "##s", "fur"], "ids": [52798, 69745, 39520, 10107, 10325], "seed": 2}
+{"pattern": ["wireless", "\u0642\u0627\u064a\u0645\u0629", "membri", "\u043a\u043e\u043c\u043f", "\u0628\u0644\u0627\u062f"], "ids": [48675, 25012, 25550, 52933, 68766], "seed": 3}
+{"pattern": ["tablet", "standings", "manufacturing", "\u0b95\u0bc7\u0bbe\u0baf\u0bbf\u0bb2\u0bbe\u0b95\u0bc1\u0bae", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74215, 92014, 24657, 62138, 39719], "seed": 4}
+{"pattern": ["territorium", "\u043e\u043e\u043d", "nokia", "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0438", "samsung"], "ids": [58556, 41297, 29289, 62312, 36483], "seed": 5}
+{"pattern": ["electrical", "index", "deportista", "cithakan", ":"], "ids": [33552, 10534, 74325, 60596, 131], "seed": 6}
+{"pattern": ["ceo", "\u043b\u0435\u043a\u0430", "imaxes", "municipais", "packard"], "ids": [23693, 76068, 93625, 75026, 72310], "seed": 7}
+{"pattern": ["computer", "manufacturer", "\u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044f", "database", "apud"], "ids": [14831, 53030, 68537, 10326, 18922], "seed": 8}
+{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "autorem", "\u05d1\u05e1\u05e4\u05e8", "packard", "|"], "ids": [39719, 43534, 59783, 72310, 170], "seed": 9}

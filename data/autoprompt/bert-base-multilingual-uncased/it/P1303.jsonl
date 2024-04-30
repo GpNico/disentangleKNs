@@ -1,0 +1,10 @@
+{"pattern": ["violin", "chopin", "batteria", "edison", "chopin"], "ids": [28390, 57993, 31870, 45121, 57993], "seed": 0}
+{"pattern": ["ritratto", "busto", "klavir", "klavir", "ritratto"], "ids": [83114, 83820, 73548, 73548, 83114], "seed": 1}
+{"pattern": ["batteria", "strumenti", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "oboe", "&"], "ids": [31870, 53987, 21655, 84571, 111], "seed": 2}
+{"pattern": ["oboe", "premio", "obyvatelstva", "##vour", "miglior"], "ids": [84571, 12772, 70264, 90769, 19759], "seed": 3}
+{"pattern": ["informatica", "piano", "strumenti", "\u0442\u0435\u043b\u0435\u0444\u043e\u043d", "flauta"], "ids": [53421, 12510, 53987, 64081, 93479], "seed": 4}
+{"pattern": ["strumenti", "scorpion", "voce", "oboe", "scorpion"], "ids": [53987, 91842, 17032, 84571, 91842], "seed": 5}
+{"pattern": ["encyclop\u00e6dia", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u0438", "batteria", "piano", "flauta"], "ids": [16142, 59714, 31870, 12510, 93479], "seed": 6}
+{"pattern": ["mezzo", "piano", "dante", "russo", "##caj"], "ids": [30541, 12510, 29436, 22168, 73604], "seed": 7}
+{"pattern": ["violin", "keyboard", "benny", "taliban", "giardino"], "ids": [28390, 35659, 37574, 73266, 68524], "seed": 8}
+{"pattern": ["ibanez", "democracy", "references", "sonate", "dla"], "ids": [74023, 30610, 34753, 73423, 12304], "seed": 9}

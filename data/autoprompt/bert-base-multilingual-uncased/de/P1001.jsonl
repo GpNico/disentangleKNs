@@ -1,0 +1,10 @@
+{"pattern": ["website", "regierung", "\u0567\u057d\u057f\u0578\u0576\u056b\u0561\u0575\u056b", "##tritt", "\u7dd6"], "ids": [12699, 21441, 34146, 53817, 6635], "seed": 0}
+{"pattern": ["websteed", "offizielle", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "##lament", "vun"], "ids": [94284, 52798, 28937, 64845, 11086], "seed": 1}
+{"pattern": ["facebook", "websteed", "vun", "premises", "republik"], "ids": [21105, 94284, 11086, 87047, 16536], "seed": 2}
+{"pattern": ["daten", "buidl", "iana", "historisches", "bundesstaat"], "ids": [37723, 55957, 84745, 87234, 43500], "seed": 3}
+{"pattern": ["websteed", "liste", "bekannte", "stadte", "##\u0a3f\u0a28"], "ids": [94284, 13593, 38181, 39970, 38373], "seed": 4}
+{"pattern": ["##vnost", "\u0438\u043d\u0433\u043b", "##disce", "tourismus", "in"], "ids": [55268, 68320, 66039, 92980, 10104], "seed": 5}
+{"pattern": ["\u057a\u0561\u0577\u057f\u0578\u0576\u0561\u056f\u0561\u0576", "buidl", "bafta", "parlament", "von"], "ids": [24602, 55957, 36226, 22096, 10168], "seed": 6}
+{"pattern": ["offentliche", "concello", "frauen", "\u0441\u0430\u0438\u0442\u0435", "miss"], "ids": [50096, 26215, 20761, 39947, 14344], "seed": 7}
+{"pattern": ["websteed", "offentlichen", "departement", "verdienste", "\u0644\u0645\u062d\u0627\u0641\u0638\u0629"], "ids": [94284, 34031, 12597, 59916, 43270], "seed": 8}
+{"pattern": ["attacco", "buidl", "websteed", "commons", "republik"], "ids": [32899, 55957, 94284, 14197, 16536], "seed": 9}

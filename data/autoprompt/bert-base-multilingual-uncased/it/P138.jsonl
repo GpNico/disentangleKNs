@@ -1,0 +1,10 @@
+{"pattern": ["gazetteer", "photographic", "mondiale", "simbolo", "di"], "ids": [30674, 71535, 14617, 29264, 10120], "seed": 0}
+{"pattern": ["wikimedia", "britannica", "voce", "citta", "##\u0cb7\u0ca3"], "ids": [13609, 14221, 17032, 12801, 70214], "seed": 1}
+{"pattern": ["fishbase", "cithakan", "\u0433\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e", "\u0440\u0435\u0441\u0443\u0440\u0441\u0442\u0430\u0440", "kutha"], "ids": [14745, 60596, 49891, 32379, 34730], "seed": 2}
+{"pattern": ["\u2248", "britannica", "wikimedia", "regio", "di"], "ids": [1389, 14221, 13609, 14454, 10120], "seed": 3}
+{"pattern": ["toponimo", "talianu", "comune", "talianu", "\u05d1\u05d9\u05e7\u05d5\u05e8\u05ea"], "ids": [69629, 61862, 12900, 61862, 88279], "seed": 4}
+{"pattern": ["terms", "britannica", "\u043f\u0440\u0435\u0432\u043e\u0434", "distretto", "di"], "ids": [18545, 14221, 91814, 27490, 10120], "seed": 5}
+{"pattern": ["tourism", "festival", "pagina", "dedicat", "miss"], "ids": [27780, 11491, 16833, 90502, 14344], "seed": 6}
+{"pattern": ["website", "pubchem", "concello", "comuni", "praefecturae"], "ids": [12699, 48721, 26215, 28973, 17098], "seed": 7}
+{"pattern": ["angl", "talianu", "wikipedia", "comune", "\u819b"], "ids": [31465, 61862, 12834, 12900, 7051], "seed": 8}
+{"pattern": ["\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0568", "\u1109\u1165\u110b\u116e\u11af\u1110\u1173\u11a8\u1107\u1167\u11af\u1109\u1175", "##kep", "cithakan", "\u0433\u0440\u0430\u0434"], "ids": [78029, 72368, 80948, 60596, 14555], "seed": 9}

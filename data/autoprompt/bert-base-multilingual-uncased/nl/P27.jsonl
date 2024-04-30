@@ -1,0 +1,10 @@
+{"pattern": ["\u044f\u0445\u0430", "britannica", "provincie", "deportista", "van"], "ids": [39327, 14221, 17211, 74325, 10147], "seed": 0}
+{"pattern": ["\u043f\u0440\u043e\u0442\u0435\u043a\u0430\u0435\u0442", "bronnen", "\u043d\u0435\u043d\u0435\u0446", "zuiden", "van"], "ids": [49083, 11085, 40156, 40466, 10147], "seed": 1}
+{"pattern": ["gazetteer", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "voor", "\u0441\u0430\u0438\u0446\u0435", "tieng"], "ids": [30674, 28937, 10461, 39719, 14648], "seed": 2}
+{"pattern": ["slott", "een", "\u0645\u062a\u062d\u062f\u06c1", "\u062a\u0642\u0639", "\u306b\u3088\u308b"], "ids": [66120, 10207, 15394, 20065, 14843], "seed": 3}
+{"pattern": ["gallery", "wikimedia", "bij", "regering", "\u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9"], "ids": [16176, 13609, 11277, 26314, 80358], "seed": 4}
+{"pattern": ["##\u0437\u0434\u044b", "bronnen", "wikimedia", "\u0a73", "tieng"], "ids": [95387, 11085, 13609, 724, 14648], "seed": 5}
+{"pattern": ["\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0438", "\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430", "belangrijkste", "minister", "van"], "ids": [39877, 63606, 26688, 12774, 10147], "seed": 6}
+{"pattern": ["gazetteer", "nationaal", "photographic", "instituut", "hrvatskog"], "ids": [30674, 51088, 71535, 58271, 53682], "seed": 7}
+{"pattern": ["aldaar", "biography", "##ografie", "government", "huius"], "ids": [43032, 14097, 87252, 11594, 68199], "seed": 8}
+{"pattern": ["biography", "box", "\u0434\u0432\u043e\u0440", "photographic", "provincie"], "ids": [14097, 14902, 56283, 71535, 17211], "seed": 9}

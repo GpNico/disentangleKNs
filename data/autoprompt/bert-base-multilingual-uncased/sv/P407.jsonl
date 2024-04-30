@@ -1,0 +1,10 @@
+{"pattern": ["poemas", "\u0642\u0627\u064a\u0645\u0629", "traduccion", "tradicional", "fran"], "ids": [42270, 25012, 38409, 21729, 10603], "seed": 0}
+{"pattern": ["edisi", "\u0642\u0627\u064a\u0645\u0629", "foljande", "encyclopedie", "berbahasa"], "ids": [52723, 25012, 22801, 76923, 85859], "seed": 1}
+{"pattern": ["gamla", "myspace", "\u0444\u0440\u0435\u043d\u0441\u043a\u0438", "\u0430\u043d\u0433\u043b\u0438\u0438\u0441\u043a\u0438", "##\u043a\u043e\u043b\u044c\u043a\u043e"], "ids": [37278, 58292, 60593, 29766, 91668], "seed": 2}
+{"pattern": ["makke", "zweedse", "angles", "oversattning", "brittiska"], "ids": [55028, 89292, 22624, 66985, 73493], "seed": 3}
+{"pattern": ["oversattning", "vissa", "nobel", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u0438", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [66985, 41747, 16303, 59714, 35642], "seed": 4}
+{"pattern": ["\u0917\u0940\u0924", "angles", "oversattning", "manual", "##\u043e\u0440\u044b\u044f"], "ids": [84859, 22624, 66985, 20640, 43768], "seed": 5}
+{"pattern": ["engleza", "inglese", "svedska", "limbi", "##\u0434\u0438\u0446\u0438\u044f"], "ids": [58152, 20235, 89184, 72326, 96060], "seed": 6}
+{"pattern": ["oversattning", "\u0456\u0441\u0442\u043e\u0440\u0456\u044f", "\u0642\u0627\u064a\u0645\u0629", "terms", "gamla"], "ids": [66985, 51257, 25012, 18545, 37278], "seed": 7}
+{"pattern": ["lescht", "svedska", "localities", "##jarilar", "\u0644\u063a\u0629"], "ids": [27798, 89184, 70867, 96427, 74419], "seed": 8}
+{"pattern": ["slapptes", "\u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915", "perbandaran", "##slagen", "berbahasa"], "ids": [58480, 91740, 30712, 58550, 85859], "seed": 9}

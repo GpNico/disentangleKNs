@@ -1,0 +1,10 @@
+{"pattern": ["glottolog", "nemetul", "\u0444\u0440\u0435\u043d\u0441\u043a\u0438", "sanskrit", "net"], "ids": [72555, 86725, 60593, 41256, 11852], "seed": 0}
+{"pattern": ["pagina", "ubersetzung", "ciuda", "sankt", "\u043d\u0430"], "ids": [16833, 46114, 22020, 19522, 10124], "seed": 1}
+{"pattern": ["##plus", "nemetul", "wiki", "orthodoxe", "##plus"], "ids": [48746, 86725, 25883, 65953, 48746], "seed": 2}
+{"pattern": ["kaupunki", "\u057a\u0561\u0577\u057f\u0578\u0576\u0561\u056f\u0561\u0576", "websteed", "ubersetzung", "fur"], "ids": [38998, 24602, 94284, 46114, 10325], "seed": 3}
+{"pattern": ["lescht", "melastomataceae", "kategorie", "sprache", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [27798, 66514, 22030, 24411, 55892], "seed": 4}
+{"pattern": ["bilang", "volkszahlung", "\u10e1\u10d0\u10d8\u10e2\u10d8", "auf", "wikang"], "ids": [21403, 56120, 60143, 10350, 42575], "seed": 5}
+{"pattern": ["\u044f\u0437\u044b\u043a", "frances", "nevis", "site", "von"], "ids": [28035, 12579, 83366, 11692, 10168], "seed": 6}
+{"pattern": ["websteed", "nordlich", "buidl", "wikipedia", "\u043f\u0440\u0430\u0437"], "ids": [94284, 26000, 55957, 12834, 48644], "seed": 7}
+{"pattern": ["kurz", "nemetul", "zari", "gazetteer", "kurz"], "ids": [18314, 86725, 25130, 30674, 18314], "seed": 8}
+{"pattern": ["ethnologue", "wikipedia", "inclosa", "##chiv", "amerikanischer"], "ids": [37982, 12834, 88252, 79201, 25975], "seed": 9}

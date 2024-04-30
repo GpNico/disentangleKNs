@@ -1,0 +1,10 @@
+{"pattern": ["schwarze", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "zelda", "cervantes", "elektrische"], "ids": [51842, 74724, 69582, 53307, 54027], "seed": 0}
+{"pattern": ["spisak", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "setzen", "pedal", "##dliche"], "ids": [13990, 74724, 77745, 65667, 85572], "seed": 1}
+{"pattern": ["instruments", "toa", "\u043e\u049b\u0443", "kytara", "kleines"], "ids": [22822, 22676, 78802, 67583, 72013], "seed": 2}
+{"pattern": ["guitars", "benannt", "allegro", "ballade", "fur"], "ids": [43585, 26200, 42691, 94281, 10325], "seed": 3}
+{"pattern": ["euskaraz", "klavir", "ibanez", "handbuch", "fur"], "ids": [57181, 73548, 74023, 42194, 10325], "seed": 4}
+{"pattern": ["erlangen", "\u0433\u0456\u0442\u0430\u0440\u0430", "##\u0440\u0430\u0442\u0443\u0440\u044b", "schmidt", "dresdner"], "ids": [56439, 83661, 92629, 19693, 81199], "seed": 5}
+{"pattern": ["\u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e", "artikel", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "siehe", "abschnitt"], "ids": [75891, 17777, 74724, 23892, 39873], "seed": 6}
+{"pattern": ["kytara", "lothar", "pianoforte", "##\u043a\u043e\u0442\u0430", "##ischer"], "ids": [67583, 60293, 48021, 91800, 16631], "seed": 7}
+{"pattern": ["oboe", "iana", "\u0574\u057f\u0576\u0578\u0582\u0574", "njemacka", "mendelssohn"], "ids": [84571, 84745, 52213, 47914, 78504], "seed": 8}
+{"pattern": ["musikalische", "gemengen", "instrumente", "englisch", "piano"], "ids": [91895, 50455, 73822, 24159, 12510], "seed": 9}

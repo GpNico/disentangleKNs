@@ -1,0 +1,10 @@
+{"pattern": ["varsovia", "baghdad", "medellin", "\u0142odz", "hongkong"], "ids": [69156, 54489, 58574, 40581, 57274], "seed": 0}
+{"pattern": ["terror", "amerykanski", "peking", "paris", "astana"], "ids": [24565, 28811, 45508, 10718, 58496], "seed": 1}
+{"pattern": ["bordo", "smierci", "edmonton", "brasilia", "peking"], "ids": [30771, 26464, 41530, 23334, 45508], "seed": 2}
+{"pattern": ["miasto", "warschau", "moskau", "quito", "chennai"], "ids": [19790, 69590, 40833, 41666, 52433], "seed": 3}
+{"pattern": ["bucharest", "baghdad", "amerykanski", "london", "pyongyang"], "ids": [60641, 54489, 28811, 10912, 83607], "seed": 4}
+{"pattern": ["varsovie", "baghdad", "peking", "charleston", "yaounde"], "ids": [89012, 54489, 45508, 49800, 73093], "seed": 5}
+{"pattern": ["\u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9", "warszawie", "fenerbahce", "##tao", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [80358, 22567, 53003, 38420, 62170], "seed": 6}
+{"pattern": ["francuska", "teatr", "igrzysk", "internasional", "di"], "ids": [50858, 40456, 48430, 33149, 10120], "seed": 7}
+{"pattern": ["stan", "peking", "varsovia", "saigon", "maraton"], "ids": [20424, 45508, 69156, 93288, 82524], "seed": 8}
+{"pattern": ["miasto", "babilonia", "warsaw", "singapur", "baghdad"], "ids": [19790, 86538, 34891, 58607, 54489], "seed": 9}

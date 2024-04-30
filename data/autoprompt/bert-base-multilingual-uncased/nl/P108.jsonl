@@ -1,0 +1,10 @@
+{"pattern": ["\u043f\u0440\u043e\u0433\u0440\u0430\u043c", "chamberlin", "inligting", "htc", "inligting"], "ids": [75009, 54231, 69256, 84355, 69256], "seed": 0}
+{"pattern": ["nokia", "##family", "##\u10e2\u10d0\u10d3", "##\u1107\u1165\u11af", "\u0458\u0443\u0436\u043d\u0430"], "ids": [29289, 94469, 76738, 66074, 75243], "seed": 1}
+{"pattern": ["rhestr", "komputer", "veb", "ichneumon", "##\u043e\u0440\u043a"], "ids": [17092, 39196, 79385, 92985, 92384], "seed": 2}
+{"pattern": ["bloomberg", "\u0440\u043e\u0441\u0456\u044f", "intel", "westwood", "\u0631\u0645\u0636\u0627\u0646"], "ids": [80035, 61230, 23086, 57859, 85215], "seed": 3}
+{"pattern": ["nuv\u00e6rende", "diplopoda", "intel", "storbritannien", "motorola"], "ids": [76273, 65921, 23086, 28676, 63870], "seed": 4}
+{"pattern": ["bilgi", "ficha", "oracle", "ceo", "ficha"], "ids": [41106, 32253, 51007, 23693, 32253], "seed": 5}
+{"pattern": ["fuji", "secolul", "intel", "nfl", "telefonica"], "ids": [49525, 48780, 23086, 20461, 92404], "seed": 6}
+{"pattern": ["jogador", "\u0441\u0430\u0438\u0446\u0435", "calculation", "instructions", "\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438"], "ids": [32707, 39719, 70082, 58179, 21268], "seed": 7}
+{"pattern": ["cpu", "footage", "\u0441\u0430\u0438\u0446\u0435", "\u05de\u05e9\u05d7\u05e7\u05d9\u05dd", "\u05e9\u05dc"], "ids": [39520, 59618, 39719, 75123, 10357], "seed": 8}
+{"pattern": ["statistieken", "manufacturing", "##\u05d0\u05dc\u05d1\u05d5\u05dd", "sheets", "\u0441\u0430\u0438\u0446\u0435"], "ids": [61528, 24657, 80316, 92763, 39719], "seed": 9}

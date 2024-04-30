@@ -1,0 +1,10 @@
+{"pattern": ["targa", "kirja", "\u0430\u043a\u0448", "rasmi", "basa"], "ids": [94500, 70486, 38721, 51464, 15707], "seed": 0}
+{"pattern": ["##fusa", "\u0438\u043d\u0434\u0435\u043a\u0441\u044b", "kaupungin", "perbandaran", "tieng"], "ids": [89235, 41225, 32943, 30712, 14648], "seed": 1}
+{"pattern": ["\u0628\u0627\u0634\u0627", "vuoden", "etazini", "ethnologue", "tieng"], "ids": [71724, 14914, 28976, 37982, 14648], "seed": 2}
+{"pattern": ["site", "cithakan", "\u0448\u04d9\u04bb\u04d9\u0440", "cumuni", "masakan"], "ids": [11692, 60596, 48270, 45333, 92992], "seed": 3}
+{"pattern": ["situs", "itse", "pratelan", "##rja", "berbahasa"], "ids": [20757, 41860, 83253, 36203, 85859], "seed": 4}
+{"pattern": ["pubchem", "##duutsch", "pratelan", "knjiga", "wikang"], "ids": [48721, 77498, 83253, 23446, 42575], "seed": 5}
+{"pattern": ["publicus", "ficha", "pratelan", "nagara", "lengua"], "ids": [55947, 32253, 83253, 42734, 27203], "seed": 6}
+{"pattern": ["sejarah", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u043b\u043a\u044b\u043d", "naisten", "berbahasa"], "ids": [27736, 21115, 86931, 74968, 85859], "seed": 7}
+{"pattern": ["nila", "orbis", "cithakan", "limbi", ":"], "ids": [92829, 72318, 60596, 72326, 131], "seed": 8}
+{"pattern": ["##\u110b\u1173\u11b8", "paginam", "kutha", "database", "lingua"], "ids": [75698, 70512, 34730, 10326, 15317], "seed": 9}

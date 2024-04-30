@@ -1,0 +1,10 @@
+{"pattern": ["naciones", "reedition", "command", "perfil", "\u0441\u0430\u0438\u0446\u0435"], "ids": [38088, 73896, 15964, 52389, 39719], "seed": 0}
+{"pattern": ["rhestr", "cz\u0142onkow", "\u05e9", "mahalledir", "\u05db\u05dc\u05e4\u05d9"], "ids": [17092, 39313, 442, 73539, 65638], "seed": 1}
+{"pattern": ["\u0905\u0924\u0930\u0930\u093e\u0937\u091f\u0930\u0940\u092f", "armed", "\u062c\u0627\u0646\u0628", "\u0441\u0430\u0438\u0446\u0435", "\u0441\u0430\u0438\u0446\u0435"], "ids": [81624, 24365, 38505, 39719, 39719], "seed": 2}
+{"pattern": ["rezyserii", "arms", "organization", "websait", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74954, 19866, 14935, 69121, 39719], "seed": 3}
+{"pattern": ["rhestr", "delle", "\u043a\u0440\u0430\u0456\u043d", "membres", "##\u09ac\u09be\u09b0\u09c7\u09b0"], "ids": [17092, 10943, 32327, 16294, 82050], "seed": 4}
+{"pattern": ["membru", "diplomatic", "flag", "\u0639\u0644\u0649", "wefan"], "ids": [40254, 47407, 22814, 10648, 36772], "seed": 5}
+{"pattern": ["weapons", "nazioni", "list", "perfil", "\u0441\u0430\u0438\u0446\u0435"], "ids": [26477, 59338, 11438, 52389, 39719], "seed": 6}
+{"pattern": ["seznam", "nazioni", "svete", "harta", "anggota"], "ids": [71027, 59338, 37202, 38407, 19745], "seed": 7}
+{"pattern": ["\u043e\u0441\u043e\u0431\u0438", "pratelan", "\u0437\u0430\u0433\u0438\u043d\u0443\u0432", "sekretar", "##\u06af\u0627\u0647\u0647\u0627\u06cc"], "ids": [19486, 83253, 76010, 55169, 83842], "seed": 8}
+{"pattern": ["websait", "nazioni", "weapons", "homonimo", "\u0441\u0430\u0438\u0446\u0435"], "ids": [69121, 59338, 26477, 79980, 39719], "seed": 9}

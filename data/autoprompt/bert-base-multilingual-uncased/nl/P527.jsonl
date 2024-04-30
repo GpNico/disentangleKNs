@@ -1,0 +1,10 @@
+{"pattern": ["commons", "factbook", "photographic", "plaats", "\u8aaa"], "ids": [14197, 14829, 71535, 13053, 7860], "seed": 0}
+{"pattern": ["pagina", "\u0441\u0456\u043b", "britannica", "simbolo", "van"], "ids": [16833, 72773, 14221, 29264, 10147], "seed": 1}
+{"pattern": ["voir", "wiki", "verdeeld", "exploration", "van"], "ids": [18466, 25883, 83373, 28523, 10147], "seed": 2}
+{"pattern": ["photographic", "chrome", "commons", "atlas", "van"], "ids": [71535, 64668, 14197, 12410, 10147], "seed": 3}
+{"pattern": ["wikimedia", "cadillac", "##zicht", "eenheid", "van"], "ids": [13609, 72517, 41619, 90164, 10147], "seed": 4}
+{"pattern": ["guide", "pbs", "##vudstad", "oorsprong", "van"], "ids": [13301, 52645, 90424, 74460, 10147], "seed": 5}
+{"pattern": ["wikimedia", "##world", "photographic", "gebied", "\u0441\u0432\u0435\u0442\u043e\u0433"], "ids": [13609, 47193, 71535, 17482, 81623], "seed": 6}
+{"pattern": ["wikimedia", "\u0645\u062a\u0639\u0644\u0642", "##nahme", "database", "voor"], "ids": [13609, 63167, 29450, 10326, 10461], "seed": 7}
+{"pattern": ["pbs", "website", "over", "oorsprong", "van"], "ids": [52645, 12699, 10323, 74460, 10147], "seed": 8}
+{"pattern": ["vun", "##hood", "commons", "gjeld", "\u0c07\u0c02\u0c26\u0c41\u0c32"], "ids": [11086, 44192, 14197, 76638, 68831], "seed": 9}

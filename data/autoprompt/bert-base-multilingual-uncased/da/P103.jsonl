@@ -1,0 +1,10 @@
+{"pattern": ["musee", "\u0430\u043b\u0441\u0430\u043c\u0430", "offisiell", "liste", "\u0632\u0628\u0627\u0646"], "ids": [16483, 26800, 93352, 13593, 18694], "seed": 0}
+{"pattern": ["##\u0440\u0438\u043d\u0430", "##isjon", "wikipedia", "selles", "\u0438\u044b\u043b\u0434\u044b\u04a3"], "ids": [70959, 48910, 12834, 68741, 24927], "seed": 1}
+{"pattern": ["landsby", "websteed", "##\u0438\u0437\u0438\u0438", "##isjon", "\u1103\u116c\u1102\u1173\u11ab"], "ids": [86607, 94284, 91911, 48910, 53408], "seed": 2}
+{"pattern": ["parijs", "offisiell", "dunha", "henta", "zadne"], "ids": [37683, 93352, 27665, 21806, 70678], "seed": 3}
+{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "realisation", "\u0441\u0430\u0438\u0442", "oversatt", "fra"], "ids": [39719, 21959, 21115, 91962, 10495], "seed": 4}
+{"pattern": ["officiel", "henta", "##\u05e9\u05de\u05d4", "ffrangeg", "et"], "ids": [31692, 21806, 89847, 89763, 10137], "seed": 5}
+{"pattern": ["website", "offisiell", "\u043f\u0440\u0430\u0437", "\u0570\u0561\u0574\u0561\u0575\u0576\u0584", "fra"], "ids": [12699, 93352, 48644, 81364, 10495], "seed": 6}
+{"pattern": ["fiche", "offisiell", "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc", "ned", "-"], "ids": [56292, 93352, 83763, 15986, 118], "seed": 7}
+{"pattern": ["s\u00f8lv", "1972", "montagne", "database", "##govor"], "ids": [42106, 10766, 26799, 10326, 75739], "seed": 8}
+{"pattern": ["henta", "traduccion", "##sjon", "\u110c\u1169\u11af\u110b\u1165\u11b8\u1109\u1175\u11a8", "historisches"], "ids": [21806, 38409, 22113, 85172, 87234], "seed": 9}

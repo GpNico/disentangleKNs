@@ -1,0 +1,10 @@
+{"pattern": ["orodha", "##kka", "duma", "comunas", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [45482, 20497, 78668, 40662, 38937], "seed": 0}
+{"pattern": ["pratelan", "##\u0456\u043a\u0430", "mukaan", "komune", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [83253, 33152, 16701, 43202, 38937], "seed": 1}
+{"pattern": ["orodha", "uu", "##aa", "lugha", "bansang"], "ids": [45482, 31270, 15618, 22052, 43459], "seed": 2}
+{"pattern": ["glottolog", "\u0441\u0430\u0438\u0446\u0435", "\u043c\u0435\u043d\u0448", "valtion", "kuin"], "ids": [72555, 39719, 54700, 69331, 18194], "seed": 3}
+{"pattern": ["ika", "orodha", "hinn", "kota", "\u0634\u0647\u0631\u0647\u0627\u06cc"], "ids": [43625, 45482, 56694, 13874, 70495], "seed": 4}
+{"pattern": ["llista", "dikenal", "##dingar", "kaupunki", "\u0634\u0647\u0631\u0647\u0627\u06cc"], "ids": [31324, 23184, 81188, 38998, 70495], "seed": 5}
+{"pattern": ["hlavnim", "hilda", "resmi", "\u0634\u0647\u0631\u0647\u0627\u06cc", "\u0634\u0647\u0631\u0647\u0627\u06cc"], "ids": [52399, 69042, 20234, 70495, 70495], "seed": 6}
+{"pattern": ["identite", "##teet", "weltkrieg", "website", "republikken"], "ids": [59321, 84928, 20000, 12699, 83107], "seed": 7}
+{"pattern": ["asteroidi", "yhdysvallat", "\u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0438", "jaan", "\u064a\u0642\u0648\u0645"], "ids": [23988, 87289, 61158, 57702, 49328], "seed": 8}
+{"pattern": ["henero", "tieto", "\u0634\u0647\u0631\u0644\u0631\u06cc\u0646", "\u043a\u04cf\u043e\u0448\u0442", "hilagang"], "ids": [33707, 49507, 22449, 14257, 81883], "seed": 9}
