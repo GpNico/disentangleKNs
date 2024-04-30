@@ -1,9 +1,0 @@
-{"pattern": "La profession de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Le m\u00e9tier de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] travaille comme [Y].", "bert-base-multilingual-uncased_P@1": 0.023809523809523808}
-{"pattern": "[X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.09523809523809523}
-{"pattern": "L'occupation de [X] est un [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La profession de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La profession de [X] est un [Y].", "bert-base-multilingual-uncased_P@1": 0.007936507936507936}
-{"pattern": "La profession de Louis Laurent [X] est une [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], qui travaille comme [Y].", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}

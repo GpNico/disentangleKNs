@@ -1,7 +1,0 @@
-{"pattern": "[X] found employment in [Y] .", "bert-base-uncased_P@1": 0.246189917936694, "bert-base-multilingual-uncased_P@1": 0.2804232804232804}
-{"pattern": "[X] is employed in [Y] .", "bert-base-uncased_P@1": 0.2895662368112544, "bert-base-multilingual-uncased_P@1": 0.20634920634920634}
-{"pattern": "[X] took up work in [Y] .", "bert-base-uncased_P@1": 0.40328253223915594, "bert-base-multilingual-uncased_P@1": 0.4021164021164021}
-{"pattern": "[X] used to work in [Y] .", "bert-base-uncased_P@1": 0.3563892145369285, "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "[X] was employed in [Y] .", "bert-base-uncased_P@1": 0.43376318874560377, "bert-base-multilingual-uncased_P@1": 0.2962962962962963}
-{"pattern": "[X] worked in [Y] .", "bert-base-uncased_P@1": 0.38335287221570924, "bert-base-multilingual-uncased_P@1": 0.3439153439153439}
-{"pattern": "[X] works in [Y] .", "bert-base-uncased_P@1": 0.37631887456037516, "bert-base-multilingual-uncased_P@1": 0.24338624338624337}

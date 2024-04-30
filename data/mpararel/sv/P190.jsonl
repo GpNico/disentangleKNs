@@ -1,8 +1,0 @@
-{"pattern": "[X] har en systerstad, [Y]."}
-{"pattern": "[X] har en tvillingstad, [Y]."}
-{"pattern": "[X] \u00e4r en systerstad till [Y]."}
-{"pattern": "[X] \u00e4r en tvillingstad till [Y]."}
-{"pattern": "[X]s systerstad \u00e4r [Y]."}
-{"pattern": "[X]s tvillingstad \u00e4r [Y]."}
-{"pattern": "\u00c4r [X] systerstaden till [Y]?"}
-{"pattern": "\u00c4r [X] tvillingstaden till [Y]?"}

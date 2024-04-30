@@ -1,3 +1,0 @@
-{"pattern": "[X] se trouve \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.19540229885057472}
-{"pattern": "[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.1839080459770115}
-{"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.20689655172413793}

@@ -1,3 +1,0 @@
-{"pattern": "[X] can be found in [Y] .", "bert-base-uncased_P@1": 0.22193548387096773, "bert-base-multilingual-uncased_P@1": 0.2159090909090909}
-{"pattern": "[X] is in [Y] .", "bert-base-uncased_P@1": 0.17419354838709677, "bert-base-multilingual-uncased_P@1": 0.19886363636363635}
-{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.2503225806451613, "bert-base-multilingual-uncased_P@1": 0.25}

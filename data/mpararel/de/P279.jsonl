@@ -1,8 +1,0 @@
-{"pattern": "[X] hat die Klasse [Y]."}
-{"pattern": "[X] ist ein [Y]."}
-{"pattern": "[X] ist eine Art [Y]."}
-{"pattern": "[X] ist eine Unterklasse von [Y]."}
-{"pattern": "Ein [X] ist eine Art [Y]."}
-{"pattern": "[X] ist der Klasse [Y]."}
-{"pattern": "[X], eine Unterklasse von [Y]."}
-{"pattern": "[X], eine Art [Y]."}

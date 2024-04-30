@@ -1,8 +1,0 @@
-{"pattern": "[X] en zijn zusterstad [Y]."}
-{"pattern": "[X] en zijn tweelingstad [Y]."}
-{"pattern": "[X] heeft een zusterstad [Y]."}
-{"pattern": "[X] heeft een tweelingstad [Y]."}
-{"pattern": "[X] is een zusterstad van [Y]."}
-{"pattern": "[X] is een tweelingstad van [Y]."}
-{"pattern": "De zusterstad van [X] is [Y]."}
-{"pattern": "De tweelingstad van [X] is [Y]."}

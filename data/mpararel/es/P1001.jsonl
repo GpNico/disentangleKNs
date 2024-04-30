@@ -1,3 +1,0 @@
-{"pattern": "El [X] cuenta como un t\u00e9rmino legal en [Y].", "bert-base-multilingual-uncased_P@1": 0.8461538461538461}
-{"pattern": "[X] es un t\u00e9rmino legal en [Y].", "bert-base-multilingual-uncased_P@1": 0.7948717948717948}
-{"pattern": "[X] es un t\u00e9rmino legal v\u00e1lido en [Y].", "bert-base-multilingual-uncased_P@1": 0.8974358974358975}

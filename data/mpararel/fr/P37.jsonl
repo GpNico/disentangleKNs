@@ -1,3 +1,0 @@
-{"pattern": "Officiellement, la langue officielle \u00e0 [X] est le [Y].", "bert-base-multilingual-uncased_P@1": 0.4142857142857143}
-{"pattern": "La langue officielle \u00e0 [X] est le [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
-{"pattern": "La langue officielle de [X] est le [Y].", "bert-base-multilingual-uncased_P@1": 0.42142857142857143}

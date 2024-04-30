@@ -1,8 +1,0 @@
-{"pattern": "[X] \u00e9s la capital de [Y]."}
-{"pattern": "[X] \u00e9s la capital d'[Y]."}
-{"pattern": "[X], \u00e9s la capital de [Y]."}
-{"pattern": "[X], \u00e9s la capital d'[Y]."}
-{"pattern": "[X], la capital de [Y]."}
-{"pattern": "[X], la capital d'[Y]."}
-{"pattern": "[X] \u00e9s la capital de [Y]?"}
-{"pattern": "[X] \u00e9s la capital d'[Y]?"}

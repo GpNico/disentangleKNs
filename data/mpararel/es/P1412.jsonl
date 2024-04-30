@@ -1,3 +1,0 @@
-{"pattern": "[X] se comunic\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] es un hablante de [Y].", "bert-base-multilingual-uncased_P@1": 0.6726190476190477}
-{"pattern": "[X] hablaba [Y].", "bert-base-multilingual-uncased_P@1": 0.6428571428571429}

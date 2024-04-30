@@ -1,3 +1,0 @@
-{"pattern": "[X] est un terme l\u00e9gal en [Y].", "bert-base-multilingual-uncased_P@1": 0.23529411764705882}
-{"pattern": "[X] est un terme juridique en [Y].", "bert-base-multilingual-uncased_P@1": 0.14705882352941177}
-{"pattern": "[X] est un terme juridique valide en [Y].", "bert-base-multilingual-uncased_P@1": 0.6274509803921569}

@@ -1,3 +1,0 @@
-{"pattern": "[X] juega como [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] juega en la posici\u00f3n de [Y].", "bert-base-multilingual-uncased_P@1": 0.007751937984496124}
-{"pattern": "La posici\u00f3n de [X] es el [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
