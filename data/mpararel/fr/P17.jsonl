@@ -5,4 +5,3 @@
 {"pattern": "[X] est situ\u00e9 dans l'\u00c9tat suivant: [Y].", "bert-base-multilingual-uncased_P@1": 0.3795620437956204}
 {"pattern": "[X], situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.39416058394160586}
 {"pattern": "[X], qui est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.40875912408759124}
-{"pattern": "[X] est-il situ\u00e9 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.40145985401459855}

@@ -1,4 +1,2 @@
-{"pattern": "[X] joue au poste de [Y]."}
-{"pattern": "La position de [X] est [Y]."}
-{"pattern": "[X] joue-t-il au poste de [Y]?"}
-{"pattern": "[X] joue au [Y]?"}
+{"pattern": "[X] joue au poste de [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}
+{"pattern": "La position de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.0}

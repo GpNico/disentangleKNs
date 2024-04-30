@@ -1,11 +1,11 @@
-{"pattern": "Spr\u00e5ket i [X] \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.6931818181818182}
-{"pattern": "Spr\u00e5ket i [X] var [Y].", "bert-base-multilingual-uncased_P@1": 0.03409090909090909}
-{"pattern": "[X] \u00e4r skriven p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.7159090909090909}
-{"pattern": "[X] skrevs p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.14772727272727273}
-{"pattern": "\u00c4r [X] ett verk p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.07954545454545454}
-{"pattern": "\u00c4r [X] ett verk skrivet p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.625}
-{"pattern": "\u00c4r [X] skriven p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.4431818181818182}
-{"pattern": "Var [X] ett verk p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.03409090909090909}
-{"pattern": "Var [X] ett verk skrivet p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.5568181818181818}
-{"pattern": "Skapades [X] p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X] skriven p\u00e5 [Y]?", "bert-base-multilingual-uncased_P@1": 0.03409090909090909}
+{"pattern": "Spr\u00e5ket i [X] \u00e4r [Y]."}
+{"pattern": "Spr\u00e5ket i [X] var [Y]."}
+{"pattern": "[X] \u00e4r skriven p\u00e5 [Y]."}
+{"pattern": "[X] skrevs p\u00e5 [Y]."}
+{"pattern": "\u00c4r [X] ett verk p\u00e5 [Y]?"}
+{"pattern": "\u00c4r [X] ett verk skrivet p\u00e5 [Y]?"}
+{"pattern": "\u00c4r [X] skriven p\u00e5 [Y]?"}
+{"pattern": "Var [X] ett verk p\u00e5 [Y]?"}
+{"pattern": "Var [X] ett verk skrivet p\u00e5 [Y]?"}
+{"pattern": "Skapades [X] p\u00e5 [Y]?"}
+{"pattern": "Var [X] skriven p\u00e5 [Y]?"}

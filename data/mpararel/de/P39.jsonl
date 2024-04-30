@@ -1,33 +1,15 @@
-{"pattern": "[X] war [Y].", "bert-base-multilingual-uncased_P@1": 0.08235294117647059}
-{"pattern": "[X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.07647058823529412}
-{"pattern": "[X] ist offiziell [Y].", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
-{"pattern": "[X]s offizielle Position ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s offizielle Position war [Y].", "bert-base-multilingual-uncased_P@1": 0.011764705882352941}
-{"pattern": "[X]s offizielle Rolle ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s offizielle Rolle war [Y].", "bert-base-multilingual-uncased_P@1": 0.011764705882352941}
-{"pattern": "[X]s Position ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s Position war [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s \u00f6ffentliche Position ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s \u00f6ffentliche Position war [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s \u00f6ffentliche Rolle ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s \u00f6ffentliche Rolle war [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s Rolle ist [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s Rolle war [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.041176470588235294}
-{"pattern": "Ist [X]s offizielle Position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X] offiziell [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X]s offizielle Rolle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X] der [Y]?", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
-{"pattern": "Ist [X]s \u00f6ffentliche Position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X] \u00f6ffentlich [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X]s \u00f6ffentliche Rolle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Ist [X]s Rolle ein [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X]s offizielle Position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X] offiziell [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X]s offizielle Rolle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X]s Position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0058823529411764705}
-{"pattern": "War [X]s \u00f6ffentliche Position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X] in der \u00d6ffentlichkeit [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X]s \u00f6ffentliche Rolle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X]s Rolle der [Y]?", "bert-base-multilingual-uncased_P@1": 0.06470588235294118}
+{"pattern": "[X] war [Y]."}
+{"pattern": "[X] ist [Y]."}
+{"pattern": "[X] ist offiziell [Y]."}
+{"pattern": "[X]s offizielle Position ist [Y]."}
+{"pattern": "[X]s offizielle Position war [Y]."}
+{"pattern": "[X]s offizielle Rolle ist [Y]."}
+{"pattern": "[X]s offizielle Rolle war [Y]."}
+{"pattern": "[X]s Position ist [Y]."}
+{"pattern": "[X]s Position war [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Position ist [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Position war [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Rolle ist [Y]."}
+{"pattern": "[X]s \u00f6ffentliche Rolle war [Y]."}
+{"pattern": "[X]s Rolle ist [Y]."}
+{"pattern": "[X]s Rolle war [Y]."}

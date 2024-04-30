@@ -1,28 +1,28 @@
-{"pattern": "[X] \u00e9s un producte de [Y].", "bert-base-multilingual-uncased_P@1": 0.8666666666666667}
-{"pattern": "[X] \u00e9s creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111}
-{"pattern": "[X] \u00e9s desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X] \u00e9s produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111}
-{"pattern": "[X] va ser creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X] va ser desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8666666666666667}
-{"pattern": "[X] va ser produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X], un producte creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X], un producte desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111}
-{"pattern": "[X], un producte fabricat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X], un producte de [Y].", "bert-base-multilingual-uncased_P@1": 0.7333333333333333}
-{"pattern": "[X], creat per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X], desenvolupat per [Y].", "bert-base-multilingual-uncased_P@1": 0.9111111111111111}
-{"pattern": "[X], produ\u00eft per [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "El [X] \u00e9s un producte creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "El [X] \u00e9s un producte desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "El [X] \u00e9s un producte fabricat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "El [X] \u00e9s un producte de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5777777777777777}
-{"pattern": "El [X] \u00e9s creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.26666666666666666}
-{"pattern": "El [X] \u00e9s desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8666666666666667}
-{"pattern": "El [X] \u00e9s produ\u00eft per [Y]?", "bert-base-multilingual-uncased_P@1": 0.5111111111111111}
-{"pattern": "El [X] va ser un producte creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X] era un producte desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "El [X] era un producte fabricat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.9111111111111111}
-{"pattern": "El [X] era un producte de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5777777777777777}
-{"pattern": "El [X] va ser creat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.06666666666666667}
-{"pattern": "El [X] va ser desenvolupat per [Y]?", "bert-base-multilingual-uncased_P@1": 0.7111111111111111}
-{"pattern": "El [X] va ser produ\u00eft per [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
+{"pattern": "[X] \u00e9s un producte de [Y]."}
+{"pattern": "[X] \u00e9s creat per [Y]."}
+{"pattern": "[X] \u00e9s desenvolupat per [Y]."}
+{"pattern": "[X] \u00e9s produ\u00eft per [Y]."}
+{"pattern": "[X] va ser creat per [Y]."}
+{"pattern": "[X] va ser desenvolupat per [Y]."}
+{"pattern": "[X] va ser produ\u00eft per [Y]."}
+{"pattern": "[X], un producte creat per [Y]."}
+{"pattern": "[X], un producte desenvolupat per [Y]."}
+{"pattern": "[X], un producte fabricat per [Y]."}
+{"pattern": "[X], un producte de [Y]."}
+{"pattern": "[X], creat per [Y]."}
+{"pattern": "[X], desenvolupat per [Y]."}
+{"pattern": "[X], produ\u00eft per [Y]."}
+{"pattern": "El [X] \u00e9s un producte creat per [Y]?"}
+{"pattern": "El [X] \u00e9s un producte desenvolupat per [Y]?"}
+{"pattern": "El [X] \u00e9s un producte fabricat per [Y]?"}
+{"pattern": "El [X] \u00e9s un producte de [Y]?"}
+{"pattern": "El [X] \u00e9s creat per [Y]?"}
+{"pattern": "El [X] \u00e9s desenvolupat per [Y]?"}
+{"pattern": "El [X] \u00e9s produ\u00eft per [Y]?"}
+{"pattern": "El [X] va ser un producte creat per [Y]?"}
+{"pattern": "[X] era un producte desenvolupat per [Y]?"}
+{"pattern": "El [X] era un producte fabricat per [Y]?"}
+{"pattern": "El [X] era un producte de [Y]?"}
+{"pattern": "El [X] va ser creat per [Y]?"}
+{"pattern": "El [X] va ser desenvolupat per [Y]?"}
+{"pattern": "El [X] va ser produ\u00eft per [Y]?"}

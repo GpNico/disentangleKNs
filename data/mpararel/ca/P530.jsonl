@@ -1,13 +1,13 @@
-{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.011494252873563218}
-{"pattern": "La [X] t\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.028735632183908046}
-{"pattern": "[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "La [X] mant\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.040229885057471264}
-{"pattern": "L'[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.028735632183908046}
-{"pattern": "[X] estableix relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X], que t\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X], que mant\u00e9 relacions diplom\u00e0tiques amb [Y].", "bert-base-multilingual-uncased_P@1": 0.022988505747126436}
-{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "L'[X] t\u00e9 relacions diplom\u00e0tiques amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb el [Y]?", "bert-base-multilingual-uncased_P@1": 0.028735632183908046}
-{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
+{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "La [X] t\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "La [X] mant\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "L'[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "[X] estableix relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "[X], que t\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "[X], que mant\u00e9 relacions diplom\u00e0tiques amb [Y]."}
+{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb [Y]?"}
+{"pattern": "L'[X] t\u00e9 relacions diplom\u00e0tiques amb [Y]?"}
+{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb el [Y]?"}
+{"pattern": "[X] t\u00e9 relacions diplom\u00e0tiques amb l'[Y]?"}
+{"pattern": "[X] mant\u00e9 relacions diplom\u00e0tiques amb [Y]?"}

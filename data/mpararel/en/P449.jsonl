@@ -1,16 +1,8 @@
-{"pattern": "[X] debuted on [Y] .", "bert-base-multilingual-uncased_P@1": 0.11695906432748537}
-{"pattern": "[X] is to debut on [Y] .", "bert-base-multilingual-uncased_P@1": 0.08187134502923976}
-{"pattern": "[X] premiered on [Y] .", "bert-base-multilingual-uncased_P@1": 0.22807017543859648}
-{"pattern": "[X] premieres on [Y] .", "bert-base-multilingual-uncased_P@1": 0.14035087719298245}
-{"pattern": "[X] was aired on [Y] .", "bert-base-multilingual-uncased_P@1": 0.3508771929824561}
-{"pattern": "[X] was originally aired on [Y] .", "bert-base-multilingual-uncased_P@1": 0.34502923976608185}
-{"pattern": "[X] was originally shown on [Y] .", "bert-base-multilingual-uncased_P@1": 0.29239766081871343}
-{"pattern": "[X] was released on [Y] .", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Did [X] debut on [Y]?", "bert-base-multilingual-uncased_P@1": 0.1286549707602339}
-{"pattern": "Did [X] premiere on [Y]?", "bert-base-multilingual-uncased_P@1": 0.16374269005847952}
-{"pattern": "Does [X] premiere on [Y]?", "bert-base-multilingual-uncased_P@1": 0.13450292397660818}
-{"pattern": "Is [X] to debut on [Y]?", "bert-base-multilingual-uncased_P@1": 0.12280701754385964}
-{"pattern": "Was [X] aired on [Y]?", "bert-base-multilingual-uncased_P@1": 0.3508771929824561}
-{"pattern": "Was [X] originally aired on [Y]?", "bert-base-multilingual-uncased_P@1": 0.22807017543859648}
-{"pattern": "Was [X] originally shown on [Y]?", "bert-base-multilingual-uncased_P@1": 0.18128654970760233}
-{"pattern": "Was [X] released on [Y]?", "bert-base-multilingual-uncased_P@1": 0.011695906432748537}
+{"pattern": "[X] debuted on [Y] .", "bert-base-uncased_P@1": 0.22524752475247525, "bert-base-multilingual-uncased_P@1": 0.11695906432748537}
+{"pattern": "[X] is to debut on [Y] .", "bert-base-uncased_P@1": 0.09158415841584158, "bert-base-multilingual-uncased_P@1": 0.08187134502923976}
+{"pattern": "[X] premiered on [Y] .", "bert-base-uncased_P@1": 0.29207920792079206, "bert-base-multilingual-uncased_P@1": 0.22807017543859648}
+{"pattern": "[X] premieres on [Y] .", "bert-base-uncased_P@1": 0.18935643564356436, "bert-base-multilingual-uncased_P@1": 0.14035087719298245}
+{"pattern": "[X] was aired on [Y] .", "bert-base-uncased_P@1": 0.3774752475247525, "bert-base-multilingual-uncased_P@1": 0.34502923976608185}
+{"pattern": "[X] was originally aired on [Y] .", "bert-base-uncased_P@1": 0.38613861386138615, "bert-base-multilingual-uncased_P@1": 0.34502923976608185}
+{"pattern": "[X] was originally shown on [Y] .", "bert-base-uncased_P@1": 0.15965346534653466, "bert-base-multilingual-uncased_P@1": 0.29239766081871343}
+{"pattern": "[X] was released on [Y] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.0}

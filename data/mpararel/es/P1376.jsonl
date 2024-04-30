@@ -4,5 +4,3 @@
 {"pattern": "[X], que es la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.6764705882352942}
 {"pattern": "[X], la capital de [Y].", "bert-base-multilingual-uncased_P@1": 0.7058823529411765}
 {"pattern": "[X], la capital de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] es la capital de [Y]?", "bert-base-multilingual-uncased_P@1": 0.5588235294117647}
-{"pattern": "\u00bf[X] es la capital de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.14705882352941177}

@@ -1,11 +1,11 @@
-{"pattern": "[X] e la sua citt\u00e0 gemella [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] ha una citt\u00e0 gemella, [Y].", "bert-base-multilingual-uncased_P@1": 0.013071895424836602}
-{"pattern": "[X] ha la citt\u00e0 gemella [Y].", "bert-base-multilingual-uncased_P@1": 0.006535947712418301}
-{"pattern": "[X] \u00e8 una citt\u00e0 gemella di [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] \u00e8 una citt\u00e0 gemella delle [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La citt\u00e0 gemella di [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.0196078431372549}
-{"pattern": "La citt\u00e0 gemella degli [X] \u00e8 [Y].", "bert-base-multilingual-uncased_P@1": 0.013071895424836602}
-{"pattern": "[X] \u00e8 una citt\u00e0 gemella di [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] e' una citta' gemella di [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e8 la citt\u00e0 gemella di [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] e' la citta' gemella delle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] e la sua citt\u00e0 gemella [Y]."}
+{"pattern": "[X] ha una citt\u00e0 gemella, [Y]."}
+{"pattern": "[X] ha la citt\u00e0 gemella [Y]."}
+{"pattern": "[X] \u00e8 una citt\u00e0 gemella di [Y]."}
+{"pattern": "La [X] \u00e8 una citt\u00e0 gemella delle [Y]."}
+{"pattern": "La citt\u00e0 gemella di [X] \u00e8 [Y]."}
+{"pattern": "La citt\u00e0 gemella degli [X] \u00e8 [Y]."}
+{"pattern": "[X] \u00e8 una citt\u00e0 gemella di [Y]?"}
+{"pattern": "[X] e' una citta' gemella di [Y]?"}
+{"pattern": "[X] \u00e8 la citt\u00e0 gemella di [Y]?"}
+{"pattern": "La [X] e' la citta' gemella delle [Y]?"}

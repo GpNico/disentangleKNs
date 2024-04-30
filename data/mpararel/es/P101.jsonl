@@ -10,6 +10,3 @@
 {"pattern": "El dominio de trabajo de [X] es el [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "La experiencia de [X] es el [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "La experiencia de [X] es en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] es especialista en [Y]?", "bert-base-multilingual-uncased_P@1": 0.11711711711711711}
-{"pattern": "\u00bf[X] trabaja en el \u00e1rea de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.06306306306306306}
-{"pattern": "\u00bfEs la experiencia de [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.04504504504504504}

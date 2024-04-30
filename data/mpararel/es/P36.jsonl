@@ -5,4 +5,4 @@
 {"pattern": "La capital del condado de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.5648148148148148}
 {"pattern": "La capital de la [X], [Y].", "bert-base-multilingual-uncased_P@1": 0.4351851851851852}
 {"pattern": "[X], que tiene la capital [Y].", "bert-base-multilingual-uncased_P@1": 0.25925925925925924}
-{"pattern": "[X], que tiene la ciudad capital [Y].", "bert-base-multilingual-uncased_P@1": 0.23148148148148148}
+{"pattern": "[X], que tiene la ciudad capital [Y].", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}

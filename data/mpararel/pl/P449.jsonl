@@ -1,16 +1,16 @@
-{"pattern": "[X] zadebiutowa\u0142 na [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X] zadebiutuje na [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X] mia\u0142 premier\u0119 na [Y].", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "[X] premier\u0119 na [Y].", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "[X] emitowano na [Y].", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "[X] pierwotnie emitowano na [Y].", "bert-base-multilingual-uncased_P@1": 0.06896551724137931}
-{"pattern": "[X] zosta\u0142 pierwotnie pokazany na [Y].", "bert-base-multilingual-uncased_P@1": 0.017241379310344827}
-{"pattern": "[X] zosta\u0142 wydany na [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zadebiutowa\u0142 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] mia\u0142 premier\u0119 na [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "Czy [X] ma premier\u0119 na [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zadebiutuje na [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "Czy [X] by\u0142 emitowany na [Y]?", "bert-base-multilingual-uncased_P@1": 0.1724137931034483}
-{"pattern": "Czy \"[X]\" pierwotnie emitowano na [Y]?", "bert-base-multilingual-uncased_P@1": 0.15517241379310345}
-{"pattern": "Czy [X] by\u0142 pierwotnie pokazywany na [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "[X] by\u0142o emitowane przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.08620689655172414}
+{"pattern": "[X] zadebiutowa\u0142 na [Y]."}
+{"pattern": "[X] zadebiutuje na [Y]."}
+{"pattern": "[X] mia\u0142 premier\u0119 na [Y]."}
+{"pattern": "[X] premier\u0119 na [Y]."}
+{"pattern": "[X] emitowano na [Y]."}
+{"pattern": "[X] pierwotnie emitowano na [Y]."}
+{"pattern": "[X] zosta\u0142 pierwotnie pokazany na [Y]."}
+{"pattern": "[X] zosta\u0142 wydany na [Y]."}
+{"pattern": "Czy [X] zadebiutowa\u0142 w [Y]?"}
+{"pattern": "Czy [X] mia\u0142 premier\u0119 na [Y]?"}
+{"pattern": "Czy [X] ma premier\u0119 na [Y]?"}
+{"pattern": "Czy [X] zadebiutuje na [Y]?"}
+{"pattern": "Czy [X] by\u0142 emitowany na [Y]?"}
+{"pattern": "Czy \"[X]\" pierwotnie emitowano na [Y]?"}
+{"pattern": "Czy [X] by\u0142 pierwotnie pokazywany na [Y]?"}
+{"pattern": "[X] by\u0142o emitowane przez [Y]?"}

@@ -1,8 +1,8 @@
-{"pattern": "Hovedstaden i [X] er [Y].", "bert-base-multilingual-uncased_P@1": 0.7160493827160493}
-{"pattern": "[X]s hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.691358024691358}
-{"pattern": "[X]'s hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.7160493827160493}
-{"pattern": "[X]s hovedstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.35802469135802467}
-{"pattern": "[X] hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.691358024691358}
-{"pattern": "[X]'s hovedstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.345679012345679}
-{"pattern": "[X], som har hovedstaden [Y].", "bert-base-multilingual-uncased_P@1": 0.5679012345679012}
-{"pattern": "[X], hvis hovedstad er [Y].", "bert-base-multilingual-uncased_P@1": 0.7037037037037037}
+{"pattern": "Hovedstaden i [X] er [Y]."}
+{"pattern": "[X]s hovedstad er [Y]."}
+{"pattern": "[X]'s hovedstad er [Y]."}
+{"pattern": "[X]s hovedstad, [Y]."}
+{"pattern": "[X] hovedstad er [Y]."}
+{"pattern": "[X]'s hovedstad, [Y]."}
+{"pattern": "[X], som har hovedstaden [Y]."}
+{"pattern": "[X], hvis hovedstad er [Y]."}

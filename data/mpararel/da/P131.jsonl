@@ -1,6 +1,6 @@
-{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
-{"pattern": "[X] er i [Y].", "bert-base-multilingual-uncased_P@1": 0.07142857142857142}
-{"pattern": "[X] County ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.03571428571428571}
-{"pattern": "Kan [X] findes i [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
-{"pattern": "Er [X] beliggende i [Y]?", "bert-base-multilingual-uncased_P@1": 0.07142857142857142}
+{"pattern": "[X] ligger i [Y]."}
+{"pattern": "[X] er i [Y]."}
+{"pattern": "[X] County ligger i [Y]."}
+{"pattern": "Kan [X] findes i [Y]?"}
+{"pattern": "Er [X] i [Y]?"}
+{"pattern": "Er [X] beliggende i [Y]?"}

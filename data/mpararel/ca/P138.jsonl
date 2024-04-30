@@ -1,21 +1,21 @@
-{"pattern": "L'[X] porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
-{"pattern": "[X] porta el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.075}
-{"pattern": "El [X] porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.475}
-{"pattern": "L'[X] va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
-{"pattern": "El [X] va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.425}
-{"pattern": "[X] va rebre el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.05}
-{"pattern": "[X], anomenat aix\u00ed per [Y].", "bert-base-multilingual-uncased_P@1": 0.025}
-{"pattern": "L'[X], anomenat aix\u00ed en honor a [Y].", "bert-base-multilingual-uncased_P@1": 0.4}
-{"pattern": "L'[X], anomenat aix\u00ed per [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "L'[X], que porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525}
-{"pattern": "[X], que porta el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.55}
-{"pattern": "[X], que porta el nom d'[Y].", "bert-base-multilingual-uncased_P@1": 0.125}
-{"pattern": "[X], que va ser anomenat despr\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.375}
-{"pattern": "[X], que va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525}
-{"pattern": "L'[X], que va rebre el nom de [Y].", "bert-base-multilingual-uncased_P@1": 0.525}
-{"pattern": "L'[X] porta el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.075}
-{"pattern": "El [X] porta el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.05}
-{"pattern": "[X] porta el nom d'[Y]?", "bert-base-multilingual-uncased_P@1": 0.05}
-{"pattern": "[X] va rebre el nom del [Y]?", "bert-base-multilingual-uncased_P@1": 0.025}
-{"pattern": "El [X] va rebre el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1}
-{"pattern": "L'[X] va rebre el nom de [Y]?", "bert-base-multilingual-uncased_P@1": 0.05}
+{"pattern": "L'[X] porta el nom de [Y]."}
+{"pattern": "[X] porta el nom d'[Y]."}
+{"pattern": "El [X] porta el nom de [Y]."}
+{"pattern": "L'[X] va rebre el nom de [Y]."}
+{"pattern": "El [X] va rebre el nom de [Y]."}
+{"pattern": "[X] va rebre el nom d'[Y]."}
+{"pattern": "[X], anomenat aix\u00ed per [Y]."}
+{"pattern": "L'[X], anomenat aix\u00ed en honor a [Y]."}
+{"pattern": "L'[X], anomenat aix\u00ed per [Y]."}
+{"pattern": "L'[X], que porta el nom de [Y]."}
+{"pattern": "[X], que porta el nom de [Y]."}
+{"pattern": "[X], que porta el nom d'[Y]."}
+{"pattern": "[X], que va ser anomenat despr\u00e9s de [Y]."}
+{"pattern": "[X], que va rebre el nom de [Y]."}
+{"pattern": "L'[X], que va rebre el nom de [Y]."}
+{"pattern": "L'[X] porta el nom de [Y]?"}
+{"pattern": "El [X] porta el nom de [Y]?"}
+{"pattern": "[X] porta el nom d'[Y]?"}
+{"pattern": "[X] va rebre el nom del [Y]?"}
+{"pattern": "El [X] va rebre el nom de [Y]?"}
+{"pattern": "L'[X] va rebre el nom de [Y]?"}

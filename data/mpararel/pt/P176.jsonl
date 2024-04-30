@@ -1,28 +1,28 @@
-{"pattern": "O [X] \u00e9 um produto da [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "O [X] \u00e9 criado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "O [X] \u00e9 desenvolvido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "O [X] \u00e9 produzido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "O [X] foi criado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "O [X] foi desenvolvido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "O [X] foi produzido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "[X], um produto criado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "[X], um produto desenvolvido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "[X], um produto fabricado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.9016393442622951}
-{"pattern": "[X], um produto da [Y].", "bert-base-multilingual-uncased_P@1": 0.8934426229508197}
-{"pattern": "[X], criado pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8442622950819673}
-{"pattern": "[X], desenvolvido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "[X], produzido pela [Y].", "bert-base-multilingual-uncased_P@1": 0.8770491803278688}
-{"pattern": "O [X] \u00e9 um produto criado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.860655737704918}
-{"pattern": "O [X] \u00e9 um produto desenvolvido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.8688524590163934}
-{"pattern": "O [X] \u00e9 um produto fabricado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "O [X] \u00e9 um produto da [Y]?", "bert-base-multilingual-uncased_P@1": 0.7459016393442623}
-{"pattern": "O [X] \u00e9 criado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.5}
-{"pattern": "O [X] \u00e9 desenvolvido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.7213114754098361}
-{"pattern": "O [X] \u00e9 produzido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.8114754098360656}
-{"pattern": "O [X] foi um produto criado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.860655737704918}
-{"pattern": "O [X] foi um produto desenvolvido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.8770491803278688}
-{"pattern": "O [X] era um produto fabricado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.8852459016393442}
-{"pattern": "O [X] era um produto da [Y]?", "bert-base-multilingual-uncased_P@1": 0.8524590163934426}
-{"pattern": "O [X] foi criado pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.5081967213114754}
-{"pattern": "O [X] foi desenvolvido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.5901639344262295}
-{"pattern": "O [X] foi produzido pela [Y]?", "bert-base-multilingual-uncased_P@1": 0.7950819672131147}
+{"pattern": "O [X] \u00e9 um produto da [Y]."}
+{"pattern": "O [X] \u00e9 criado pela [Y]."}
+{"pattern": "O [X] \u00e9 desenvolvido pela [Y]."}
+{"pattern": "O [X] \u00e9 produzido pela [Y]."}
+{"pattern": "O [X] foi criado pela [Y]."}
+{"pattern": "O [X] foi desenvolvido pela [Y]."}
+{"pattern": "O [X] foi produzido pela [Y]."}
+{"pattern": "[X], um produto criado pela [Y]."}
+{"pattern": "[X], um produto desenvolvido pela [Y]."}
+{"pattern": "[X], um produto fabricado pela [Y]."}
+{"pattern": "[X], um produto da [Y]."}
+{"pattern": "[X], criado pela [Y]."}
+{"pattern": "[X], desenvolvido pela [Y]."}
+{"pattern": "[X], produzido pela [Y]."}
+{"pattern": "O [X] \u00e9 um produto criado pela [Y]?"}
+{"pattern": "O [X] \u00e9 um produto desenvolvido pela [Y]?"}
+{"pattern": "O [X] \u00e9 um produto fabricado pela [Y]?"}
+{"pattern": "O [X] \u00e9 um produto da [Y]?"}
+{"pattern": "O [X] \u00e9 criado pela [Y]?"}
+{"pattern": "O [X] \u00e9 desenvolvido pela [Y]?"}
+{"pattern": "O [X] \u00e9 produzido pela [Y]?"}
+{"pattern": "O [X] foi um produto criado pela [Y]?"}
+{"pattern": "O [X] foi um produto desenvolvido pela [Y]?"}
+{"pattern": "O [X] era um produto fabricado pela [Y]?"}
+{"pattern": "O [X] era um produto da [Y]?"}
+{"pattern": "O [X] foi criado pela [Y]?"}
+{"pattern": "O [X] foi desenvolvido pela [Y]?"}
+{"pattern": "O [X] foi produzido pela [Y]?"}

@@ -1,11 +1,11 @@
-{"pattern": "[X]s f\u00f6delseort \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.1794871794871795}
-{"pattern": "[X] f\u00f6ddes i [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
-{"pattern": "[X] \u00e4r f\u00f6dd i [Y].", "bert-base-multilingual-uncased_P@1": 0.11965811965811966}
-{"pattern": "[X] \u00e4r ursprungligen fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] h\u00e4rstammar fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.05982905982905983}
-{"pattern": "[X] kommer fr\u00e5n [Y].", "bert-base-multilingual-uncased_P@1": 0.09401709401709402}
-{"pattern": "Kom [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.06837606837606838}
-{"pattern": "Kommer [X] fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "\u00c4r [X] f\u00f6dd i [Y]?", "bert-base-multilingual-uncased_P@1": 0.042735042735042736}
-{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?", "bert-base-multilingual-uncased_P@1": 0.02564102564102564}
-{"pattern": "Var [X] f\u00f6dd i [Y]?", "bert-base-multilingual-uncased_P@1": 0.1452991452991453}
+{"pattern": "[X]s f\u00f6delseort \u00e4r [Y]."}
+{"pattern": "[X] f\u00f6ddes i [Y]."}
+{"pattern": "[X] \u00e4r f\u00f6dd i [Y]."}
+{"pattern": "[X] \u00e4r ursprungligen fr\u00e5n [Y]."}
+{"pattern": "[X] h\u00e4rstammar fr\u00e5n [Y]."}
+{"pattern": "[X] kommer fr\u00e5n [Y]."}
+{"pattern": "Kom [X] fr\u00e5n [Y]?"}
+{"pattern": "Kommer [X] fr\u00e5n [Y]?"}
+{"pattern": "\u00c4r [X] f\u00f6dd i [Y]?"}
+{"pattern": "\u00c4r [X] ursprungligen fr\u00e5n [Y]?"}
+{"pattern": "Var [X] f\u00f6dd i [Y]?"}

@@ -1,16 +1,10 @@
-{"pattern": "[X] kam aus [Y].", "bert-base-multilingual-uncased_P@1": 0.30701754385964913}
-{"pattern": "[X] kommt aus [Y].", "bert-base-multilingual-uncased_P@1": 0.34210526315789475}
-{"pattern": "[X] ist aus [Y].", "bert-base-multilingual-uncased_P@1": 0.19298245614035087}
-{"pattern": "[X] stammt aus [Y].", "bert-base-multilingual-uncased_P@1": 0.2894736842105263}
-{"pattern": "[X] war aus [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
-{"pattern": "[X], erstellt in [Y].", "bert-base-multilingual-uncased_P@1": 0.21929824561403508}
-{"pattern": "[X], entwickelt in [Y].", "bert-base-multilingual-uncased_P@1": 0.2631578947368421}
-{"pattern": "[X], formuliert in [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
-{"pattern": "[X], aus [Y].", "bert-base-multilingual-uncased_P@1": 0.008771929824561403}
-{"pattern": "[X], das stammt aus [Y].", "bert-base-multilingual-uncased_P@1": 0.2894736842105263}
-{"pattern": "Kommt [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.19298245614035087}
-{"pattern": "Stammt [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.15789473684210525}
-{"pattern": "Kommt das [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.11403508771929824}
-{"pattern": "Entstanden [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.22807017543859648}
-{"pattern": "Ist [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.10526315789473684}
-{"pattern": "War [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.21052631578947367}
+{"pattern": "[X] kam aus [Y]."}
+{"pattern": "[X] kommt aus [Y]."}
+{"pattern": "[X] ist aus [Y]."}
+{"pattern": "[X] stammt aus [Y]."}
+{"pattern": "[X] war aus [Y]."}
+{"pattern": "[X], erstellt in [Y]."}
+{"pattern": "[X], entwickelt in [Y]."}
+{"pattern": "[X], formuliert in [Y]."}
+{"pattern": "[X], aus [Y]."}
+{"pattern": "[X], das stammt aus [Y]."}

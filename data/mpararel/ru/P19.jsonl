@@ -1,10 +1,10 @@
-{"pattern": "\u0420\u043e\u0434\u0438\u043d\u043e\u0439 [X] \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
-{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f [X] - [Y].", "bert-base-multilingual-uncased_P@1": 0.08823529411764706}
-{"pattern": "[X] \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
-{"pattern": "[X] \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u0431\u044b\u043b \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
-{"pattern": "\u0420\u043e\u0434\u0438\u043d\u043e\u0439 [X]\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f [Y].", "bert-base-multilingual-uncased_P@1": 0.058823529411764705}
-{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f [X]\u0430 - [Y].", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
-{"pattern": "[X] \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
-{"pattern": "[X] \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]?", "bert-base-multilingual-uncased_P@1": 0.029411764705882353}
+{"pattern": "\u0420\u043e\u0434\u0438\u043d\u043e\u0439 [X] \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f [Y]."}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f [X] - [Y]."}
+{"pattern": "[X] \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]."}
+{"pattern": "[X] \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432 [Y]."}
+{"pattern": "[X] \u0431\u044b\u043b \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]."}
+{"pattern": "\u0420\u043e\u0434\u0438\u043d\u043e\u0439 [X]\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f [Y]."}
+{"pattern": "\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f [X]\u0430 - [Y]."}
+{"pattern": "[X] \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]?"}
+{"pattern": "[X] \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432 [Y]?"}
+{"pattern": "[X], \u0440\u043e\u0434\u043e\u043c \u0438\u0437 [Y]?"}

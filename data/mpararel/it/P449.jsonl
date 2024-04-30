@@ -1,16 +1,16 @@
-{"pattern": "[X] ha debuttato sulla [Y].", "bert-base-multilingual-uncased_P@1": 0.05154639175257732}
-{"pattern": "[X] debutta su [Y].", "bert-base-multilingual-uncased_P@1": 0.010309278350515464}
-{"pattern": "[X] ha debuttato su [Y].", "bert-base-multilingual-uncased_P@1": 0.020618556701030927}
-{"pattern": "[X] in anteprima su [Y].", "bert-base-multilingual-uncased_P@1": 0.020618556701030927}
-{"pattern": "[X] \u00e8 stato trasmesso su [Y].", "bert-base-multilingual-uncased_P@1": 0.16494845360824742}
-{"pattern": "[X] \u00e8 stato originariamente trasmesso dalla [Y].", "bert-base-multilingual-uncased_P@1": 0.13402061855670103}
-{"pattern": "[X] \u00e8 stato originariamente trasmesso su [Y].", "bert-base-multilingual-uncased_P@1": 0.1958762886597938}
-{"pattern": "[X] \u00e8 stato pubblicato su [Y].", "bert-base-multilingual-uncased_P@1": 0.010309278350515464}
-{"pattern": "[X] ha debuttato sulla [Y]?", "bert-base-multilingual-uncased_P@1": 0.010309278350515464}
-{"pattern": "[X] e' stato presentato in anteprima sulla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] ha la prima su [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] debutta su [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] e' stato trasmesso dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.030927835051546393}
-{"pattern": "[X] e' stato trasmesso originariamente dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.020618556701030927}
-{"pattern": "[X] \u00e8 stato originariamente trasmesso dalla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] e' uscito sulla [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] ha debuttato sulla [Y]."}
+{"pattern": "[X] debutta su [Y]."}
+{"pattern": "[X] ha debuttato su [Y]."}
+{"pattern": "[X] in anteprima su [Y]."}
+{"pattern": "[X] \u00e8 stato trasmesso su [Y]."}
+{"pattern": "[X] \u00e8 stato originariamente trasmesso dalla [Y]."}
+{"pattern": "[X] \u00e8 stato originariamente trasmesso su [Y]."}
+{"pattern": "[X] \u00e8 stato pubblicato su [Y]."}
+{"pattern": "[X] ha debuttato sulla [Y]?"}
+{"pattern": "[X] e' stato presentato in anteprima sulla [Y]?"}
+{"pattern": "[X] ha la prima su [Y]?"}
+{"pattern": "[X] debutta su [Y]?"}
+{"pattern": "[X] e' stato trasmesso dalla [Y]?"}
+{"pattern": "[X] e' stato trasmesso originariamente dalla [Y]?"}
+{"pattern": "[X] \u00e8 stato originariamente trasmesso dalla [Y]?"}
+{"pattern": "[X] e' uscito sulla [Y]?"}

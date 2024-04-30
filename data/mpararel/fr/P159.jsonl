@@ -1,5 +1,5 @@
 {"pattern": "Le si\u00e8ge de [X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
-{"pattern": "Le si\u00e8ge de [X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
+{"pattern": "Le si\u00e8ge de [X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
 {"pattern": "Le si\u00e8ge de l'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
 {"pattern": "Le si\u00e8ge de l'[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.2875}
 {"pattern": "[X] est bas\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.3375}
@@ -7,11 +7,3 @@
 {"pattern": "[X] est situ\u00e9 \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.35}
 {"pattern": "Le si\u00e8ge d'[X] est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
 {"pattern": "[X], dont le si\u00e8ge est \u00e0 [Y].", "bert-base-multilingual-uncased_P@1": 0.29375}
-{"pattern": "Le si\u00e8ge de [X] est \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.1875}
-{"pattern": "Le si\u00e8ge de [X] est-il \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.2375}
-{"pattern": "Le si\u00e8ge de [X] est-il situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.325}
-{"pattern": "[X] est bas\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.25625}
-{"pattern": "L'[X] a-t-elle son si\u00e8ge \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.31875}
-{"pattern": "[X] est situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.09375}
-{"pattern": "Le si\u00e8ge de l'[X] est-il \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.25}
-{"pattern": "Le si\u00e8ge de l'[X] est-il situ\u00e9 \u00e0 [Y]?", "bert-base-multilingual-uncased_P@1": 0.3125}

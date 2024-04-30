@@ -1,19 +1,14 @@
-{"pattern": "[X] werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.1079136690647482}
-{"pattern": "[X] is ontstaan in [Y].", "bert-base-multilingual-uncased_P@1": 0.050359712230215826}
-{"pattern": "[X] begon in [Y].", "bert-base-multilingual-uncased_P@1": 0.03597122302158273}
-{"pattern": "[X] die werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.10071942446043165}
-{"pattern": "[X] is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.07194244604316546}
-{"pattern": "[X] Lagonda werd opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.03597122302158273}
-{"pattern": "[X] werden opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.1079136690647482}
-{"pattern": "[X] werd gestart in [Y].", "bert-base-multilingual-uncased_P@1": 0.06474820143884892}
-{"pattern": "[X], gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.04316546762589928}
-{"pattern": "[X], opgericht in [Y].", "bert-base-multilingual-uncased_P@1": 0.09352517985611511}
-{"pattern": "[X], dat is ontstaan in [Y].", "bert-base-multilingual-uncased_P@1": 0.08633093525179857}
-{"pattern": "[X], dat is gemaakt in [Y].", "bert-base-multilingual-uncased_P@1": 0.09352517985611511}
-{"pattern": "[X], dat werd gevormd in [Y].", "bert-base-multilingual-uncased_P@1": 0.07194244604316546}
-{"pattern": "[X], dat is begonnen in [Y].", "bert-base-multilingual-uncased_P@1": 0.05755395683453238}
-{"pattern": "Is [X] gevormd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.007194244604316547}
-{"pattern": "Kwam [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Is [X] begonnen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.014388489208633094}
-{"pattern": "Is [X] opgericht in [Y]?", "bert-base-multilingual-uncased_P@1": 0.02158273381294964}
-{"pattern": "Werd [X] opgericht in [Y]?", "bert-base-multilingual-uncased_P@1": 0.06474820143884892}
+{"pattern": "[X] werd opgericht in [Y]."}
+{"pattern": "[X] is ontstaan in [Y]."}
+{"pattern": "[X] begon in [Y]."}
+{"pattern": "[X] die werd opgericht in [Y]."}
+{"pattern": "[X] is gemaakt in [Y]."}
+{"pattern": "[X] Lagonda werd opgericht in [Y]."}
+{"pattern": "[X] werden opgericht in [Y]."}
+{"pattern": "[X] werd gestart in [Y]."}
+{"pattern": "[X], gemaakt in [Y]."}
+{"pattern": "[X], opgericht in [Y]."}
+{"pattern": "[X], dat is ontstaan in [Y]."}
+{"pattern": "[X], dat is gemaakt in [Y]."}
+{"pattern": "[X], dat werd gevormd in [Y]."}
+{"pattern": "[X], dat is begonnen in [Y]."}

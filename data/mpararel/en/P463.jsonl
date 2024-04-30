@@ -1,14 +1,7 @@
-{"pattern": "[X] belongs to [Y] .", "bert-base-multilingual-uncased_P@1": 0.37777777777777777}
-{"pattern": "[X] belongs to the [Y] .", "bert-base-multilingual-uncased_P@1": 0.08888888888888889}
-{"pattern": "[X] belongs to the organization of [Y] .", "bert-base-multilingual-uncased_P@1": 0.3111111111111111}
-{"pattern": "[X] is a member of [Y] .", "bert-base-multilingual-uncased_P@1": 0.5333333333333333}
-{"pattern": "[X] is a member of the [Y] .", "bert-base-multilingual-uncased_P@1": 0.4222222222222222}
-{"pattern": "[X] is affiliated with [Y] .", "bert-base-multilingual-uncased_P@1": 0.5555555555555556}
-{"pattern": "[X] is part of [Y] .", "bert-base-multilingual-uncased_P@1": 0.35555555555555557}
-{"pattern": "Does [X] belong to [Y]?", "bert-base-multilingual-uncased_P@1": 0.4888888888888889}
-{"pattern": "Does [X] belong to the [Y]?", "bert-base-multilingual-uncased_P@1": 0.13333333333333333}
-{"pattern": "Does [X] belong to the organization of [Y]?", "bert-base-multilingual-uncased_P@1": 0.4222222222222222}
-{"pattern": "Is [X] a member of [Y]?", "bert-base-multilingual-uncased_P@1": 0.5333333333333333}
-{"pattern": "Is [X] a member of the [Y]?", "bert-base-multilingual-uncased_P@1": 0.24444444444444444}
-{"pattern": "Is [X] affiliated with [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "Is [X] part of [Y]?", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
+{"pattern": "[X] belongs to [Y] .", "bert-base-uncased_P@1": 0.28078817733990147, "bert-base-multilingual-uncased_P@1": 0.37777777777777777}
+{"pattern": "[X] belongs to the [Y] .", "bert-base-uncased_P@1": 0.009852216748768473, "bert-base-multilingual-uncased_P@1": 0.08888888888888889}
+{"pattern": "[X] belongs to the organization of [Y] .", "bert-base-uncased_P@1": 0.5517241379310345, "bert-base-multilingual-uncased_P@1": 0.3111111111111111}
+{"pattern": "[X] is a member of [Y] .", "bert-base-uncased_P@1": 0.5073891625615764, "bert-base-multilingual-uncased_P@1": 0.5333333333333333}
+{"pattern": "[X] is a member of the [Y] .", "bert-base-uncased_P@1": 0.009852216748768473, "bert-base-multilingual-uncased_P@1": 0.4222222222222222}
+{"pattern": "[X] is affiliated with [Y] .", "bert-base-uncased_P@1": 0.5911330049261084, "bert-base-multilingual-uncased_P@1": 0.5555555555555556}
+{"pattern": "[X] is part of [Y] .", "bert-base-uncased_P@1": 0.43842364532019706, "bert-base-multilingual-uncased_P@1": 0.35555555555555557}

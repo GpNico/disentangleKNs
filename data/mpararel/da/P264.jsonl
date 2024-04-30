@@ -1,43 +1,43 @@
-{"pattern": "Musikm\u00e6rket, der repr\u00e6senterer [X], er [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Musiklabelet, der repr\u00e6senterede [X], var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Det musiklabel, der repr\u00e6senterer [X], er [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Det musiklabel, der repr\u00e6senterede [X], var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Det pladeselskab, der repr\u00e6senterer [X], er [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
-{"pattern": "Det pladeselskab, der repr\u00e6senterede [X], var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] er repr\u00e6senteret af musiklabel [Y].", "bert-base-multilingual-uncased_P@1": 0.38095238095238093}
-{"pattern": "[X] er underskrevet til [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] etikette: [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] indspillede for [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] optager for [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] blev udgivet af [Y].", "bert-base-multilingual-uncased_P@1": 0.23809523809523808}
-{"pattern": "[X] blev l\u00f8sladt af [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] blev repr\u00e6senteret af musiklabel [Y].", "bert-base-multilingual-uncased_P@1": 0.42857142857142855}
-{"pattern": "[X]s pladeselskab er [Y].", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
-{"pattern": "[X]s pladeselskab var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s musiklabel er [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s musiklabel var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]'s pladeselskab er [Y].", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
-{"pattern": "[X]'s pladeselskab var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], udgivet af [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], som blev repr\u00e6senteret af [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Optager [X] for [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er [X] repr\u00e6senteret af [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er [X] repr\u00e6senteret af musiklabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er [X] signeret til [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er etiketten repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er det pladeselskab, der repr\u00e6senterer [X], [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er musikm\u00e6rket [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er det musiklabel, der repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er pladeselskabet [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er pladeselskabet, der repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Blev [X] udgivet af [Y]?", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
-{"pattern": "Blev [X] l\u00f8sladt af [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X] repr\u00e6senteret af [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X] repr\u00e6senteret af musiklabel [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X] signeret til [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var etiketten repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var etiketten, der repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var musikm\u00e6rket [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var musiklabelet, der repr\u00e6senterer [X], [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var pladeselskabet [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var pladeselskabet, der repr\u00e6senterer [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Musikm\u00e6rket, der repr\u00e6senterer [X], er [Y]."}
+{"pattern": "Musiklabelet, der repr\u00e6senterede [X], var [Y]."}
+{"pattern": "Det musiklabel, der repr\u00e6senterer [X], er [Y]."}
+{"pattern": "Det musiklabel, der repr\u00e6senterede [X], var [Y]."}
+{"pattern": "Det pladeselskab, der repr\u00e6senterer [X], er [Y]."}
+{"pattern": "Det pladeselskab, der repr\u00e6senterede [X], var [Y]."}
+{"pattern": "[X] er repr\u00e6senteret af musiklabel [Y]."}
+{"pattern": "[X] er underskrevet til [Y]."}
+{"pattern": "[X] etikette: [Y]."}
+{"pattern": "[X] indspillede for [Y]."}
+{"pattern": "[X] optager for [Y]."}
+{"pattern": "[X] blev udgivet af [Y]."}
+{"pattern": "[X] blev l\u00f8sladt af [Y]."}
+{"pattern": "[X] blev repr\u00e6senteret af musiklabel [Y]."}
+{"pattern": "[X]s pladeselskab er [Y]."}
+{"pattern": "[X]s pladeselskab var [Y]."}
+{"pattern": "[X]s musiklabel er [Y]."}
+{"pattern": "[X]s musiklabel var [Y]."}
+{"pattern": "[X]'s pladeselskab er [Y]."}
+{"pattern": "[X]'s pladeselskab var [Y]."}
+{"pattern": "[X], udgivet af [Y]."}
+{"pattern": "[X], som blev repr\u00e6senteret af [Y]."}
+{"pattern": "Optager [X] for [Y]?"}
+{"pattern": "Er [X] repr\u00e6senteret af [Y]?"}
+{"pattern": "Er [X] repr\u00e6senteret af musiklabel [Y]?"}
+{"pattern": "Er [X] signeret til [Y]?"}
+{"pattern": "Er etiketten repr\u00e6senterer [X] [Y]?"}
+{"pattern": "Er det pladeselskab, der repr\u00e6senterer [X], [Y]?"}
+{"pattern": "Er musikm\u00e6rket [X] [Y]?"}
+{"pattern": "Er det musiklabel, der repr\u00e6senterer [X] [Y]?"}
+{"pattern": "Er pladeselskabet [X] [Y]?"}
+{"pattern": "Er pladeselskabet, der repr\u00e6senterer [X] [Y]?"}
+{"pattern": "Blev [X] udgivet af [Y]?"}
+{"pattern": "Blev [X] l\u00f8sladt af [Y]?"}
+{"pattern": "Var [X] repr\u00e6senteret af [Y]?"}
+{"pattern": "Var [X] repr\u00e6senteret af musiklabel [Y]?"}
+{"pattern": "Var [X] signeret til [Y]?"}
+{"pattern": "Var etiketten repr\u00e6senterer [X] [Y]?"}
+{"pattern": "Var etiketten, der repr\u00e6senterer [X] [Y]?"}
+{"pattern": "Var musikm\u00e6rket [X] [Y]?"}
+{"pattern": "Var musiklabelet, der repr\u00e6senterer [X], [Y]?"}
+{"pattern": "Var pladeselskabet [X] [Y]?"}
+{"pattern": "Var pladeselskabet, der repr\u00e6senterer [X] [Y]?"}

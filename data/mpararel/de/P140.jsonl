@@ -1,7 +1,4 @@
-{"pattern": "Die Religion von [X] ist der [Y].", "bert-base-multilingual-uncased_P@1": 0.9791666666666666}
-{"pattern": "[X] glaubt an den [Y].", "bert-base-multilingual-uncased_P@1": 0.7291666666666666}
-{"pattern": "[X] ist ein Gl\u00e4ubiger des [Y].", "bert-base-multilingual-uncased_P@1": 0.8125}
-{"pattern": "[X] ist ein Anh\u00e4nger des [Y].", "bert-base-multilingual-uncased_P@1": 0.875}
-{"pattern": "Glaubt [X] an den [Y]?", "bert-base-multilingual-uncased_P@1": 0.625}
-{"pattern": "Ist [X] ein Gl\u00e4ubiger im [Y]?", "bert-base-multilingual-uncased_P@1": 0.8333333333333334}
-{"pattern": "Ist [X] ein Anh\u00e4nger des [Y]?", "bert-base-multilingual-uncased_P@1": 0.625}
+{"pattern": "Die Religion von [X] ist der [Y]."}
+{"pattern": "[X] glaubt an den [Y]."}
+{"pattern": "[X] ist ein Gl\u00e4ubiger des [Y]."}
+{"pattern": "[X] ist ein Anh\u00e4nger des [Y]."}

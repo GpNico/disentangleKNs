@@ -1,9 +1,8 @@
-{"pattern": "[X] geh\u00f6rt zum Genre [Y].", "bert-base-multilingual-uncased_P@1": 0.2608695652173913}
-{"pattern": "[X] spielt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] spielt das folgende Genre [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] spielt das folgende Musikgenre [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] spielt das Genre [Y].", "bert-base-multilingual-uncased_P@1": 0.049689440993788817}
-{"pattern": "[X] spielt das Genre der [Y].", "bert-base-multilingual-uncased_P@1": 0.031055900621118012}
-{"pattern": "[X] spielt das Musikgenre [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}
-{"pattern": "[X] spielt das Musikgenre der [Y].", "bert-base-multilingual-uncased_P@1": 0.06832298136645963}
-{"pattern": "Spielt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] geh\u00f6rt zum Genre [Y]."}
+{"pattern": "[X] spielt [Y]."}
+{"pattern": "[X] spielt das folgende Genre [Y]."}
+{"pattern": "[X] spielt das folgende Musikgenre [Y]."}
+{"pattern": "[X] spielt das Genre [Y]."}
+{"pattern": "[X] spielt das Genre der [Y]."}
+{"pattern": "[X] spielt das Musikgenre [Y]."}
+{"pattern": "[X] spielt das Musikgenre der [Y]."}

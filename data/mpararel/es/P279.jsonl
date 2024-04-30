@@ -7,9 +7,3 @@
 {"pattern": "[X], una subclase de [Y].", "bert-base-multilingual-uncased_P@1": 0.3013698630136986}
 {"pattern": "[X], un tipo de [Y].", "bert-base-multilingual-uncased_P@1": 0.4246575342465753}
 {"pattern": "[X], que es una subclase de [Y].", "bert-base-multilingual-uncased_P@1": 0.2876712328767123}
-{"pattern": "\u00bfEl [X] tiene clase de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0684931506849315}
-{"pattern": "\u00bfLa [X] es una [Y]?", "bert-base-multilingual-uncased_P@1": 0.136986301369863}
-{"pattern": "\u00bfEl [X] es una especie de [Y]?", "bert-base-multilingual-uncased_P@1": 0.3561643835616438}
-{"pattern": "\u00bfLa [X] es una subclase de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.3150684931506849}
-{"pattern": "\u00bfEl [X] es un tipo de [Y]?", "bert-base-multilingual-uncased_P@1": 0.4383561643835616}
-{"pattern": "\u00bfLa [X] es de la clase de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1232876712328767}

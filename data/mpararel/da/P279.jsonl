@@ -1,15 +1,15 @@
-{"pattern": "[X] har klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] er en [Y].", "bert-base-multilingual-uncased_P@1": 0.14814814814814814}
-{"pattern": "[X] er en slags [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "[X] er en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.2962962962962963}
-{"pattern": "[X] er en type [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "[X] er af klasse [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "[X], en type [Y].", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}
-{"pattern": "[X], som er en underklasse af [Y].", "bert-base-multilingual-uncased_P@1": 0.37037037037037035}
-{"pattern": "Har [X] klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Er [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.14814814814814814}
-{"pattern": "Er [X] en slags [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "Er [X] en underklasse af [Y]?", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}
-{"pattern": "Er [X] en type [Y]?", "bert-base-multilingual-uncased_P@1": 0.18518518518518517}
-{"pattern": "Er [X] af klasse [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] har klasse [Y]."}
+{"pattern": "[X] er en [Y]."}
+{"pattern": "[X] er en slags [Y]."}
+{"pattern": "[X] er en underklasse af [Y]."}
+{"pattern": "[X] er en type [Y]."}
+{"pattern": "[X] er af klasse [Y]."}
+{"pattern": "[X], en underklasse af [Y]."}
+{"pattern": "[X], en type [Y]."}
+{"pattern": "[X], som er en underklasse af [Y]."}
+{"pattern": "Har [X] klasse [Y]?"}
+{"pattern": "Er [X] en [Y]?"}
+{"pattern": "Er [X] en slags [Y]?"}
+{"pattern": "Er [X] en underklasse af [Y]?"}
+{"pattern": "Er [X] en type [Y]?"}
+{"pattern": "Er [X] af klasse [Y]?"}

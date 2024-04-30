@@ -1,16 +1,11 @@
-{"pattern": "[X] is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.23595505617977527}
-{"pattern": "De [X] is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.10112359550561797}
-{"pattern": "[X] is vernoemd naar de [Y].", "bert-base-multilingual-uncased_P@1": 0.033707865168539325}
-{"pattern": "De [X] werden genoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "De [X] zijn vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.07865168539325842}
-{"pattern": "[X], vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.39325842696629215}
-{"pattern": "[X], die is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.3595505617977528}
-{"pattern": "[X], dat is vernoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.3595505617977528}
-{"pattern": "[X], dat is vernoemd naar de [Y].", "bert-base-multilingual-uncased_P@1": 0.033707865168539325}
-{"pattern": "[X], die werd genoemd naar [Y].", "bert-base-multilingual-uncased_P@1": 0.10112359550561797}
-{"pattern": "[X], die vernoemd is naar [Y].", "bert-base-multilingual-uncased_P@1": 0.4157303370786517}
-{"pattern": "Is [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.1348314606741573}
-{"pattern": "Is de [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.06741573033707865}
-{"pattern": "Is [X] vernoemd naar de [Y]?", "bert-base-multilingual-uncased_P@1": 0.06741573033707865}
-{"pattern": "Werd de [X] genoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.12359550561797752}
-{"pattern": "Is het [X] vernoemd naar [Y]?", "bert-base-multilingual-uncased_P@1": 0.0898876404494382}
+{"pattern": "[X] is vernoemd naar [Y]."}
+{"pattern": "De [X] is vernoemd naar [Y]."}
+{"pattern": "[X] is vernoemd naar de [Y]."}
+{"pattern": "De [X] werden genoemd naar [Y]."}
+{"pattern": "De [X] zijn vernoemd naar [Y]."}
+{"pattern": "[X], vernoemd naar [Y]."}
+{"pattern": "[X], die is vernoemd naar [Y]."}
+{"pattern": "[X], dat is vernoemd naar [Y]."}
+{"pattern": "[X], dat is vernoemd naar de [Y]."}
+{"pattern": "[X], die werd genoemd naar [Y]."}
+{"pattern": "[X], die vernoemd is naar [Y]."}

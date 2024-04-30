@@ -1,11 +1,11 @@
-{"pattern": "Miejsce urodzenia [X] to [Y].", "bert-base-multilingual-uncased_P@1": 0.13333333333333333}
-{"pattern": "Miejscem urodzenia [X] jest [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
-{"pattern": "[X] pochodzi z [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] pochodzi\u0142 z [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] urodzi\u0142 si\u0119 w [Y].", "bert-base-multilingual-uncased_P@1": 0.044444444444444446}
-{"pattern": "[X] pochodzi\u0142a z [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Miejsce urodzenia [X]a to [Y].", "bert-base-multilingual-uncased_P@1": 0.17777777777777778}
-{"pattern": "Czy [X] pochodzi z [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] urodzi\u0142 si\u0119 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] pochodzi\u0142 z [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] pochodzi\u0142a z [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Miejsce urodzenia [X] to [Y]."}
+{"pattern": "Miejscem urodzenia [X] jest [Y]."}
+{"pattern": "[X] pochodzi z [Y]."}
+{"pattern": "[X] pochodzi\u0142 z [Y]."}
+{"pattern": "[X] urodzi\u0142 si\u0119 w [Y]."}
+{"pattern": "[X] pochodzi\u0142a z [Y]."}
+{"pattern": "Miejsce urodzenia [X]a to [Y]."}
+{"pattern": "Czy [X] pochodzi z [Y]?"}
+{"pattern": "Czy [X] urodzi\u0142 si\u0119 w [Y]?"}
+{"pattern": "Czy [X] pochodzi\u0142 z [Y]?"}
+{"pattern": "Czy [X] pochodzi\u0142a z [Y]?"}

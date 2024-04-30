@@ -1,17 +1,17 @@
-{"pattern": "Il continente della [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.40384615384615385}
-{"pattern": "[X] appartiene al continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Il [X] appartiene al continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Il [X] fa parte del continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa parte del continente dell'[Y].", "bert-base-multilingual-uncased_P@1": 0.34615384615384615}
-{"pattern": "La [X] si trova in [Y].", "bert-base-multilingual-uncased_P@1": 0.25}
-{"pattern": "[X] si trova nel continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Il [X] si trova nel continente [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] appartiene al continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] appartiene al continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] fa parte del continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa parte del continente dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
-{"pattern": "[X] si trova in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] si trova nel continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Il [X] si trova nel continente [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Il continente della [X] \u00e8 l'[Y]."}
+{"pattern": "[X] appartiene al continente [Y]."}
+{"pattern": "Il [X] appartiene al continente [Y]."}
+{"pattern": "[X] fa parte del continente [Y]."}
+{"pattern": "Il [X] fa parte del continente [Y]."}
+{"pattern": "[X] fa parte del continente dell'[Y]."}
+{"pattern": "La [X] si trova in [Y]."}
+{"pattern": "[X] si trova nel continente [Y]."}
+{"pattern": "Il [X] si trova nel continente [Y]."}
+{"pattern": "[X] appartiene al continente [Y]?"}
+{"pattern": "La [X] appartiene al continente [Y]?"}
+{"pattern": "[X] fa parte del continente [Y]?"}
+{"pattern": "La [X] fa parte del continente [Y]?"}
+{"pattern": "[X] fa parte del continente dell'[Y]?"}
+{"pattern": "[X] si trova in [Y]?"}
+{"pattern": "[X] si trova nel continente [Y]?"}
+{"pattern": "Il [X] si trova nel continente [Y]?"}

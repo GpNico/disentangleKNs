@@ -1,6 +1,6 @@
-{"pattern": "[X] har diplomatiska relationer med [Y].", "bert-base-multilingual-uncased_P@1": 0.017142857142857144}
-{"pattern": "[X] har diplomatiska f\u00f6rbindelser med [Y].", "bert-base-multilingual-uncased_P@1": 0.017142857142857144}
-{"pattern": "[X] uppr\u00e4tth\u00e5ller diplomatiska f\u00f6rbindelser med [Y].", "bert-base-multilingual-uncased_P@1": 0.022857142857142857}
-{"pattern": "[X] uppr\u00e4ttar diplomatiska relationer med [Y].", "bert-base-multilingual-uncased_P@1": 0.022857142857142857}
-{"pattern": "[X], som har diplomatiska relationer med [Y].", "bert-base-multilingual-uncased_P@1": 0.02857142857142857}
-{"pattern": "Har [X] diplomatiska f\u00f6rbindelser med [Y]?", "bert-base-multilingual-uncased_P@1": 0.005714285714285714}
+{"pattern": "[X] har diplomatiska relationer med [Y]."}
+{"pattern": "[X] har diplomatiska f\u00f6rbindelser med [Y]."}
+{"pattern": "[X] uppr\u00e4tth\u00e5ller diplomatiska f\u00f6rbindelser med [Y]."}
+{"pattern": "[X] uppr\u00e4ttar diplomatiska relationer med [Y]."}
+{"pattern": "[X], som har diplomatiska relationer med [Y]."}
+{"pattern": "Har [X] diplomatiska f\u00f6rbindelser med [Y]?"}

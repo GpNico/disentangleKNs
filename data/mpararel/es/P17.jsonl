@@ -5,4 +5,3 @@
 {"pattern": "[X] se encuentra en el siguiente estado: [Y].", "bert-base-multilingual-uncased_P@1": 0.4423076923076923}
 {"pattern": "[X], ubicado en [Y].", "bert-base-multilingual-uncased_P@1": 0.36538461538461536}
 {"pattern": "[X], que se encuentra en [Y].", "bert-base-multilingual-uncased_P@1": 0.4326923076923077}
-{"pattern": "\u00bf[X] se encuentra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}

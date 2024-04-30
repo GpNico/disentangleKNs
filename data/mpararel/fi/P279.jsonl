@@ -1,9 +1,9 @@
-{"pattern": "[X] on luokan [Y].", "bert-base-multilingual-uncased_P@1": 0.5}
-{"pattern": "[X] on [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] on er\u00e4\u00e4nlainen [Y].", "bert-base-multilingual-uncased_P@1": 0.42857142857142855}
-{"pattern": "[X] on luokkaa [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
-{"pattern": "[X], er\u00e4\u00e4nlainen [Y].", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
-{"pattern": "Onko [X]lla luokan [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Onko [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Onko [X] er\u00e4\u00e4nlainen [Y]?", "bert-base-multilingual-uncased_P@1": 0.21428571428571427}
-{"pattern": "Onko [X] luokan [Y]?", "bert-base-multilingual-uncased_P@1": 0.14285714285714285}
+{"pattern": "[X] on luokan [Y]."}
+{"pattern": "[X] on [Y]."}
+{"pattern": "[X] on er\u00e4\u00e4nlainen [Y]."}
+{"pattern": "[X] on luokkaa [Y]."}
+{"pattern": "[X], er\u00e4\u00e4nlainen [Y]."}
+{"pattern": "Onko [X]lla luokan [Y]?"}
+{"pattern": "Onko [X] [Y]?"}
+{"pattern": "Onko [X] er\u00e4\u00e4nlainen [Y]?"}
+{"pattern": "Onko [X] luokan [Y]?"}

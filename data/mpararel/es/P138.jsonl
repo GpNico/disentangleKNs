@@ -10,12 +10,6 @@
 {"pattern": "[X], que lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.5657894736842105}
 {"pattern": "El [X], que lleva el nombre de [Y].", "bert-base-multilingual-uncased_P@1": 0.4342105263157895}
 {"pattern": "[X], que lleva el nombre de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], que fue llamado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.17105263157894737}
+{"pattern": "[X], que fue llamado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.18421052631578946}
 {"pattern": "[X], que fue nombrado despu\u00e9s de [Y].", "bert-base-multilingual-uncased_P@1": 0.15789473684210525}
 {"pattern": "[X], que fue nombrado por [Y].", "bert-base-multilingual-uncased_P@1": 0.06578947368421052}
-{"pattern": "\u00bfEl [X] lleva el nombre de [Y]?", "bert-base-multilingual-uncased_P@1": 0.3815789473684211}
-{"pattern": "\u00bf[X] lleva el nombre de [Y]?", "bert-base-multilingual-uncased_P@1": 0.42105263157894735}
-{"pattern": "\u00bf[X] lleva el nombre del [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl [X] fue llamado as\u00ed por [Y]?", "bert-base-multilingual-uncased_P@1": 0.013157894736842105}
-{"pattern": "\u00bfEl [X] fue nombrado despu\u00e9s de [Y]?", "bert-base-multilingual-uncased_P@1": 0.02631578947368421}
-{"pattern": "\u00bfEl [X] fue nombrado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.013157894736842105}

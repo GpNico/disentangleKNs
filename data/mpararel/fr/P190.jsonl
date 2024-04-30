@@ -6,7 +6,3 @@
 {"pattern": "[X] est une ville jumelle de [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
 {"pattern": "La ville s\u0153ur de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
 {"pattern": "La ville jumelle de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] est une ville s\u0153ur de [Y]?", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] est une ville jumelle de [Y]?", "bert-base-multilingual-uncased_P@1": 0.005780346820809248}
-{"pattern": "[X] est la ville s\u0153ur de [Y]?", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}
-{"pattern": "[X] est la ville jumelle de [Y]?", "bert-base-multilingual-uncased_P@1": 0.011560693641618497}

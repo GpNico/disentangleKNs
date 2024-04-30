@@ -1,8 +1,8 @@
-{"pattern": "O pa\u00eds em que [X] est\u00e1 localizado \u00e9 a [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "O estado de [X] est\u00e1 localizado na [Y].", "bert-base-multilingual-uncased_P@1": 0.2716049382716049}
-{"pattern": "[X] est\u00e1 localizado na [Y].", "bert-base-multilingual-uncased_P@1": 0.41975308641975306}
-{"pattern": "[X] est\u00e1 localizado no seguinte pa\u00eds: [Y].", "bert-base-multilingual-uncased_P@1": 0.43209876543209874}
-{"pattern": "[X] est\u00e1 localizado no seguinte estado: [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "[X], localizado na [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "[X], que est\u00e1 localizado na [Y].", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}
-{"pattern": "[X] est\u00e1 localizado na [Y]?", "bert-base-multilingual-uncased_P@1": 0.08641975308641975}
+{"pattern": "O pa\u00eds em que [X] est\u00e1 localizado \u00e9 a [Y]."}
+{"pattern": "O estado de [X] est\u00e1 localizado na [Y]."}
+{"pattern": "[X] est\u00e1 localizado na [Y]."}
+{"pattern": "[X] est\u00e1 localizado no seguinte pa\u00eds: [Y]."}
+{"pattern": "[X] est\u00e1 localizado no seguinte estado: [Y]."}
+{"pattern": "[X], localizado na [Y]."}
+{"pattern": "[X], que est\u00e1 localizado na [Y]."}
+{"pattern": "[X] est\u00e1 localizado na [Y]?"}

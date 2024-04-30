@@ -1,9 +1,9 @@
-{"pattern": "[X] behoort tot het genre [Y].", "bert-base-multilingual-uncased_P@1": 0.07142857142857142}
-{"pattern": "[X] is een muzikant in de [Y].", "bert-base-multilingual-uncased_P@1": 0.005952380952380952}
-{"pattern": "[X] speelt het volgende genre [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] speelt het volgende muziekgenre [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] speelt het genre [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] speelt het genre van [Y].", "bert-base-multilingual-uncased_P@1": 0.06547619047619048}
-{"pattern": "[X] speelt het muziekgenre [Y].", "bert-base-multilingual-uncased_P@1": 0.27380952380952384}
-{"pattern": "[X] speelt het muziekgenre van [Y].", "bert-base-multilingual-uncased_P@1": 0.5595238095238095}
-{"pattern": "[X] is gespecialiseerd in het genre [Y].", "bert-base-multilingual-uncased_P@1": 0.09523809523809523}
+{"pattern": "[X] behoort tot het genre [Y]."}
+{"pattern": "[X] is een muzikant in de [Y]."}
+{"pattern": "[X] speelt het volgende genre [Y]."}
+{"pattern": "[X] speelt het volgende muziekgenre [Y]."}
+{"pattern": "[X] speelt het genre [Y]."}
+{"pattern": "[X] speelt het genre van [Y]."}
+{"pattern": "[X] speelt het muziekgenre [Y]."}
+{"pattern": "[X] speelt het muziekgenre van [Y]."}
+{"pattern": "[X] is gespecialiseerd in het genre [Y]."}

@@ -7,4 +7,3 @@
 {"pattern": "La profesi\u00f3n de [X] es la de [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "La profesi\u00f3n de [X] es un [Y].", "bert-base-multilingual-uncased_P@1": 0.0718562874251497}
 {"pattern": "[X], que trabaja como [Y].", "bert-base-multilingual-uncased_P@1": 0.059880239520958084}
-{"pattern": "\u00bf[X] trabaja como [Y]?", "bert-base-multilingual-uncased_P@1": 0.11976047904191617}

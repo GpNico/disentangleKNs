@@ -1,11 +1,11 @@
-{"pattern": "[X] confina con [Y].", "bert-base-multilingual-uncased_P@1": 0.05228758169934641}
-{"pattern": "La [X] confina con il [Y].", "bert-base-multilingual-uncased_P@1": 0.0784313725490196}
-{"pattern": "[X] condivide un confine comune con [Y].", "bert-base-multilingual-uncased_P@1": 0.09803921568627451}
-{"pattern": "La [X] confina con la [Y].", "bert-base-multilingual-uncased_P@1": 0.0457516339869281}
-{"pattern": "Il [X] confina con il [Y].", "bert-base-multilingual-uncased_P@1": 0.09803921568627451}
-{"pattern": "[X] confina con [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Il [X] confina con il [Y]?", "bert-base-multilingual-uncased_P@1": 0.058823529411764705}
-{"pattern": "[X] ha un confine comune con [Y]?", "bert-base-multilingual-uncased_P@1": 0.0457516339869281}
-{"pattern": "La [X] confina con il [Y]?", "bert-base-multilingual-uncased_P@1": 0.026143790849673203}
-{"pattern": "La [X] confina con la [Y]?", "bert-base-multilingual-uncased_P@1": 0.032679738562091505}
-{"pattern": "[X] condivide il confine con [Y]?", "bert-base-multilingual-uncased_P@1": 0.0392156862745098}
+{"pattern": "[X] confina con [Y]."}
+{"pattern": "La [X] confina con il [Y]."}
+{"pattern": "[X] condivide un confine comune con [Y]."}
+{"pattern": "La [X] confina con la [Y]."}
+{"pattern": "Il [X] confina con il [Y]."}
+{"pattern": "[X] confina con [Y]?"}
+{"pattern": "Il [X] confina con il [Y]?"}
+{"pattern": "[X] ha un confine comune con [Y]?"}
+{"pattern": "La [X] confina con il [Y]?"}
+{"pattern": "La [X] confina con la [Y]?"}
+{"pattern": "[X] condivide il confine con [Y]?"}

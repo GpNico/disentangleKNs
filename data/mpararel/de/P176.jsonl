@@ -1,9 +1,5 @@
-{"pattern": "[X] ist ein Produkt von [Y].", "bert-base-multilingual-uncased_P@1": 0.8786127167630058}
-{"pattern": "[X], ein Produkt von [Y].", "bert-base-multilingual-uncased_P@1": 0.861271676300578}
-{"pattern": "[X], erstellt von [Y].", "bert-base-multilingual-uncased_P@1": 0.7745664739884393}
-{"pattern": "[X], entwickelt von [Y].", "bert-base-multilingual-uncased_P@1": 0.838150289017341}
-{"pattern": "[X], produziert von [Y].", "bert-base-multilingual-uncased_P@1": 0.8208092485549133}
-{"pattern": "Ist der [X] ein Produkt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.8554913294797688}
-{"pattern": "Ist [X] ein Produkt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.8497109826589595}
-{"pattern": "War der [X] ein Produkt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.8439306358381503}
-{"pattern": "War [X] ein Produkt von [Y]?", "bert-base-multilingual-uncased_P@1": 0.861271676300578}
+{"pattern": "[X] ist ein Produkt von [Y]."}
+{"pattern": "[X], ein Produkt von [Y]."}
+{"pattern": "[X], erstellt von [Y]."}
+{"pattern": "[X], entwickelt von [Y]."}
+{"pattern": "[X], produziert von [Y]."}

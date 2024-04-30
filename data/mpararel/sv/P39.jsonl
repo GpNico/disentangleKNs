@@ -1,86 +1,86 @@
-{"pattern": "[X] hade posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.2948717948717949}
-{"pattern": "[X] hade den offentliga positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.2948717948717949}
-{"pattern": "[X] har positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
-{"pattern": "[X] har den offentliga positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.2564102564102564}
-{"pattern": "[X] hade den officiella positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.3974358974358974}
-{"pattern": "[X] var [Y].", "bert-base-multilingual-uncased_P@1": 0.1282051282051282}
-{"pattern": "[X] hade den offentliga posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
-{"pattern": "[X] hade rollen som [Y].", "bert-base-multilingual-uncased_P@1": 0.1282051282051282}
-{"pattern": "[X] har den officiella positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.41025641025641024}
-{"pattern": "[X] har posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.28205128205128205}
-{"pattern": "[X] har den offentliga posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.08974358974358974}
-{"pattern": "[X] hade officiellt posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
-{"pattern": "[X] hade officiellt rollen som [Y].", "bert-base-multilingual-uncased_P@1": 0.21794871794871795}
-{"pattern": "[X] har officiellt posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.28205128205128205}
-{"pattern": "[X] har officiellt rollen som [Y].", "bert-base-multilingual-uncased_P@1": 0.16666666666666666}
-{"pattern": "[X]s officiella position \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "[X]:s officiella st\u00e4llning var [Y].", "bert-base-multilingual-uncased_P@1": 0.01282051282051282}
-{"pattern": "[X]s officiella roll \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "[X]s officiella roll var [Y].", "bert-base-multilingual-uncased_P@1": 0.11538461538461539}
-{"pattern": "[X]s position \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s position var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s offentliga position \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "[X]s offentliga st\u00e4llning var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s offentliga roll \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s offentliga roll var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]s roll \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "[X]s roll var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], som hade positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.34615384615384615}
-{"pattern": "[X], som hade den offentliga positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.28205128205128205}
-{"pattern": "[X], som har positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.2948717948717949}
-{"pattern": "[X], som hade den officiella positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.4358974358974359}
-{"pattern": "[X], som innehade posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.41025641025641024}
-{"pattern": "[X], som innehade den offentliga positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
-{"pattern": "[X], som hade rollen som [Y].", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
-{"pattern": "[X], som har den officiella positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.47435897435897434}
-{"pattern": "[X], som innehar posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
-{"pattern": "[X], som innehar den offentliga positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "[X], som officiellt innehade posten som [Y].", "bert-base-multilingual-uncased_P@1": 0.41025641025641024}
-{"pattern": "[X], som officiellt hade rollen som [Y].", "bert-base-multilingual-uncased_P@1": 0.28205128205128205}
-{"pattern": "[X], som officiellt innehar positionen som [Y].", "bert-base-multilingual-uncased_P@1": 0.41025641025641024}
-{"pattern": "[X], vars officiella position \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.1282051282051282}
-{"pattern": "[X], vars officiella st\u00e4llning var [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
-{"pattern": "[X], vars officiella roll \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "[X], vars officiella roll var [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "[X], vars position \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "[X], vars position var [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "[X], vars offentliga st\u00e4llning \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], vars offentliga st\u00e4llning var [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], vars offentliga roll \u00e4r att vara [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
-{"pattern": "[X], vars offentliga roll var att vara [Y].", "bert-base-multilingual-uncased_P@1": 0.20512820512820512}
-{"pattern": "[X], vars roll \u00e4r att vara [Y].", "bert-base-multilingual-uncased_P@1": 0.14102564102564102}
-{"pattern": "Hade [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Hade [X] den offentliga positionen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "Hade [X] rollen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.08974358974358974}
-{"pattern": "Hade [X] officiellt posten som [Y]?", "bert-base-multilingual-uncased_P@1": 0.2692307692307692}
-{"pattern": "Hade [X] officiellt rollen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.14102564102564102}
-{"pattern": "Har [X] positionen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
-{"pattern": "Har [X] den offentliga positionen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "Har [X] befattningen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.15384615384615385}
-{"pattern": "Har [X] rollen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "Har [X] officiellt posten som [Y]?", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
-{"pattern": "Har [X] officiellt den offentliga positionen som [Y]?", "bert-base-multilingual-uncased_P@1": 0.14102564102564102}
-{"pattern": "\u00c4r [X]s officiella position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]:s officiella st\u00e4llning den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s officiella roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s officiella roll att vara [Y]?", "bert-base-multilingual-uncased_P@1": 0.20512820512820512}
-{"pattern": "\u00c4r [X]s position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]:s st\u00e4llning den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s offentliga st\u00e4llning [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]:s offentliga st\u00e4llning den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s offentliga roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]:s offentliga roll den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X]s roll som [Y]?", "bert-base-multilingual-uncased_P@1": 0.14102564102564102}
-{"pattern": "Var [X]s officiella position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s officiella st\u00e4llning [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s officiella roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s officiella roll att vara [Y]?", "bert-base-multilingual-uncased_P@1": 0.20512820512820512}
-{"pattern": "Var [X]s position [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]:s st\u00e4llning den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s offentliga st\u00e4llning [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]:s offentliga st\u00e4llning den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s offentliga roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s offentliga roll att vara [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]s roll [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Var [X]:s roll den som [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] hade posten som [Y]."}
+{"pattern": "[X] hade den offentliga positionen som [Y]."}
+{"pattern": "[X] har positionen som [Y]."}
+{"pattern": "[X] har den offentliga positionen som [Y]."}
+{"pattern": "[X] hade den officiella positionen som [Y]."}
+{"pattern": "[X] var [Y]."}
+{"pattern": "[X] hade den offentliga posten som [Y]."}
+{"pattern": "[X] hade rollen som [Y]."}
+{"pattern": "[X] har den officiella positionen som [Y]."}
+{"pattern": "[X] har posten som [Y]."}
+{"pattern": "[X] har den offentliga posten som [Y]."}
+{"pattern": "[X] hade officiellt posten som [Y]."}
+{"pattern": "[X] hade officiellt rollen som [Y]."}
+{"pattern": "[X] har officiellt posten som [Y]."}
+{"pattern": "[X] har officiellt rollen som [Y]."}
+{"pattern": "[X]s officiella position \u00e4r [Y]."}
+{"pattern": "[X]:s officiella st\u00e4llning var [Y]."}
+{"pattern": "[X]s officiella roll \u00e4r [Y]."}
+{"pattern": "[X]s officiella roll var [Y]."}
+{"pattern": "[X]s position \u00e4r [Y]."}
+{"pattern": "[X]s position var [Y]."}
+{"pattern": "[X]s offentliga position \u00e4r [Y]."}
+{"pattern": "[X]s offentliga st\u00e4llning var [Y]."}
+{"pattern": "[X]s offentliga roll \u00e4r [Y]."}
+{"pattern": "[X]s offentliga roll var [Y]."}
+{"pattern": "[X]s roll \u00e4r [Y]."}
+{"pattern": "[X]s roll var [Y]."}
+{"pattern": "[X], som hade positionen som [Y]."}
+{"pattern": "[X], som hade den offentliga positionen som [Y]."}
+{"pattern": "[X], som har positionen som [Y]."}
+{"pattern": "[X], som hade den officiella positionen som [Y]."}
+{"pattern": "[X], som innehade posten som [Y]."}
+{"pattern": "[X], som innehade den offentliga positionen som [Y]."}
+{"pattern": "[X], som hade rollen som [Y]."}
+{"pattern": "[X], som har den officiella positionen som [Y]."}
+{"pattern": "[X], som innehar posten som [Y]."}
+{"pattern": "[X], som innehar den offentliga positionen som [Y]."}
+{"pattern": "[X], som officiellt innehade posten som [Y]."}
+{"pattern": "[X], som officiellt hade rollen som [Y]."}
+{"pattern": "[X], som officiellt innehar positionen som [Y]."}
+{"pattern": "[X], vars officiella position \u00e4r [Y]."}
+{"pattern": "[X], vars officiella st\u00e4llning var [Y]."}
+{"pattern": "[X], vars officiella roll \u00e4r [Y]."}
+{"pattern": "[X], vars officiella roll var [Y]."}
+{"pattern": "[X], vars position \u00e4r [Y]."}
+{"pattern": "[X], vars position var [Y]."}
+{"pattern": "[X], vars offentliga st\u00e4llning \u00e4r [Y]."}
+{"pattern": "[X], vars offentliga st\u00e4llning var [Y]."}
+{"pattern": "[X], vars offentliga roll \u00e4r att vara [Y]."}
+{"pattern": "[X], vars offentliga roll var att vara [Y]."}
+{"pattern": "[X], vars roll \u00e4r att vara [Y]."}
+{"pattern": "Hade [X] [Y]?"}
+{"pattern": "Hade [X] den offentliga positionen som [Y]?"}
+{"pattern": "Hade [X] rollen som [Y]?"}
+{"pattern": "Hade [X] officiellt posten som [Y]?"}
+{"pattern": "Hade [X] officiellt rollen som [Y]?"}
+{"pattern": "Har [X] positionen som [Y]?"}
+{"pattern": "Har [X] den offentliga positionen som [Y]?"}
+{"pattern": "Har [X] befattningen som [Y]?"}
+{"pattern": "Har [X] rollen som [Y]?"}
+{"pattern": "Har [X] officiellt posten som [Y]?"}
+{"pattern": "Har [X] officiellt den offentliga positionen som [Y]?"}
+{"pattern": "\u00c4r [X]s officiella position [Y]?"}
+{"pattern": "\u00c4r [X]:s officiella st\u00e4llning den som [Y]?"}
+{"pattern": "\u00c4r [X]s officiella roll [Y]?"}
+{"pattern": "\u00c4r [X]s officiella roll att vara [Y]?"}
+{"pattern": "\u00c4r [X]s position [Y]?"}
+{"pattern": "\u00c4r [X]:s st\u00e4llning den som [Y]?"}
+{"pattern": "\u00c4r [X]s offentliga st\u00e4llning [Y]?"}
+{"pattern": "\u00c4r [X]:s offentliga st\u00e4llning den som [Y]?"}
+{"pattern": "\u00c4r [X]s offentliga roll [Y]?"}
+{"pattern": "\u00c4r [X]:s offentliga roll den som [Y]?"}
+{"pattern": "\u00c4r [X]s roll [Y]?"}
+{"pattern": "\u00c4r [X]s roll som [Y]?"}
+{"pattern": "Var [X]s officiella position [Y]?"}
+{"pattern": "Var [X]s officiella st\u00e4llning [Y]?"}
+{"pattern": "Var [X]s officiella roll [Y]?"}
+{"pattern": "Var [X]s officiella roll att vara [Y]?"}
+{"pattern": "Var [X]s position [Y]?"}
+{"pattern": "Var [X]:s st\u00e4llning den som [Y]?"}
+{"pattern": "Var [X]s offentliga st\u00e4llning [Y]?"}
+{"pattern": "Var [X]:s offentliga st\u00e4llning den som [Y]?"}
+{"pattern": "Var [X]s offentliga roll [Y]?"}
+{"pattern": "Var [X]s offentliga roll att vara [Y]?"}
+{"pattern": "Var [X]s roll [Y]?"}
+{"pattern": "Var [X]:s roll den som [Y]?"}

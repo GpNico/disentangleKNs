@@ -1,16 +1,10 @@
-{"pattern": "De geboorteplaats van [X] is [Y].", "bert-base-multilingual-uncased_P@1": 0.036585365853658534}
-{"pattern": "[X] is geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
-{"pattern": "[X] komt uit [Y].", "bert-base-multilingual-uncased_P@1": 0.012195121951219513}
-{"pattern": "[X] komt oorspronkelijk uit [Y].", "bert-base-multilingual-uncased_P@1": 0.012195121951219513}
-{"pattern": "[X] is afkomstig uit [Y].", "bert-base-multilingual-uncased_P@1": 0.12195121951219512}
-{"pattern": "[X] werd geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.1402439024390244}
-{"pattern": "[X] was geboren in [Y].", "bert-base-multilingual-uncased_P@1": 0.054878048780487805}
-{"pattern": "[X] kwam oorspronkelijk uit [Y].", "bert-base-multilingual-uncased_P@1": 0.018292682926829267}
-{"pattern": "[X]'s geboorteplaats is [Y].", "bert-base-multilingual-uncased_P@1": 0.1402439024390244}
-{"pattern": "[X]' geboorteplaats is [Y].", "bert-base-multilingual-uncased_P@1": 0.10365853658536585}
-{"pattern": "Kwam [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.006097560975609756}
-{"pattern": "Komt [X] uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.012195121951219513}
-{"pattern": "Is [X] afkomstig uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.042682926829268296}
-{"pattern": "Komt [X] oorspronkelijk uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.006097560975609756}
-{"pattern": "Was [X] afkomstig uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
-{"pattern": "Was [X] oorspronkelijk uit [Y]?", "bert-base-multilingual-uncased_P@1": 0.012195121951219513}
+{"pattern": "De geboorteplaats van [X] is [Y]."}
+{"pattern": "[X] is geboren in [Y]."}
+{"pattern": "[X] komt uit [Y]."}
+{"pattern": "[X] komt oorspronkelijk uit [Y]."}
+{"pattern": "[X] is afkomstig uit [Y]."}
+{"pattern": "[X] werd geboren in [Y]."}
+{"pattern": "[X] was geboren in [Y]."}
+{"pattern": "[X] kwam oorspronkelijk uit [Y]."}
+{"pattern": "[X]'s geboorteplaats is [Y]."}
+{"pattern": "[X]' geboorteplaats is [Y]."}

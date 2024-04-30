@@ -1,5 +1,5 @@
-{"pattern": "[X] \u00e4r anst\u00e4lld av [Y].", "bert-base-multilingual-uncased_P@1": 0.3170731707317073}
-{"pattern": "[X] arbetar f\u00f6r [Y].", "bert-base-multilingual-uncased_P@1": 0.17073170731707318}
-{"pattern": "[X], som \u00e4r anst\u00e4lld av [Y].", "bert-base-multilingual-uncased_P@1": 0.07317073170731707}
-{"pattern": "[X], som arbetar f\u00f6r [Y].", "bert-base-multilingual-uncased_P@1": 0.4146341463414634}
-{"pattern": "Arbetar [X] f\u00f6r [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e4r anst\u00e4lld av [Y]."}
+{"pattern": "[X] arbetar f\u00f6r [Y]."}
+{"pattern": "[X], som \u00e4r anst\u00e4lld av [Y]."}
+{"pattern": "[X], som arbetar f\u00f6r [Y]."}
+{"pattern": "Arbetar [X] f\u00f6r [Y]?"}

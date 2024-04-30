@@ -1,7 +1,7 @@
 {"pattern": "Le domaine d'activit\u00e9 de [X] est la [Y].", "bert-base-multilingual-uncased_P@1": 0.06306306306306306}
 {"pattern": "Le domaine de travail de [X] est la [Y].", "bert-base-multilingual-uncased_P@1": 0.10810810810810811}
 {"pattern": "L'expertise de [X] est la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] est sp\u00e9cialis\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.16216216216216217}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.15315315315315314}
 {"pattern": "[X] travaille dans le domaine de la [Y].", "bert-base-multilingual-uncased_P@1": 0.06306306306306306}
 {"pattern": "[X] travaille dans le domaine de l'[Y].", "bert-base-multilingual-uncased_P@1": 0.04504504504504504}
 {"pattern": "Le domaine d'expertise de [X] est la [Y].", "bert-base-multilingual-uncased_P@1": 0.09009009009009009}
@@ -10,7 +10,3 @@
 {"pattern": "Le domaine de travail de [X] est l'[Y].", "bert-base-multilingual-uncased_P@1": 0.04504504504504504}
 {"pattern": "L'expertise d'[X] est la [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "L'expertise de [X] est en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] est sp\u00e9cialis\u00e9 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.18018018018018017}
-{"pattern": "[X] travaille dans le domaine de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.04504504504504504}
-{"pattern": "[X] travaille-t-il dans le domaine de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.09009009009009009}
-{"pattern": "[X] est expert en [Y]?", "bert-base-multilingual-uncased_P@1": 0.18018018018018017}

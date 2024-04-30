@@ -1,11 +1,11 @@
-{"pattern": "[X] ha la cittadinanza del [Y].", "bert-base-multilingual-uncased_P@1": 0.1693548387096774}
-{"pattern": "[X] ha la cittadinanza di [Y].", "bert-base-multilingual-uncased_P@1": 0.0967741935483871}
-{"pattern": "[X] \u00e8 un cittadino del [Y].", "bert-base-multilingual-uncased_P@1": 0.1532258064516129}
-{"pattern": "[X], un cittadino del [Y].", "bert-base-multilingual-uncased_P@1": 0.12096774193548387}
-{"pattern": "[X], che ha la cittadinanza del [Y].", "bert-base-multilingual-uncased_P@1": 0.12903225806451613}
-{"pattern": "[X], che ha la cittadinanza di [Y].", "bert-base-multilingual-uncased_P@1": 0.08064516129032258}
-{"pattern": "[X], che \u00e8 un cittadino del [Y].", "bert-base-multilingual-uncased_P@1": 0.12096774193548387}
-{"pattern": "[X] ha la cittadinanza del [Y]?", "bert-base-multilingual-uncased_P@1": 0.12096774193548387}
-{"pattern": "[X] ha la cittadinanza di [Y]?", "bert-base-multilingual-uncased_P@1": 0.14516129032258066}
-{"pattern": "[X] ha la cittadinanza delle [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e8 un cittadino del [Y]?", "bert-base-multilingual-uncased_P@1": 0.14516129032258066}
+{"pattern": "[X] ha la cittadinanza del [Y]."}
+{"pattern": "[X] ha la cittadinanza di [Y]."}
+{"pattern": "[X] \u00e8 un cittadino del [Y]."}
+{"pattern": "[X], un cittadino del [Y]."}
+{"pattern": "[X], che ha la cittadinanza del [Y]."}
+{"pattern": "[X], che ha la cittadinanza di [Y]."}
+{"pattern": "[X], che \u00e8 un cittadino del [Y]."}
+{"pattern": "[X] ha la cittadinanza del [Y]?"}
+{"pattern": "[X] ha la cittadinanza di [Y]?"}
+{"pattern": "[X] ha la cittadinanza delle [Y]?"}
+{"pattern": "[X] \u00e8 un cittadino del [Y]?"}

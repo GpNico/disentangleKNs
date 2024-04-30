@@ -1,14 +1,14 @@
-{"pattern": "La [X] appartiene alla [Y].", "bert-base-multilingual-uncased_P@1": 0.46153846153846156}
-{"pattern": "[X] appartiene agli [Y].", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "La [X] appartiene all'organizzazione della [Y].", "bert-base-multilingual-uncased_P@1": 0.717948717948718}
-{"pattern": "La [X] \u00e8 membro della [Y].", "bert-base-multilingual-uncased_P@1": 0.7435897435897436}
-{"pattern": "[X] e' un membro degli [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "La [X] \u00e8 affiliata alla [Y].", "bert-base-multilingual-uncased_P@1": 0.6666666666666666}
-{"pattern": "La [X] fa parte della [Y].", "bert-base-multilingual-uncased_P@1": 0.6153846153846154}
-{"pattern": "La [X] appartiene alla [Y]?", "bert-base-multilingual-uncased_P@1": 0.38461538461538464}
-{"pattern": "[X] appartiene agli [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] appartiene all'organizzazione della [Y]?", "bert-base-multilingual-uncased_P@1": 0.7692307692307693}
-{"pattern": "La [X] \u00e8 membro della [Y]?", "bert-base-multilingual-uncased_P@1": 0.6923076923076923}
-{"pattern": "[X] e' un membro degli [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "La [X] \u00e8 affiliata alla [Y]?", "bert-base-multilingual-uncased_P@1": 0.5897435897435898}
-{"pattern": "La [X] fa parte della [Y]?", "bert-base-multilingual-uncased_P@1": 0.41025641025641024}
+{"pattern": "La [X] appartiene alla [Y]."}
+{"pattern": "[X] appartiene agli [Y]."}
+{"pattern": "La [X] appartiene all'organizzazione della [Y]."}
+{"pattern": "La [X] \u00e8 membro della [Y]."}
+{"pattern": "[X] e' un membro degli [Y]."}
+{"pattern": "La [X] \u00e8 affiliata alla [Y]."}
+{"pattern": "La [X] fa parte della [Y]."}
+{"pattern": "La [X] appartiene alla [Y]?"}
+{"pattern": "[X] appartiene agli [Y]?"}
+{"pattern": "La [X] appartiene all'organizzazione della [Y]?"}
+{"pattern": "La [X] \u00e8 membro della [Y]?"}
+{"pattern": "[X] e' un membro degli [Y]?"}
+{"pattern": "La [X] \u00e8 affiliata alla [Y]?"}
+{"pattern": "La [X] fa parte della [Y]?"}

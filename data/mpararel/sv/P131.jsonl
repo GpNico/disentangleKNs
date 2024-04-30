@@ -1,6 +1,6 @@
-{"pattern": "[X] finns i [Y].", "bert-base-multilingual-uncased_P@1": 0.1076923076923077}
-{"pattern": "[X] ligger i [Y].", "bert-base-multilingual-uncased_P@1": 0.1076923076923077}
-{"pattern": "[X] ligger p\u00e5 [Y].", "bert-base-multilingual-uncased_P@1": 0.046153846153846156}
-{"pattern": "Kan [X] hittas i [Y]?", "bert-base-multilingual-uncased_P@1": 0.046153846153846156}
-{"pattern": "\u00c4r [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.046153846153846156}
-{"pattern": "Ligger [X] i [Y]?", "bert-base-multilingual-uncased_P@1": 0.13846153846153847}
+{"pattern": "[X] finns i [Y]."}
+{"pattern": "[X] ligger i [Y]."}
+{"pattern": "[X] ligger p\u00e5 [Y]."}
+{"pattern": "Kan [X] hittas i [Y]?"}
+{"pattern": "\u00c4r [X] i [Y]?"}
+{"pattern": "Ligger [X] i [Y]?"}

@@ -1,11 +1,7 @@
-{"pattern": "[X] has a citizenship of [Y] .", "bert-base-multilingual-uncased_P@1": 0.41578947368421054}
-{"pattern": "[X] holds a citizenship of [Y] .", "bert-base-multilingual-uncased_P@1": 0.4421052631578947}
-{"pattern": "[X] is a citizen of [Y] .", "bert-base-multilingual-uncased_P@1": 0.4105263157894737}
-{"pattern": "[X], a citizen of [Y] .", "bert-base-multilingual-uncased_P@1": 0.23684210526315788}
-{"pattern": "[X], who has a citizenship of [Y] .", "bert-base-multilingual-uncased_P@1": 0.4368421052631579}
-{"pattern": "[X], who holds a citizenship of [Y] .", "bert-base-multilingual-uncased_P@1": 0.46842105263157896}
-{"pattern": "[X], who is a citizen of [Y] .", "bert-base-multilingual-uncased_P@1": 0.2736842105263158}
-{"pattern": "Does [X] have a citizenship of [Y]?", "bert-base-multilingual-uncased_P@1": 0.45789473684210524}
-{"pattern": "Does [X] hold a citizenship of [Y]?", "bert-base-multilingual-uncased_P@1": 0.4421052631578947}
-{"pattern": "Does [X] hold the citizenship of [Y]?", "bert-base-multilingual-uncased_P@1": 0.4105263157894737}
-{"pattern": "Is [X] a citizen of [Y]?", "bert-base-multilingual-uncased_P@1": 0.3631578947368421}
+{"pattern": "[X] has a citizenship of [Y] .", "bert-base-uncased_P@1": 0.42588726513569936, "bert-base-multilingual-uncased_P@1": 0.41578947368421054}
+{"pattern": "[X] holds a citizenship of [Y] .", "bert-base-uncased_P@1": 0.4279749478079332, "bert-base-multilingual-uncased_P@1": 0.4421052631578947}
+{"pattern": "[X] is a citizen of [Y] .", "bert-base-uncased_P@1": 0.44780793319415446, "bert-base-multilingual-uncased_P@1": 0.4105263157894737}
+{"pattern": "[X], a citizen of [Y] .", "bert-base-uncased_P@1": 0.3277661795407098, "bert-base-multilingual-uncased_P@1": 0.23157894736842105}
+{"pattern": "[X], who has a citizenship of [Y] .", "bert-base-uncased_P@1": 0.44154488517745305, "bert-base-multilingual-uncased_P@1": 0.4368421052631579}
+{"pattern": "[X], who holds a citizenship of [Y] .", "bert-base-uncased_P@1": 0.4331941544885177, "bert-base-multilingual-uncased_P@1": 0.46842105263157896}
+{"pattern": "[X], who is a citizen of [Y] .", "bert-base-uncased_P@1": 0.4384133611691023, "bert-base-multilingual-uncased_P@1": 0.26842105263157895}

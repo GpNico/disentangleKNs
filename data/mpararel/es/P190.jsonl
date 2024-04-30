@@ -6,7 +6,3 @@
 {"pattern": "[X] es una ciudad gemela de [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "La ciudad hermana de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.039735099337748346}
 {"pattern": "La ciudad gemela de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.033112582781456956}
-{"pattern": "\u00bf[X] es una ciudad hermana de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] es una ciudad gemela de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] es la ciudad hermana de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] es la ciudad gemela de [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

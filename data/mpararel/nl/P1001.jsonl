@@ -1,6 +1,3 @@
-{"pattern": "[X] telt als een wettelijke term in [Y].", "bert-base-multilingual-uncased_P@1": 0.42105263157894735}
-{"pattern": "[X] is een juridische term in [Y].", "bert-base-multilingual-uncased_P@1": 0.8289473684210527}
-{"pattern": "[X] is een geldige juridische term in [Y].", "bert-base-multilingual-uncased_P@1": 0.7894736842105263}
-{"pattern": "Is [X] een wettelijke term in [Y]?", "bert-base-multilingual-uncased_P@1": 0.6578947368421053}
-{"pattern": "Is het [X] een wettelijke term in [Y]?", "bert-base-multilingual-uncased_P@1": 0.6578947368421053}
-{"pattern": "Is [X] een geldige juridische term in [Y]?", "bert-base-multilingual-uncased_P@1": 0.7105263157894737}
+{"pattern": "[X] telt als een wettelijke term in [Y]."}
+{"pattern": "[X] is een juridische term in [Y]."}
+{"pattern": "[X] is een geldige juridische term in [Y]."}

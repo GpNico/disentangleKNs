@@ -1,6 +1,6 @@
-{"pattern": "[X] zosta\u0142o nazwane na cze\u015b\u0107 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], nazwany na cze\u015b\u0107 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], nazwane na cze\u015b\u0107 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], kt\u00f3re zosta\u0142o nazwane na cze\u015b\u0107 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany na cze\u015b\u0107 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zosta\u0142o nazwane na cze\u015b\u0107 [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] zosta\u0142o nazwane na cze\u015b\u0107 [Y]."}
+{"pattern": "[X], nazwany na cze\u015b\u0107 [Y]."}
+{"pattern": "[X], nazwane na cze\u015b\u0107 [Y]."}
+{"pattern": "[X], kt\u00f3re zosta\u0142o nazwane na cze\u015b\u0107 [Y]."}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany na cze\u015b\u0107 [Y]."}
+{"pattern": "Czy [X] zosta\u0142o nazwane na cze\u015b\u0107 [Y]?"}

@@ -5,10 +5,3 @@
 {"pattern": "[X] fue una obra escrita en [Y].", "bert-base-multilingual-uncased_P@1": 0.6666666666666666}
 {"pattern": "[X] fue creado en [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "[X] fue escrito en [Y].", "bert-base-multilingual-uncased_P@1": 0.5797101449275363}
-{"pattern": "\u00bf[X] es una obra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.13043478260869565}
-{"pattern": "\u00bf[X] es una obra escrita en [Y]?", "bert-base-multilingual-uncased_P@1": 0.7318840579710145}
-{"pattern": "\u00bf[X] est\u00e1 escrito en [Y]?", "bert-base-multilingual-uncased_P@1": 0.5579710144927537}
-{"pattern": "\u00bfFue [X] una obra en [Y]?", "bert-base-multilingual-uncased_P@1": 0.09420289855072464}
-{"pattern": "\u00bf[X] fue una obra escrita en [Y]?", "bert-base-multilingual-uncased_P@1": 0.6666666666666666}
-{"pattern": "\u00bf[X] fue creado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] fue escrito en [Y]?", "bert-base-multilingual-uncased_P@1": 0.2898550724637681}

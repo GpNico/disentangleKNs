@@ -1,18 +1,18 @@
-{"pattern": "Miejscem \u015bmierci [X] jest [Y].", "bert-base-multilingual-uncased_P@1": 0.06557377049180328}
-{"pattern": "Miejscem \u015bmierci [X] by\u0142 [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "Miejsce \u015bmierci [X] to [Y].", "bert-base-multilingual-uncased_P@1": 0.04918032786885246}
-{"pattern": "Miejscem \u015bmierci [X] by\u0142a [Y].", "bert-base-multilingual-uncased_P@1": 0.01639344262295082}
-{"pattern": "Miejsce \u015bmierci [X]a to [Y].", "bert-base-multilingual-uncased_P@1": 0.01639344262295082}
-{"pattern": "Miejscem \u015bmierci [X] by\u0142o [Y].", "bert-base-multilingual-uncased_P@1": 0.03278688524590164}
-{"pattern": "[X] zmar\u0142 w [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] zmar\u0142a w [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] straci\u0142 \u017cycie w [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] podda\u0142 si\u0119 w [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zgin\u0105\u0142 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zmar\u0142 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] zmar\u0142a w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] straci\u0142 \u017cycie w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] straci\u0142a \u017cycie w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] podda\u0142 si\u0119 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] podda\u0142a si\u0119 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy \u017cycie [X] zako\u0144czy\u0142o si\u0119 w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Miejscem \u015bmierci [X] jest [Y]."}
+{"pattern": "Miejscem \u015bmierci [X] by\u0142 [Y]."}
+{"pattern": "Miejsce \u015bmierci [X] to [Y]."}
+{"pattern": "Miejscem \u015bmierci [X] by\u0142a [Y]."}
+{"pattern": "Miejsce \u015bmierci [X]a to [Y]."}
+{"pattern": "Miejscem \u015bmierci [X] by\u0142o [Y]."}
+{"pattern": "[X] zmar\u0142 w [Y]."}
+{"pattern": "[X] zmar\u0142a w [Y]."}
+{"pattern": "[X] straci\u0142 \u017cycie w [Y]."}
+{"pattern": "[X] podda\u0142 si\u0119 w [Y]."}
+{"pattern": "Czy [X] zgin\u0105\u0142 w [Y]?"}
+{"pattern": "Czy [X] zmar\u0142 w [Y]?"}
+{"pattern": "Czy [X] zmar\u0142a w [Y]?"}
+{"pattern": "Czy [X] straci\u0142 \u017cycie w [Y]?"}
+{"pattern": "Czy [X] straci\u0142a \u017cycie w [Y]?"}
+{"pattern": "Czy [X] podda\u0142 si\u0119 w [Y]?"}
+{"pattern": "Czy [X] podda\u0142a si\u0119 w [Y]?"}
+{"pattern": "Czy \u017cycie [X] zako\u0144czy\u0142o si\u0119 w [Y]?"}

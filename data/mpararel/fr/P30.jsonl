@@ -7,11 +7,3 @@
 {"pattern": "Le [X] est situ\u00e9 en [Y].", "bert-base-multilingual-uncased_P@1": 0.19607843137254902}
 {"pattern": "Le [X] est situ\u00e9 sur le continent [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "L'[X] est situ\u00e9e sur le continent [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Le [X] appartient-il au continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Le [X] appartient-il au continent de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.45098039215686275}
-{"pattern": "Le [X] fait-il partie du continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "L'[X] fait-elle partie du continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fait-il partie du continent de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.45098039215686275}
-{"pattern": "Le [X] est-il situ\u00e9 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.2549019607843137}
-{"pattern": "L'[X] est-elle situ\u00e9e sur le continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] est-il situ\u00e9 sur le continent [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

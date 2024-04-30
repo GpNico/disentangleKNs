@@ -1,6 +1,6 @@
-{"pattern": "[X] conta como um termo legal na [Y].", "bert-base-multilingual-uncased_P@1": 0.58}
-{"pattern": "[X] \u00e9 um termo legal na [Y].", "bert-base-multilingual-uncased_P@1": 0.72}
-{"pattern": "[X] \u00e9 um termo legal v\u00e1lido na [Y].", "bert-base-multilingual-uncased_P@1": 0.68}
-{"pattern": "O [X] conta como um termo legal na [Y]?", "bert-base-multilingual-uncased_P@1": 0.54}
-{"pattern": "[X] \u00e9 um termo legal na [Y]?", "bert-base-multilingual-uncased_P@1": 0.66}
-{"pattern": "[X] \u00e9 um termo legal v\u00e1lido na [Y]?", "bert-base-multilingual-uncased_P@1": 0.68}
+{"pattern": "[X] conta como um termo legal na [Y]."}
+{"pattern": "[X] \u00e9 um termo legal na [Y]."}
+{"pattern": "[X] \u00e9 um termo legal v\u00e1lido na [Y]."}
+{"pattern": "O [X] conta como um termo legal na [Y]?"}
+{"pattern": "[X] \u00e9 um termo legal na [Y]?"}
+{"pattern": "[X] \u00e9 um termo legal v\u00e1lido na [Y]?"}

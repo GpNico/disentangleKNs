@@ -1,20 +1,20 @@
-{"pattern": "[X] \u00e4r uppkallad efter [Y].", "bert-base-multilingual-uncased_P@1": 0.13043478260869565}
-{"pattern": "[X] \u00e4r uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.11594202898550725}
-{"pattern": "[X]-distriktet \u00e4r uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.11594202898550725}
-{"pattern": "[X] fick sitt namn efter [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043}
-{"pattern": "[X] namngavs efter [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X]-distriktet fick sitt namn efter [Y].", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
-{"pattern": "[X], uppkallad efter [Y].", "bert-base-multilingual-uncased_P@1": 0.17391304347826086}
-{"pattern": "[X], uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.18840579710144928}
-{"pattern": "[X]-distriktet, uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.17391304347826086}
-{"pattern": "[X], som \u00e4r uppkallad efter [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043}
-{"pattern": "[X], som \u00e4r uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.08695652173913043}
-{"pattern": "[X]-distriktet, som \u00e4r uppkallat efter [Y].", "bert-base-multilingual-uncased_P@1": 0.057971014492753624}
-{"pattern": "[X], som fick sitt namn efter [Y].", "bert-base-multilingual-uncased_P@1": 0.057971014492753624}
-{"pattern": "[X]-distriktet, som fick sitt namn efter [Y].", "bert-base-multilingual-uncased_P@1": 0.043478260869565216}
-{"pattern": "\u00c4r [X] uppkallad efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
-{"pattern": "\u00c4r [X] uppkallat efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
-{"pattern": "\u00c4r [X]-distriktet uppkallat efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.057971014492753624}
-{"pattern": "Var [X] uppkallad efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.028985507246376812}
-{"pattern": "Var [X] uppkallat efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.014492753623188406}
-{"pattern": "Fick [X] sitt namn efter [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] \u00e4r uppkallad efter [Y]."}
+{"pattern": "[X] \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X] fick sitt namn efter [Y]."}
+{"pattern": "[X] namngavs efter [Y]."}
+{"pattern": "[X]-distriktet fick sitt namn efter [Y]."}
+{"pattern": "[X], uppkallad efter [Y]."}
+{"pattern": "[X], uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet, uppkallat efter [Y]."}
+{"pattern": "[X], som \u00e4r uppkallad efter [Y]."}
+{"pattern": "[X], som \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X]-distriktet, som \u00e4r uppkallat efter [Y]."}
+{"pattern": "[X], som fick sitt namn efter [Y]."}
+{"pattern": "[X]-distriktet, som fick sitt namn efter [Y]."}
+{"pattern": "\u00c4r [X] uppkallad efter [Y]?"}
+{"pattern": "\u00c4r [X] uppkallat efter [Y]?"}
+{"pattern": "\u00c4r [X]-distriktet uppkallat efter [Y]?"}
+{"pattern": "Var [X] uppkallad efter [Y]?"}
+{"pattern": "Var [X] uppkallat efter [Y]?"}
+{"pattern": "Fick [X] sitt namn efter [Y]?"}

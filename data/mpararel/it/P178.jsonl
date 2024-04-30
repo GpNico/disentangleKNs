@@ -1,23 +1,23 @@
-{"pattern": "[X] e il suo prodotto [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] costruisce [Y].", "bert-base-multilingual-uncased_P@1": 0.1}
-{"pattern": "[X] sviluppa [Y].", "bert-base-multilingual-uncased_P@1": 0.01}
-{"pattern": "[X] fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] produce [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e8 prodotto da [Y].", "bert-base-multilingual-uncased_P@1": 0.59}
-{"pattern": "[X], che costruisce [Y].", "bert-base-multilingual-uncased_P@1": 0.34}
-{"pattern": "[X], che ha creato [Y].", "bert-base-multilingual-uncased_P@1": 0.42}
-{"pattern": "[X], che ha sviluppato [Y].", "bert-base-multilingual-uncased_P@1": 0.45}
-{"pattern": "[X], che sviluppa [Y].", "bert-base-multilingual-uncased_P@1": 0.41}
-{"pattern": "[X], che fa [Y].", "bert-base-multilingual-uncased_P@1": 0.01}
-{"pattern": "[X], che produce [Y].", "bert-base-multilingual-uncased_P@1": 0.07}
-{"pattern": "[X] per Android, che produce [Y].", "bert-base-multilingual-uncased_P@1": 0.07}
-{"pattern": "[X], il creatore di [Y].", "bert-base-multilingual-uncased_P@1": 0.28}
-{"pattern": "[X] ha creato [Y]?", "bert-base-multilingual-uncased_P@1": 0.01}
-{"pattern": "[X] sviluppa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] produce [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] per Android produce [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e8 il creatore di [Y]?", "bert-base-multilingual-uncased_P@1": 0.12}
-{"pattern": "[X] \u00e8 il creatore dell'[Y]?", "bert-base-multilingual-uncased_P@1": 0.1}
-{"pattern": "[X] \u00e8 stato il creatore di [Y]?", "bert-base-multilingual-uncased_P@1": 0.08}
-{"pattern": "Il [X] \u00e8 stato il creatore del [Y]?", "bert-base-multilingual-uncased_P@1": 0.15}
+{"pattern": "[X] e il suo prodotto [Y]."}
+{"pattern": "[X] costruisce [Y]."}
+{"pattern": "[X] sviluppa [Y]."}
+{"pattern": "[X] fa [Y]."}
+{"pattern": "[X] produce [Y]."}
+{"pattern": "[X] \u00e8 prodotto da [Y]."}
+{"pattern": "[X], che costruisce [Y]."}
+{"pattern": "[X], che ha creato [Y]."}
+{"pattern": "[X], che ha sviluppato [Y]."}
+{"pattern": "[X], che sviluppa [Y]."}
+{"pattern": "[X], che fa [Y]."}
+{"pattern": "[X], che produce [Y]."}
+{"pattern": "[X] per Android, che produce [Y]."}
+{"pattern": "[X], il creatore di [Y]."}
+{"pattern": "[X] ha creato [Y]?"}
+{"pattern": "[X] sviluppa [Y]?"}
+{"pattern": "[X] fa [Y]?"}
+{"pattern": "[X] produce [Y]?"}
+{"pattern": "[X] per Android produce [Y]?"}
+{"pattern": "[X] \u00e8 il creatore di [Y]?"}
+{"pattern": "[X] \u00e8 il creatore dell'[Y]?"}
+{"pattern": "[X] \u00e8 stato il creatore di [Y]?"}
+{"pattern": "Il [X] \u00e8 stato il creatore del [Y]?"}

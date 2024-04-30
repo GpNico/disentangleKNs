@@ -1,6 +1,3 @@
 {"pattern": "[X] est un terme l\u00e9gal en [Y].", "bert-base-multilingual-uncased_P@1": 0.23529411764705882}
 {"pattern": "[X] est un terme juridique en [Y].", "bert-base-multilingual-uncased_P@1": 0.14705882352941177}
 {"pattern": "[X] est un terme juridique valide en [Y].", "bert-base-multilingual-uncased_P@1": 0.6274509803921569}
-{"pattern": "Le [X] est-il un terme l\u00e9gal au [Y]?", "bert-base-multilingual-uncased_P@1": 0.24509803921568626}
-{"pattern": "Le [X] est-il un terme l\u00e9gal en [Y]?", "bert-base-multilingual-uncased_P@1": 0.22549019607843138}
-{"pattern": "Le [X] est-il un terme juridique valide en [Y]?", "bert-base-multilingual-uncased_P@1": 0.4019607843137255}

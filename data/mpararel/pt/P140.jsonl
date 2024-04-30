@@ -1,7 +1,7 @@
-{"pattern": "A religi\u00e3o de [X] \u00e9 o [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "[X] acredita no [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "[X] \u00e9 um crente do [Y].", "bert-base-multilingual-uncased_P@1": 0.5555555555555556}
-{"pattern": "[X] \u00e9 um seguidor do [Y].", "bert-base-multilingual-uncased_P@1": 0.8888888888888888}
-{"pattern": "O [X] acredita no [Y]?", "bert-base-multilingual-uncased_P@1": 0.2222222222222222}
-{"pattern": "[X] \u00e9 um crente no [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e9 um seguidor do [Y]?", "bert-base-multilingual-uncased_P@1": 0.5555555555555556}
+{"pattern": "A religi\u00e3o de [X] \u00e9 o [Y]."}
+{"pattern": "[X] acredita no [Y]."}
+{"pattern": "[X] \u00e9 um crente do [Y]."}
+{"pattern": "[X] \u00e9 um seguidor do [Y]."}
+{"pattern": "O [X] acredita no [Y]?"}
+{"pattern": "[X] \u00e9 um crente no [Y]?"}
+{"pattern": "[X] \u00e9 um seguidor do [Y]?"}

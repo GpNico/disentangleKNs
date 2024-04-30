@@ -1,9 +1,9 @@
-{"pattern": "A ocupa\u00e7\u00e3o de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "A profiss\u00e3o de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] trabalha como [Y].", "bert-base-multilingual-uncased_P@1": 0.15789473684210525}
-{"pattern": "A ocupa\u00e7\u00e3o de [X] \u00e9 um [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "A ocupa\u00e7\u00e3o de A. [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "A profiss\u00e3o de Louis Laurent [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], que trabalha como [Y].", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
-{"pattern": "O [X] trabalha como [Y]?", "bert-base-multilingual-uncased_P@1": 0.017543859649122806}
-{"pattern": "[X] trabalha como [Y]?", "bert-base-multilingual-uncased_P@1": 0.03508771929824561}
+{"pattern": "A ocupa\u00e7\u00e3o de [X] \u00e9 [Y]."}
+{"pattern": "A profiss\u00e3o de [X] \u00e9 [Y]."}
+{"pattern": "[X] trabalha como [Y]."}
+{"pattern": "A ocupa\u00e7\u00e3o de [X] \u00e9 um [Y]."}
+{"pattern": "A ocupa\u00e7\u00e3o de A. [X] \u00e9 [Y]."}
+{"pattern": "A profiss\u00e3o de Louis Laurent [X] \u00e9 [Y]."}
+{"pattern": "[X], que trabalha como [Y]."}
+{"pattern": "O [X] trabalha como [Y]?"}
+{"pattern": "[X] trabalha como [Y]?"}

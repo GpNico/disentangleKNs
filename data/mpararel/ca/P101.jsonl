@@ -1,16 +1,16 @@
-{"pattern": "El domini d'activitat de [X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.024390243902439025}
-{"pattern": "El domini de la feina d'[X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.036585365853658534}
-{"pattern": "L'especialitat de [X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.12195121951219512}
-{"pattern": "[X] \u00e9s especialista en [Y].", "bert-base-multilingual-uncased_P@1": 0.08536585365853659}
-{"pattern": "[X] treballa en l'\u00e0rea de la [Y].", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
-{"pattern": "[X] treballa en el camp de la [Y].", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
-{"pattern": "L'\u00e0rea d'especialitzaci\u00f3 de [X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.08536585365853659}
-{"pattern": "L'\u00e0rea de treball de [X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.0975609756097561}
-{"pattern": "El domini d'activitat de [X] \u00e9s l'[Y].", "bert-base-multilingual-uncased_P@1": 0.012195121951219513}
-{"pattern": "El domini de treball de [X] \u00e9s la [Y].", "bert-base-multilingual-uncased_P@1": 0.04878048780487805}
-{"pattern": "L'especialitat de [X] \u00e9s l'[Y].", "bert-base-multilingual-uncased_P@1": 0.036585365853658534}
-{"pattern": "L'especialitat de [X] \u00e9s en [Y].", "bert-base-multilingual-uncased_P@1": 0.17073170731707318}
-{"pattern": "[X] \u00e9s especialista en [Y]?", "bert-base-multilingual-uncased_P@1": 0.08536585365853659}
-{"pattern": "[X] treballa en el camp de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.024390243902439025}
-{"pattern": "[X] treballa en l'\u00e0rea de la [Y]?", "bert-base-multilingual-uncased_P@1": 0.10975609756097561}
-{"pattern": "\u00c9s l'expertesa de [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.13414634146341464}
+{"pattern": "El domini d'activitat de [X] \u00e9s la [Y]."}
+{"pattern": "El domini de la feina d'[X] \u00e9s la [Y]."}
+{"pattern": "L'especialitat de [X] \u00e9s la [Y]."}
+{"pattern": "[X] \u00e9s especialista en [Y]."}
+{"pattern": "[X] treballa en l'\u00e0rea de la [Y]."}
+{"pattern": "[X] treballa en el camp de la [Y]."}
+{"pattern": "L'\u00e0rea d'especialitzaci\u00f3 de [X] \u00e9s la [Y]."}
+{"pattern": "L'\u00e0rea de treball de [X] \u00e9s la [Y]."}
+{"pattern": "El domini d'activitat de [X] \u00e9s l'[Y]."}
+{"pattern": "El domini de treball de [X] \u00e9s la [Y]."}
+{"pattern": "L'especialitat de [X] \u00e9s l'[Y]."}
+{"pattern": "L'especialitat de [X] \u00e9s en [Y]."}
+{"pattern": "[X] \u00e9s especialista en [Y]?"}
+{"pattern": "[X] treballa en el camp de l'[Y]?"}
+{"pattern": "[X] treballa en l'\u00e0rea de la [Y]?"}
+{"pattern": "\u00c9s l'expertesa de [X] en [Y]?"}

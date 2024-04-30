@@ -1,8 +1,6 @@
-{"pattern": "[X] is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
-{"pattern": "[X] is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
-{"pattern": "[X], that is the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
-{"pattern": "[X], that is the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7045454545454546}
-{"pattern": "[X], the capital city of [Y] .", "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
-{"pattern": "[X], the capital of [Y] .", "bert-base-multilingual-uncased_P@1": 0.75}
-{"pattern": "Is [X] the capital city of [Y]?", "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
-{"pattern": "Is [X] the capital of [Y]?", "bert-base-multilingual-uncased_P@1": 0.6363636363636364}
+{"pattern": "[X] is the capital city of [Y] .", "bert-base-uncased_P@1": 0.8166666666666667, "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X] is the capital of [Y] .", "bert-base-uncased_P@1": 0.8222222222222222, "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X], that is the capital city of [Y] .", "bert-base-uncased_P@1": 0.8166666666666667, "bert-base-multilingual-uncased_P@1": 0.7272727272727273}
+{"pattern": "[X], that is the capital of [Y] .", "bert-base-uncased_P@1": 0.7944444444444444, "bert-base-multilingual-uncased_P@1": 0.7045454545454546}
+{"pattern": "[X], the capital city of [Y] .", "bert-base-uncased_P@1": 0.8055555555555556, "bert-base-multilingual-uncased_P@1": 0.7727272727272727}
+{"pattern": "[X], the capital of [Y] .", "bert-base-uncased_P@1": 0.7944444444444444, "bert-base-multilingual-uncased_P@1": 0.75}

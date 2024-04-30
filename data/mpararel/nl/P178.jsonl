@@ -1,20 +1,13 @@
-{"pattern": "[X] en zijn product [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] bouwt [Y].", "bert-base-multilingual-uncased_P@1": 0.19718309859154928}
-{"pattern": "[X] ontwikkelt [Y].", "bert-base-multilingual-uncased_P@1": 0.5211267605633803}
-{"pattern": "[X] maakt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] produceert [Y].", "bert-base-multilingual-uncased_P@1": 0.11267605633802817}
-{"pattern": "[X] wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.7464788732394366}
-{"pattern": "[X], dat bouwt [Y].", "bert-base-multilingual-uncased_P@1": 0.5211267605633803}
-{"pattern": "[X], ontwikkeld door [Y].", "bert-base-multilingual-uncased_P@1": 0.7605633802816901}
-{"pattern": "[X], dat ontwikkelt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], dat maakt [Y].", "bert-base-multilingual-uncased_P@1": 0.07042253521126761}
-{"pattern": "[X], dat wordt geproduceerd door [Y].", "bert-base-multilingual-uncased_P@1": 0.7464788732394366}
-{"pattern": "[X], dat produceert [Y].", "bert-base-multilingual-uncased_P@1": 0.23943661971830985}
-{"pattern": "[X], de maker van de [Y].", "bert-base-multilingual-uncased_P@1": 0.18309859154929578}
-{"pattern": "Ontwikkelt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Maakt [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Produceert [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Is [X] de maker van [Y]?", "bert-base-multilingual-uncased_P@1": 0.29577464788732394}
-{"pattern": "Is [X] de maker van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.04225352112676056}
-{"pattern": "Was [X] de maker van [Y]?", "bert-base-multilingual-uncased_P@1": 0.2676056338028169}
-{"pattern": "Was [X] de maker van de [Y]?", "bert-base-multilingual-uncased_P@1": 0.028169014084507043}
+{"pattern": "[X] en zijn product [Y]."}
+{"pattern": "[X] bouwt [Y]."}
+{"pattern": "[X] ontwikkelt [Y]."}
+{"pattern": "[X] maakt [Y]."}
+{"pattern": "[X] produceert [Y]."}
+{"pattern": "[X] wordt geproduceerd door [Y]."}
+{"pattern": "[X], dat bouwt [Y]."}
+{"pattern": "[X], ontwikkeld door [Y]."}
+{"pattern": "[X], dat ontwikkelt [Y]."}
+{"pattern": "[X], dat maakt [Y]."}
+{"pattern": "[X], dat wordt geproduceerd door [Y]."}
+{"pattern": "[X], dat produceert [Y]."}
+{"pattern": "[X], de maker van de [Y]."}

@@ -1,3 +1,2 @@
-{"pattern": "[X] est d\u00e9tenu par [Y]."}
-{"pattern": "Le propri\u00e9taire de [X] est [Y]."}
-{"pattern": "[X] est d\u00e9tenu par [Y]?"}
+{"pattern": "[X] est d\u00e9tenu par [Y].", "bert-base-multilingual-uncased_P@1": 0.2777777777777778}
+{"pattern": "Le propri\u00e9taire de [X] est [Y].", "bert-base-multilingual-uncased_P@1": 0.1574074074074074}

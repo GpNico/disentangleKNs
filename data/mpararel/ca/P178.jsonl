@@ -1,23 +1,23 @@
-{"pattern": "[X] i el seu producte [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] construeix [Y].", "bert-base-multilingual-uncased_P@1": 0.27450980392156865}
-{"pattern": "[X] desenvolupa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fabrica [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] produeix [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], que construeix [Y].", "bert-base-multilingual-uncased_P@1": 0.45098039215686275}
-{"pattern": "[X], que va crear [Y].", "bert-base-multilingual-uncased_P@1": 0.6078431372549019}
-{"pattern": "[X], que va desenvolupar [Y].", "bert-base-multilingual-uncased_P@1": 0.6078431372549019}
-{"pattern": "[X], que desenvolupa [Y].", "bert-base-multilingual-uncased_P@1": 0.49019607843137253}
-{"pattern": "[X], aix\u00f2 fa [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], que fabrica [Y].", "bert-base-multilingual-uncased_P@1": 0.45098039215686275}
-{"pattern": "[X], que produeix [Y].", "bert-base-multilingual-uncased_P@1": 0.19607843137254902}
-{"pattern": "[X], el creador de [Y].", "bert-base-multilingual-uncased_P@1": 0.27450980392156865}
-{"pattern": "[X] va crear [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] desenvolupa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fa [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] fabrica [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] produeix [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c9s [X] el creador de [Y]?", "bert-base-multilingual-uncased_P@1": 0.1568627450980392}
-{"pattern": "\u00c9s [X] el creador de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0784313725490196}
-{"pattern": "Va ser [X] el creador de [Y]?", "bert-base-multilingual-uncased_P@1": 0.09803921568627451}
-{"pattern": "Va ser [X] el creador de l'[Y]?", "bert-base-multilingual-uncased_P@1": 0.0196078431372549}
+{"pattern": "[X] i el seu producte [Y]."}
+{"pattern": "[X] construeix [Y]."}
+{"pattern": "[X] desenvolupa [Y]."}
+{"pattern": "[X] fa [Y]."}
+{"pattern": "[X] fabrica [Y]."}
+{"pattern": "[X] produeix [Y]."}
+{"pattern": "[X], que construeix [Y]."}
+{"pattern": "[X], que va crear [Y]."}
+{"pattern": "[X], que va desenvolupar [Y]."}
+{"pattern": "[X], que desenvolupa [Y]."}
+{"pattern": "[X], aix\u00f2 fa [Y]."}
+{"pattern": "[X], que fabrica [Y]."}
+{"pattern": "[X], que produeix [Y]."}
+{"pattern": "[X], el creador de [Y]."}
+{"pattern": "[X] va crear [Y]?"}
+{"pattern": "[X] desenvolupa [Y]?"}
+{"pattern": "[X] fa [Y]?"}
+{"pattern": "[X] fabrica [Y]?"}
+{"pattern": "[X] produeix [Y]?"}
+{"pattern": "\u00c9s [X] el creador de [Y]?"}
+{"pattern": "\u00c9s [X] el creador de l'[Y]?"}
+{"pattern": "Va ser [X] el creador de [Y]?"}
+{"pattern": "Va ser [X] el creador de l'[Y]?"}

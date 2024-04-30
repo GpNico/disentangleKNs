@@ -1,22 +1,22 @@
-{"pattern": "[X] i jego produkt [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] buduje [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] rozwija [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] tworzy [Y].", "bert-base-multilingual-uncased_P@1": 0.015873015873015872}
-{"pattern": "[X] jest produkowany przez [Y].", "bert-base-multilingual-uncased_P@1": 0.8095238095238095}
-{"pattern": "[X] produkuje [Y].", "bert-base-multilingual-uncased_P@1": 0.4603174603174603}
-{"pattern": "[X], kt\u00f3ry buduje [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], kt\u00f3ry stworzy\u0142 [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "[X], kt\u00f3ry opracowa\u0142 [Y].", "bert-base-multilingual-uncased_P@1": 0.4603174603174603}
-{"pattern": "[X], kt\u00f3ry rozwija [Y].", "bert-base-multilingual-uncased_P@1": 0.07936507936507936}
-{"pattern": "[X], to sprawia, \u017ce [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], kt\u00f3ry produkuje [Y].", "bert-base-multilingual-uncased_P@1": 0.5714285714285714}
-{"pattern": "Windows [X], kt\u00f3ry produkuje [Y].", "bert-base-multilingual-uncased_P@1": 0.5238095238095238}
-{"pattern": "[X], tw\u00f3rca [Y].", "bert-base-multilingual-uncased_P@1": 0.031746031746031744}
-{"pattern": "Czy [X] stworzy\u0142 [Y]?", "bert-base-multilingual-uncased_P@1": 0.015873015873015872}
-{"pattern": "Czy [X] rozwija [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] tworzy [Y]?", "bert-base-multilingual-uncased_P@1": 0.06349206349206349}
-{"pattern": "Czy [X] produkuje [Y]?", "bert-base-multilingual-uncased_P@1": 0.031746031746031744}
-{"pattern": "Czy Windows [X] jest produkowany przez [Y]?", "bert-base-multilingual-uncased_P@1": 0.5555555555555556}
-{"pattern": "Czy [X] jest tw\u00f3rc\u0105 [Y]?", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
-{"pattern": "Czy [X] by\u0142 tw\u00f3rc\u0105 [Y]?", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
-{"pattern": "Czy [X] by\u0142o tw\u00f3rc\u0105 [Y]?", "bert-base-multilingual-uncased_P@1": 0.047619047619047616}
+{"pattern": "[X] i jego produkt [Y]."}
+{"pattern": "[X] buduje [Y]."}
+{"pattern": "[X] rozwija [Y]."}
+{"pattern": "[X] tworzy [Y]."}
+{"pattern": "[X] jest produkowany przez [Y]."}
+{"pattern": "[X] produkuje [Y]."}
+{"pattern": "[X], kt\u00f3ry buduje [Y]."}
+{"pattern": "[X], kt\u00f3ry stworzy\u0142 [Y]."}
+{"pattern": "[X], kt\u00f3ry opracowa\u0142 [Y]."}
+{"pattern": "[X], kt\u00f3ry rozwija [Y]."}
+{"pattern": "[X], to sprawia, \u017ce [Y]."}
+{"pattern": "[X], kt\u00f3ry produkuje [Y]."}
+{"pattern": "Windows [X], kt\u00f3ry produkuje [Y]."}
+{"pattern": "[X], tw\u00f3rca [Y]."}
+{"pattern": "Czy [X] stworzy\u0142 [Y]?"}
+{"pattern": "Czy [X] rozwija [Y]?"}
+{"pattern": "Czy [X] tworzy [Y]?"}
+{"pattern": "Czy [X] produkuje [Y]?"}
+{"pattern": "Czy Windows [X] jest produkowany przez [Y]?"}
+{"pattern": "Czy [X] jest tw\u00f3rc\u0105 [Y]?"}
+{"pattern": "Czy [X] by\u0142 tw\u00f3rc\u0105 [Y]?"}
+{"pattern": "Czy [X] by\u0142o tw\u00f3rc\u0105 [Y]?"}

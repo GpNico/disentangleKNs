@@ -1,12 +1,3 @@
-{"pattern": "[X] grenst aan [Y].", "bert-base-multilingual-uncased_P@1": 0.08759124087591241}
-{"pattern": "De [X] grenst aan [Y].", "bert-base-multilingual-uncased_P@1": 0.072992700729927}
-{"pattern": "[X] heeft een gemeenschappelijke grens met [Y].", "bert-base-multilingual-uncased_P@1": 0.029197080291970802}
-{"pattern": "Grenst [X] aan [Y]?", "bert-base-multilingual-uncased_P@1": 0.0072992700729927005}
-{"pattern": "Deelt [X] een grens met [Y]?", "bert-base-multilingual-uncased_P@1": 0.06569343065693431}
-{"pattern": "Deelt [X] een gemeenschappelijke grens met [Y]?", "bert-base-multilingual-uncased_P@1": 0.058394160583941604}
-{"pattern": "Deelt de [X] een grens met [Y]?", "bert-base-multilingual-uncased_P@1": 0.072992700729927}
-{"pattern": "Deelt [X] grenzen met [Y]?", "bert-base-multilingual-uncased_P@1": 0.043795620437956206}
-{"pattern": "Deelt [X] zijn grens met [Y]?", "bert-base-multilingual-uncased_P@1": 0.08029197080291971}
-{"pattern": "Deelt [X] zijn grenzen met [Y]?", "bert-base-multilingual-uncased_P@1": 0.051094890510948905}
-{"pattern": "Deelt [X] de grens met [Y]?", "bert-base-multilingual-uncased_P@1": 0.072992700729927}
-{"pattern": "Deelt [X] de grenzen met [Y]?", "bert-base-multilingual-uncased_P@1": 0.058394160583941604}
+{"pattern": "[X] grenst aan [Y]."}
+{"pattern": "De [X] grenst aan [Y]."}
+{"pattern": "[X] heeft een gemeenschappelijke grens met [Y]."}

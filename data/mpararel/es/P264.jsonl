@@ -23,37 +23,10 @@
 {"pattern": "El sello de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "El sello musical de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.23076923076923078}
 {"pattern": "El sello musical de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.09615384615384616}
 {"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
 {"pattern": "El sello discogr\u00e1fico de [X] es [Y].", "bert-base-multilingual-uncased_P@1": 0.1346153846153846}
 {"pattern": "El sello discogr\u00e1fico de [X] fue [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "[X], lanzado por [Y].", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
 {"pattern": "[X], que est\u00e1 representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
 {"pattern": "[X], que fue representado por [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] grab\u00f3 para [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] graba para [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] est\u00e1 representado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] est\u00e1 representado por el sello [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] est\u00e1 representado por el sello musical [Y]?", "bert-base-multilingual-uncased_P@1": 0.038461538461538464}
-{"pattern": "\u00bf[X] est\u00e1 representado por el sello discogr\u00e1fico [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] ha firmado con [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
-{"pattern": "\u00bfEl sello representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEs el sello que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl sello de m\u00fasica representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEs el sello musical que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl sello discogr\u00e1fico representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEs el sello discogr\u00e1fico que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] fue publicado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfFue [X] publicado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "\u00bfFue [X] lanzado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
-{"pattern": "\u00bfFue [X] representado por [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] estaba representado por el sello [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bf[X] estaba representado por el sello musical [Y]?", "bert-base-multilingual-uncased_P@1": 0.21153846153846154}
-{"pattern": "\u00bf[X] estaba representado por el sello discogr\u00e1fico [Y]?", "bert-base-multilingual-uncased_P@1": 0.019230769230769232}
-{"pattern": "\u00bf[X] firm\u00f3 con [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl sello representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfFue el sello que representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl sello de m\u00fasica representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfFue el sello musical que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfEl sello discogr\u00e1fico representaba a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00bfFue el sello discogr\u00e1fico que representa a [X] [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}

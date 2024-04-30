@@ -1,14 +1,8 @@
-{"pattern": "[X] has diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
-{"pattern": "[X] has diplomatic ties with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
-{"pattern": "[X] holds diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.050505050505050504}
-{"pattern": "[X] holds diplomatic ties with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061}
-{"pattern": "[X] maintains diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061}
-{"pattern": "[X] ties diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06565656565656566}
-{"pattern": "[X], which has diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.06060606060606061}
-{"pattern": "[X], which ties diplomatic relations with [Y] .", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
-{"pattern": "Does [X] have diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041}
-{"pattern": "Does [X] have diplomatic ties with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041}
-{"pattern": "Does [X] hold diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.03535353535353535}
-{"pattern": "Does [X] hold diplomatic ties with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041}
-{"pattern": "Does [X] maintain diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.04040404040404041}
-{"pattern": "Does [X] tie diplomatic relations with [Y]?", "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X] has diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X] has diplomatic ties with [Y] .", "bert-base-uncased_P@1": 0.03263157894736842, "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X] holds diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.028421052631578948, "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X] holds diplomatic ties with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "bert-base-multilingual-uncased_P@1": 0.06060606060606061}
+{"pattern": "[X] maintains diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.02736842105263158, "bert-base-multilingual-uncased_P@1": 0.06060606060606061}
+{"pattern": "[X] ties diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.035789473684210524, "bert-base-multilingual-uncased_P@1": 0.06565656565656566}
+{"pattern": "[X], which has diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "bert-base-multilingual-uncased_P@1": 0.05555555555555555}
+{"pattern": "[X], which ties diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.031578947368421054, "bert-base-multilingual-uncased_P@1": 0.05555555555555555}

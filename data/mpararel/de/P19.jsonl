@@ -1,11 +1,6 @@
-{"pattern": "Der Geburtsort von [X] ist [Y].", "bert-base-multilingual-uncased_P@1": 0.11931818181818182}
-{"pattern": "[X] stammt aus [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
-{"pattern": "[X] stammt urspr\u00fcnglich aus [Y].", "bert-base-multilingual-uncased_P@1": 0.05113636363636364}
-{"pattern": "[X] stammte aus [Y].", "bert-base-multilingual-uncased_P@1": 0.11931818181818182}
-{"pattern": "[X] stammte urspr\u00fcnglich aus [Y].", "bert-base-multilingual-uncased_P@1": 0.056818181818181816}
-{"pattern": "[X]s Geburtsort ist [Y].", "bert-base-multilingual-uncased_P@1": 0.125}
-{"pattern": "Stammt [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.0625}
-{"pattern": "Ist [X] aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.022727272727272728}
-{"pattern": "Ist [X] urspr\u00fcnglich aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "War [X] ein Einwohner von [Y]?", "bert-base-multilingual-uncased_P@1": 0.028409090909090908}
-{"pattern": "War [X] urspr\u00fcnglich aus [Y]?", "bert-base-multilingual-uncased_P@1": 0.011363636363636364}
+{"pattern": "Der Geburtsort von [X] ist [Y]."}
+{"pattern": "[X] stammt aus [Y]."}
+{"pattern": "[X] stammt urspr\u00fcnglich aus [Y]."}
+{"pattern": "[X] stammte aus [Y]."}
+{"pattern": "[X] stammte urspr\u00fcnglich aus [Y]."}
+{"pattern": "[X]s Geburtsort ist [Y]."}

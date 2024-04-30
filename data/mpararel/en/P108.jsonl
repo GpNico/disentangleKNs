@@ -1,6 +1,4 @@
-{"pattern": "[X] is employed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.2413793103448276}
-{"pattern": "[X] works for [Y] .", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "[X], who is employed by [Y] .", "bert-base-multilingual-uncased_P@1": 0.2413793103448276}
-{"pattern": "[X], who works for [Y] .", "bert-base-multilingual-uncased_P@1": 0.1724137931034483}
-{"pattern": "Does [X] work for [Y]?", "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
-{"pattern": "Is [X] employed by [Y]?", "bert-base-multilingual-uncased_P@1": 0.2413793103448276}
+{"pattern": "[X] is employed by [Y] .", "bert-base-uncased_P@1": 0.04497354497354497, "bert-base-multilingual-uncased_P@1": 0.2413793103448276}
+{"pattern": "[X] works for [Y] .", "bert-base-uncased_P@1": 0.023809523809523808, "bert-base-multilingual-uncased_P@1": 0.034482758620689655}
+{"pattern": "[X], who is employed by [Y] .", "bert-base-uncased_P@1": 0.007936507936507936, "bert-base-multilingual-uncased_P@1": 0.2413793103448276}
+{"pattern": "[X], who works for [Y] .", "bert-base-uncased_P@1": 0.03968253968253968, "bert-base-multilingual-uncased_P@1": 0.20689655172413793}

@@ -12,10 +12,3 @@
 {"pattern": "[X], que fue creado en [Y].", "bert-base-multilingual-uncased_P@1": 0.02702702702702703}
 {"pattern": "[X], que se form\u00f3 en [Y].", "bert-base-multilingual-uncased_P@1": 0.033783783783783786}
 {"pattern": "[X], que fue iniciado en [Y].", "bert-base-multilingual-uncased_P@1": 0.02702702702702703}
-{"pattern": "\u00bf[X] se form\u00f3 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.033783783783783786}
-{"pattern": "\u00bf[X] se origin\u00f3 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.02702702702702703}
-{"pattern": "\u00bf[X] comenz\u00f3 en [Y]?", "bert-base-multilingual-uncased_P@1": 0.04054054054054054}
-{"pattern": "\u00bf[X] fue creado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.013513513513513514}
-{"pattern": "\u00bf[X] fue formado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.006756756756756757}
-{"pattern": "\u00bf[X] fue fundada en [Y]?", "bert-base-multilingual-uncased_P@1": 0.04054054054054054}
-{"pattern": "\u00bf[X] fue iniciado en [Y]?", "bert-base-multilingual-uncased_P@1": 0.006756756756756757}

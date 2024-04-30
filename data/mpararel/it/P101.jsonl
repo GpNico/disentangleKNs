@@ -1,14 +1,14 @@
-{"pattern": "Il dominio di attivit\u00e0 di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.12631578947368421}
-{"pattern": "Il campo di lavoro di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.15789473684210525}
-{"pattern": "L'esperienza di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.010526315789473684}
-{"pattern": "[X] \u00e8 specializzato in [Y].", "bert-base-multilingual-uncased_P@1": 0.2}
-{"pattern": "[X] lavora nel campo della [Y].", "bert-base-multilingual-uncased_P@1": 0.11578947368421053}
-{"pattern": "L'area di competenza di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.05263157894736842}
-{"pattern": "L'area di lavoro di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.14736842105263157}
-{"pattern": "Il campo di attivit\u00e0 di [X] \u00e8 la [Y].", "bert-base-multilingual-uncased_P@1": 0.12631578947368421}
-{"pattern": "Il campo di lavoro di [X] \u00e8 l'[Y].", "bert-base-multilingual-uncased_P@1": 0.042105263157894736}
-{"pattern": "L'esperienza di [X] e' la [Y].", "bert-base-multilingual-uncased_P@1": 0.021052631578947368}
-{"pattern": "L'esperienza di [X] \u00e8 in [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] e' specializzato in [Y]?", "bert-base-multilingual-uncased_P@1": 0.21052631578947367}
-{"pattern": "[X] lavora nel campo della [Y]?", "bert-base-multilingual-uncased_P@1": 0.1368421052631579}
-{"pattern": "L'esperienza di [X] e' in [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "Il dominio di attivit\u00e0 di [X] \u00e8 la [Y]."}
+{"pattern": "Il campo di lavoro di [X] \u00e8 la [Y]."}
+{"pattern": "L'esperienza di [X] \u00e8 la [Y]."}
+{"pattern": "[X] \u00e8 specializzato in [Y]."}
+{"pattern": "[X] lavora nel campo della [Y]."}
+{"pattern": "L'area di competenza di [X] \u00e8 la [Y]."}
+{"pattern": "L'area di lavoro di [X] \u00e8 la [Y]."}
+{"pattern": "Il campo di attivit\u00e0 di [X] \u00e8 la [Y]."}
+{"pattern": "Il campo di lavoro di [X] \u00e8 l'[Y]."}
+{"pattern": "L'esperienza di [X] e' la [Y]."}
+{"pattern": "L'esperienza di [X] \u00e8 in [Y]."}
+{"pattern": "[X] e' specializzato in [Y]?"}
+{"pattern": "[X] lavora nel campo della [Y]?"}
+{"pattern": "L'esperienza di [X] e' in [Y]?"}

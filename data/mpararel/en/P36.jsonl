@@ -1,8 +1,14 @@
-{"pattern": "The capital city of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6323529411764706}
-{"pattern": "The capital of [X] is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6470588235294118}
-{"pattern": "[X]'s capital city is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6397058823529411}
-{"pattern": "[X]'s capital city, [Y] .", "bert-base-multilingual-uncased_P@1": 0.5}
-{"pattern": "[X]'s capital is [Y] .", "bert-base-multilingual-uncased_P@1": 0.6544117647058824}
-{"pattern": "[X]'s capital, [Y] .", "bert-base-multilingual-uncased_P@1": 0.4852941176470588}
-{"pattern": "[X], which has the capital [Y] .", "bert-base-multilingual-uncased_P@1": 0.45588235294117646}
-{"pattern": "[X], which has the capital city [Y] .", "bert-base-multilingual-uncased_P@1": 0.6102941176470589}
+{"pattern": "The capital city of [X] is [Y] .", "bert-base-uncased_P@1": 0.5435244161358811, "bert-base-multilingual-uncased_P@1": 0.6323529411764706}
+{"pattern": "The capital of [X] is [Y] .", "bert-base-uncased_P@1": 0.5605095541401274, "bert-base-multilingual-uncased_P@1": 0.6470588235294118}
+{"pattern": "[X]'s capital city is [Y] .", "bert-base-uncased_P@1": 0.5605095541401274, "bert-base-multilingual-uncased_P@1": 0.6397058823529411}
+{"pattern": "[X]'s capital city, [Y] .", "bert-base-uncased_P@1": 0.5520169851380042, "bert-base-multilingual-uncased_P@1": 0.5}
+{"pattern": "[X]'s capital is [Y] .", "bert-base-uncased_P@1": 0.5668789808917197, "bert-base-multilingual-uncased_P@1": 0.6544117647058824}
+{"pattern": "[X]'s capital, [Y] .", "bert-base-uncased_P@1": 0.5414012738853503, "bert-base-multilingual-uncased_P@1": 0.4852941176470588}
+{"pattern": "[X], which has the capital [Y] .", "bert-base-uncased_P@1": 0.16985138004246284, "bert-base-multilingual-uncased_P@1": 0.45588235294117646}
+{"pattern": "[X], which has the capital city [Y] .", "bert-base-uncased_P@1": 0.46709129511677283, "bert-base-multilingual-uncased_P@1": 0.6029411764705882}
+{"pattern": "[Y] is the capital city of [X] .", "bert-base-uncased_P@1": 0.37579617834394907, "bert-base-multilingual-uncased_P@1": 0.5514705882352942}
+{"pattern": "[Y] is the capital of [X] .", "bert-base-uncased_P@1": 0.35456475583864117, "bert-base-multilingual-uncased_P@1": 0.5514705882352942}
+{"pattern": "[Y], that is the capital city of [X] .", "bert-base-uncased_P@1": 0.0, "bert-base-multilingual-uncased_P@1": 0.625}
+{"pattern": "[Y], that is the capital of [X] .", "bert-base-uncased_P@1": 0.0021231422505307855, "bert-base-multilingual-uncased_P@1": 0.6397058823529411}
+{"pattern": "[Y], the capital city of [X] .", "bert-base-uncased_P@1": 0.5944798301486199, "bert-base-multilingual-uncased_P@1": 0.6691176470588235}
+{"pattern": "[Y], the capital of [X] .", "bert-base-uncased_P@1": 0.6029723991507431, "bert-base-multilingual-uncased_P@1": 0.6617647058823529}

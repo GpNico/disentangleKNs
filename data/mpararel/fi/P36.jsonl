@@ -1,8 +1,8 @@
-{"pattern": "[X]n p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6923076923076923}
-{"pattern": "[X]in p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6282051282051282}
-{"pattern": "[X] Boroughin p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6666666666666666}
-{"pattern": "[X]n p\u00e4\u00e4kaupunki, [Y].", "bert-base-multilingual-uncased_P@1": 0.08974358974358974}
-{"pattern": "[X]in departementin p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.7051282051282052}
-{"pattern": "[X]in p\u00e4\u00e4kaupunki, [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "[X], jonka p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6410256410256411}
-{"pattern": "[X] Borough, jonka p\u00e4\u00e4kaupunki on [Y].", "bert-base-multilingual-uncased_P@1": 0.6923076923076923}
+{"pattern": "[X]n p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X] Boroughin p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]n p\u00e4\u00e4kaupunki, [Y]."}
+{"pattern": "[X]in departementin p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X]in p\u00e4\u00e4kaupunki, [Y]."}
+{"pattern": "[X], jonka p\u00e4\u00e4kaupunki on [Y]."}
+{"pattern": "[X] Borough, jonka p\u00e4\u00e4kaupunki on [Y]."}

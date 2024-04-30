@@ -1,8 +1,8 @@
-{"pattern": "[X] har en systerstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.021505376344086023}
-{"pattern": "[X] har en tvillingstad, [Y].", "bert-base-multilingual-uncased_P@1": 0.021505376344086023}
-{"pattern": "[X] \u00e4r en systerstad till [Y].", "bert-base-multilingual-uncased_P@1": 0.010752688172043012}
-{"pattern": "[X] \u00e4r en tvillingstad till [Y].", "bert-base-multilingual-uncased_P@1": 0.005376344086021506}
-{"pattern": "[X]s systerstad \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.016129032258064516}
-{"pattern": "[X]s tvillingstad \u00e4r [Y].", "bert-base-multilingual-uncased_P@1": 0.021505376344086023}
-{"pattern": "\u00c4r [X] systerstaden till [Y]?", "bert-base-multilingual-uncased_P@1": 0.005376344086021506}
-{"pattern": "\u00c4r [X] tvillingstaden till [Y]?", "bert-base-multilingual-uncased_P@1": 0.005376344086021506}
+{"pattern": "[X] har en systerstad, [Y]."}
+{"pattern": "[X] har en tvillingstad, [Y]."}
+{"pattern": "[X] \u00e4r en systerstad till [Y]."}
+{"pattern": "[X] \u00e4r en tvillingstad till [Y]."}
+{"pattern": "[X]s systerstad \u00e4r [Y]."}
+{"pattern": "[X]s tvillingstad \u00e4r [Y]."}
+{"pattern": "\u00c4r [X] systerstaden till [Y]?"}
+{"pattern": "\u00c4r [X] tvillingstaden till [Y]?"}

@@ -1,15 +1,15 @@
-{"pattern": "[X] har klass [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] \u00e4r en [Y].", "bert-base-multilingual-uncased_P@1": 0.3076923076923077}
-{"pattern": "[X] \u00e4r en typ av [Y].", "bert-base-multilingual-uncased_P@1": 0.5128205128205128}
-{"pattern": "[X] \u00e4r en underklass av [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "en [X] \u00e4r en typ av [Y].", "bert-base-multilingual-uncased_P@1": 0.5384615384615384}
-{"pattern": "[X] \u00e4r av klass [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X], en underklass av [Y].", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "[X], en typ av [Y].", "bert-base-multilingual-uncased_P@1": 0.5128205128205128}
-{"pattern": "[X], som \u00e4r en underklass av [Y].", "bert-base-multilingual-uncased_P@1": 0.358974358974359}
-{"pattern": "Har [X] klass[Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "\u00c4r [X] en [Y]?", "bert-base-multilingual-uncased_P@1": 0.2564102564102564}
-{"pattern": "\u00c4r [X] en typ av [Y]?", "bert-base-multilingual-uncased_P@1": 0.5384615384615384}
-{"pattern": "\u00c4r [X] en underklass av [Y]?", "bert-base-multilingual-uncased_P@1": 0.3333333333333333}
-{"pattern": "\u00c4r en [X] en typ av [Y]?", "bert-base-multilingual-uncased_P@1": 0.48717948717948717}
-{"pattern": "\u00c4r [X] klass[Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
+{"pattern": "[X] har klass [Y]."}
+{"pattern": "[X] \u00e4r en [Y]."}
+{"pattern": "[X] \u00e4r en typ av [Y]."}
+{"pattern": "[X] \u00e4r en underklass av [Y]."}
+{"pattern": "en [X] \u00e4r en typ av [Y]."}
+{"pattern": "[X] \u00e4r av klass [Y]."}
+{"pattern": "[X], en underklass av [Y]."}
+{"pattern": "[X], en typ av [Y]."}
+{"pattern": "[X], som \u00e4r en underklass av [Y]."}
+{"pattern": "Har [X] klass[Y]?"}
+{"pattern": "\u00c4r [X] en [Y]?"}
+{"pattern": "\u00c4r [X] en typ av [Y]?"}
+{"pattern": "\u00c4r [X] en underklass av [Y]?"}
+{"pattern": "\u00c4r en [X] en typ av [Y]?"}
+{"pattern": "\u00c4r [X] klass[Y]?"}

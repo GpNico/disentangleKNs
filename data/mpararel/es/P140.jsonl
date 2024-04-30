@@ -2,6 +2,3 @@
 {"pattern": "[X] cree en el [Y].", "bert-base-multilingual-uncased_P@1": 0.2698412698412698}
 {"pattern": "[X] es un creyente del [Y].", "bert-base-multilingual-uncased_P@1": 0.8571428571428571}
 {"pattern": "[X] es seguidor del [Y].", "bert-base-multilingual-uncased_P@1": 0.6190476190476191}
-{"pattern": "\u00bf[X] cree en el [Y]?", "bert-base-multilingual-uncased_P@1": 0.5873015873015873}
-{"pattern": "\u00bf[X] es un creyente en el [Y]?", "bert-base-multilingual-uncased_P@1": 0.8571428571428571}
-{"pattern": "\u00bf[X] es un seguidor del [Y]?", "bert-base-multilingual-uncased_P@1": 0.7619047619047619}

@@ -1,17 +1,9 @@
-{"pattern": "Het hoofdkantoor van [X] is in [Y].", "bert-base-multilingual-uncased_P@1": 0.4537037037037037}
-{"pattern": "Het hoofdkantoor van [X] is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.42592592592592593}
-{"pattern": "Het hoofdkantoor van de [X] is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.46296296296296297}
-{"pattern": "Het hoofdkantoor van [X] bevindt zich in [Y].", "bert-base-multilingual-uncased_P@1": 0.42592592592592593}
-{"pattern": "[X] is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.4537037037037037}
-{"pattern": "[X] heeft zijn hoofdkantoor in [Y].", "bert-base-multilingual-uncased_P@1": 0.4537037037037037}
-{"pattern": "[X] Ltd is gevestigd in [Y].", "bert-base-multilingual-uncased_P@1": 0.46296296296296297}
-{"pattern": "Het hoofdkwartier van [X] is in [Y].", "bert-base-multilingual-uncased_P@1": 0.46296296296296297}
-{"pattern": "[X], met hoofdkantoor in [Y].", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "Is het hoofdkwartier van [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.18518518518518517}
-{"pattern": "Is het hoofdkantoor van [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3055555555555556}
-{"pattern": "Is het hoofdkantoor van [X] gevestigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.35185185185185186}
-{"pattern": "Is [X] gevestigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.37962962962962965}
-{"pattern": "Heeft [X] zijn hoofdkantoor in [Y]?", "bert-base-multilingual-uncased_P@1": 0.4444444444444444}
-{"pattern": "Is de [X] gevestigd in [Y]?", "bert-base-multilingual-uncased_P@1": 0.4166666666666667}
-{"pattern": "Is het hoofdkantoor van de [X] in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3148148148148148}
-{"pattern": "Is het hoofdkantoor van [X] gelegen in [Y]?", "bert-base-multilingual-uncased_P@1": 0.3888888888888889}
+{"pattern": "Het hoofdkantoor van [X] is in [Y]."}
+{"pattern": "Het hoofdkantoor van [X] is gevestigd in [Y]."}
+{"pattern": "Het hoofdkantoor van de [X] is gevestigd in [Y]."}
+{"pattern": "Het hoofdkantoor van [X] bevindt zich in [Y]."}
+{"pattern": "[X] is gevestigd in [Y]."}
+{"pattern": "[X] heeft zijn hoofdkantoor in [Y]."}
+{"pattern": "[X] Ltd is gevestigd in [Y]."}
+{"pattern": "Het hoofdkwartier van [X] is in [Y]."}
+{"pattern": "[X], met hoofdkantoor in [Y]."}

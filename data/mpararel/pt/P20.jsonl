@@ -1,25 +1,25 @@
-{"pattern": "O local da morte de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "O local da morte de [X] foi [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "O local de morte de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "O lugar da morte de [X] foi [Y].", "bert-base-multilingual-uncased_P@1": 0.012048192771084338}
-{"pattern": "O lugar da morte de [X] \u00e9 [Y].", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "[X] morreu em [Y].", "bert-base-multilingual-uncased_P@1": 0.3493975903614458}
-{"pattern": "A [X] morreu em [Y].", "bert-base-multilingual-uncased_P@1": 0.27710843373493976}
-{"pattern": "[X] expirou em [Y].", "bert-base-multilingual-uncased_P@1": 0.04819277108433735}
-{"pattern": "O [X] morreu em [Y].", "bert-base-multilingual-uncased_P@1": 0.3373493975903614}
-{"pattern": "[X] perdeu a vida em [Y].", "bert-base-multilingual-uncased_P@1": 0.25301204819277107}
-{"pattern": "[X] faleceu em [Y].", "bert-base-multilingual-uncased_P@1": 0.37349397590361444}
-{"pattern": "O [X] faleceu em [Y].", "bert-base-multilingual-uncased_P@1": 0.3855421686746988}
-{"pattern": "[X] sucumbiu em [Y].", "bert-base-multilingual-uncased_P@1": 0.3373493975903614}
-{"pattern": "A vida de [X] terminou em [Y].", "bert-base-multilingual-uncased_P@1": 0.1686746987951807}
-{"pattern": "O [X] morreu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.13253012048192772}
-{"pattern": "A [X] morreu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.12048192771084337}
-{"pattern": "[X] morreu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.07228915662650602}
-{"pattern": "O [X] morreu na [Y]?", "bert-base-multilingual-uncased_P@1": 0.012048192771084338}
-{"pattern": "O [X] perdeu a vida em [Y]?", "bert-base-multilingual-uncased_P@1": 0.18072289156626506}
-{"pattern": "A [X] perdeu a vida em [Y]?", "bert-base-multilingual-uncased_P@1": 0.18072289156626506}
-{"pattern": "O [X] faleceu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.10843373493975904}
-{"pattern": "O [X] sucumbiu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.060240963855421686}
-{"pattern": "A [X] sucumbiu em [Y]?", "bert-base-multilingual-uncased_P@1": 0.04819277108433735}
-{"pattern": "A vida de [X] terminou em [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "A vida do [X] acabou em [Y]?", "bert-base-multilingual-uncased_P@1": 0.3493975903614458}
+{"pattern": "O local da morte de [X] \u00e9 [Y]."}
+{"pattern": "O local da morte de [X] foi [Y]."}
+{"pattern": "O local de morte de [X] \u00e9 [Y]."}
+{"pattern": "O lugar da morte de [X] foi [Y]."}
+{"pattern": "O lugar da morte de [X] \u00e9 [Y]."}
+{"pattern": "[X] morreu em [Y]."}
+{"pattern": "A [X] morreu em [Y]."}
+{"pattern": "[X] expirou em [Y]."}
+{"pattern": "O [X] morreu em [Y]."}
+{"pattern": "[X] perdeu a vida em [Y]."}
+{"pattern": "[X] faleceu em [Y]."}
+{"pattern": "O [X] faleceu em [Y]."}
+{"pattern": "[X] sucumbiu em [Y]."}
+{"pattern": "A vida de [X] terminou em [Y]."}
+{"pattern": "O [X] morreu em [Y]?"}
+{"pattern": "A [X] morreu em [Y]?"}
+{"pattern": "[X] morreu em [Y]?"}
+{"pattern": "O [X] morreu na [Y]?"}
+{"pattern": "O [X] perdeu a vida em [Y]?"}
+{"pattern": "A [X] perdeu a vida em [Y]?"}
+{"pattern": "O [X] faleceu em [Y]?"}
+{"pattern": "O [X] sucumbiu em [Y]?"}
+{"pattern": "A [X] sucumbiu em [Y]?"}
+{"pattern": "A vida de [X] terminou em [Y]?"}
+{"pattern": "A vida do [X] acabou em [Y]?"}

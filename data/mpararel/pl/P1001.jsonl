@@ -1,6 +1,6 @@
-{"pattern": "[X] liczy si\u0119 jako termin prawny w [Y].", "bert-base-multilingual-uncased_P@1": 0.07692307692307693}
-{"pattern": "[X] jest terminem prawnym w [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
-{"pattern": "[X] jest wa\u017cnym terminem prawnym w [Y].", "bert-base-multilingual-uncased_P@1": 0.10256410256410256}
-{"pattern": "Czy [X] liczy si\u0119 jako termin prawny w [Y]?", "bert-base-multilingual-uncased_P@1": 0.0}
-{"pattern": "Czy [X] jest terminem prawnym w [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
-{"pattern": "Czy [X] jest wa\u017cnym terminem prawnym w [Y]?", "bert-base-multilingual-uncased_P@1": 0.05128205128205128}
+{"pattern": "[X] liczy si\u0119 jako termin prawny w [Y]."}
+{"pattern": "[X] jest terminem prawnym w [Y]."}
+{"pattern": "[X] jest wa\u017cnym terminem prawnym w [Y]."}
+{"pattern": "Czy [X] liczy si\u0119 jako termin prawny w [Y]?"}
+{"pattern": "Czy [X] jest terminem prawnym w [Y]?"}
+{"pattern": "Czy [X] jest wa\u017cnym terminem prawnym w [Y]?"}
