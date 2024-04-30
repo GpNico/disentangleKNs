@@ -1,8 +1,0 @@
-{"pattern": ["prodigy", "trombone", "chopin", "wagner", "classical"], "ids": [28334, 13914, 25479, 10304, 4556], "seed": 0, "P@1": 0.4191033138401559}
-{"pattern": ["havilland", "recorder", "allmusic", "brahms", "-"], "ids": [23994, 14520, 10477, 28419, 1011], "seed": 1, "P@1": 0.42105263157894735}
-{"pattern": ["sgt", "recital", "viola", "fender", "presidential"], "ids": [17001, 25521, 10482, 19028, 4883], "seed": 2, "P@1": 0.42300194931773877}
-{"pattern": ["syndrome", "nick", "##iology", "composer", "acoustic"], "ids": [8715, 4172, 20569, 4543, 6490], "seed": 3, "P@1": 0.1695906432748538}
-{"pattern": ["sexually", "trombone", "chopin", "bwf", "electric"], "ids": [12581, 13914, 25479, 21215, 3751], "seed": 4, "P@1": 0.42105263157894735}
-{"pattern": ["elvis", "fischer", "harp", "carl", "approximate"], "ids": [12280, 13042, 14601, 5529, 15796], "seed": 5, "P@1": 0.4171539961013645}
-{"pattern": ["sonic", "viola", "palm", "forte", "rocking"], "ids": [12728, 10482, 5340, 24898, 14934], "seed": 6, "P@1": 0.3313840155945419}
-{"pattern": ["powered", "saxophone", "viola", "hodges", "electric"], "ids": [6113, 8283, 10482, 19772, 3751], "seed": 7, "P@1": 0.4191033138401559}

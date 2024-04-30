@@ -1,4 +1,10 @@
-{"pattern": ["musulmans", "liste", "gemengen", "ing", "agama"], "ids": [49091, 13593, 50455, 11640, 24694], "seed": 0, "P@1": 1.0}
-{"pattern": ["\u0438\u0441\u043b\u0430\u043c", "godzilla", "cried", "##iaeth", "pob"], "ids": [53504, 81703, 94484, 43848, 50772], "seed": 1, "P@1": 0.6862745098039216}
-{"pattern": ["kalurahan", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "cithakan", "##\u0440\u0430\u0438", "agama"], "ids": [56351, 44209, 60596, 41273, 24694], "seed": 2, "P@1": 1.0}
-{"pattern": ["##\u00f0u", "sayti", "grabo", "##iyah", "darul"], "ids": [28002, 33735, 77061, 56709, 64830], "seed": 3, "P@1": 0.9411764705882353}
+{"pattern": ["\u043f\u0440\u043e\u0442\u0438\u0432", "\u0438\u0441\u043b\u0430\u043c", "leiden", "strijd", "against"], "ids": [13751, 53504, 23229, 62277, 11423], "seed": 0}
+{"pattern": ["siji", "##\u2666", "haram", "situs", "encyclopaedia"], "ids": [48934, 97337, 86803, 20757, 32064], "seed": 1}
+{"pattern": ["astronomie", "arabisk", "judaism", "agama", "\u0563\u0565\u057f\u056b"], "ids": [48364, 79052, 90134, 24694, 29284], "seed": 2}
+{"pattern": ["muslim", "\u0434\u0432\u043e\u0440\u043e\u0432", "\u0441\u0430\u0438\u0446\u0435", "handbook", "fundamental"], "ids": [19918, 47331, 39719, 23285, 25242], "seed": 3}
+{"pattern": ["cithakan", "\u66dd", "muslim", "encyclopaedia", "of"], "ids": [60596, 4429, 19918, 32064, 10108], "seed": 4}
+{"pattern": ["##olag", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "\u0438\u0441\u043b\u0430\u043c", "society", "darul"], "ids": [68038, 44209, 53504, 11232, 64830], "seed": 5}
+{"pattern": ["perpustakaan", "miejscowosc", "muhammed", "orodha", "\u0434\u043e\u0432\u0436\u0438\u043d\u043e\u044e"], "ids": [80792, 18117, 64528, 45482, 88025], "seed": 6}
+{"pattern": ["taxonomische", "zakon", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "cithakan", "filmul"], "ids": [23873, 33979, 44209, 60596, 68377], "seed": 7}
+{"pattern": ["\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u043e\u0438", "kategorie", "muslim", "website", "dagens"], "ids": [71803, 22030, 19918, 12699, 37136], "seed": 8}
+{"pattern": ["olaszorszagban", "\u0438\u0441\u043b\u0430\u043c", "\u0647\u062f\u0641", "musulmans", "kuhusu"], "ids": [91600, 53504, 41861, 49091, 53741], "seed": 9}

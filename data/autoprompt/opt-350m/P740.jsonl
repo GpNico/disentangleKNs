@@ -1,4 +1,10 @@
-{"pattern": ["EST", "fact", "\u0120metropolitan", "\u0120massage", "bin"], "ids": [4923, 24905, 20887, 19732, 9413], "seed": 0, "P@1": 0.02609727164887307}
-{"pattern": ["\u0120[+", "Toronto", ":'", "\u0120heaven", "\u0120{:"], "ids": [48935, 30358, 45393, 18478, 49890], "seed": 1, "P@1": 0.03084223013048636}
-{"pattern": ["\u0120airports", "London", "Portland", "\u0120eld", "oire"], "ids": [9651, 23122, 42315, 47527, 41154], "seed": 2, "P@1": 0.018979833926453145}
-{"pattern": ["\u0120pubs", "\u0120experiences", "\u0120graffiti", "D", "outheast"], "ids": [27437, 3734, 22622, 495, 40440], "seed": 3, "P@1": 0.018979833926453145}
+{"pattern": ["Amazon", "ovember", "algia", "\u0120conference", "\u0120in"], "ids": [25146, 46436, 39883, 1019, 11], "seed": 0, "P@1": 0.13641755634638197}
+{"pattern": ["\u0120review", "UK", "\u0120({", "Boston", "\u0120to"], "ids": [1551, 10494, 49698, 34227, 7], "seed": 1, "P@1": 0.09727164887307237}
+{"pattern": ["\u0120organisers", "Boston", "\u0120);", "Color", "\u0120palace"], "ids": [16180, 34227, 47162, 44287, 15653], "seed": 2, "P@1": 0.02965599051008304}
+{"pattern": ["BBC", "\u0120iTunes", "\\\",", "\u0120in", "\u0120downtown"], "ids": [28713, 14734, 49778, 11, 3301], "seed": 3, "P@1": 0.11981020166073547}
+{"pattern": ["\u0120countries", "\u00e2\u0122\u0136\"", "Toronto", "\u01201", ".;"], "ids": [749, 37008, 30358, 112, 10116], "seed": 4, "P@1": 0.04863582443653618}
+{"pattern": ["British", "\u0120guitarist", "Detroit", "atories", "\u0120visited"], "ids": [24270, 16792, 27007, 28172, 3790], "seed": 5, "P@1": 0.005931198102016607}
+{"pattern": ["\u0120apologise", "CBS", "Library", "\u0120southwestern", "\u0120of"], "ids": [20192, 8949, 44855, 20431, 9], "seed": 6, "P@1": 0.08659549228944247}
+{"pattern": ["London", "\u0120(-", "\u0120closest", "\u0120airport", ");"], "ids": [23122, 15611, 8099, 3062, 4397], "seed": 7, "P@1": 0.06524317912218268}
+{"pattern": ["\u0120collaborator", "English", "\u0120:-)", "ometown", ":"], "ids": [32782, 35007, 48433, 33117, 35], "seed": 8, "P@1": 0.13167259786476868}
+{"pattern": ["\u0120airports", "Chicago", "\u0120centre", "\u0120artery", "\u0120bordering"], "ids": [9651, 21897, 2100, 30404, 30080], "seed": 9, "P@1": 0.028469750889679714}

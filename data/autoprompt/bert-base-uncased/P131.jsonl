@@ -1,8 +1,0 @@
-{"pattern": ["federal", "soundtrack", "feat", "birthplace", ":"], "ids": [2976, 6050, 8658, 14508, 1024], "seed": 0, "P@1": 0.3032258064516129}
-{"pattern": ["topography", "eyelashes", "countryside", "fictional", "southeastern"], "ids": [21535, 25150, 10833, 7214, 8252], "seed": 1, "P@1": 0.2541935483870968}
-{"pattern": ["lennon", "jersey", "albany", "canada", "my"], "ids": [14294, 3933, 10283, 2710, 2026], "seed": 2, "P@1": 0.024516129032258065}
-{"pattern": ["smartphone", "suburbs", "fairness", "reuters", "estadio"], "ids": [26381, 9435, 26935, 26665, 14143], "seed": 3, "P@1": 0.02064516129032258}
-{"pattern": ["memorial", "hike", "poverty", "overlooking", "northern"], "ids": [3986, 21857, 5635, 12549, 2642], "seed": 4, "P@1": 0.22580645161290322}
-{"pattern": ["beit", "capitals", "austria", "laval", "##iga"], "ids": [28236, 15433, 5118, 26205, 13340], "seed": 5, "P@1": 0.0064516129032258064}
-{"pattern": ["wingspan", "pricing", "summers", "##ops", "."], "ids": [9635, 20874, 10945, 11923, 1012], "seed": 6, "P@1": 0.0}
-{"pattern": ["fauna", "genome", "walk", "save", "southeastern"], "ids": [15018, 13458, 3328, 3828, 8252], "seed": 7, "P@1": 0.2761290322580645}

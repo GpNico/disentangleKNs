@@ -1,4 +1,10 @@
-{"pattern": ["\u0120always", "Nintendo", "\u0120subsidiaries", "Oracle", "\u0120purchased"], "ids": [460, 44689, 11609, 47003, 3584], "seed": 0, "P@1": 0.1989795918367347}
-{"pattern": ["Nintendo", "Oracle", "\u0120speaker", "\u0120casualty", "\u01201984"], "ids": [44689, 47003, 5385, 21646, 11724], "seed": 1, "P@1": 0.00510204081632653}
-{"pattern": ["\u0120emulator", "\u0120patents", "Gamer", "\u0120assemb", "\u0120maiden"], "ids": [46899, 17848, 48379, 38157, 17077], "seed": 2, "P@1": 0.3112244897959184}
-{"pattern": ["'';", "NES", "\u0120patent", "\u0120controversy", "\u0120helping"], "ids": [49525, 8552, 11354, 6170, 1903], "seed": 3, "P@1": 0.28741496598639454}
+{"pattern": ["\u0120preceded", "\u0120computers", "Nintendo", "\u0120then", "\u0120purchasing"], "ids": [14344, 7796, 44689, 172, 4906], "seed": 0, "P@1": 0.3843537414965986}
+{"pattern": ["\u01201953", "\u0120merger", "\u0120transcription", "Nintendo", "\u0120and"], "ids": [23443, 7394, 37118, 44689, 8], "seed": 1, "P@1": 0.6275510204081632}
+{"pattern": ["Nintendo", "\u0120consortium", "Microsoft", "\u012078", "\u00c2\u00ae,"], "ids": [44689, 15918, 35460, 7004, 25333], "seed": 2, "P@1": 0.4897959183673469}
+{"pattern": ["\u01201942", "\u0120composer", "\u0120games", "Computer", "\u0120giant"], "ids": [27784, 17964, 426, 45942, 3065], "seed": 3, "P@1": 0.6972789115646258}
+{"pattern": ["\u0120beginning", "\u01201984", "Nintendo", "\u0120vs", "."], "ids": [1786, 11724, 44689, 1954, 4], "seed": 4, "P@1": 0.38605442176870747}
+{"pattern": ["\u0120controller", "Windows", "\u0120hackers", "\u0120converted", "\u01201963"], "ids": [17554, 43815, 11344, 8417, 18733], "seed": 5, "P@1": 0.30612244897959184}
+{"pattern": ["\u0120coding", "\u0120enthusiast", "\u0120entrepreneur", "\u0120gifted", "\u01201995"], "ids": [25776, 27330, 11777, 15956, 7969], "seed": 6, "P@1": 0.4608843537414966}
+{"pattern": ["\u0120patent", "\u0120organizations", ")\u00e2\u0122\u0136", "Nintendo", ";"], "ids": [11354, 2665, 31698, 44689, 131], "seed": 7, "P@1": 0.44047619047619047}
+{"pattern": ["Xbox", "\u0120antitrust", "\u0120teams", "Sea", ","], "ids": [46705, 18849, 893, 37697, 6], "seed": 8, "P@1": 0.4523809523809524}
+{"pattern": [").[", "\u01201937", "Xbox", "\u0120sales", "\","], "ids": [48999, 31556, 46705, 647, 1297], "seed": 9, "P@1": 0.3129251700680272}

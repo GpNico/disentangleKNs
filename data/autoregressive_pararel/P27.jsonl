@@ -1,11 +1,11 @@
-{"pattern": "[X] has a citizenship of [Y] .", "bert-base-uncased_P@1": 0.42588726513569936, "opt-350m_P@1": 0.24008350730688935}
-{"pattern": "[X] holds a citizenship of [Y] .", "bert-base-uncased_P@1": 0.4290187891440501, "opt-350m_P@1": 0.2150313152400835}
-{"pattern": "[X] is a citizen of [Y] .", "bert-base-uncased_P@1": 0.44676409185803756, "opt-350m_P@1": 0.12526096033402923}
-{"pattern": "[X], a citizen of [Y] .", "bert-base-uncased_P@1": 0.3277661795407098, "opt-350m_P@1": 0.0918580375782881}
-{"pattern": "[X], who has a citizenship of [Y] .", "bert-base-uncased_P@1": 0.4405010438413361, "opt-350m_P@1": 0.278705636743215}
-{"pattern": "[X], who holds a citizenship of [Y] .", "bert-base-uncased_P@1": 0.4331941544885177, "opt-350m_P@1": 0.19832985386221294}
-{"pattern": "[X], who is a citizen of [Y] .", "bert-base-uncased_P@1": 0.4394572025052192, "opt-350m_P@1": 0.12734864300626306}
-{"pattern": "Does [X] have a citizenship of [Y]?", "bert-base-uncased_P@1": 0.430062630480167, "opt-350m_P@1": 0.29227557411273486}
-{"pattern": "Does [X] hold a citizenship of [Y]?", "bert-base-uncased_P@1": 0.4342379958246347, "opt-350m_P@1": 0.24008350730688935}
-{"pattern": "Does [X] hold the citizenship of [Y]?", "bert-base-uncased_P@1": 0.4405010438413361, "opt-350m_P@1": 0.08037578288100208}
-{"pattern": "Is [X] a citizen of [Y]?", "bert-base-uncased_P@1": 0.2881002087682672, "opt-350m_P@1": 0.20981210855949894}
+{"pattern": "[X] has a citizenship of [Y] .", "bert-large-uncased_P@1": 0.4572025052192067, "opt-350m_P@1": 0.24112734864300625}
+{"pattern": "[X] holds a citizenship of [Y] .", "bert-large-uncased_P@1": 0.46242171189979125, "opt-350m_P@1": 0.2160751565762004}
+{"pattern": "[X] is a citizen of [Y] .", "bert-large-uncased_P@1": 0.4561586638830898, "opt-350m_P@1": 0.12526096033402923}
+{"pattern": "[X], a citizen of [Y] .", "bert-large-uncased_P@1": 0.407098121085595, "opt-350m_P@1": 0.0918580375782881}
+{"pattern": "[X], who has a citizenship of [Y] .", "bert-large-uncased_P@1": 0.4812108559498956, "opt-350m_P@1": 0.278705636743215}
+{"pattern": "[X], who holds a citizenship of [Y] .", "bert-large-uncased_P@1": 0.48538622129436326, "opt-350m_P@1": 0.19937369519832984}
+{"pattern": "[X], who is a citizen of [Y] .", "bert-large-uncased_P@1": 0.4822546972860125, "opt-350m_P@1": 0.12734864300626306}
+{"pattern": "Does [X] have a citizenship of [Y]?", "bert-large-uncased_P@1": 0.46242171189979125, "opt-350m_P@1": 0.29227557411273486}
+{"pattern": "Does [X] hold a citizenship of [Y]?", "bert-large-uncased_P@1": 0.4603340292275574, "opt-350m_P@1": 0.24008350730688935}
+{"pattern": "Does [X] hold the citizenship of [Y]?", "bert-large-uncased_P@1": 0.4603340292275574, "opt-350m_P@1": 0.08037578288100208}
+{"pattern": "Is [X] a citizen of [Y]?", "bert-large-uncased_P@1": 0.4373695198329854, "opt-350m_P@1": 0.20981210855949894}

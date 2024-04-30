@@ -278,3 +278,5 @@ if __name__ == '__main__':
             )
     
     translate_prompts(lang=args.lang, processor = processor, model = model)
+    
+    wandb.finish()

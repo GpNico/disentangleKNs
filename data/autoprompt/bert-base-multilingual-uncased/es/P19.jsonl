@@ -1,4 +1,10 @@
-{"pattern": ["arab", "stavanger", "\u0644\u0646\u062f\u0646", "equador", "hilton"], "ids": [15472, 46506, 36150, 94128, 51015], "seed": 0, "P@1": 0.01818181818181818}
-{"pattern": ["##dydd", "nen", "artistic", "\u03c0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03b9\u03bf", "de"], "ids": [63286, 13791, 30552, 59195, 10102], "seed": 1, "P@1": 0.07878787878787878}
-{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "##\u3063", "archaeological", "\u092c\u0928\u093e\u092f\u093e", "miasta"], "ids": [39719, 97383, 21045, 70843, 17311], "seed": 2, "P@1": 0.012121212121212121}
-{"pattern": ["complejo", "railway", "tramway", "museum", "de"], "ids": [55249, 13790, 69186, 11217, 10102], "seed": 3, "P@1": 0.12727272727272726}
+{"pattern": ["museu", "estilu", "suburb", "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e", "de"], "ids": [20031, 79418, 51749, 24462, 10102], "seed": 0}
+{"pattern": ["\u0915\u092f\u093e", "arlunydd", "commons", "gjeld", "ciuda"], "ids": [45731, 40457, 14197, 76638, 22020], "seed": 1}
+{"pattern": ["pa", "imaxes", "unesco", "universitetet", "##\u0435\u043d\u0442"], "ids": [10202, 93625, 16077, 32624, 25638], "seed": 2}
+{"pattern": ["genealogy", "pachina", "deputados", "arrondissementer", "metropolitan"], "ids": [89853, 48532, 84196, 56054, 19077], "seed": 3}
+{"pattern": ["affair", "localidad", "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03bf", "metropolitana", "de"], "ids": [35013, 19349, 80071, 25859, 10102], "seed": 4}
+{"pattern": ["website", "akb48", "##sao", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "greater"], "ids": [12699, 45253, 22877, 25693, 18860], "seed": 5}
+{"pattern": ["muere", "museo", "premiership", "reales", "din"], "ids": [62215, 14866, 69067, 47997, 10621], "seed": 6}
+{"pattern": ["ordnance", "sua", "biografie", "universitatea", "##sgericht"], "ids": [89265, 10559, 53508, 56586, 50733], "seed": 7}
+{"pattern": ["wolfsburg", "nemecko", "botanico", "city", "hospital"], "ids": [89639, 55666, 33344, 10575, 13532], "seed": 8}
+{"pattern": ["\u0440\u043e\u0434\u043e\u0432", "bust", "musee", "britanic", "universitat"], "ids": [80190, 93312, 16483, 50153, 12663], "seed": 9}

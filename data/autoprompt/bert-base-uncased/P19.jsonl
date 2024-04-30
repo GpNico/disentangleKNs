@@ -1,8 +1,0 @@
-{"pattern": ["airport", "xiang", "tuberculosis", "capital", "new"], "ids": [3199, 27735, 15877, 3007, 2047], "seed": 0, "P@1": 0.0038461538461538464}
-{"pattern": ["mike", "trophy", "palais", "italy", "hilton"], "ids": [3505, 5384, 22113, 3304, 15481], "seed": 1, "P@1": 0.03717948717948718}
-{"pattern": ["race", "##date", "track", "##havan", "/"], "ids": [2679, 13701, 2650, 24652, 1013], "seed": 2, "P@1": 0.16666666666666666}
-{"pattern": ["metacritic", "##oon", "turin", "monaco", "hilton"], "ids": [14476, 7828, 13667, 14497, 15481], "seed": 3, "P@1": 0.052564102564102565}
-{"pattern": ["memorial", "gma", "##if", "museum", "in"], "ids": [3986, 20917, 10128, 2688, 1999], "seed": 4, "P@1": 0.22948717948717948}
-{"pattern": ["u2", "##onia", "morgan", "gems", "dinamo"], "ids": [23343, 12488, 5253, 20296, 22306], "seed": 5, "P@1": 0.00641025641025641}
-{"pattern": ["stadion", "##edance", "2014", "cs", "."], "ids": [20756, 29605, 2297, 20116, 1012], "seed": 6, "P@1": 0.028205128205128206}
-{"pattern": ["clinched", "seattle", "uss", "brussels", "uss"], "ids": [18311, 5862, 7234, 9371, 7234], "seed": 7, "P@1": 0.07307692307692308}

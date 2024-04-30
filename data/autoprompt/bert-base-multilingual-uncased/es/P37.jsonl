@@ -1,4 +1,10 @@
-{"pattern": ["huvudavrinningsomrade", "paxina", "metropolitano", "telespectateurs", "wikang"], "ids": [33746, 34978, 78620, 47990, 42575], "seed": 0, "P@1": 0.4619883040935672}
-{"pattern": ["keele", "jarv", "expresion", "ofiziala", "wikang"], "ids": [85026, 77739, 48414, 49863, 42575], "seed": 1, "P@1": 0.42105263157894735}
-{"pattern": ["paxina", "kunna", "asteroidi", "##egos", "wikang"], "ids": [34978, 56720, 23988, 72069, 42575], "seed": 2, "P@1": 0.3742690058479532}
-{"pattern": ["website", "ofiziala", "oficial", "huvudavrinningsomrade", "wikang"], "ids": [12699, 49863, 13562, 33746, 42575], "seed": 3, "P@1": 0.4093567251461988}
+{"pattern": ["parroquia", "nina", "websteed", "del", "\u0431\u0430\u0441\u0441\u0435\u0438\u043d\u043e\u0432\u043e\u043c\u0443"], "ids": [21840, 21269, 94284, 10134, 80901], "seed": 0}
+{"pattern": ["abitanti", "##\u00e6de", "##iciones", "dialect", "\u05de\u05dc\u05da"], "ids": [17319, 76307, 50434, 51276, 42512], "seed": 1}
+{"pattern": ["kommun", "literalmente", "huvudavrinningsomrade", "##egos", "wikang"], "ids": [15313, 88735, 33746, 72069, 42575], "seed": 2}
+{"pattern": ["drain", "offeecial", "huvudavrinningsomrade", "##\u0434\u0435\u0441", "wikang"], "ids": [59705, 83806, 33746, 92701, 42575], "seed": 3}
+{"pattern": ["socken", "isang", "\u0431\u0430\u0441\u049b\u0430\u0440\u0493\u0430\u043d", "sitios", "wikang"], "ids": [34547, 13179, 65069, 55199, 42575], "seed": 4}
+{"pattern": ["muere", "kunna", "websteed", "en", "idioma"], "ids": [62215, 56720, 94284, 10109, 30293], "seed": 5}
+{"pattern": ["lista", "kommunen", "comunas", "literalmente", "en"], "ids": [14247, 14610, 40662, 88735, 10109], "seed": 6}
+{"pattern": ["udalerria", "ng", "\u10dd\u10e4\u10d8\u10ea\u10d8\u10d0\u10da\u10e3\u10e0\u10d8", "\u0441\u0430\u0438\u0442\u0435", "wikang"], "ids": [26185, 10822, 46048, 39947, 42575], "seed": 7}
+{"pattern": ["huvudavrinningsomrade", "paxina", "wards", "realizzata", "wikang"], "ids": [33746, 34978, 94644, 59417, 42575], "seed": 8}
+{"pattern": ["kaupungin", "organisierte", "udalerria", "ng", "wikang"], "ids": [32943, 94964, 26185, 10822, 42575], "seed": 9}

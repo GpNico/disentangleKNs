@@ -1,4 +1,10 @@
-{"pattern": ["\u02e2", "pouvoirs", "\u0916", "##\u043d\u0434\u0430\u0493\u044b", "pontificio"], "ids": [278, 62220, 548, 30800, 71560], "seed": 0, "P@1": 0.0}
-{"pattern": ["kardinal", "huius", "interretialis", "benoit", "nigerian"], "ids": [32515, 68199, 43022, 31647, 74909], "seed": 1, "P@1": 0.028409090909090908}
-{"pattern": ["arcivescovo", "\u0925\u0915\u093f\u0932\u093f", "\u2500\u2500", "##ischer", "katholischer"], "ids": [37935, 62446, 92798, 16631, 95957], "seed": 2, "P@1": 0.03977272727272727}
-{"pattern": ["franseisch", "politiker", "petrus", "saint", "frantziako"], "ids": [47752, 16917, 33340, 10642, 16240], "seed": 3, "P@1": 0.13068181818181818}
+{"pattern": ["\u0916\u0903", "utworu", "diocese", "ministre", "och"], "ids": [15044, 82452, 22062, 17273, 10186], "seed": 0}
+{"pattern": ["parafia", "bistum", "\u043d\u043e\u0432\u043e\u0441\u0442\u0438", "haut", "clemens"], "ids": [33582, 57311, 70121, 17080, 45063], "seed": 1}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "hierarchy", "verdun", "actuel", "catholique"], "ids": [28937, 52632, 58426, 35472, 32792], "seed": 2}
+{"pattern": ["offisiell", "erzbischof", "elect", "/", "deuxieme"], "ids": [93352, 46161, 91761, 120, 16389], "seed": 3}
+{"pattern": ["orile", "##\u0430\u043b\u044b", "catholique", "typy", "cimu"], "ids": [57671, 55657, 32792, 88254, 16791], "seed": 4}
+{"pattern": ["kardinal", "frantsesez", "herzegovina", "reims", "\u0930\u093e\u091c\u092f\u092f\u093e"], "ids": [32515, 13882, 31884, 38708, 17924], "seed": 5}
+{"pattern": ["officiel", "biographie", "urbain", "chartres", "devenu"], "ids": [31692, 38947, 65462, 71673, 30683], "seed": 6}
+{"pattern": ["godfrey", "ier", "sacerdote", "gregoire", "historisches"], "ids": [67294, 71705, 39299, 74147, 87234], "seed": 7}
+{"pattern": ["\u0644\u0648\u06a9", "kardyna\u0142", "emeritus", "thierry", "\u0628\u0647\u062a\u0631\u06cc\u0646"], "ids": [53288, 72065, 65819, 35247, 34538], "seed": 8}
+{"pattern": ["arzobispo", "futbola", "\u0433\u043b\u043e\u0431\u0443\u0441", "metropolitana", "georges"], "ids": [80937, 65735, 80063, 25859, 15275], "seed": 9}

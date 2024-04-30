@@ -1,4 +1,10 @@
-{"pattern": ["\u0120vowel", "\u0120ostensibly", "Italian", "\u0120acquitted", "\u0120by"], "ids": [48267, 29578, 39251, 17871, 30], "seed": 0, "P@1": 0.4015151515151515}
-{"pattern": ["nes", "\u0120neighbour", "\u0120\"...", "english", "\u0120vs"], "ids": [4977, 14915, 31051, 47120, 1954], "seed": 1, "P@1": 0.40476190476190477}
-{"pattern": ["\u0120ballots", "found", "doms", "\u0120languages", "\u0120majority"], "ids": [10527, 19256, 46619, 11991, 1647], "seed": 2, "P@1": 0.25757575757575757}
-{"pattern": ["Tw", "ilingual", "\u0120language", "\u0120(", "\u0120predominantly"], "ids": [23638, 41586, 2777, 36, 15351], "seed": 3, "P@1": 0.6645021645021645}
+{"pattern": ["\u0120maritime", "English", "\u0120accent", "\u0120prose", "\u0120mainland"], "ids": [15265, 35007, 15056, 30796, 11280], "seed": 0, "P@1": 0.6601731601731602}
+{"pattern": ["i", "\u00c3\u00a9n", "Source", "\u0120english", "\u0120in"], "ids": [118, 10598, 7061, 47510, 11], "seed": 1, "P@1": 0.4935064935064935}
+{"pattern": ["\u0120shocks", "English", "\u0120phrase", "\u0120also", "\u0120shocks"], "ids": [23485, 35007, 11054, 67, 23485], "seed": 2, "P@1": 0.5930735930735931}
+{"pattern": ["\u0120chef", "NPR", "\u0120translate", "\u0120broadcast", "\u0120in"], "ids": [8172, 39673, 14620, 2308, 11], "seed": 3, "P@1": 0.6612554112554112}
+{"pattern": ["\u0120traditionally", "\u00e2\u0122\u0136", "\u0120pronounced", "oire", "\u0120in"], "ids": [10341, 578, 9015, 41154, 11], "seed": 4, "P@1": 0.54004329004329}
+{"pattern": ["\u0120bilingual", "\u0120combining", "German", "-", "\u0120and"], "ids": [33900, 15224, 27709, 12, 8], "seed": 5, "P@1": 0.6309523809523809}
+{"pattern": ["anguages", "\u0120brink", "\u0120extension", "Enlarge", "\u0120the"], "ids": [48957, 16686, 5064, 47094, 5], "seed": 6, "P@1": 0.4772727272727273}
+{"pattern": ["\u0120pic", ".[", "English", "\u00e2\u0122", "\u0120to"], "ids": [1893, 31274, 35007, 17, 7], "seed": 7, "P@1": 0.6753246753246753}
+{"pattern": ["\u0120commercials", "English", "\u0120('", "CL", ".),"], "ids": [23676, 35007, 31509, 7454, 12345], "seed": 8, "P@1": 0.47294372294372294}
+{"pattern": ["\u0120().", "\u0120pronunciation", "15", "ador", "]."], "ids": [48989, 44919, 996, 9618, 8174], "seed": 9, "P@1": 0.09307359307359307}

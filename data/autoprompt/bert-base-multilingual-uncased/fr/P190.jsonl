@@ -1,4 +1,10 @@
-{"pattern": ["slekten", "##\u0431\u0435", "\u0431\u0435\u043e\u0433\u0440\u0430\u0434\u0443", "pavillon", "za"], "ids": [24633, 16312, 45996, 61604, 10354], "seed": 0, "P@1": 0.011560693641618497}
-{"pattern": ["southern", "skopje", "singapore", "republique", "greater"], "ids": [12952, 44576, 19649, 18656, 18860], "seed": 1, "P@1": 0.005780346820809248}
-{"pattern": ["chennai", "\u0628\u0627\u0631\u064a\u0633", "parizu", "solomon", "##ropolis"], "ids": [52433, 70285, 90638, 30149, 71980], "seed": 2, "P@1": 0.017341040462427744}
-{"pattern": ["\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea", "##\u05e4\u05e8\u05d9\u05d6", "ivanov", "asia", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [62170, 78879, 77878, 12734, 62170], "seed": 3, "P@1": 0.017341040462427744}
+{"pattern": ["parijs", "manila", "erzurum", "stade", "friendship"], "ids": [37683, 26573, 92378, 21040, 43745], "seed": 0}
+{"pattern": ["ceinture", "indonesie", "tbilisi", "arrondissement", "de"], "ids": [26191, 29414, 53267, 15773, 10102], "seed": 1}
+{"pattern": ["arrivee", "baghdad", "londen", "moscow", "kreta"], "ids": [31024, 54489, 35196, 16034, 79330], "seed": 2}
+{"pattern": ["enfin", "brasilia", "warschau", "hamburg", "kuwait"], "ids": [24231, 23334, 69590, 15332, 43681], "seed": 3}
+{"pattern": ["bucharest", "\u0628\u0627\u0631\u064a\u0633", "honolulu", "stalingrad", "metropole"], "ids": [60641, 70285, 51401, 95356, 51959], "seed": 4}
+{"pattern": ["pyongyang", "parijs", "moscow", "beirut", "metropole"], "ids": [83607, 37683, 16034, 36839, 51959], "seed": 5}
+{"pattern": ["bitke", "arrivee", "baghdad", "singapur", "moscow"], "ids": [84236, 31024, 54489, 58607, 16034], "seed": 6}
+{"pattern": ["pays", "\u0431\u043e\u043b\u0433", "ofisiel", "ambassade", "lasioglossum"], "ids": [12553, 48519, 63620, 91662, 89342], "seed": 7}
+{"pattern": ["parigi", "tehran", "attentat", "centre", "zoo"], "ids": [24228, 26352, 81397, 11534, 28336], "seed": 8}
+{"pattern": ["arrivee", "\u043d\u0430\u0437\u0432\u0430\u043d\u044b", "baghdad", "londen", "skopje"], "ids": [31024, 95487, 54489, 35196, 44576], "seed": 9}

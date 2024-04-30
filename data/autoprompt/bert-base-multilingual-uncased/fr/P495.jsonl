@@ -1,4 +1,10 @@
-{"pattern": ["monde", "\u0431\u043e\u043b\u0433", "sudafrica", "franta", "everest"], "ids": [12898, 48519, 52483, 32149, 64172], "seed": 0, "P@1": 0.12295081967213115}
-{"pattern": ["socken", "biography", "##wley", "ambassade", "pour"], "ids": [34547, 14097, 87193, 91662, 10343], "seed": 1, "P@1": 0.1885245901639344}
-{"pattern": ["detail", "titre", "officiel", "pays", "\u06cc\u0627"], "ids": [29755, 13021, 31692, 12553, 12465], "seed": 2, "P@1": 0.22950819672131148}
-{"pattern": ["channel", "franta", "ski", "##moto", "channel"], "ids": [14145, 32149, 26158, 26079, 14145], "seed": 3, "P@1": 0.1721311475409836}
+{"pattern": ["sjoarna", "\u043a\u043e\u043c\u043c\u0443\u043d\u0430", "formosa", "\u0430\u0432\u0441\u0442\u0440\u043e", "de"], "ids": [70298, 21651, 57677, 57835, 10102], "seed": 0}
+{"pattern": ["titre", "perdu", "database", "ambassade", "##\u0459\u0435\u045a\u0435"], "ids": [13021, 45468, 10326, 91662, 90666], "seed": 1}
+{"pattern": ["skadespelare", "histoire", "kultures", "faune", "sydostra"], "ids": [53228, 13119, 85870, 53678, 15748], "seed": 2}
+{"pattern": ["denkmal", "planetang", "##\u0627\u06cc\u062a", "gjeld", "statistique"], "ids": [60845, 83141, 55935, 76638, 27628], "seed": 3}
+{"pattern": ["yhdysvallat", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "\u0438\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440", "drapeau", "van"], "ids": [87289, 58703, 33071, 72015, 10147], "seed": 4}
+{"pattern": ["bwv", "site", "joue", "national", "\u0441\u0431\u043e\u0440\u043d\u0430\u044f"], "ids": [52423, 11692, 18144, 10551, 62451], "seed": 5}
+{"pattern": ["\u0441\u0431\u043e\u0440\u043d\u0430\u044f", "norwegen", "\u30d5\u30e9\u30f3\u30b9", "lancement", "\u0441\u0431\u043e\u0440\u043d\u0430\u044f"], "ids": [62451, 55468, 30378, 80040, 62451], "seed": 6}
+{"pattern": ["giappone", "cercle", "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442", "arrondissementer", "western"], "ids": [37210, 35747, 21985, 56054, 12118], "seed": 7}
+{"pattern": ["site", "voir", "flags", "naturelles", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [11692, 18466, 48151, 60971, 55892], "seed": 8}
+{"pattern": ["genealogy", "voir", "site", "ambassade", "\u0441\u0432\u0435\u0442\u043e\u0433"], "ids": [89853, 18466, 11692, 91662, 81623], "seed": 9}

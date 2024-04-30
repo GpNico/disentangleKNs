@@ -1,4 +1,10 @@
-{"pattern": ["nicky", "langues", "\u0627\u0644\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0629", "nouveau", "\u0438\u0437\u043d\u043e\u0441"], "ids": [72460, 35265, 27484, 13870, 84497], "seed": 0, "P@1": 0.15}
-{"pattern": ["regentschap", "officielle", "\u0645\u0648\u0642\u0639", "##onyme", "berbahasa"], "ids": [38817, 43111, 14455, 86265, 85859], "seed": 1, "P@1": 0.32857142857142857}
-{"pattern": ["apoidea", "\u0648\u06cc\u0628", "soutien", "\u609a", "wikang"], "ids": [95859, 78814, 38689, 3757, 42575], "seed": 2, "P@1": 0.1357142857142857}
-{"pattern": ["enceinte", "website", "##iyang", "carte", "wikang"], "ids": [67727, 12699, 84781, 27279, 42575], "seed": 3, "P@1": 0.05}
+{"pattern": ["naturreservat", "ethnologue", "dessous", "\u0447\u0435\u0440\u0435\u0437", "jezyk"], "ids": [75805, 37982, 49642, 12477, 53219], "seed": 0}
+{"pattern": ["jezyka", "inglese", "\u0441\u0442\u0430\u0442\u044c\u044f", "ethnologue", "langue"], "ids": [51063, 20235, 51005, 37982, 20219], "seed": 1}
+{"pattern": ["jaras", "\u0433\u0440\u0430\u043d\u0438\u0446\u044b", "\u6854", "du", "estats"], "ids": [88174, 45789, 4606, 10169, 19262], "seed": 2}
+{"pattern": ["\u0431\u0435\u043e\u0433\u0440\u0430\u0434", "##juma", "botanique", "vie", "wikang"], "ids": [31190, 47199, 83189, 13583, 42575], "seed": 3}
+{"pattern": ["langue", "inglis", "english", "viviendas", "caractere"], "ids": [20219, 71324, 11807, 76809, 39817], "seed": 4}
+{"pattern": ["ethnologue", "officiel", "\u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8", "haut", "parler"], "ids": [37982, 31692, 82512, 17080, 54565], "seed": 5}
+{"pattern": ["\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0438", "cet", "\u0441\u0430\u0438\u0442", "parle", "en"], "ids": [39877, 14794, 21115, 38877, 10109], "seed": 6}
+{"pattern": ["portail", "\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629", "goran", "karen", "portail"], "ids": [92346, 86290, 47572, 24425, 92346], "seed": 7}
+{"pattern": ["localite", "britannica", "tolkien", "dictionnaire", "linguistique"], "ids": [47182, 14221, 44935, 29181, 94116], "seed": 8}
+{"pattern": ["wikipedia", "titre", "quebecois", "wikipedia", "portal"], "ids": [12834, 13021, 68771, 12834, 17375], "seed": 9}

@@ -1,8 +1,0 @@
-{"pattern": ["franchises", "##los", "sunderland", "lori", "bayer"], "ids": [22506, 10483, 15518, 18669, 26367], "seed": 0, "P@1": 0.0}
-{"pattern": ["moines", "died", "hotel", "theatre", "of"], "ids": [23286, 2351, 3309, 3004, 1997], "seed": 1, "P@1": 0.31456548347613217}
-{"pattern": ["disco", "##dim", "city", "theatres", "of"], "ids": [12532, 22172, 2103, 13166, 1997], "seed": 2, "P@1": 0.34394124847001223}
-{"pattern": ["ky", "faso", "##ologist", "studios", ","], "ids": [18712, 22773, 8662, 4835, 1010], "seed": 3, "P@1": 0.3378212974296206}
-{"pattern": ["specialising", "artist", "metro", "hotel", "of"], "ids": [23315, 3063, 6005, 3309, 1997], "seed": 4, "P@1": 0.3243574051407589}
-{"pattern": ["venue", "tna", "centre", "wta", "copa"], "ids": [6891, 20108, 2803, 21925, 10613], "seed": 5, "P@1": 0.04528763769889841}
-{"pattern": ["hospitalized", "posthumously", "sovereign", "museum", "in"], "ids": [24735, 12770, 11074, 2688, 1999], "seed": 6, "P@1": 0.3708690330477356}
-{"pattern": ["dinamo", "zagreb", "china", "ville", "olympic"], "ids": [22306, 12974, 2859, 20184, 4386], "seed": 7, "P@1": 0.0}

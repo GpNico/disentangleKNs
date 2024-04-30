@@ -1,4 +1,10 @@
-{"pattern": ["\u04e9\u043b\u043a\u04d9\u0441\u0435", "cithakan", "republic", "\u0431\u0430\u0440\u0430\u043c\u0435\u0440\u0430", "western"], "ids": [27942, 60596, 13805, 14484, 12118], "seed": 0, "P@1": 0.5454545454545454}
-{"pattern": ["krasta", "cithakan", "data", "province", "\u7f38"], "ids": [68979, 60596, 10248, 12092, 6804], "seed": 1, "P@1": 0.5681818181818182}
-{"pattern": ["wi", "county", "wikimedia", "concelho", "tieng"], "ids": [19078, 10663, 13609, 51321, 14648], "seed": 2, "P@1": 0.5454545454545454}
-{"pattern": ["kemi", "distances", "database", "stampa", "##\u0442\u04d9\u043d"], "ids": [79402, 60846, 10326, 41603, 57980], "seed": 3, "P@1": 0.36363636363636365}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "kunta", "photographic", "symbols", "##\u043e\u0432\u043d\u043e\u0438"], "ids": [58703, 61372, 71535, 56804, 53814], "seed": 0}
+{"pattern": ["\u0441\u043e\u043b\u04b3\u043e\u0438", "\u043ae\u0440\u0435\u0442", "checklist", "stampa", "ilinin"], "ids": [72712, 22355, 10449, 41603, 36003], "seed": 1}
+{"pattern": ["\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0438", "arrondissementer", "administrativement", "bagi", "republik"], "ids": [29478, 56054, 81930, 15949, 16536], "seed": 2}
+{"pattern": ["\u049b\u0430\u043b\u0430\u0441\u044b", "imaxes", "saesneg", "province", "of"], "ids": [46120, 93625, 22693, 12092, 10108], "seed": 3}
+{"pattern": ["provisional", "##ooni", "##dingar", "diocese", "\u0441\u0430\u0438\u0446\u0435"], "ids": [35803, 54932, 81188, 22062, 39719], "seed": 4}
+{"pattern": ["\u043d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447", "gemengen", "ahli", "commons", "republik"], "ids": [35789, 50455, 23908, 14197, 16536], "seed": 5}
+{"pattern": ["official", "authority", "\u0563\u0575\u0578\u0582\u0572", "province", "of"], "ids": [13061, 18010, 25389, 12092, 10108], "seed": 6}
+{"pattern": ["regionale", "liste", "imaxes", "provinces", "of"], "ids": [22015, 13593, 93625, 25134, 10108], "seed": 7}
+{"pattern": ["website", "state", "tourism", "portal", "of"], "ids": [12699, 10652, 27780, 17375, 10108], "seed": 8}
+{"pattern": ["burgermeister", "national", "\u043c\u0458\u0435\u0441\u0442\u043e", "\u0441\u0430\u0438\u0446\u0435", "perbandaran"], "ids": [32870, 10551, 64691, 39719, 30712], "seed": 9}

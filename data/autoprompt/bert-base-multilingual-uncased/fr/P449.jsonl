@@ -1,4 +1,10 @@
-{"pattern": ["epizod", "zdroje", "primetime", "website", "hja"], "ids": [95988, 26022, 81969, 12699, 35530], "seed": 0, "P@1": 0.2222222222222222}
-{"pattern": ["doubleday", "emmy", "##\u10ee\u10da\u10d8\u10e1", "\u0441\u0435\u0437\u043e\u043d\u0430", "\u0441\u0430\u0438\u0442\u0435"], "ids": [77422, 26332, 68945, 20946, 39947], "seed": 1, "P@1": 0.2222222222222222}
-{"pattern": ["dexter", "perfil", "pratelan", "kantor", "primetime"], "ids": [52643, 52389, 83253, 46125, 81969], "seed": 2, "P@1": 0.022222222222222223}
-{"pattern": ["emmy", "abc", "sony", "tnt", "amadeus"], "ids": [26332, 16081, 18189, 62988, 49486], "seed": 3, "P@1": 0.15555555555555556}
+{"pattern": ["sitcom", "gazetteer", "gjeld", "\u05e2\u05dc", "\u05e8\u05e9\u05ea"], "ids": [58988, 30674, 76638, 10654, 73445], "seed": 0}
+{"pattern": ["primetime", "gemengen", "podla", "fox", "podla"], "ids": [81969, 50455, 27406, 14530, 27406], "seed": 1}
+{"pattern": ["motown", "dan", "tonight", "network", "\u091a\u0932\u091a\u093f\u0924\u0930"], "ids": [85512, 10214, 31200, 12990, 78073], "seed": 2}
+{"pattern": ["tonight", "daytime", "program", "resmi", "\u0441\u0430\u0438\u0446\u0435"], "ids": [31200, 92828, 11660, 20234, 39719], "seed": 3}
+{"pattern": ["goldberg", "pratelan", "\u8102", "daerah", "daytime"], "ids": [55144, 83253, 6991, 14274, 92828], "seed": 4}
+{"pattern": ["database", "barclay", "aktorka", "abc", "stacja"], "ids": [10326, 90161, 57329, 16081, 40289], "seed": 5}
+{"pattern": ["abc", "cdc", "tnt", "televisio", "daytime"], "ids": [16081, 80288, 62988, 51655, 92828], "seed": 6}
+{"pattern": ["\u0441\u0435\u0440\u0438\u0430\u043b", "congressional", "\u0441\u0430\u0438\u0446\u0435", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "##tului"], "ids": [49947, 48257, 39719, 58703, 43322], "seed": 7}
+{"pattern": ["playhouse", "ffilm", "abc", "dexter", "ffilm"], "ids": [77225, 95533, 16081, 52643, 95533], "seed": 8}
+{"pattern": ["cleveland", "episodio", "##\u0259rin\u0259", "\u0441\u0430\u0438\u0446\u0435", "stacja"], "ids": [21507, 14629, 82584, 39719, 40289], "seed": 9}

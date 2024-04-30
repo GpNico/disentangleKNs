@@ -1,4 +1,10 @@
-{"pattern": ["\u0627\u06cc\u0648\u0648\u0627", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "america", "katanga", "defensive"], "ids": [88231, 28937, 11147, 87927, 30356], "seed": 0, "P@1": 0.5503875968992248}
-{"pattern": ["jalkapalloilija", "kendall", "reservation", "japanin", "defensive"], "ids": [88602, 75244, 70782, 89997, 30356], "seed": 1, "P@1": 0.5348837209302325}
-{"pattern": ["wolverine", "\u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0baa\u0bbe\u0b9f\u0b9f\u0baa", "sailkatua", "defensive", "attacking"], "ids": [75861, 40748, 78982, 30356, 63700], "seed": 2, "P@1": 0.5503875968992248}
-{"pattern": ["cameo", "perbandaran", "##\u0448\u0430\u0438", "##while", "defensive"], "ids": [44752, 30712, 81908, 90508, 30356], "seed": 3, "P@1": 0.5116279069767442}
+{"pattern": ["\u0627\u06cc\u0646\u06af\u06cc\u0644\u06cc\u0633\u06cc\u062c\u0647", "trujillo", "medelhojden", "broncos", "defensive"], "ids": [79544, 60567, 57824, 82392, 30356], "seed": 0}
+{"pattern": ["\u2192", "wikang", "mites", "pratelan", "defensive"], "ids": [1354, 42575, 80934, 83253, 30356], "seed": 1}
+{"pattern": ["heavyweight", "fotballspiller", "5a", "marquez", "defensive"], "ids": [32912, 69421, 84551, 55491, 30356], "seed": 2}
+{"pattern": ["glavni", "footballer", "louie", "spirit", "defensive"], "ids": [27106, 24048, 94038, 19436, 30356], "seed": 3}
+{"pattern": ["\u09ae\u09a1\u09c7\u09b2", "currently", "dinamo", "megye", "defensive"], "ids": [93890, 14924, 33267, 40172, 30356], "seed": 4}
+{"pattern": ["offensive", "footballer", "chevrolet", "h\u00e6r", "defensive"], "ids": [26082, 24048, 44489, 61359, 30356], "seed": 5}
+{"pattern": ["isang", "guarani", "\u092a\u0939\u093f\u0932\u094b", "reserved", "soccer"], "ids": [13179, 73864, 89806, 83184, 20071], "seed": 6}
+{"pattern": ["defensive", "wide", "fotballspiller", "salsa", "offensive"], "ids": [30356, 14744, 69421, 65355, 26082], "seed": 7}
+{"pattern": ["\u0642\u0627\u064a\u0645\u0629", "\u0437\u0431\u0438\u0440\u043a\u0438", "##backer", "fotbalovy", "attacking"], "ids": [25012, 75397, 96092, 82979, 63700], "seed": 8}
+{"pattern": ["career", "utakmica", "vitale", "recurring", "attacking"], "ids": [13159, 85590, 84310, 87220, 63700], "seed": 9}

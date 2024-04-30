@@ -1,4 +1,10 @@
-{"pattern": ["bronnen", "##haus", "creed", "romisch", "\u0440\u044d\u0434\u0430\u043a\u0446\u044b\u0456"], "ids": [11085, 14408, 61516, 46574, 64005], "seed": 0, "P@1": 0.0}
-{"pattern": ["buddha", "hiel", "asterix", "handbook", "islamic"], "ids": [31464, 83385, 75070, 23285, 21903], "seed": 1, "P@1": 0.5568181818181818}
-{"pattern": ["periods", "hana", "religion", "conversion", "intae"], "ids": [42673, 41548, 15309, 32145, 86952], "seed": 2, "P@1": 0.6704545454545454}
-{"pattern": ["beliefs", "multimedia", "examples", "##belius", "sunni"], "ids": [63699, 23030, 28910, 96515, 87398], "seed": 3, "P@1": 0.5454545454545454}
+{"pattern": ["llingues", "religion", "inglis", "medicine", "agama"], "ids": [64495, 15309, 71324, 16512, 24694], "seed": 0}
+{"pattern": ["ls", "angles", "poskod", "handbook", "orthodox"], "ids": [52356, 22624, 46011, 23285, 33100], "seed": 1}
+{"pattern": ["\u09b9\u09be\u09a8", "cristianismo", "quran", "slovenskeho", "\u09ad\u09be\u09b0\u09a4\u09c7\u09b0"], "ids": [23282, 68746, 73594, 79843, 34287], "seed": 2}
+{"pattern": ["religion", "##ccidae", "unesco", "kategorie", "early"], "ids": [15309, 84085, 16077, 22030, 11607], "seed": 3}
+{"pattern": ["wiki", "\u043e\u0431\u043b\u0430\u0441\u0442\u0430", "converted", "religion", "intae"], "ids": [25883, 92519, 30484, 15309, 86952], "seed": 4}
+{"pattern": ["religion", "tende", "wcsp", "\u091a\u0932\u091a\u093f\u0924\u0930", "towards"], "ids": [15309, 88983, 16356, 78073, 17334], "seed": 5}
+{"pattern": ["chronology", "buddha", "quran", "encyclopedia", "early"], "ids": [78017, 31464, 73594, 11611, 11607], "seed": 6}
+{"pattern": ["list", "religions", "aka", "followers", "of"], "ids": [11438, 43401, 36710, 69907, 10108], "seed": 7}
+{"pattern": ["aliran", "lihat", "introducing", "religion", "into"], "ids": [59889, 93321, 69778, 15309, 10765], "seed": 8}
+{"pattern": ["portal", "tae", "steinicke", "##vini", "##stisk"], "ids": [17375, 15429, 22434, 41593, 52881], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["offisiell", "##grunn", "direutor", "ellington", "klassisk"], "ids": [93352, 87574, 81756, 87219, 74162], "seed": 0, "P@1": 0.41935483870967744}
-{"pattern": ["salsa", "kad\u0131n", "pop", "fantasia", "contemporary"], "ids": [65355, 47152, 12514, 40757, 14948], "seed": 1, "P@1": 0.44623655913978494}
-{"pattern": ["pianist", "dramma", "rhestr", "##nur", "smooth"], "ids": [35175, 93000, 17092, 70079, 48093], "seed": 2, "P@1": 0.478494623655914}
-{"pattern": ["cuisine", "electronica", "musikk", "fantasia", "salsa"], "ids": [49407, 46039, 48480, 40757, 65355], "seed": 3, "P@1": 0.5053763440860215}
+{"pattern": ["snooker", "piano", "comedy", "fusion", "latin"], "ids": [69054, 12510, 18422, 20934, 12855], "seed": 0}
+{"pattern": ["muzica", "##muz", "swing", "telde", "##muz"], "ids": [54698, 88974, 34043, 72024, 88974], "seed": 1}
+{"pattern": ["facebook", "operas", "verve", "serija", "contemporary"], "ids": [21105, 56799, 92609, 49744, 14948], "seed": 2}
+{"pattern": ["manjadi", "##ymuned", "ellington", "tai", "wikang"], "ids": [22204, 91610, 87219, 10994, 42575], "seed": 3}
+{"pattern": ["ensemble", "hudba", "fusion", "folk", "\u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e"], "ids": [14474, 86785, 20934, 16334, 47249], "seed": 4}
+{"pattern": ["##\u1102\u1161\u11b7\u1103\u1169", "fusion", "inggeris", "ellington", "\u0645\u0648\u0633\u06cc\u0642\u06cc"], "ids": [43266, 20934, 48650, 87219, 29963], "seed": 5}
+{"pattern": ["\u0634\u06cc\u0645\u06cc", "\u74ef", "classics", "ficha", "montreux"], "ids": [24719, 5820, 29822, 32253, 93136], "seed": 6}
+{"pattern": ["ellington", "classique", "avn", "flensburg", "african"], "ids": [87219, 35096, 51747, 94854, 14028], "seed": 7}
+{"pattern": ["swing", "bilgi", "operas", "omonimo", "contemporary"], "ids": [34043, 41106, 56799, 49791, 14948], "seed": 8}
+{"pattern": ["rabat", "orquesta", "website", "uluslararas\u0131", "smooth"], "ids": [30733, 38705, 12699, 40373, 48093], "seed": 9}

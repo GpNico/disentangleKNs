@@ -1,15 +1,15 @@
-{"pattern": "[X] has class [Y] .", "bert-base-uncased_P@1": 0.005537098560354375, "opt-350m_P@1": 0.0}
-{"pattern": "[X] is a [Y] .", "bert-base-uncased_P@1": 0.35437430786268, "opt-350m_P@1": 0.10963455149501661}
-{"pattern": "[X] is a kind of [Y] .", "bert-base-uncased_P@1": 0.5027685492801772, "opt-350m_P@1": 0.42414174972314506}
-{"pattern": "[X] is a subclass of [Y] .", "bert-base-uncased_P@1": 0.31118493909191586, "opt-350m_P@1": 0.17718715393134}
-{"pattern": "[X] is a type of [Y] .", "bert-base-uncased_P@1": 0.5492801771871539, "opt-350m_P@1": 0.4750830564784053}
-{"pattern": "[X] is of class [Y] .", "bert-base-uncased_P@1": 0.0011074197120708748, "opt-350m_P@1": 0.0}
-{"pattern": "[X], a subclass of [Y] .", "bert-base-uncased_P@1": 0.27906976744186046, "opt-350m_P@1": 0.1362126245847176}
-{"pattern": "[X], a type of [Y] .", "bert-base-uncased_P@1": 0.49280177187153934, "opt-350m_P@1": 0.4363233665559247}
-{"pattern": "[X], which is a subclass of [Y] .", "bert-base-uncased_P@1": 0.31561461794019935, "opt-350m_P@1": 0.15614617940199335}
-{"pattern": "Does [X] have class [Y]?", "bert-base-uncased_P@1": 0.0011074197120708748, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X] a [Y]?", "bert-base-uncased_P@1": 0.1539313399778516, "opt-350m_P@1": 0.02768549280177187}
-{"pattern": "Is [X] a kind of [Y]?", "bert-base-uncased_P@1": 0.1638981173864895, "opt-350m_P@1": 0.3233665559246955}
-{"pattern": "Is [X] a subclass of [Y]?", "bert-base-uncased_P@1": 0.2513842746400886, "opt-350m_P@1": 0.17497231450719822}
-{"pattern": "Is [X] a type of [Y]?", "bert-base-uncased_P@1": 0.3743078626799557, "opt-350m_P@1": 0.4219269102990033}
-{"pattern": "Is [X] of class [Y]?", "bert-base-uncased_P@1": 0.009966777408637873, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has class [Y] .", "bert-large-uncased_P@1": 0.0011074197120708748, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a [Y] .", "bert-large-uncased_P@1": 0.29346622369878184, "opt-350m_P@1": 0.10963455149501661}
+{"pattern": "[X] is a kind of [Y] .", "bert-large-uncased_P@1": 0.5038759689922481, "opt-350m_P@1": 0.42524916943521596}
+{"pattern": "[X] is a subclass of [Y] .", "bert-large-uncased_P@1": 0.4152823920265781, "opt-350m_P@1": 0.17829457364341086}
+{"pattern": "[X] is a type of [Y] .", "bert-large-uncased_P@1": 0.5548172757475083, "opt-350m_P@1": 0.4750830564784053}
+{"pattern": "[X] is of class [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X], a subclass of [Y] .", "bert-large-uncased_P@1": 0.4429678848283499, "opt-350m_P@1": 0.1362126245847176}
+{"pattern": "[X], a type of [Y] .", "bert-large-uncased_P@1": 0.530454042081949, "opt-350m_P@1": 0.4374307862679956}
+{"pattern": "[X], which is a subclass of [Y] .", "bert-large-uncased_P@1": 0.4130675526024363, "opt-350m_P@1": 0.15614617940199335}
+{"pattern": "Does [X] have class [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a [Y]?", "bert-large-uncased_P@1": 0.11517165005537099, "opt-350m_P@1": 0.02768549280177187}
+{"pattern": "Is [X] a kind of [Y]?", "bert-large-uncased_P@1": 0.21483942414174972, "opt-350m_P@1": 0.3233665559246955}
+{"pattern": "Is [X] a subclass of [Y]?", "bert-large-uncased_P@1": 0.27464008859357697, "opt-350m_P@1": 0.17497231450719822}
+{"pattern": "Is [X] a type of [Y]?", "bert-large-uncased_P@1": 0.35437430786268, "opt-350m_P@1": 0.4230343300110742}
+{"pattern": "Is [X] of class [Y]?", "bert-large-uncased_P@1": 0.0011074197120708748, "opt-350m_P@1": 0.0}

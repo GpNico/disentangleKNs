@@ -1,4 +1,10 @@
-{"pattern": ["pagina", "homonima", "escritor", "recensements", "politico"], "ids": [16833, 76565, 21250, 55016, 14243], "seed": 0, "P@1": 0.648936170212766}
-{"pattern": ["\u0440\u043e\u0434\u0438\u043b\u0430\u0441\u044c", "\u09b9\u09b2\u09c7\u09be", "petersburg", "lenga", "del"], "ids": [47301, 92065, 22957, 20915, 10134], "seed": 1, "P@1": 0.6648936170212766}
-{"pattern": ["aquesta", "pagina", "photographic", "##\u10e0\u10d6\u10d4", "idioma"], "ids": [13339, 16833, 71535, 71655, 30293], "seed": 2, "P@1": 0.7553191489361702}
-{"pattern": ["comunautat", "cavendish", "oficial", "langue", "du"], "ids": [73157, 69048, 13562, 20219, 10169], "seed": 3, "P@1": 0.6063829787234043}
+{"pattern": ["inconnu", "perfil", "alone", "ator", "futebolista"], "ids": [57235, 52389, 19145, 38193, 44789], "seed": 0}
+{"pattern": ["manuscript", "franceze", "biografi", "escritor", "deportista"], "ids": [25552, 78835, 78785, 21250, 74325], "seed": 1}
+{"pattern": ["akademii", "abitants", "institut", "angles", "institut"], "ids": [28651, 78295, 13786, 22624, 13786], "seed": 2}
+{"pattern": ["departamenti", "##\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2", "stortinget", "oficial", "wikang"], "ids": [32272, 89696, 57222, 13562, 42575], "seed": 3}
+{"pattern": ["phylogeny", "wefan", "instituto", "historisches", "\u0561\u0576\u0578\u0582\u0576\u0576\u0565\u0580\u056b"], "ids": [53426, 36772, 13149, 87234, 81432], "seed": 4}
+{"pattern": ["no", "angles", "population", "medailles", "escriptor"], "ids": [10181, 22624, 10509, 68669, 70566], "seed": 5}
+{"pattern": ["##court", "yann", "asteroides", "olim", "juegos"], "ids": [30585, 67542, 21769, 44261, 23118], "seed": 6}
+{"pattern": ["biografi", "##taden", "escritor", "filo", "\u0431\u0456\u043b\u043e\u043a"], "ids": [78785, 93105, 21250, 65051, 40119], "seed": 7}
+{"pattern": ["ganed", "conteniu", "\u043e\u0444\u0456\u0446\u0456\u0438\u043d\u043e", "\u05d4\u05d2\u05e8\u05de\u05e0\u05d9\u05dd", "wikang"], "ids": [75304, 35229, 60941, 87414, 42575], "seed": 8}
+{"pattern": ["##\u0627\u062a\u0628", "\u0627\u062b\u0631", "\u1103\u1162\u1112\u1161\u11ab\u1106\u1175\u11ab\u1100\u116e\u11a8\u110b\u1174", "##onista", "wikang"], "ids": [88274, 20393, 27775, 71036, 42575], "seed": 9}

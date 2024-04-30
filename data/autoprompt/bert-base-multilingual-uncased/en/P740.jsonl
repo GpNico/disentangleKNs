@@ -1,4 +1,10 @@
-{"pattern": ["ble", "##\u094a", "center", "website", "greater"], "ids": [10803, 96819, 11473, 12699, 18860], "seed": 0, "P@1": 0.07650273224043716}
-{"pattern": ["lineup", "link", "londres", "hartford", "/"], "ids": [77040, 17266, 14450, 55103, 120], "seed": 1, "P@1": 0.0546448087431694}
-{"pattern": ["yogyakarta", "bucharest", "londres", "memphis", "newark"], "ids": [42738, 60641, 14450, 33153, 60022], "seed": 2, "P@1": 0.04918032786885246}
-{"pattern": ["@", "walking", "website", "\u00a9", "greater"], "ids": [137, 29869, 12699, 181, 18860], "seed": 3, "P@1": 0.08743169398907104}
+{"pattern": ["homepage", "twin", "organisations", "angeles", "and"], "ids": [61916, 23295, 38640, 12258, 10110], "seed": 0}
+{"pattern": ["soho", "israel", "goteborg", "honolulu", "augusta"], "ids": [93212, 12847, 28304, 51401, 19389], "seed": 1}
+{"pattern": ["goldmedaille", "##vingar", "\u1100\u1167\u11bc\u1100\u1175\u1103\u1169", "\u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [77312, 62563, 56949, 80358, 62170], "seed": 2}
+{"pattern": ["dover", "goteborg", "auckland", "beirut", "hollywood"], "ids": [35338, 28304, 31066, 36839, 15001], "seed": 3}
+{"pattern": ["penny", "\u00a9", "arts", "city", "of"], "ids": [42684, 181, 12180, 10575, 10108], "seed": 4}
+{"pattern": ["chronology", "storbritannia", "iasi", "bucharest", "idaho"], "ids": [78017, 37495, 44734, 60641, 28747], "seed": 5}
+{"pattern": ["\u062f\u0641\u062a\u0631", "oakland", "londra", "volvo", "\u062f\u0641\u062a\u0631"], "ids": [65785, 37169, 22907, 48092, 65785], "seed": 6}
+{"pattern": ["vocals", "camden", "londyn", "stavanger", "filadelfia"], "ids": [15377, 62116, 90254, 46506, 66812], "seed": 7}
+{"pattern": ["quarters", "memphis", "londra", "wolverine", "quarters"], "ids": [66543, 33153, 22907, 75861, 66543], "seed": 8}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b", "newark", "stavanger", "londra", "orlando"], "ids": [42810, 60022, 46506, 22907, 26129], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["antarctic", "brasil", "unesco", "guide", "western"], "ids": [29265, 12369, 16077, 13301, 12118], "seed": 0, "P@1": 0.7282051282051282}
-{"pattern": ["antarktis", "\u0432\u0443\u043b\u0438\u0446\u0456", "##box", "\u0441\u0430\u0438\u0442", "discover"], "ids": [43192, 42840, 32067, 21115, 57606], "seed": 1, "P@1": 0.7076923076923077}
-{"pattern": ["antarctic", "wikimedia", "oecd", "heritage", "south"], "ids": [29265, 13609, 88674, 17328, 10808], "seed": 2, "P@1": 0.3641025641025641}
-{"pattern": ["offeecial", "antarktis", "##\u03b2\u03bf\u03c5\u03bb\u03b9\u03bf", "gazetteer", "southeast"], "ids": [83806, 43192, 76893, 30674, 23551], "seed": 3, "P@1": 0.7230769230769231}
+{"pattern": ["\u0634\u06cc\u0645\u06cc\u0627\u06cc\u06cc", "countries", "eastern", "antarktis", "eastern"], "ids": [39995, 15612, 13598, 43192, 13598], "seed": 0}
+{"pattern": ["belgica", "antarktis", "australia", "continent", "##icina"], "ids": [34278, 43192, 11758, 34378, 61031], "seed": 1}
+{"pattern": ["apud", "euros", "antarktis", "from", "central"], "ids": [18922, 25832, 43192, 10195, 11188], "seed": 2}
+{"pattern": ["liste", "##ophaga", "antarctic", "##\u03b2\u03b9\u03b1\u03c2", "toata"], "ids": [13593, 72369, 29265, 87229, 73713], "seed": 3}
+{"pattern": ["documentaire", "antarktis", "bronnen", "profiles", "\u7b97"], "ids": [45002, 43192, 11085, 88410, 6436], "seed": 4}
+{"pattern": ["\u0443\u043a\u0440\u0430\u0456\u043d\u0430", "tropisch", "antarktis", "encyclopaedia", "tropical"], "ids": [36591, 63288, 43192, 32064, 10754], "seed": 5}
+{"pattern": ["antarctic", "guide", "unesco", "covering", "southern"], "ids": [29265, 13301, 16077, 39819, 12952], "seed": 6}
+{"pattern": ["antarctic", "websteed", "annere", "informacoes", "discover"], "ids": [29265, 94284, 50451, 61565, 57606], "seed": 7}
+{"pattern": ["introducing", "antarktis", "eurasia", "magazine", "introducing"], "ids": [69778, 43192, 86796, 12765, 69778], "seed": 8}
+{"pattern": ["cleopatra", "eurasia", "continent", "antarctic", "cleopatra"], "ids": [58800, 86796, 34378, 29265, 58800], "seed": 9}

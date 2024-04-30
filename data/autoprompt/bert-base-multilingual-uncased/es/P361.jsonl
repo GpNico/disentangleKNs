@@ -1,4 +1,10 @@
-{"pattern": ["portal", "##y", "galego", "descripcion", "##\u0628\u06cc\u0627"], "ids": [17375, 10158, 29311, 49138, 62166], "seed": 0, "P@1": 0.09174311926605505}
-{"pattern": ["buruzko", "commons", "enciclopedia", "tratado", "sobre"], "ids": [49768, 14197, 36286, 26833, 10751], "seed": 1, "P@1": 0.30275229357798167}
-{"pattern": ["oficialament", "portal", "\u043f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", "\u0442\u044d\u043c\u0435", "\u043e\u0431\u0449\u0430\u044f"], "ids": [89193, 17375, 28150, 26608, 52575], "seed": 2, "P@1": 0.1559633027522936}
-{"pattern": ["glottolog", "portal", "namn", "elementos", "##\u05e6\u05d9\u05e8\u05d5\u05ea"], "ids": [72555, 17375, 17295, 19721, 82807], "seed": 3, "P@1": 0.24770642201834864}
+{"pattern": ["\u0497", "anglicky", "termin", "portal", "sobre"], "ids": [353, 41767, 31846, 17375, 10751], "seed": 0}
+{"pattern": ["wikang", "##esia", "musika", "fda", "##logia"], "ids": [42575, 52773, 63850, 61312, 16099], "seed": 1}
+{"pattern": ["wikimedia", "engleski", "edicion", "portal", "##baldeko"], "ids": [13609, 12710, 15534, 17375, 95857], "seed": 2}
+{"pattern": ["definicion", "abajo", "enciclopedia", "portal", "sobre"], "ids": [54824, 56134, 36286, 17375, 10751], "seed": 3}
+{"pattern": ["##\u04af\u043d\u04e9\u0442", "##lope", "wiki", "portal", "sobre"], "ids": [96586, 88571, 25883, 17375, 10751], "seed": 4}
+{"pattern": ["wikimedia", "anglu", "restu", "fundamentals", "de"], "ids": [13609, 39134, 77642, 95366, 10102], "seed": 5}
+{"pattern": ["explanation", "facts", "situs", "website", "revista"], "ids": [72997, 20203, 20757, 12699, 14469], "seed": 6}
+{"pattern": ["##\u02e3", "enciklopedija", "portal", "espanol", "sobre"], "ids": [96744, 29339, 17375, 14682, 10751], "seed": 7}
+{"pattern": ["diccionario", "caipital", "nanging", "##amental", "tentang"], "ids": [48018, 84969, 46675, 69633, 23187], "seed": 8}
+{"pattern": ["mitologia", "energia", "comptes", "##itario", "mitologia"], "ids": [44388, 16065, 47298, 59420, 44388], "seed": 9}

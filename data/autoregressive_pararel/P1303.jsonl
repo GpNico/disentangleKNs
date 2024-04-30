@@ -1,5 +1,5 @@
-{"pattern": "[X] plays [Y] .", "bert-base-uncased_P@1": 0.10136452241715399, "opt-350m_P@1": 0.0}
-{"pattern": "[X] plays the [Y] .", "bert-base-uncased_P@1": 0.15009746588693956, "opt-350m_P@1": 0.017543859649122806}
-{"pattern": "[X] plays the music instrument [Y] .", "bert-base-uncased_P@1": 0.007797270955165692, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] play [Y]?", "bert-base-uncased_P@1": 0.09161793372319688, "opt-350m_P@1": 0.005847953216374269}
-{"pattern": "Does [X] play the [Y]?", "bert-base-uncased_P@1": 0.2300194931773879, "opt-350m_P@1": 0.029239766081871343}
+{"pattern": "[X] plays [Y] .", "bert-large-uncased_P@1": 0.2573099415204678, "opt-350m_P@1": 0.0}
+{"pattern": "[X] plays the [Y] .", "bert-large-uncased_P@1": 0.4171539961013645, "opt-350m_P@1": 0.017543859649122806}
+{"pattern": "[X] plays the music instrument [Y] .", "bert-large-uncased_P@1": 0.1111111111111111, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] play [Y]?", "bert-large-uncased_P@1": 0.06627680311890838, "opt-350m_P@1": 0.005847953216374269}
+{"pattern": "Does [X] play the [Y]?", "bert-large-uncased_P@1": 0.3937621832358674, "opt-350m_P@1": 0.029239766081871343}

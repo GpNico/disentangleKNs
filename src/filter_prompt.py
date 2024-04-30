@@ -220,8 +220,12 @@ def delete_model_scores(model_name: str, config: Config, multilingual: bool, aut
                 new_lines = []
                 for line in f:
                     data = json.loads(line)
-                    if f'{model_name}_P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
-                        del data[f'{model_name}_P@1']
+                    if autoprompt:
+                        if f'P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
+                            del data[f'P@1']
+                    else:
+                        if f'{model_name}_P@1' in data.keys(): # This whole trick is useful think about it before deleting it!
+                            del data[f'{model_name}_P@1']
                     new_lines.append(data)
             with open(os.path.join(_path_to_dataset, f'{predicate_id}.jsonl'), 'w') as f:
                 for new_line in new_lines:

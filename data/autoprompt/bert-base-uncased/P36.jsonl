@@ -1,8 +1,0 @@
-{"pattern": ["lt", "museum", "marian", "berlin", "near"], "ids": [8318, 2688, 14042, 4068, 2379], "seed": 0, "P@1": 0.35668789808917195}
-{"pattern": ["planning", "\u2091", "metropolitan", "comune", "new"], "ids": [4041, 1561, 4956, 21130, 2047], "seed": 1, "P@1": 0.18259023354564755}
-{"pattern": ["census", "cara", "cities", "royal", "western"], "ids": [2883, 14418, 3655, 2548, 2530], "seed": 2, "P@1": 0.05732484076433121}
-{"pattern": ["icao", "noctuidae", "##founded", "unincorporated", "new"], "ids": [18055, 24893, 21001, 7754, 2047], "seed": 3, "P@1": 0.18046709129511676}
-{"pattern": ["train", "listed", "##e", "##ville", "/"], "ids": [3345, 3205, 2063, 3077, 1013], "seed": 4, "P@1": 0.3651804670912951}
-{"pattern": ["lineup", "railways", "trains", "canton", "/"], "ids": [10515, 7111, 4499, 8770, 1013], "seed": 5, "P@1": 0.4033970276008493}
-{"pattern": ["surrounded", "extinct", "joseph", "p", "."], "ids": [5129, 8548, 3312, 1052, 1012], "seed": 6, "P@1": 0.0}
-{"pattern": ["prairie", "##yst", "##aly", "north", "##ope"], "ids": [10996, 27268, 20766, 2167, 17635], "seed": 7, "P@1": 0.0}

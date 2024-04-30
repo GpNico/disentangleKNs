@@ -1,4 +1,10 @@
-{"pattern": ["\u043b\u0430\u044c\u0442\u0442\u0430", "\u0441\u0430\u0438\u0446\u0435", "orile", "rasmi", "ti"], "ids": [19894, 39719, 57671, 51464, 12780], "seed": 0, "P@1": 0.3148148148148148}
-{"pattern": ["unveiled", "unitit", "##\u0435\u043b\u044c\u043d\u044b\u0445", "websteed", "o"], "ids": [84539, 85952, 58609, 94284, 157], "seed": 1, "P@1": 0.3055555555555556}
-{"pattern": ["unofficial", "\u0441\u0430\u0438\u0442", "server", "historique", "pour"], "ids": [88047, 21115, 19362, 22296, 10343], "seed": 2, "P@1": 0.37962962962962965}
-{"pattern": ["faq", "product", "headquarters", "\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "avenida"], "ids": [18044, 20058, 22866, 26814, 26980], "seed": 3, "P@1": 0.1574074074074074}
+{"pattern": ["electronics", "asteroid", "saesneg", "\u062a\u0642\u0639", "prifysgol"], "ids": [36009, 11022, 22693, 20065, 83024], "seed": 0}
+{"pattern": ["##\u062d\u0628", "electronics", "forbes", "wefan", "dwyrain"], "ids": [42834, 36009, 27313, 36772, 80355], "seed": 1}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "news", "societe", "\u056f\u0561\u0575\u0584", "de"], "ids": [28937, 11636, 13806, 30812, 10102], "seed": 2}
+{"pattern": ["litteralement", "officiel", "ville", "officiel", "chez"], "ids": [95930, 31692, 11750, 31692, 15967], "seed": 3}
+{"pattern": ["offiziell", "lescht", "everyday", "highways", "pour"], "ids": [35254, 27798, 59811, 66139, 10343], "seed": 4}
+{"pattern": ["homepage", "blogs", "\u0441\u0430\u0438\u0442\u0435", "electronics", "cua"], "ids": [61916, 92523, 39947, 36009, 10500], "seed": 5}
+{"pattern": ["\u0434\u0430\u0440", "souvenirs", "poskod", "wired", "\u0434\u043e\u043d\u0438\u0448\u043d\u043e\u043c\u0430\u0438"], "ids": [11869, 70948, 46011, 90976, 79563], "seed": 6}
+{"pattern": ["jpg", "internet", "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c", "majeur", "de"], "ids": [87588, 12044, 46113, 46786, 10102], "seed": 7}
+{"pattern": ["\u0648\u06cc\u0628", "\u0441\u0430\u0438\u0446\u0435", "pubblici", "##stiques", "per"], "ids": [78814, 39719, 87061, 48814, 10174], "seed": 8}
+{"pattern": ["une", "kompanija", "situs", "portal", "\u0441\u0430\u0438\u0446\u0435"], "ids": [10249, 73693, 20757, 17375, 39719], "seed": 9}

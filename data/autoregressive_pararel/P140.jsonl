@@ -1,7 +1,7 @@
-{"pattern": "The religion of [X] is [Y] .", "bert-base-uncased_P@1": 0.3225806451612903, "opt-350m_P@1": 0.0}
-{"pattern": "[X] believes in [Y] .", "bert-base-uncased_P@1": 0.06451612903225806, "opt-350m_P@1": 0.0}
-{"pattern": "[X] is a believer of [Y] .", "bert-base-uncased_P@1": 0.6152073732718893, "opt-350m_P@1": 0.0069124423963133645}
-{"pattern": "[X] is follower of [Y] .", "bert-base-uncased_P@1": 0.5576036866359447, "opt-350m_P@1": 0.004608294930875576}
-{"pattern": "Does [X] believe in [Y]?", "bert-base-uncased_P@1": 0.020737327188940093, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X] a believer in [Y]?", "bert-base-uncased_P@1": 0.3986175115207373, "opt-350m_P@1": 0.1728110599078341}
-{"pattern": "Is [X] a follower of [Y]?", "bert-base-uncased_P@1": 0.5552995391705069, "opt-350m_P@1": 0.041474654377880185}
+{"pattern": "The religion of [X] is [Y] .", "bert-large-uncased_P@1": 0.7603686635944701, "opt-350m_P@1": 0.0}
+{"pattern": "[X] believes in [Y] .", "bert-large-uncased_P@1": 0.17050691244239632, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a believer of [Y] .", "bert-large-uncased_P@1": 0.5299539170506913, "opt-350m_P@1": 0.0069124423963133645}
+{"pattern": "[X] is follower of [Y] .", "bert-large-uncased_P@1": 0.5460829493087558, "opt-350m_P@1": 0.004608294930875576}
+{"pattern": "Does [X] believe in [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a believer in [Y]?", "bert-large-uncased_P@1": 0.013824884792626729, "opt-350m_P@1": 0.1728110599078341}
+{"pattern": "Is [X] a follower of [Y]?", "bert-large-uncased_P@1": 0.39400921658986177, "opt-350m_P@1": 0.041474654377880185}

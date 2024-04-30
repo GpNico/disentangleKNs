@@ -1,136 +1,136 @@
-{"pattern": "[X] had the official position of [Y] .", "bert-base-uncased_P@1": 0.16288659793814433, "opt-350m_P@1": 0.020618556701030927}
-{"pattern": "[X] had the official role of [Y] .", "bert-base-uncased_P@1": 0.2288659793814433, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X] had the position of [Y] .", "bert-base-uncased_P@1": 0.2288659793814433, "opt-350m_P@1": 0.026804123711340205}
-{"pattern": "[X] had the public position of [Y] .", "bert-base-uncased_P@1": 0.11134020618556702, "opt-350m_P@1": 0.0}
-{"pattern": "[X] had the public role of [Y] .", "bert-base-uncased_P@1": 0.1670103092783505, "opt-350m_P@1": 0.0}
-{"pattern": "[X] had the role of [Y] .", "bert-base-uncased_P@1": 0.21237113402061855, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has the official position of [Y] .", "bert-base-uncased_P@1": 0.14432989690721648, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X] has the official role of [Y] .", "bert-base-uncased_P@1": 0.26597938144329897, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has the position of [Y] .", "bert-base-uncased_P@1": 0.18556701030927836, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "[X] has the public position of [Y] .", "bert-base-uncased_P@1": 0.10309278350515463, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has the public role of [Y] .", "bert-base-uncased_P@1": 0.2020618556701031, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has the role of [Y] .", "bert-base-uncased_P@1": 0.22061855670103092, "opt-350m_P@1": 0.0}
-{"pattern": "[X] held the official position of [Y] .", "bert-base-uncased_P@1": 0.21237113402061855, "opt-350m_P@1": 0.032989690721649485}
-{"pattern": "[X] held the official role of [Y] .", "bert-base-uncased_P@1": 0.24329896907216494, "opt-350m_P@1": 0.016494845360824743}
-{"pattern": "[X] held the position of [Y] .", "bert-base-uncased_P@1": 0.2804123711340206, "opt-350m_P@1": 0.026804123711340205}
-{"pattern": "[X] held the public position of [Y] .", "bert-base-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.03505154639175258}
-{"pattern": "[X] held the public role of [Y] .", "bert-base-uncased_P@1": 0.24329896907216494, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X] held the role of [Y] .", "bert-base-uncased_P@1": 0.2845360824742268, "opt-350m_P@1": 0.0}
-{"pattern": "[X] holds the official position of [Y] .", "bert-base-uncased_P@1": 0.18556701030927836, "opt-350m_P@1": 0.016494845360824743}
-{"pattern": "[X] holds the official role of [Y] .", "bert-base-uncased_P@1": 0.28865979381443296, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "[X] holds the position of [Y] .", "bert-base-uncased_P@1": 0.2329896907216495, "opt-350m_P@1": 0.010309278350515464}
-{"pattern": "[X] holds the public position of [Y] .", "bert-base-uncased_P@1": 0.15463917525773196, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "[X] holds the public role of [Y] .", "bert-base-uncased_P@1": 0.30515463917525776, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X] holds the role of [Y] .", "bert-base-uncased_P@1": 0.2721649484536082, "opt-350m_P@1": 0.0}
-{"pattern": "[X] officially held the position of [Y] .", "bert-base-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.030927835051546393}
-{"pattern": "[X] officially held the role of [Y] .", "bert-base-uncased_P@1": 0.25773195876288657, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "[X] officially holds the position of [Y] .", "bert-base-uncased_P@1": 0.26804123711340205, "opt-350m_P@1": 0.01443298969072165}
-{"pattern": "[X] officially holds the role of [Y] .", "bert-base-uncased_P@1": 0.28865979381443296, "opt-350m_P@1": 0.006185567010309278}
-{"pattern": "[X]'s official position is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s official position was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s official role is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s official role was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s position is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s position was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s public position is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s public position was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s public role is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s public role was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s role is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s role was [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X], who had the official position of [Y] .", "bert-base-uncased_P@1": 0.07628865979381444, "opt-350m_P@1": 0.041237113402061855}
-{"pattern": "[X], who had the official role of [Y] .", "bert-base-uncased_P@1": 0.1670103092783505, "opt-350m_P@1": 0.016494845360824743}
-{"pattern": "[X], who had the position of [Y] .", "bert-base-uncased_P@1": 0.20824742268041238, "opt-350m_P@1": 0.041237113402061855}
-{"pattern": "[X], who had the public position of [Y] .", "bert-base-uncased_P@1": 0.05360824742268041, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who had the public role of [Y] .", "bert-base-uncased_P@1": 0.12783505154639174, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who had the role of [Y] .", "bert-base-uncased_P@1": 0.20618556701030927, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who has the official position of [Y] .", "bert-base-uncased_P@1": 0.09484536082474226, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "[X], who has the official role of [Y] .", "bert-base-uncased_P@1": 0.2, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who has the position of [Y] .", "bert-base-uncased_P@1": 0.26597938144329897, "opt-350m_P@1": 0.030927835051546393}
-{"pattern": "[X], who has the public position of [Y] .", "bert-base-uncased_P@1": 0.0865979381443299, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who has the public role of [Y] .", "bert-base-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.0}
-{"pattern": "[X], who has the role of [Y] .", "bert-base-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.0}
-{"pattern": "[X], who held the official position of [Y] .", "bert-base-uncased_P@1": 0.15876288659793814, "opt-350m_P@1": 0.04536082474226804}
-{"pattern": "[X], who held the official role of [Y] .", "bert-base-uncased_P@1": 0.1958762886597938, "opt-350m_P@1": 0.020618556701030927}
-{"pattern": "[X], who held the position of [Y] .", "bert-base-uncased_P@1": 0.2556701030927835, "opt-350m_P@1": 0.04329896907216495}
-{"pattern": "[X], who held the public position of [Y] .", "bert-base-uncased_P@1": 0.12164948453608247, "opt-350m_P@1": 0.08247422680412371}
-{"pattern": "[X], who held the public role of [Y] .", "bert-base-uncased_P@1": 0.16288659793814433, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "[X], who held the role of [Y] .", "bert-base-uncased_P@1": 0.25773195876288657, "opt-350m_P@1": 0.008247422680412371}
-{"pattern": "[X], who holds the official position of [Y] .", "bert-base-uncased_P@1": 0.14845360824742268, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "[X], who holds the official role of [Y] .", "bert-base-uncased_P@1": 0.22268041237113403, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "[X], who holds the position of [Y] .", "bert-base-uncased_P@1": 0.2556701030927835, "opt-350m_P@1": 0.024742268041237112}
-{"pattern": "[X], who holds the public position of [Y] .", "bert-base-uncased_P@1": 0.2, "opt-350m_P@1": 0.03917525773195876}
-{"pattern": "[X], who holds the public role of [Y] .", "bert-base-uncased_P@1": 0.30103092783505153, "opt-350m_P@1": 0.006185567010309278}
-{"pattern": "[X], who holds the role of [Y] .", "bert-base-uncased_P@1": 0.28865979381443296, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], who officially held the position of [Y] .", "bert-base-uncased_P@1": 0.22061855670103092, "opt-350m_P@1": 0.04329896907216495}
-{"pattern": "[X], who officially held the role of [Y] .", "bert-base-uncased_P@1": 0.23505154639175257, "opt-350m_P@1": 0.026804123711340205}
-{"pattern": "[X], who officially holds the position of [Y] .", "bert-base-uncased_P@1": 0.2329896907216495, "opt-350m_P@1": 0.02268041237113402}
-{"pattern": "[X], who officially holds the role of [Y] .", "bert-base-uncased_P@1": 0.2536082474226804, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "[X], whose official position is that of [Y] .", "bert-base-uncased_P@1": 0.15257731958762888, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "[X], whose official position was that of [Y] .", "bert-base-uncased_P@1": 0.12989690721649486, "opt-350m_P@1": 0.008247422680412371}
-{"pattern": "[X], whose official role is that of [Y] .", "bert-base-uncased_P@1": 0.1979381443298969, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose official role was that of [Y] .", "bert-base-uncased_P@1": 0.15463917525773196, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose position is that of [Y] .", "bert-base-uncased_P@1": 0.1360824742268041, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose position was that of [Y] .", "bert-base-uncased_P@1": 0.1360824742268041, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose public position is that of [Y] .", "bert-base-uncased_P@1": 0.11958762886597939, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose public position was that of [Y] .", "bert-base-uncased_P@1": 0.10515463917525773, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose public role is that of [Y] .", "bert-base-uncased_P@1": 0.1711340206185567, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose public role was that of [Y] .", "bert-base-uncased_P@1": 0.12164948453608247, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose role is that of [Y] .", "bert-base-uncased_P@1": 0.18144329896907216, "opt-350m_P@1": 0.0}
-{"pattern": "[X], whose role was that of [Y] .", "bert-base-uncased_P@1": 0.13814432989690723, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] have the official position of [Y]?", "bert-base-uncased_P@1": 0.1731958762886598, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "Did [X] have the official role of [Y]?", "bert-base-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Did [X] have the position of [Y]?", "bert-base-uncased_P@1": 0.18144329896907216, "opt-350m_P@1": 0.018556701030927835}
-{"pattern": "Did [X] have the public position of [Y]?", "bert-base-uncased_P@1": 0.07628865979381444, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] have the public role of [Y]?", "bert-base-uncased_P@1": 0.1463917525773196, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] have the role of [Y]?", "bert-base-uncased_P@1": 0.1731958762886598, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] hold the official position of [Y]?", "bert-base-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.04329896907216495}
-{"pattern": "Did [X] hold the official role of [Y]?", "bert-base-uncased_P@1": 0.23917525773195877, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "Did [X] hold the position of [Y]?", "bert-base-uncased_P@1": 0.2618556701030928, "opt-350m_P@1": 0.024742268041237112}
-{"pattern": "Did [X] hold the public position of [Y]?", "bert-base-uncased_P@1": 0.13195876288659794, "opt-350m_P@1": 0.024742268041237112}
-{"pattern": "Did [X] hold the public role of [Y]?", "bert-base-uncased_P@1": 0.19175257731958764, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] hold the role of [Y]?", "bert-base-uncased_P@1": 0.24329896907216494, "opt-350m_P@1": 0.0}
-{"pattern": "Did [X] officially hold the position of [Y]?", "bert-base-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.03505154639175258}
-{"pattern": "Did [X] officially hold the public position of [Y]?", "bert-base-uncased_P@1": 0.18762886597938144, "opt-350m_P@1": 0.04536082474226804}
-{"pattern": "Did [X] officially hold the public role of [Y]?", "bert-base-uncased_P@1": 0.22061855670103092, "opt-350m_P@1": 0.024742268041237112}
-{"pattern": "Did [X] officially hold the role of [Y]?", "bert-base-uncased_P@1": 0.21649484536082475, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Does [X] have the official position of [Y]?", "bert-base-uncased_P@1": 0.2288659793814433, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] have the official role of [Y]?", "bert-base-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] have the position of [Y]?", "bert-base-uncased_P@1": 0.24536082474226803, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "Does [X] have the public position of [Y]?", "bert-base-uncased_P@1": 0.1154639175257732, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] have the public role of [Y]?", "bert-base-uncased_P@1": 0.15876288659793814, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] have the role of [Y]?", "bert-base-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] hold the official position of [Y]?", "bert-base-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Does [X] hold the official role of [Y]?", "bert-base-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Does [X] hold the position of [Y]?", "bert-base-uncased_P@1": 0.2824742268041237, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Does [X] hold the public position of [Y]?", "bert-base-uncased_P@1": 0.1731958762886598, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "Does [X] hold the public role of [Y]?", "bert-base-uncased_P@1": 0.18144329896907216, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] hold the role of [Y]?", "bert-base-uncased_P@1": 0.24329896907216494, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] officially hold the position of [Y]?", "bert-base-uncased_P@1": 0.24742268041237114, "opt-350m_P@1": 0.002061855670103093}
-{"pattern": "Does [X] officially hold the public position of [Y]?", "bert-base-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.006185567010309278}
-{"pattern": "Does [X] officially hold the public role of [Y]?", "bert-base-uncased_P@1": 0.22061855670103092, "opt-350m_P@1": 0.004123711340206186}
-{"pattern": "Does [X] officially hold the role of [Y]?", "bert-base-uncased_P@1": 0.21855670103092784, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s official position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s official position that of [Y]?", "bert-base-uncased_P@1": 0.1422680412371134, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s official role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s official role that of [Y]?", "bert-base-uncased_P@1": 0.18969072164948453, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s position that of [Y]?", "bert-base-uncased_P@1": 0.09484536082474226, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s public position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s public position that of [Y]?", "bert-base-uncased_P@1": 0.008247422680412371, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s public role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s public role that of [Y]?", "bert-base-uncased_P@1": 0.010309278350515464, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X]'s role that of [Y]?", "bert-base-uncased_P@1": 0.05154639175257732, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s official position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s official position that of [Y]?", "bert-base-uncased_P@1": 0.09690721649484536, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s official role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s official role that of [Y]?", "bert-base-uncased_P@1": 0.1463917525773196, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s position that of [Y]?", "bert-base-uncased_P@1": 0.05979381443298969, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s public position [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s public position that of [Y]?", "bert-base-uncased_P@1": 0.002061855670103093, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s public role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s public role that of [Y]?", "bert-base-uncased_P@1": 0.02268041237113402, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s role [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Was [X]'s role that of [Y]?", "bert-base-uncased_P@1": 0.07628865979381444, "opt-350m_P@1": 0.0}
+{"pattern": "[X] had the official position of [Y] .", "bert-large-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.020618556701030927}
+{"pattern": "[X] had the official role of [Y] .", "bert-large-uncased_P@1": 0.22474226804123712, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X] had the position of [Y] .", "bert-large-uncased_P@1": 0.15257731958762888, "opt-350m_P@1": 0.026804123711340205}
+{"pattern": "[X] had the public position of [Y] .", "bert-large-uncased_P@1": 0.10309278350515463, "opt-350m_P@1": 0.0}
+{"pattern": "[X] had the public role of [Y] .", "bert-large-uncased_P@1": 0.20618556701030927, "opt-350m_P@1": 0.0}
+{"pattern": "[X] had the role of [Y] .", "bert-large-uncased_P@1": 0.2020618556701031, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has the official position of [Y] .", "bert-large-uncased_P@1": 0.22474226804123712, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X] has the official role of [Y] .", "bert-large-uncased_P@1": 0.1979381443298969, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has the position of [Y] .", "bert-large-uncased_P@1": 0.14845360824742268, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "[X] has the public position of [Y] .", "bert-large-uncased_P@1": 0.12783505154639174, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has the public role of [Y] .", "bert-large-uncased_P@1": 0.16907216494845362, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has the role of [Y] .", "bert-large-uncased_P@1": 0.18969072164948453, "opt-350m_P@1": 0.0}
+{"pattern": "[X] held the official position of [Y] .", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.032989690721649485}
+{"pattern": "[X] held the official role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.016494845360824743}
+{"pattern": "[X] held the position of [Y] .", "bert-large-uncased_P@1": 0.16288659793814433, "opt-350m_P@1": 0.026804123711340205}
+{"pattern": "[X] held the public position of [Y] .", "bert-large-uncased_P@1": 0.1958762886597938, "opt-350m_P@1": 0.03505154639175258}
+{"pattern": "[X] held the public role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X] held the role of [Y] .", "bert-large-uncased_P@1": 0.21237113402061855, "opt-350m_P@1": 0.0}
+{"pattern": "[X] holds the official position of [Y] .", "bert-large-uncased_P@1": 0.24123711340206186, "opt-350m_P@1": 0.016494845360824743}
+{"pattern": "[X] holds the official role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "[X] holds the position of [Y] .", "bert-large-uncased_P@1": 0.17525773195876287, "opt-350m_P@1": 0.010309278350515464}
+{"pattern": "[X] holds the public position of [Y] .", "bert-large-uncased_P@1": 0.1958762886597938, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "[X] holds the public role of [Y] .", "bert-large-uncased_P@1": 0.2, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X] holds the role of [Y] .", "bert-large-uncased_P@1": 0.20824742268041238, "opt-350m_P@1": 0.0}
+{"pattern": "[X] officially held the position of [Y] .", "bert-large-uncased_P@1": 0.23917525773195877, "opt-350m_P@1": 0.030927835051546393}
+{"pattern": "[X] officially held the role of [Y] .", "bert-large-uncased_P@1": 0.2288659793814433, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "[X] officially holds the position of [Y] .", "bert-large-uncased_P@1": 0.23505154639175257, "opt-350m_P@1": 0.01443298969072165}
+{"pattern": "[X] officially holds the role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.006185567010309278}
+{"pattern": "[X]'s official position is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s official position was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s official role is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s official role was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s position is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s position was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s public position is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s public position was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s public role is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s public role was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s role is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s role was [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X], who had the official position of [Y] .", "bert-large-uncased_P@1": 0.2721649484536082, "opt-350m_P@1": 0.041237113402061855}
+{"pattern": "[X], who had the official role of [Y] .", "bert-large-uncased_P@1": 0.26804123711340205, "opt-350m_P@1": 0.016494845360824743}
+{"pattern": "[X], who had the position of [Y] .", "bert-large-uncased_P@1": 0.18762886597938144, "opt-350m_P@1": 0.041237113402061855}
+{"pattern": "[X], who had the public position of [Y] .", "bert-large-uncased_P@1": 0.18969072164948453, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who had the public role of [Y] .", "bert-large-uncased_P@1": 0.20618556701030927, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who had the role of [Y] .", "bert-large-uncased_P@1": 0.22474226804123712, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who has the official position of [Y] .", "bert-large-uncased_P@1": 0.25773195876288657, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "[X], who has the official role of [Y] .", "bert-large-uncased_P@1": 0.2288659793814433, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who has the position of [Y] .", "bert-large-uncased_P@1": 0.18350515463917524, "opt-350m_P@1": 0.0288659793814433}
+{"pattern": "[X], who has the public position of [Y] .", "bert-large-uncased_P@1": 0.13814432989690723, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who has the public role of [Y] .", "bert-large-uncased_P@1": 0.18556701030927836, "opt-350m_P@1": 0.0}
+{"pattern": "[X], who has the role of [Y] .", "bert-large-uncased_P@1": 0.18350515463917524, "opt-350m_P@1": 0.0}
+{"pattern": "[X], who held the official position of [Y] .", "bert-large-uncased_P@1": 0.2865979381443299, "opt-350m_P@1": 0.04536082474226804}
+{"pattern": "[X], who held the official role of [Y] .", "bert-large-uncased_P@1": 0.2597938144329897, "opt-350m_P@1": 0.020618556701030927}
+{"pattern": "[X], who held the position of [Y] .", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.04329896907216495}
+{"pattern": "[X], who held the public position of [Y] .", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.08041237113402062}
+{"pattern": "[X], who held the public role of [Y] .", "bert-large-uncased_P@1": 0.20618556701030927, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "[X], who held the role of [Y] .", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.010309278350515464}
+{"pattern": "[X], who holds the official position of [Y] .", "bert-large-uncased_P@1": 0.26804123711340205, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "[X], who holds the official role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who holds the position of [Y] .", "bert-large-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.024742268041237112}
+{"pattern": "[X], who holds the public position of [Y] .", "bert-large-uncased_P@1": 0.20618556701030927, "opt-350m_P@1": 0.03917525773195876}
+{"pattern": "[X], who holds the public role of [Y] .", "bert-large-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.008247422680412371}
+{"pattern": "[X], who holds the role of [Y] .", "bert-large-uncased_P@1": 0.21855670103092784, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], who officially held the position of [Y] .", "bert-large-uncased_P@1": 0.2556701030927835, "opt-350m_P@1": 0.04329896907216495}
+{"pattern": "[X], who officially held the role of [Y] .", "bert-large-uncased_P@1": 0.23917525773195877, "opt-350m_P@1": 0.026804123711340205}
+{"pattern": "[X], who officially holds the position of [Y] .", "bert-large-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.02268041237113402}
+{"pattern": "[X], who officially holds the role of [Y] .", "bert-large-uncased_P@1": 0.2268041237113402, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "[X], whose official position is that of [Y] .", "bert-large-uncased_P@1": 0.3731958762886598, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "[X], whose official position was that of [Y] .", "bert-large-uncased_P@1": 0.2824742268041237, "opt-350m_P@1": 0.008247422680412371}
+{"pattern": "[X], whose official role is that of [Y] .", "bert-large-uncased_P@1": 0.29690721649484536, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose official role was that of [Y] .", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose position is that of [Y] .", "bert-large-uncased_P@1": 0.21855670103092784, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose position was that of [Y] .", "bert-large-uncased_P@1": 0.23711340206185566, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose public position is that of [Y] .", "bert-large-uncased_P@1": 0.09484536082474226, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose public position was that of [Y] .", "bert-large-uncased_P@1": 0.12371134020618557, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose public role is that of [Y] .", "bert-large-uncased_P@1": 0.14432989690721648, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose public role was that of [Y] .", "bert-large-uncased_P@1": 0.17525773195876287, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose role is that of [Y] .", "bert-large-uncased_P@1": 0.177319587628866, "opt-350m_P@1": 0.0}
+{"pattern": "[X], whose role was that of [Y] .", "bert-large-uncased_P@1": 0.18969072164948453, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] have the official position of [Y]?", "bert-large-uncased_P@1": 0.21649484536082475, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "Did [X] have the official role of [Y]?", "bert-large-uncased_P@1": 0.2, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Did [X] have the position of [Y]?", "bert-large-uncased_P@1": 0.2020618556701031, "opt-350m_P@1": 0.018556701030927835}
+{"pattern": "Did [X] have the public position of [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] have the public role of [Y]?", "bert-large-uncased_P@1": 0.1154639175257732, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] have the role of [Y]?", "bert-large-uncased_P@1": 0.1463917525773196, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] hold the official position of [Y]?", "bert-large-uncased_P@1": 0.27835051546391754, "opt-350m_P@1": 0.04329896907216495}
+{"pattern": "Did [X] hold the official role of [Y]?", "bert-large-uncased_P@1": 0.2309278350515464, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "Did [X] hold the position of [Y]?", "bert-large-uncased_P@1": 0.2721649484536082, "opt-350m_P@1": 0.024742268041237112}
+{"pattern": "Did [X] hold the public position of [Y]?", "bert-large-uncased_P@1": 0.03917525773195876, "opt-350m_P@1": 0.024742268041237112}
+{"pattern": "Did [X] hold the public role of [Y]?", "bert-large-uncased_P@1": 0.13402061855670103, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] hold the role of [Y]?", "bert-large-uncased_P@1": 0.21030927835051547, "opt-350m_P@1": 0.0}
+{"pattern": "Did [X] officially hold the position of [Y]?", "bert-large-uncased_P@1": 0.27422680412371137, "opt-350m_P@1": 0.03505154639175258}
+{"pattern": "Did [X] officially hold the public position of [Y]?", "bert-large-uncased_P@1": 0.177319587628866, "opt-350m_P@1": 0.04329896907216495}
+{"pattern": "Did [X] officially hold the public role of [Y]?", "bert-large-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.024742268041237112}
+{"pattern": "Did [X] officially hold the role of [Y]?", "bert-large-uncased_P@1": 0.20824742268041238, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Does [X] have the official position of [Y]?", "bert-large-uncased_P@1": 0.21443298969072164, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] have the official role of [Y]?", "bert-large-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] have the position of [Y]?", "bert-large-uncased_P@1": 0.20412371134020618, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "Does [X] have the public position of [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] have the public role of [Y]?", "bert-large-uncased_P@1": 0.10927835051546392, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] have the role of [Y]?", "bert-large-uncased_P@1": 0.12371134020618557, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] hold the official position of [Y]?", "bert-large-uncased_P@1": 0.2556701030927835, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Does [X] hold the official role of [Y]?", "bert-large-uncased_P@1": 0.22268041237113403, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Does [X] hold the position of [Y]?", "bert-large-uncased_P@1": 0.2556701030927835, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Does [X] hold the public position of [Y]?", "bert-large-uncased_P@1": 0.018556701030927835, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "Does [X] hold the public role of [Y]?", "bert-large-uncased_P@1": 0.13195876288659794, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] hold the role of [Y]?", "bert-large-uncased_P@1": 0.17525773195876287, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] officially hold the position of [Y]?", "bert-large-uncased_P@1": 0.2515463917525773, "opt-350m_P@1": 0.002061855670103093}
+{"pattern": "Does [X] officially hold the public position of [Y]?", "bert-large-uncased_P@1": 0.16494845360824742, "opt-350m_P@1": 0.006185567010309278}
+{"pattern": "Does [X] officially hold the public role of [Y]?", "bert-large-uncased_P@1": 0.18144329896907216, "opt-350m_P@1": 0.004123711340206186}
+{"pattern": "Does [X] officially hold the role of [Y]?", "bert-large-uncased_P@1": 0.19381443298969073, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s official position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s official position that of [Y]?", "bert-large-uncased_P@1": 0.05154639175257732, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s official role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s official role that of [Y]?", "bert-large-uncased_P@1": 0.12371134020618557, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s position that of [Y]?", "bert-large-uncased_P@1": 0.02268041237113402, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s public position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s public position that of [Y]?", "bert-large-uncased_P@1": 0.018556701030927835, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s public role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s public role that of [Y]?", "bert-large-uncased_P@1": 0.020618556701030927, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X]'s role that of [Y]?", "bert-large-uncased_P@1": 0.08453608247422681, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s official position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s official position that of [Y]?", "bert-large-uncased_P@1": 0.041237113402061855, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s official role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s official role that of [Y]?", "bert-large-uncased_P@1": 0.10103092783505155, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s position that of [Y]?", "bert-large-uncased_P@1": 0.012371134020618556, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s public position [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s public position that of [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s public role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s public role that of [Y]?", "bert-large-uncased_P@1": 0.004123711340206186, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s role [Y]?", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "Was [X]'s role that of [Y]?", "bert-large-uncased_P@1": 0.0577319587628866, "opt-350m_P@1": 0.0}

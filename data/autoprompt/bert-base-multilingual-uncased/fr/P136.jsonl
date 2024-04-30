@@ -1,4 +1,10 @@
-{"pattern": ["ellington", "ambient", "operas", "tak\u0131m\u0131", "contemporary"], "ids": [87219, 52647, 56799, 53189, 14948], "seed": 0, "P@1": 0.5714285714285714}
-{"pattern": ["pianist", "fusion", "salsa", "electronica", "orchestral"], "ids": [35175, 20934, 65355, 46039, 92532], "seed": 1, "P@1": 0.5771428571428572}
-{"pattern": ["ellington", "wiki", "\u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c", "##\u05d6\u05de\u05d5\u05e8\u05ea", "african"], "ids": [87219, 25883, 67023, 73163, 14028], "seed": 2, "P@1": 0.5657142857142857}
-{"pattern": ["salsa", "muzika", "japansk", "clasica", "african"], "ids": [65355, 64852, 60937, 45367, 14028], "seed": 3, "P@1": 0.5942857142857143}
+{"pattern": ["quintet", "note", "mambo", "situs", "chicago"], "ids": [83043, 14698, 87764, 20757, 12588], "seed": 0}
+{"pattern": ["piano", "salsa", "musikk", "bilbo", "##ard"], "ids": [12510, 65355, 48480, 91713, 13956], "seed": 1}
+{"pattern": ["orkest", "mexican", "fusion", "muzik", "mexican"], "ids": [50496, 15585, 20934, 23599, 15585], "seed": 2}
+{"pattern": ["aladin", "gangster", "muziek", "klassisk", "african"], "ids": [46051, 68513, 32396, 74162, 14028], "seed": 3}
+{"pattern": ["variete", "klassisk", "musikk", "fusion", "amerikansk"], "ids": [62369, 74162, 48480, 20934, 18740], "seed": 4}
+{"pattern": ["seuil", "operas", "category", "britisk", "smooth"], "ids": [54875, 56799, 24716, 45497, 48093], "seed": 5}
+{"pattern": ["englisch", "operas", "allmusic", "\u0441\u0430\u0438\u0446\u0435", "montreux"], "ids": [24159, 56799, 25234, 39719, 93136], "seed": 6}
+{"pattern": ["trumpet", "comedie", "anglu", "chanteur", "de"], "ids": [56025, 29420, 39134, 45283, 10102], "seed": 7}
+{"pattern": ["##arul", "ellington", "electronique", "flamenco", "metropolitan"], "ids": [75252, 87219, 68951, 75303, 19077], "seed": 8}
+{"pattern": ["orquesta", "medea", "category", "angol", "smooth"], "ids": [38705, 94600, 24716, 23248, 48093], "seed": 9}

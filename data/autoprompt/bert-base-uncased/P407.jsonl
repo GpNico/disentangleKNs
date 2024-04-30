@@ -1,8 +1,0 @@
-{"pattern": ["embassy", "referee", "basketball", "pinyin", "arabic"], "ids": [8408, 5330, 3455, 9973, 5640], "seed": 0, "P@1": 0.011668611435239206}
-{"pattern": ["gamer", "lifespan", "duet", "arabic", "/"], "ids": [27911, 26462, 11979, 5640, 1013], "seed": 1, "P@1": 0.6242707117852976}
-{"pattern": ["ballot", "language", "bulgarian", "british", "modern"], "ids": [10428, 2653, 7643, 2329, 2715], "seed": 2, "P@1": 0.4049008168028005}
-{"pattern": ["bowing", "walked", "military", "bilingual", "("], "ids": [26690, 2939, 2510, 17636, 1006], "seed": 3, "P@1": 0.0}
-{"pattern": ["dinamo", "bilingual", "mitochondrial", "franco", "-"], "ids": [22306, 17636, 23079, 9341, 1011], "seed": 4, "P@1": 0.6079346557759626}
-{"pattern": ["etymology", "##\u0280", "dictionary", "native", "middle"], "ids": [26803, 29693, 9206, 3128, 2690], "seed": 5, "P@1": 0.4959159859976663}
-{"pattern": ["georg", "austen", "uss", "austrian", "uss"], "ids": [12062, 24177, 7234, 6161, 7234], "seed": 6, "P@1": 0.07117852975495916}
-{"pattern": ["football", "scuba", "germans", "iata", "northern"], "ids": [2374, 28651, 7074, 9833, 2642], "seed": 7, "P@1": 0.28004667444574094}

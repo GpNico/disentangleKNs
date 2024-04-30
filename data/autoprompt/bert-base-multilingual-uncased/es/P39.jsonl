@@ -1,4 +1,10 @@
-{"pattern": ["glottolog", "arcebispo", "##\u30b3\u30fc\u30ca\u30fc", "ficha", "del"], "ids": [72555, 92665, 94817, 32253, 10134], "seed": 0, "P@1": 0.42613636363636365}
-{"pattern": ["##\u30c6\u30fc\u30de", "##\u0446\u0438\u0458\u0430", "##okon", "archbishop", "pratelan"], "ids": [52572, 14604, 48950, 41467, 83253], "seed": 1, "P@1": 0.13636363636363635}
-{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "bagdad", "diocesis", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "toledo"], "ids": [28937, 48030, 50924, 56604, 23369], "seed": 2, "P@1": 0.017045454545454544}
-{"pattern": ["\u0908\u0938\u093e", "##\u101b\u102c\u1038", "\u0438\u0441\u043f\u0430\u043d\u0438", "este", "agustin"], "ids": [40823, 73288, 37810, 10494, 34408], "seed": 3, "P@1": 0.0}
+{"pattern": ["catedral", "\u0a22", "vacante", "pratelan", "osszes"], "ids": [23639, 691, 82341, 83253, 57897], "seed": 0}
+{"pattern": ["lk", "trujillo", "valparaiso", "tamaulipas", "sagrado"], "ids": [50288, 60567, 56741, 91448, 84977], "seed": 1}
+{"pattern": ["diocese", "alegria", "asuncion", "audiencia", "jerez"], "ids": [22062, 75448, 45836, 34846, 92688], "seed": 2}
+{"pattern": ["sagrado", "bispo", "andalucia", "espainia", "sagrado"], "ids": [84977, 45920, 40590, 69912, 84977], "seed": 3}
+{"pattern": ["\u043a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "chile", "diecezji", "linares", "divino"], "ids": [79221, 13425, 50628, 81658, 79927], "seed": 4}
+{"pattern": ["archbishop", "faq", "pagina", "facebook", "nuestro"], "ids": [41467, 18044, 16833, 21105, 53611], "seed": 5}
+{"pattern": ["ecclesiastical", "hierarchy", "pagina", "elecciones", "del"], "ids": [94057, 52632, 16833, 24747, 10134], "seed": 6}
+{"pattern": ["archeveque", "facebook", "limoges", "eleccion", "del"], "ids": [65357, 21105, 67490, 41635, 10134], "seed": 7}
+{"pattern": ["pagina", "diocesis", "enzo", "umberto", "\u2192"], "ids": [16833, 50924, 49252, 45421, 1354], "seed": 8}
+{"pattern": ["iana", "savoie", "diocesis", "asuncion", "dauphin"], "ids": [84745, 34799, 50924, 45836, 74131], "seed": 9}

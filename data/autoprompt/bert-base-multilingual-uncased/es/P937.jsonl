@@ -1,4 +1,10 @@
-{"pattern": ["lenga", "seni", "akademia", "gallery", "pau"], "ids": [20915, 28232, 43167, 16176, 24021], "seed": 0, "P@1": 0.23976608187134502}
-{"pattern": ["##tra\u00dfe", "currently", "imaxes", "imaxes", "greater"], "ids": [36793, 14924, 93625, 93625, 18860], "seed": 1, "P@1": 0.15204678362573099}
-{"pattern": ["murio", "pratelan", "\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "universale", "orasului"], "ids": [31379, 83253, 89067, 79797, 48045], "seed": 2, "P@1": 0.24561403508771928}
-{"pattern": ["plantia", "cel", "portrait", "gallery", "din"], "ids": [76338, 15871, 22835, 16176, 10621], "seed": 3, "P@1": 0.3333333333333333}
+{"pattern": ["photographic", "biografie", "real", "ciuda", "landern"], "ids": [71535, 53508, 11565, 22020, 37323], "seed": 0}
+{"pattern": ["at", "paxina", "museu", "metropolitana", "\u0938\u0928\u0927\u093f"], "ids": [10160, 34978, 20031, 25859, 61561], "seed": 1}
+{"pattern": ["\u0905\u0915\u0938\u0930", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "\u00a9", "municipality", "greater"], "ids": [94270, 25693, 181, 15298, 18860], "seed": 2}
+{"pattern": ["fue", "\u043f\u0440\u043e\u0444\u0435\u0441\u043e\u0440\u0430", "louvre", "universidad", "de"], "ids": [10565, 89400, 41488, 13804, 10102], "seed": 3}
+{"pattern": ["paxina", "jewish", "##\u2609", "arrondissement", "\u0644\u0645\u062d\u0627\u0641\u0638\u0629"], "ids": [34978, 17481, 97325, 15773, 43270], "seed": 4}
+{"pattern": ["obituary", "funeral", "website", "ciuda", "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09b0"], "ids": [76504, 35050, 12699, 22020, 34243], "seed": 5}
+{"pattern": ["muere", "\u0645\u0635\u0631", "cementerio", "\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430", "de"], "ids": [62215, 21052, 72663, 71615, 10102], "seed": 6}
+{"pattern": ["olimpia", "londra", "ciuda", "olim", "olimpia"], "ids": [61618, 22907, 22020, 44261, 61618], "seed": 7}
+{"pattern": ["berlino", "cairo", "sydney", "espana", "metropolis"], "ids": [49219, 35698, 14809, 12657, 59596], "seed": 8}
+{"pattern": ["obituary", "galeria", "zyrtare", "ciutat", "##\u05d3\u05e8\u05d9\u05da"], "ids": [76504, 21681, 87630, 15684, 80308], "seed": 9}

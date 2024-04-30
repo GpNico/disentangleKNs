@@ -1,4 +1,10 @@
-{"pattern": ["Adapter", "\\", "Company", "quarters", "\u0120|"], "ids": [49617, 37457, 21960, 21899, 1721], "seed": 0, "P@1": 0.2972536348949919}
-{"pattern": ["\u0120headquarters", "Both", "Joined", "\u0120destinations", ":"], "ids": [4351, 16991, 49501, 11633, 35], "seed": 1, "P@1": 0.20678513731825526}
-{"pattern": ["\u0120becomes", "\u0120director", "Object", "\u0120registry", "\u0120in"], "ids": [3374, 736, 46674, 22976, 11], "seed": 2, "P@1": 0.2778675282714055}
-{"pattern": ["\u0120testing", "\u0120hub", "Full", "ork", ","], "ids": [3044, 6756, 31440, 9657, 6], "seed": 3, "P@1": 0.15508885298869143}
+{"pattern": ["\u0120repayment", "\u0120destinations", "\u0120shrug", "\u0120alike", "edIn"], "ids": [20386, 11633, 31691, 9829, 49556], "seed": 0, "P@1": 0.2197092084006462}
+{"pattern": ["UTERS", "Adv", "zen", "day", "\u0120--"], "ids": [30332, 41245, 7889, 1208, 480], "seed": 1, "P@1": 0.2310177705977383}
+{"pattern": ["\u0120commuters", "\u0120chants", "\u0120`", "Fl", "iscover"], "ids": [17363, 25157, 22209, 16197, 33951], "seed": 2, "P@1": 0.20032310177705978}
+{"pattern": ["\u0120bond", "Reuters", "3", "\u0120\u00c3\u0139", "\u01202021"], "ids": [2175, 1251, 246, 17935, 8835], "seed": 3, "P@1": 0.3166397415185784}
+{"pattern": ["Shares", "\u0120shipments", "\u0120());", "\u0120hometown", ":"], "ids": [12494, 11310, 49953, 8994, 35], "seed": 4, "P@1": 0.1938610662358643}
+{"pattern": ["\u0120merger", "AFP", "EL", "phia", "\u0120and"], "ids": [7394, 11528, 3721, 46914, 8], "seed": 5, "P@1": 0.36187399030694667}
+{"pattern": ["\u0120redesign", "Official", "\u0120trademarks", "\u0120territory", ":"], "ids": [23392, 34111, 23348, 4284, 35], "seed": 6, "P@1": 0.32310177705977383}
+{"pattern": ["\u0120solves", "\u0120antitrust", "\u0120ceasefire", "Moscow", "\u0120accuse"], "ids": [38846, 18849, 13983, 41384, 15311], "seed": 7, "P@1": 0.4168012924071082}
+{"pattern": ["\u0120consulting", "\u00c2\u00b7", "America", "\u0120download", "."], "ids": [8623, 43413, 12580, 4016, 4], "seed": 8, "P@1": 0.024232633279483037}
+{"pattern": ["\u0120blames", "\u0120regulations", "LAN", "GO", "\u0120\u00e2\u0122\u0135"], "ids": [23079, 3478, 20606, 14740, 126], "seed": 9, "P@1": 0.2730210016155089}

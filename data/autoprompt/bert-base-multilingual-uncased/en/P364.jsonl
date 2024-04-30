@@ -1,4 +1,10 @@
-{"pattern": ["##kunta", "##\u0434\u0441\u0442\u0432\u0430", "monuments", "##say", "wikang"], "ids": [35790, 83970, 24549, 46659, 42575], "seed": 0, "P@1": 0.30994152046783624}
-{"pattern": ["rhestr", "theatre", "##she", "\u0431\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u0438", "wikang"], "ids": [17092, 12350, 79580, 60213, 42575], "seed": 1, "P@1": 0.2573099415204678}
-{"pattern": ["website", "franseisch", "\u0905\u0917\u0930\u091c\u0940", "##\u044b\u0437\u044b", "traditional"], "ids": [12699, 47752, 20212, 69274, 16516], "seed": 2, "P@1": 0.26900584795321636}
-{"pattern": ["geiriadur", "\u06cc\u0627\u0634\u0627\u06cc\u06cc\u0634", "fees", "\u0458\u0443\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0458\u0435", "wikang"], "ids": [69231, 24502, 60154, 47220, 42575], "seed": 3, "P@1": 0.16374269005847952}
+{"pattern": ["moliere", "\u0432\u0456\u0434", "sabha", "website", "wikang"], "ids": [57099, 11302, 59651, 12699, 42575], "seed": 0}
+{"pattern": ["mizaka", "##raan", "lyrics", "by", "wikang"], "ids": [21750, 57106, 24973, 10151, 42575], "seed": 1}
+{"pattern": ["\u0baa\u0b95", "tourists", "\u0441\u0430\u0438\u0442\u044b", "manuscripts", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [57380, 74416, 19295, 68497, 35642], "seed": 2}
+{"pattern": ["musi", "##yasi", "mizaka", "##ddi", "wikang"], "ids": [28925, 54657, 21750, 52187, 42575], "seed": 3}
+{"pattern": ["##\u09a8\u09a6\u09b0", "moliere", "commons", "kurse", "wikang"], "ids": [66884, 57099, 14197, 72904, 42575], "seed": 4}
+{"pattern": ["\u0b95\u0bc7\u0bbe\u0baf\u0bbf\u0bb2", "\u043c\u043e\u0432\u0430", "website", "udo", "wikang"], "ids": [35520, 46183, 12699, 80791, 42575], "seed": 5}
+{"pattern": ["\u043c\u0443\u0437\u0435\u0435", "website", "held", "##aile", "wikang"], "ids": [64635, 12699, 12149, 58762, 42575], "seed": 6}
+{"pattern": ["##jaya", "foljande", "\u0441\u0430\u0438\u0446\u0435", "texts", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [49136, 22801, 39719, 33573, 35642], "seed": 7}
+{"pattern": ["pradesh", "accessed", "##fahan", "inglis", "and"], "ids": [22601, 29893, 78059, 71324, 10110], "seed": 8}
+{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "##arata", "digitalisat", "website", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [39719, 67761, 63119, 12699, 35642], "seed": 9}

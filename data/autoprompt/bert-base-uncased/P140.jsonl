@@ -1,8 +1,0 @@
-{"pattern": ["baptism", "sunni", "hinduism", "shelley", "sunni"], "ids": [18336, 18883, 19632, 15828, 18883], "seed": 0, "P@1": 0.5852534562211982}
-{"pattern": ["wrestling", "teams", "democracy", "religion", ":"], "ids": [4843, 2780, 7072, 4676, 1024], "seed": 1, "P@1": 0.6728110599078341}
-{"pattern": ["unicode", "sunni", "hinduism", "hinduism", "medieval"], "ids": [27260, 18883, 19632, 19632, 5781], "seed": 2, "P@1": 0.6105990783410138}
-{"pattern": ["oricon", "##imi", "protestants", "hinduism", "classical"], "ids": [22237, 27605, 19592, 19632, 4556], "seed": 3, "P@1": 0.6152073732718893}
-{"pattern": ["smashwords", "martyr", "classical", "hinduism", "classical"], "ids": [25151, 17216, 4556, 19632, 4556], "seed": 4, "P@1": 0.6359447004608295}
-{"pattern": ["korean", "qaeda", "augustine", "of", "radical"], "ids": [4759, 18659, 14060, 1997, 7490], "seed": 5, "P@1": 0.5852534562211982}
-{"pattern": ["religions", "gandhi", "hinduism", "nur", "##idi"], "ids": [11822, 12338, 19632, 27617, 28173], "seed": 6, "P@1": 0.5668202764976958}
-{"pattern": ["sunni", "religion", "bangladesh", "anti", "##idi"], "ids": [18883, 4676, 7269, 3424, 28173], "seed": 7, "P@1": 0.5552995391705069}

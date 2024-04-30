@@ -1,4 +1,10 @@
-{"pattern": ["pagina", "elecciones", "deelstaat", "representantes", "\u2208"], "ids": [16833, 24747, 44839, 40524, 1371], "seed": 0, "P@1": 0.9230769230769231}
-{"pattern": ["\u0440\u0435\u0441\u043c\u0438", "census", "zyrtare", "gobierno", "##\u0438\u043a\u0430\u043b\u044b\u049b"], "ids": [27787, 11457, 87630, 14740, 75608], "seed": 1, "P@1": 0.8846153846153846}
-{"pattern": ["pagina", "svetovno", "database", "universidad", "republiki"], "ids": [16833, 75654, 10326, 13804, 53793], "seed": 2, "P@1": 0.8333333333333334}
-{"pattern": ["plantia", "rasmiy", "astronomical", "ciudadanos", "de"], "ids": [76338, 32053, 18394, 53422, 10102], "seed": 3, "P@1": 0.9102564102564102}
+{"pattern": ["galeria", "del", "arrondissementer", "municipios", "\u0440\u0435\u0447\u043d\u043e\u0438"], "ids": [21681, 10134, 56054, 25845, 43652], "seed": 0}
+{"pattern": ["literalmente", "\u0440\u0435\u0441\u043c\u0438", "myspace", "parlamento", "de"], "ids": [88735, 27787, 58292, 24353, 10102], "seed": 1}
+{"pattern": ["pagina", "nombre", "hiniusang", "parlamento", "de"], "ids": [16833, 11512, 58595, 24353, 10102], "seed": 2}
+{"pattern": ["gazetteer", "evolucion", "distritos", "comunas", "##\u043d\u0438\u0432"], "ids": [30674, 36784, 46575, 40662, 55817], "seed": 3}
+{"pattern": ["\u0642\u0627\u064a\u0645\u0629", "imaxes", "goberno", "oficial", "delstatshuvudstaden"], "ids": [25012, 93625, 41470, 13562, 34076], "seed": 4}
+{"pattern": ["fivondronan", "\u05da", "resmi", "paxina", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [21214, 427, 20234, 34978, 55892], "seed": 5}
+{"pattern": ["pagina", "pagina", "parlement", "gobierno", "de"], "ids": [16833, 16833, 26603, 14740, 10102], "seed": 6}
+{"pattern": ["\u0440\u0435\u0441\u043c\u0438", "pachina", "##\u0447\u0435\u0441\u043a\u0430", "parlament", "de"], "ids": [27787, 48532, 36336, 22096, 10102], "seed": 7}
+{"pattern": ["pagina", "nombre", "governing", "parlement", "de"], "ids": [16833, 11512, 61714, 26603, 10102], "seed": 8}
+{"pattern": ["hivatalos", "\u0431\u0456\u043b\u043e\u043a", "vease", "parlament", "de"], "ids": [24151, 40119, 63142, 22096, 10102], "seed": 9}

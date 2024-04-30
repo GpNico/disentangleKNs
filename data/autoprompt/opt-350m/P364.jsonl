@@ -1,4 +1,10 @@
-{"pattern": ["iov", "\u0120actor", "Primary", "\u0120language", ":"], "ids": [32822, 2701, 46604, 2777, 35], "seed": 0, "P@1": 0.49603174603174605}
-{"pattern": ["\u0120languages", "?:", "\u0120controversy", "\u0120plague", "ing"], "ids": [11991, 36538, 6170, 27936, 154], "seed": 1, "P@1": 0.047619047619047616}
-{"pattern": ["\u0120photographs", "\u0120beaches", "\u0120tourists", "Details", "\u0120languages"], "ids": [9065, 11487, 6349, 45360, 11991], "seed": 2, "P@1": 0.37433862433862436}
-{"pattern": ["\u0120audio", "English", "French", "\u0120dub", "Traditional"], "ids": [6086, 35007, 28586, 30180, 45461], "seed": 3, "P@1": 0.3968253968253968}
+{"pattern": ["\u0120bilingual", "Rom", "German", "lish", "rican"], "ids": [33900, 38184, 27709, 21457, 45215], "seed": 0, "P@1": 0.30687830687830686}
+{"pattern": ["ntil", "coin", "\u0120song", "English", "\u0120and"], "ids": [49497, 16973, 2214, 35007, 8], "seed": 1, "P@1": 0.41534391534391535}
+{"pattern": ["yrics", "\u0120movie", "\u0120dialog", "English", "\u0120to"], "ids": [45817, 1569, 25730, 35007, 7], "seed": 2, "P@1": 0.37433862433862436}
+{"pattern": ["\u0120prosecutors", "Gender", "\u0120national", "ity", "Language"], "ids": [3659, 46049, 632, 1571, 46969], "seed": 3, "P@1": 0.4603174603174603}
+{"pattern": ["\u00e2\u0122", "chal", "\u0120hesitated", "\u0120speaking", "\u0120fluent"], "ids": [17, 27126, 40591, 2686, 34574], "seed": 4, "P@1": 0.49206349206349204}
+{"pattern": ["atra", "1965", "](", "English", "\u0120to"], "ids": [15560, 45716, 47620, 35007, 7], "seed": 5, "P@1": 0.4828042328042328}
+{"pattern": ["Despite", "\u0120official", "\u0120languages", "\u0120language", "\u0120like"], "ids": [15243, 781, 11991, 2777, 101], "seed": 6, "P@1": 0.48677248677248675}
+{"pattern": ["\u0120translates", "\u0120(", "more", "\u0120par", "\u0120my"], "ids": [19303, 36, 4321, 2242, 127], "seed": 7, "P@1": 0.3002645502645503}
+{"pattern": ["uana", "\u00cb\u012a", ")\",", "\u0120dialect", "Middle"], "ids": [30585, 49066, 45894, 37508, 39175], "seed": 8, "P@1": 0.34656084656084657}
+{"pattern": ["\u0120actress", "Official", "\u0120languages", "\u0120favourite", "\u0120including"], "ids": [3390, 34111, 11991, 5548, 217], "seed": 9, "P@1": 0.4298941798941799}

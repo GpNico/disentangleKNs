@@ -1,4 +1,10 @@
-{"pattern": ["\u00a5", "cadena", "estadounidense", "websteed", "van"], "ids": [177, 29262, 16903, 94284, 10147], "seed": 0, "P@1": 0.3178294573643411}
-{"pattern": ["storbritannien", "cameron", "htc", "alta", "civitas"], "ids": [28676, 21413, 84355, 13341, 86055], "seed": 1, "P@1": 0.015503875968992248}
-{"pattern": ["berkshire", "argentina", "fc", "apple", "htc"], "ids": [69959, 12761, 11735, 17006, 84355], "seed": 2, "P@1": 0.0}
-{"pattern": ["software", "cithakan", "##\u043b\u0456\u0456", "\u056f\u0561\u0575\u0584", "greater"], "ids": [14020, 60596, 59765, 30812, 18860], "seed": 3, "P@1": 0.24806201550387597}
+{"pattern": ["official", "developer", "photographic", "portal", "of"], "ids": [13061, 56584, 71535, 17375, 10108], "seed": 0}
+{"pattern": ["verita", "bradford", "nbc", "lg", "telefonica"], "ids": [65538, 38394, 22083, 45721, 92404], "seed": 1}
+{"pattern": ["remains", "pratelan", "commercial", "theft", "from"], "ids": [18973, 83253, 16229, 49601, 10195], "seed": 2}
+{"pattern": ["\u0441\u0430\u0438\u0442", "\u0642\u0627\u064a\u0645\u0629", "premium", "offices", "van"], "ids": [21115, 25012, 44173, 27936, 10147], "seed": 3}
+{"pattern": ["websteed", "teknologi", "sentral", "basert", "\u0433\u0440\u0443\u043f\u0438\u0440\u0430\u043d"], "ids": [94284, 34157, 46779, 44415, 96578], "seed": 4}
+{"pattern": ["faq", "rivals", "market", "headquarters", "of"], "ids": [18044, 56229, 15200, 22866, 10108], "seed": 5}
+{"pattern": ["the", "##\u0576\u056f\u0565\u0580\u0578\u0582\u0569\u0575\u0561\u0576", "wikimedia", "commons", "about"], "ids": [10103, 88237, 13609, 14197, 10935], "seed": 6}
+{"pattern": ["drives", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "official", "gateway", "of"], "ids": [57174, 58703, 13061, 58417, 10108], "seed": 7}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "##\u0631\u0647", "chrysomelidae", "automobiles", "@"], "ids": [28937, 22011, 28017, 78334, 137], "seed": 8}
+{"pattern": ["is", "organize", "altesa", "produs", "na"], "ids": [10127, 72548, 36181, 93381, 10135], "seed": 9}

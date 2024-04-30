@@ -1,4 +1,10 @@
-{"pattern": ["Thursday", "\u0120longer", "AAF", "\u0120knights", "\u0120visit"], "ids": [23023, 1181, 27500, 45494, 825], "seed": 0, "P@1": 0.14225053078556263}
-{"pattern": ["\u0120for", "\u0120exhibit", "\u010a", "ACP", "\u0120the"], "ids": [13, 8483, 50118, 38330, 5], "seed": 1, "P@1": 0.14861995753715498}
-{"pattern": ["\u0120newspapers", "Standard", "\u0120affiliate", "lf", "The"], "ids": [9911, 35167, 10515, 13491, 133], "seed": 2, "P@1": 0.21231422505307856}
-{"pattern": ["\u0120(", "stage", "\u0120capital", "\u0120county", "\u0120surrounding"], "ids": [36, 10850, 812, 2109, 3817], "seed": 3, "P@1": 0.505307855626327}
+{"pattern": ["\u0120names", "\u0120capitals", "New", "town", "\u0120above"], "ids": [2523, 31505, 4030, 7171, 1065], "seed": 0, "P@1": 0.5371549893842887}
+{"pattern": ["\u0120plaza", "\u0120converting", "\u0120st", "Video", "oried"], "ids": [25681, 18841, 1690, 17967, 25545], "seed": 1, "P@1": 0.28662420382165604}
+{"pattern": ["\u0120metropolitan", "\u0120school", "\u0120(", "\u0120successor", ","], "ids": [20887, 334, 36, 10359, 6], "seed": 2, "P@1": 0.3036093418259023}
+{"pattern": ["\u0120merger", "\u0120><", "Ex", "augh", "bye"], "ids": [7394, 49858, 9089, 11675, 33542], "seed": 3, "P@1": 0.06581740976645435}
+{"pattern": ["hour", "ALL", "IDER", "ometown", ":"], "ids": [4509, 7981, 31915, 33117, 35], "seed": 4, "P@1": 0.45010615711252655}
+{"pattern": ["\u0120traffic", "F", "\u0120statue", "\u0120creators", "\u0120visit"], "ids": [1703, 597, 9577, 15520, 825], "seed": 5, "P@1": 0.2611464968152866}
+{"pattern": ["\u0120redesign", "Another", "\u0120train", "\u0120travelling", "\u0120from"], "ids": [23392, 21518, 2341, 7290, 31], "seed": 6, "P@1": 0.47558386411889597}
+{"pattern": ["Reuters", "imet", "manac", "\u0120covering", "\u0120downtown"], "ids": [1251, 12965, 44569, 4631, 3301], "seed": 7, "P@1": 0.5201698513800425}
+{"pattern": ["These", "\u0120greatest", "\u0120town", "\u0120seat", "esides"], "ids": [4528, 3968, 1139, 2418, 46463], "seed": 8, "P@1": 0.5116772823779193}
+{"pattern": ["\u0120region", "\u0120----", "\u0120excluding", ":", ":"], "ids": [976, 45376, 12556, 35, 35], "seed": 9, "P@1": 0.1040339702760085}

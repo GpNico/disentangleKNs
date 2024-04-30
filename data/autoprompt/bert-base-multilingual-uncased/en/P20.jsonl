@@ -1,4 +1,10 @@
-{"pattern": ["\u043f\u0430\u0440\u0438\u0436\u0435", "\u0445\u0430\u043d\u0442\u044b", "barcelone", "londen", "danube"], "ids": [56801, 72074, 55367, 35196, 57357], "seed": 0, "P@1": 0.12234042553191489}
-{"pattern": ["\u043c\u043e\u0433\u0438\u043b\u0430", "obituary", "hopital", "ofisiel", "stad"], "ids": [86484, 76504, 37691, 63620, 13740], "seed": 1, "P@1": 0.09574468085106383}
-{"pattern": ["website", "##\u043d\u043e\u0432\u0435", "philosophical", "apartment", "in"], "ids": [12699, 74182, 37446, 46099, 10104], "seed": 2, "P@1": 0.31382978723404253}
-{"pattern": ["mural", "website", "renaissance", "mairie", "south"], "ids": [76640, 12699, 16682, 46902, 10808], "seed": 3, "P@1": 0.0}
+{"pattern": ["##urilor", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "fransan", "university", "din"], "ids": [44958, 28937, 23990, 10435, 10621], "seed": 0}
+{"pattern": ["obituary", "##\u044f\u043d", "extant", "streets", "of"], "ids": [76504, 17396, 85527, 27460, 10108], "seed": 1}
+{"pattern": ["ambassade", "biography", "harta", "basilica", "universiti"], "ids": [91662, 14097, 38407, 26948, 57911], "seed": 2}
+{"pattern": ["architect", "\u05d1\u05d0\u05ea\u05e8", "archive", "environs", "of"], "ids": [24130, 70937, 16579, 63211, 10108], "seed": 3}
+{"pattern": ["londra", "biart", "botanico", "duchy", "##\u0578\u0580\u056e\u0565\u056c"], "ids": [22907, 82359, 33344, 77347, 78110], "seed": 4}
+{"pattern": ["\u0928\u093e\u092e\u0915", "famous", "shakespeare", "conservatoire", "in"], "ids": [55229, 17377, 20195, 56108, 10104], "seed": 5}
+{"pattern": ["wis", "escenas", "universiti", "umetnosti", "di"], "ids": [16852, 62834, 57911, 92160, 10120], "seed": 6}
+{"pattern": ["abitanti", "shqiperi", "##disce", "university", "\u0432\u043e\u0434\u043d\u043e\u0433\u043e"], "ids": [17319, 70134, 66039, 10435, 27115], "seed": 7}
+{"pattern": ["seiner", "\u0441\u0430\u0438\u0446\u0435", "martyr", "emeritus", "flughafen"], "ids": [11621, 39719, 81035, 65819, 45078], "seed": 8}
+{"pattern": ["website", "baroque", "perbandaran", "ceety", "greater"], "ids": [12699, 45298, 30712, 32469, 18860], "seed": 9}

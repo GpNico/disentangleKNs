@@ -1,4 +1,10 @@
-{"pattern": ["\u043b\u0430\u043f\u0442a\u043ae", "bancian", "assembly", "ciudad", "ng"], "ids": [80452, 75080, 16174, 12034, 10822], "seed": 0, "P@1": 0.4444444444444444}
-{"pattern": ["east", "cithakan", "harta", "metropolitana", "orasul"], "ids": [11344, 60596, 38407, 25859, 37845], "seed": 1, "P@1": 0.4444444444444444}
-{"pattern": ["couvre", "arrondissementer", "suivants", "city", "de"], "ids": [82821, 56054, 49127, 10575, 10102], "seed": 2, "P@1": 0.5299145299145299}
-{"pattern": ["situs", "vesnice", "cithakan", "administrativement", "downtown"], "ids": [20757, 44813, 60596, 81930, 29367], "seed": 3, "P@1": 0.42735042735042733}
+{"pattern": ["mamiferos", "legislature", "historique", "aeroport", "de"], "ids": [67907, 34230, 22296, 28614, 10102], "seed": 0}
+{"pattern": ["district", "cithakan", "\u05d1\u05de\u05e1\u05d2\u05e8\u05ea", "universitatea", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [11091, 60596, 29245, 56586, 62170], "seed": 1}
+{"pattern": ["state", "parlement", "body", "arrondissement", "de"], "ids": [10652, 26603, 12788, 15773, 10102], "seed": 2}
+{"pattern": ["orodha", "\u0627\u0645\u0631\u06cc\u06a9\u06cc", "harta", "cu", "orasul"], "ids": [45482, 50993, 38407, 10707, 37845], "seed": 3}
+{"pattern": ["state", "football", "gemengen", "arrondissement", "\u0644\u0645\u062d\u0627\u0641\u0638\u0629"], "ids": [10652, 11420, 50455, 15773, 43270], "seed": 4}
+{"pattern": ["arrondissementer", "cithakan", "circondare", "cdp", "greater"], "ids": [56054, 60596, 51555, 45427, 18860], "seed": 5}
+{"pattern": ["usana", "##sday", "abitants", "aeroport", "nan"], "ids": [48652, 74539, 78295, 28614, 10849], "seed": 6}
+{"pattern": ["state", "districts", "senat", "ville", "de"], "ids": [10652, 20824, 27118, 11750, 10102], "seed": 7}
+{"pattern": ["state", "lescht", "fungorum", "harta", "orasului"], "ids": [10652, 27798, 32715, 38407, 48045], "seed": 8}
+{"pattern": ["cithakan", "attribue", "lotniczy", "aeroport", "\u0645\u0642\u0627\u0637\u0639\u0629"], "ids": [60596, 58374, 73197, 28614, 29534], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["billie", "\u8b0a", "reprise", "republic", "dwyrain"], "ids": [54355, 7901, 31046, 13805, 80355], "seed": 0, "P@1": 0.0}
-{"pattern": ["polydor", "virgin", "capitol", "dion", "universal"], "ids": [76826, 23157, 30094, 48524, 14226], "seed": 1, "P@1": 0.21052631578947367}
-{"pattern": ["##\u043d\u0434\u0456\u0456", "miracles", "\u03b1\u03bb\u03bc\u03c0\u03bf\u03c5\u03bc", "sobre", "\u0432\u0435\u043b\u0438\u043a\u0456\u0438"], "ids": [60227, 84916, 58431, 10751, 93553], "seed": 2, "P@1": 0.0}
-{"pattern": ["savoy", "victor", "polydor", "beyonce", "universal"], "ids": [71796, 13732, 76826, 46933, 14226], "seed": 3, "P@1": 0.6140350877192983}
+{"pattern": ["detroit", "polydor", "virgin", "diana", "universal"], "ids": [18888, 76826, 23157, 22004, 14226], "seed": 0}
+{"pattern": ["polydor", "abc", "virgin", "capitol", "universal"], "ids": [76826, 16081, 23157, 30094, 14226], "seed": 1}
+{"pattern": ["mgm", "polydor", "beyonce", "cbs", "genesis"], "ids": [45938, 76826, 46933, 19154, 30508], "seed": 2}
+{"pattern": ["1957", "\u00f7", "tonight", "studija", "juzne"], "ids": [11185, 205, 31200, 38531, 65889], "seed": 3}
+{"pattern": ["cbs", "porodica", "pjesama", "##\u0444\u0438\u0438", "disques"], "ids": [19154, 64643, 86081, 51379, 78464], "seed": 4}
+{"pattern": ["tf1", "polydor", "beyonce", "capitol", "universal"], "ids": [74741, 76826, 46933, 30094, 14226], "seed": 5}
+{"pattern": ["\u0433\u0443\u0431\u0435\u0440\u043d\u0438\u0438", "websteed", "kalurahan", "discografica", "universal"], "ids": [23774, 94284, 56351, 48553, 14226], "seed": 6}
+{"pattern": ["virgin", "polydor", "diana", "detroit", "universal"], "ids": [23157, 76826, 22004, 18888, 14226], "seed": 7}
+{"pattern": ["virgin", "rca", "capitol", "dion", "universal"], "ids": [23157, 31708, 30094, 48524, 14226], "seed": 8}
+{"pattern": ["transcription", "records", "cbs", "miracles", "cimu"], "ids": [69521, 11358, 19154, 84916, 16791], "seed": 9}

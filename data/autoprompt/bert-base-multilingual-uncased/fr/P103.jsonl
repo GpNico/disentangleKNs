@@ -1,4 +1,10 @@
-{"pattern": ["homme", "americain", "bassi", "##vour", "artiste"], "ids": [14591, 17479, 44996, 90769, 31354], "seed": 0, "P@1": 0.6703296703296703}
-{"pattern": ["notice", "autorite", "wikipedia", "limbi", "\u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044b\u043c"], "ids": [35395, 39676, 12834, 72326, 96459], "seed": 1, "P@1": 0.6263736263736264}
-{"pattern": ["farw", "\u0441\u0430\u0438\u0446\u0435", "\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443", "\u0434\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447", "observatoire"], "ids": [73725, 39719, 64964, 89044, 45626], "seed": 2, "P@1": 0.6593406593406593}
-{"pattern": ["\u043c\u0435\u0434\u0430\u043b\u0438", "polaco", "zerrenda", "fortschreibung", "souvenir"], "ids": [35802, 71360, 46930, 59521, 62337], "seed": 3, "P@1": 0.45604395604395603}
+{"pattern": ["situs", "traduction", "\u043a\u0430\u0434\u0430\u0441\u0442\u0440\u044b", "\u0442\u0456\u0437\u0456\u043c\u0456", "institut"], "ids": [20757, 44737, 58508, 57915, 13786], "seed": 0}
+{"pattern": ["\u0628\u0627\u0631\u064a\u0633", "rk", "##\u05d5\u05ea\u05e8", "\u0563\u0580\u0578\u0572", "institut"], "ids": [70285, 89969, 62559, 94425, 13786], "seed": 1}
+{"pattern": ["heireann", "12148", "##\u0456\u043d\u0435", "wikipedia", "institut"], "ids": [86407, 95298, 25572, 12834, 13786], "seed": 2}
+{"pattern": ["liste", "malaysian", "##raphe", "connu", "berbahasa"], "ids": [13593, 67946, 94552, 20790, 85859], "seed": 3}
+{"pattern": ["\u043f\u0430\u0448\u0430", "internet", "##ois", "singel", "berbahasa"], "ids": [71710, 12044, 21182, 25673, 85859], "seed": 4}
+{"pattern": ["##dowa\u0142", "\u0995\u09b0\u09bf\u0995\u09c7\u099f", "honlapja", "\u043f\u043e\u0440\u0442\u0430\u043b", "stade"], "ids": [88558, 51179, 83065, 77170, 21040], "seed": 5}
+{"pattern": ["litteralement", "deaths", "ficha", "telefilm", "drame"], "ids": [95930, 44887, 32253, 41027, 48600], "seed": 6}
+{"pattern": ["##erbuch", "##lisme", "japonski", "americain", "stade"], "ids": [84616, 64566, 94715, 17479, 21040], "seed": 7}
+{"pattern": ["entziklopedikotik", "\u0440\u0435\u0441\u043c\u0438", "##\u05d9\u05d9\u05e8\u05d4", "dictionnaire", "berbahasa"], "ids": [69556, 27787, 95360, 29181, 85859], "seed": 8}
+{"pattern": ["muscidae", "website", "chanteur", "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0438", "garde"], "ids": [43879, 12699, 45283, 39621, 20856], "seed": 9}

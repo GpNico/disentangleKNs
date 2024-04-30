@@ -1,4 +1,10 @@
-{"pattern": ["##botten", "\u0574\u0568", "mizaka", "districts", "wikang"], "ids": [66002, 78273, 21750, 20824, 42575], "seed": 0, "P@1": 0.34574468085106386}
-{"pattern": ["kilometrin", "nadmorske", "prehistoric", "planetang", "\u0441\u0430\u0438\u0446\u0435"], "ids": [65948, 68665, 84073, 83141, 39719], "seed": 1, "P@1": 0.010638297872340425}
-{"pattern": ["websteed", "woiwodschaft", "##stad", "\u0434\u0430\u0440", "wikang"], "ids": [94284, 94015, 19178, 11869, 42575], "seed": 2, "P@1": 0.44680851063829785}
-{"pattern": ["since", "\u0441\u0430\u0438\u0446\u0435", "indbyggere", "locality", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [11500, 39719, 56173, 67958, 35642], "seed": 3, "P@1": 0.5585106382978723}
+{"pattern": ["austrian", "lyrics", "finsk", "norwegian", "vogue"], "ids": [31972, 24973, 81962, 22879, 46433], "seed": 0}
+{"pattern": ["offeecial", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f", "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432", "districts", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [83806, 14504, 79380, 20824, 35642], "seed": 1}
+{"pattern": ["district", "finska", "##ya", "sindich", "wikang"], "ids": [11091, 54867, 10709, 66735, 42575], "seed": 2}
+{"pattern": ["naitional", "gmine", "henta", "website", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [87207, 32576, 21806, 12699, 35642], "seed": 3}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "offeecial", "kunnan", "handbook", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [28937, 83806, 55296, 23285, 35642], "seed": 4}
+{"pattern": ["offeecial", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f", "kylan", "names", "\u0628\u0627\u0644\u0644\u063a\u0629"], "ids": [83806, 14504, 92107, 12276, 35642], "seed": 5}
+{"pattern": ["aeroporto", "constitue", "##wise", "ministers", "lingua"], "ids": [31158, 25563, 81711, 41321, 15317], "seed": 6}
+{"pattern": ["pilseta", "\u057c\u0565\u056a\u056b\u057d\u0578\u0580", "##kunta", "cithakan", "wikang"], "ids": [44265, 93262, 35790, 60596, 42575], "seed": 7}
+{"pattern": ["language", "\u0444\u0440\u0435\u043d\u0441\u043a\u0438", "\u0438\u0442\u0430\u043b\u0438\u0430\u043d\u0441\u043a\u0438", "tartu", "##less"], "ids": [12823, 60593, 61450, 22569, 15470], "seed": 8}
+{"pattern": ["keskus", "website", "district", "teraka", "wikang"], "ids": [54224, 12699, 11091, 25630, 42575], "seed": 9}

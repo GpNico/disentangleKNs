@@ -1,4 +1,10 @@
-{"pattern": ["santu", "\u04b3\u0430\u0432\u043e\u0433\u0430\u0440\u0434\u0438", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "\u05de\u05d5\u05e8\u05d7\u05d1", "\u05d7\u05d1\u05e8\u05ea"], "ids": [78519, 91697, 56604, 56477, 30217], "seed": 0, "P@1": 0.8863636363636364}
-{"pattern": ["officiel", "liste", "manufacturers", "produits", "chez"], "ids": [31692, 13593, 60492, 28575, 15967], "seed": 1, "P@1": 0.9090909090909091}
-{"pattern": ["cithakan", "madinidinika", "rumble", "drahy", "firmy"], "ids": [60596, 33057, 67961, 86223, 37255], "seed": 2, "P@1": 0.8560606060606061}
-{"pattern": ["\u0441\u0430\u0438\u0442", "perusahaan", "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c", "\u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044f", "milik"], "ids": [21115, 28650, 46113, 83187, 51998], "seed": 3, "P@1": 0.9015151515151515}
+{"pattern": ["\u043c\u043e\u0434\u0435\u043b", "\u0432\u0438\u0449\u0435", "webgunea", "\u05e2\u05dc", "\u0634\u0631\u0643\u0629"], "ids": [70376, 64517, 52015, 10654, 29005], "seed": 0}
+{"pattern": ["##\u057e\u056b", "website", "\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438", "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0438", "milik"], "ids": [37532, 12699, 21268, 90441, 51998], "seed": 1}
+{"pattern": ["motors", "\u017f", "\u0441\u0430\u0438\u0442", "biografi", "kuhusu"], "ids": [27591, 216, 21115, 78785, 53741], "seed": 2}
+{"pattern": ["\u05d1\u05d0\u05ea\u05e8", "chassis", "principale", "\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438", "\u05e9\u05dc"], "ids": [70937, 53808, 14614, 21268, 10357], "seed": 3}
+{"pattern": ["##bourg", "bosch", "htc", "chrysler", "juventus"], "ids": [26001, 36668, 84355, 51879, 32810], "seed": 4}
+{"pattern": ["\u043e\u0440\u0443\u0441\u0438\u044f", "\u0436\u04e9\u043d\u04af\u043d\u0434\u04e9\u0433\u04af", "##\u0634\u0627\u0639\u0631", "automobil", "\u0436\u04e9\u043d\u04af\u043d\u0434\u04e9\u0433\u04af"], "ids": [96250, 72245, 65112, 38506, 72245], "seed": 5}
+{"pattern": ["motors", "kuu", "astronom", "##vuti", "cha"], "ids": [27591, 66948, 29195, 82008, 16623], "seed": 6}
+{"pattern": ["touris", "specifications", "photographic", "\u0441\u0430\u0438\u0442", "milik"], "ids": [48568, 83096, 71535, 21115, 51998], "seed": 7}
+{"pattern": ["specifications", "resmi", "industry", "website", "van"], "ids": [83096, 20234, 15039, 12699, 10147], "seed": 8}
+{"pattern": ["liste", "\u043b\u0456\u0437\u0456", "specifications", "\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430", "chez"], "ids": [13593, 70435, 83096, 34130, 15967], "seed": 9}

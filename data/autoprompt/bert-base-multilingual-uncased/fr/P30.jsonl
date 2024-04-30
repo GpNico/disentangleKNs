@@ -1,4 +1,10 @@
-{"pattern": ["portal", "perancis", "asia", "chemins", "##\u0443\u043c\u0430"], "ids": [17375, 17888, 12734, 46168, 37589], "seed": 0, "P@1": 0.21568627450980393}
-{"pattern": ["asia", "americas", "oceania", "\u0577\u057f\u0565\u0574\u0561\u0580\u0561\u0576", "ouest"], "ids": [12734, 40558, 59315, 66229, 13819], "seed": 1, "P@1": 0.29411764705882354}
-{"pattern": ["scarabaeidae", "websait", "societe", "indicem", "eastern"], "ids": [21202, 69121, 13806, 33529, 13598], "seed": 2, "P@1": 0.43137254901960786}
-{"pattern": ["kurzfilm", "fiba", "oceania", "titre", "fiba"], "ids": [70680, 42394, 59315, 13021, 42394], "seed": 3, "P@1": 0.1568627450980392}
+{"pattern": ["hogan", "\u0441\u0430\u0438\u0442\u0456", "ethnologue", "encyclopedie", "eastern"], "ids": [49620, 54741, 37982, 76923, 13598], "seed": 0}
+{"pattern": ["\u05d1\u05e1\u05d5\u05e4\u05d5", "titre", "azie", "database", "\u05de\u05d6\u05e8\u05d7"], "ids": [78851, 13021, 74812, 10326, 65136], "seed": 1}
+{"pattern": ["butterflies", "unesco", "connaissance", "##\uff4f", "western"], "ids": [77793, 16077, 45986, 105848, 12118], "seed": 2}
+{"pattern": ["locatit", "geographie", "voir", "##iologia", "western"], "ids": [62314, 58336, 18466, 81253, 12118], "seed": 3}
+{"pattern": ["\u0430\u0437\u0438\u044f", "##loxia", "history", "sooth", "##mer"], "ids": [37600, 28924, 10441, 65576, 12778], "seed": 4}
+{"pattern": ["americas", "asia", "franta", "asien", "ouest"], "ids": [40558, 12734, 32149, 45154, 13819], "seed": 5}
+{"pattern": ["mide", "\u6d54", "jesli", "countries", "\u0441\u0430\u0438\u0446\u0435"], "ids": [69535, 5082, 51356, 15612, 39719], "seed": 6}
+{"pattern": ["euphorbiaceae", "cimu", "frankryk", "geographie", "eastern"], "ids": [82800, 16791, 75811, 58336, 13598], "seed": 7}
+{"pattern": ["asia", "evropy", "americas", "haut", "asia"], "ids": [12734, 50407, 40558, 17080, 12734], "seed": 8}
+{"pattern": ["unesco", "routledge", "ceinture", "ressources", "western"], "ids": [16077, 11884, 26191, 53047, 12118], "seed": 9}

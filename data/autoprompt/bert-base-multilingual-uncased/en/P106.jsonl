@@ -1,4 +1,10 @@
-{"pattern": ["plessis", "\u0639\u0631\u0627\u0642", "oscara", "database", "distinguished"], "ids": [93605, 47441, 90990, 10326, 27209], "seed": 0, "P@1": 0.2087912087912088}
-{"pattern": ["attrice", "musician", "terence", "brasileiros", "british"], "ids": [27896, 31894, 61789, 75360, 11289], "seed": 1, "P@1": 0.3901098901098901}
-{"pattern": ["actress", "josef", "fodd", "seuls", "osterreichischer"], "ids": [19275, 16064, 15384, 50705, 43025], "seed": 2, "P@1": 0.0989010989010989}
-{"pattern": ["isang", "\u03b1\u03b8\u03b7\u03bd\u03b1", "wikipedia", "noted", "teenage"], "ids": [13179, 36886, 12834, 18787, 48783], "seed": 3, "P@1": 0.1978021978021978}
+{"pattern": ["actress", "romanian", "goldmedaille", "antony", "bester"], "ids": [19275, 29363, 77312, 61138, 38470], "seed": 0}
+{"pattern": ["\u0441\u043c\u0440\u0442", "born", "gaius", "promising", "classical"], "ids": [86374, 11161, 58116, 92580, 20429], "seed": 1}
+{"pattern": ["schauspieler", "husband", "notable", "##\u0434\u0437\u0435\u043b", "amerikanischer"], "ids": [31659, 19137, 18104, 76383, 25975], "seed": 2}
+{"pattern": ["\u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0441\u0442", "former", "\u043f\u0443\u0442", "known", "chilean"], "ids": [62684, 11876, 37336, 11197, 81300], "seed": 3}
+{"pattern": ["bowling", "politic", "writer", "ell", "bowling"], "ids": [50117, 31408, 16726, 28156, 50117], "seed": 4}
+{"pattern": ["\u092e\u0923\u0921\u0932", "\u0909\u0928\u0915\u094b", "macedonian", "bere", "##tako"], "ids": [26246, 64532, 65427, 14220, 24053], "seed": 5}
+{"pattern": ["plantia", "autobiography", "prominent", "wide", "eyed"], "ids": [76338, 53744, 22521, 14744, 67902], "seed": 6}
+{"pattern": ["anthropology", "aktor", "engineer", "fowk", "aktor"], "ids": [55748, 26423, 21227, 85047, 26423], "seed": 7}
+{"pattern": ["fritz", "comique", "prize", "former", "\u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0438"], "ids": [17616, 72169, 15393, 11876, 52247], "seed": 8}
+{"pattern": ["pseudonym", "zdroje", "biography", "noted", "leading"], "ids": [51121, 26022, 14097, 18787, 15833], "seed": 9}

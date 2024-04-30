@@ -1,4 +1,10 @@
-{"pattern": ["soporte", "pagina", "punong", "packard", "ng"], "ids": [77154, 16833, 88541, 72310, 10822], "seed": 0, "P@1": 0.3977272727272727}
-{"pattern": ["xml", "angles", "enlace", "website", "de"], "ids": [39475, 22624, 63019, 12699, 10102], "seed": 1, "P@1": 0.45454545454545453}
-{"pattern": ["cithakan", "\u043e\u0440\u0443\u0441\u0438\u044f", "\u0456", "multimedia", "van"], "ids": [60596, 96250, 341, 23030, 10147], "seed": 2, "P@1": 0.3409090909090909}
-{"pattern": ["logo", "web", "wikisky", "norte", "de"], "ids": [16729, 11903, 34791, 11954, 10102], "seed": 3, "P@1": 0.4659090909090909}
+{"pattern": ["\u0642\u0627\u064a\u0645\u0629", "\u05d4\u05d1\u05d9\u05ea", "##\u05db\u05dc\u05d9", "publico", "\u05e2\u05d1\u05d5\u05e8"], "ids": [25012, 52283, 54614, 14812, 26330], "seed": 0}
+{"pattern": ["samsung", "spagna", "telefonica", "quincy", "landschaft"], "ids": [36483, 29813, 92404, 57307, 52584], "seed": 1}
+{"pattern": ["orodha", "guvernementet", "informacion", "komputer", "za"], "ids": [45482, 64849, 18053, 39196, 10354], "seed": 2}
+{"pattern": ["wiki", "##xu", "televisione", "komputer", "di"], "ids": [25883, 33829, 71541, 39196, 10120], "seed": 3}
+{"pattern": ["family", "plataforma", "automobil", "celular", "de"], "ids": [11214, 34812, 38506, 56494, 10102], "seed": 4}
+{"pattern": ["console", "poskod", "##\u0433\u043e\u04b3\u0438", "##\u0433\u043e\u04b3\u0438", "\u043d\u043e\u043c\u0438"], "ids": [36564, 46011, 50641, 50641, 47161], "seed": 5}
+{"pattern": ["corp", "imaxes", "wikimedia", "commons", "##\u05d9\u05e8\u05d5\u05ea"], "ids": [36222, 93625, 13609, 14197, 32335], "seed": 6}
+{"pattern": ["en", "\u0633\u0644\u0633\u0644\u0629", "telefono", "mobil", "de"], "ids": [10109, 51293, 81388, 35935, 10102], "seed": 7}
+{"pattern": ["developers", "webgunea", "photographic", "atlas", "de"], "ids": [62961, 52015, 71535, 12410, 10102], "seed": 8}
+{"pattern": ["tambien", "buidl", "glottolog", "commons", "\u8bb3"], "ids": [11382, 55957, 72555, 14197, 7960], "seed": 9}

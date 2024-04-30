@@ -1,4 +1,10 @@
-{"pattern": ["ancona", "tokio", "brussels", "saigon", "palestine"], "ids": [65026, 29473, 37078, 93288, 30646], "seed": 0, "P@1": 0.025510204081632654}
-{"pattern": ["bucarest", "\u043a\u0430\u0437\u0430\u043d", "honolulu", "aeroport", "vocale"], "ids": [75142, 39673, 51401, 28614, 72927], "seed": 1, "P@1": 0.0}
-{"pattern": ["cartagena", "capital", "warschau", "egypt", "square"], "ids": [60019, 12020, 69590, 20589, 13366], "seed": 2, "P@1": 0.0}
-{"pattern": ["gdansk", "napomena", "petersburg", "brussels", "chennai"], "ids": [50267, 68576, 22957, 37078, 52433], "seed": 3, "P@1": 0.0}
+{"pattern": ["kristiania", "asean", "kulubu", "arrondissement", "republikken"], "ids": [69182, 76920, 93626, 15773, 83107], "seed": 0}
+{"pattern": ["brussels", "tokio", "petersburg", "jordan", "city"], "ids": [37078, 29473, 22957, 16405, 10575], "seed": 1}
+{"pattern": ["ukrainian", "philippines", "brecht", "biennale", "in"], "ids": [30516, 20650, 63099, 48690, 10104], "seed": 2}
+{"pattern": ["unknown", "connections", "bucarest", "skopje", "tokio"], "ids": [22669, 50181, 75142, 44576, 29473], "seed": 3}
+{"pattern": ["florencia", "belarus", "bhd", "metropolitana", "of"], "ids": [59806, 50088, 92577, 25859, 10108], "seed": 4}
+{"pattern": ["together", "bagdad", "brussels", "honolulu", "astana"], "ids": [13627, 48030, 37078, 51401, 58496], "seed": 5}
+{"pattern": ["state", "bagdad", "hanoi", "brussels", "astana"], "ids": [10652, 48030, 50020, 37078, 58496], "seed": 6}
+{"pattern": ["\u00b0", "vietnamese", "ukraine", "ganed", "prifysgol"], "ids": [187, 55936, 19877, 75304, 83024], "seed": 7}
+{"pattern": ["path", "peking", "bucarest", "midnight", "triangle"], "ids": [26584, 45508, 75142, 29061, 37880], "seed": 8}
+{"pattern": ["offices", "hanoi", "ancona", "jordan", "palais"], "ids": [27936, 50020, 65026, 16405, 21590], "seed": 9}

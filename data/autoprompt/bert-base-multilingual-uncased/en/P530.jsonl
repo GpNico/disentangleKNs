@@ -1,4 +1,10 @@
-{"pattern": ["dutch", "italie", "saudi", "usa", "and"], "ids": [17978, 16614, 25931, 10828, 10110], "seed": 0, "P@1": 0.025252525252525252}
-{"pattern": ["alexandria", "also", "storbritannien", "indonesien", "alemania"], "ids": [30525, 10398, 28676, 21920, 21629], "seed": 1, "P@1": 0.04040404040404041}
-{"pattern": ["\u092c\u093f\u0939\u093e\u0930", "\u0639\u0631\u0627\u0642", "alemanya", "franta", "visit"], "ids": [60838, 47441, 20315, 32149, 25332], "seed": 2, "P@1": 0.020202020202020204}
-{"pattern": ["jerman", "fortschreibung", "pregled", "\u0440\u0430\u0442\u0430", "statistics"], "ids": [19695, 59521, 81777, 30737, 16456], "seed": 3, "P@1": 0.020202020202020204}
+{"pattern": ["phases", "philippine", "suisse", "rhine", "bansang"], "ids": [60654, 27385, 19791, 58891, 43459], "seed": 0}
+{"pattern": ["lebanese", "allemagne", "grece", "belgie", "mesopotamia"], "ids": [94790, 19344, 50282, 27108, 61974], "seed": 1}
+{"pattern": ["states", "\u0442\u0435\u043c\u0438", "\u043a\u043e\u0441\u043e\u0432\u043e", "franciaorszag", "mosquito"], "ids": [10821, 74791, 85421, 95556, 82450], "seed": 2}
+{"pattern": ["chavez", "thuringen", "alemanha", "storbritannia", "emirates"], "ids": [47179, 44693, 29798, 37495, 62603], "seed": 3}
+{"pattern": ["italie", "belgie", "inglis", "ecuador", "palestine"], "ids": [16614, 27108, 71324, 19906, 30646], "seed": 4}
+{"pattern": ["german", "ecuador", "asia", "israeli", "britain"], "ids": [12136, 19906, 12734, 25828, 16347], "seed": 5}
+{"pattern": ["djibouti", "austrian", "usa", "south", "kingdom"], "ids": [71178, 31972, 10828, 10808, 11721], "seed": 6}
+{"pattern": ["jerman", "rumania", "australasian", "brazilie", "palestine"], "ids": [19695, 61861, 48845, 68966, 30646], "seed": 7}
+{"pattern": ["ecuador", "bahrain", "europe", "south", "bavaria"], "ids": [19906, 54629, 11927, 10808, 35526], "seed": 8}
+{"pattern": ["bucharest", "mauritania", "malaysian", "alemanha", "visiting"], "ids": [60641, 75636, 67946, 29798, 38219], "seed": 9}

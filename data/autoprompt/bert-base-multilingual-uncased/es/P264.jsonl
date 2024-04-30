@@ -1,4 +1,10 @@
-{"pattern": ["capitol", "polydor", "capitol", "dion", "universal"], "ids": [30094, 76826, 30094, 48524, 14226], "seed": 0, "P@1": 0.3269230769230769}
-{"pattern": ["polydor", "capitol", "diana", "dion", "universal"], "ids": [76826, 30094, 22004, 48524, 14226], "seed": 1, "P@1": 0.5769230769230769}
-{"pattern": ["turner", "virgin", "polydor", "dion", "universal"], "ids": [18439, 23157, 76826, 48524, 14226], "seed": 2, "P@1": 0.34615384615384615}
-{"pattern": ["polydor", "miracles", "riaa", "commons", ":"], "ids": [76826, 84916, 58540, 14197, 131], "seed": 3, "P@1": 0.1346153846153846}
+{"pattern": ["capitol", "columbia", "polydor", "dion", "universal"], "ids": [30094, 13289, 76826, 48524, 14226], "seed": 0}
+{"pattern": ["prodotto", "dischi", "rca", "usher", "dalla"], "ids": [23926, 86570, 31708, 90403, 11517], "seed": 1}
+{"pattern": ["\u0435\u0432\u0440\u043e\u043f\u0430", "beatles", "barclay", "virgin", "universal"], "ids": [27836, 21594, 90161, 23157, 14226], "seed": 2}
+{"pattern": ["polydor", "capitol", "diana", "sting", "universal"], "ids": [76826, 30094, 22004, 55742, 14226], "seed": 3}
+{"pattern": ["columbia", "virgin", "polydor", "capitol", "universal"], "ids": [13289, 23157, 76826, 30094, 14226], "seed": 4}
+{"pattern": ["polydor", "mgm", "beyonce", "nbc", "verve"], "ids": [76826, 45938, 46933, 22083, 92609], "seed": 5}
+{"pattern": ["syndicat", "##cricao", "incorporated", "polydor", "cimu"], "ids": [66253, 76319, 27425, 76826, 16791], "seed": 6}
+{"pattern": ["\u0442\u044d\u043c\u0435", "doris", "recordings", "roue", "universal"], "ids": [26608, 42525, 25104, 42506, 14226], "seed": 7}
+{"pattern": ["recording", "miracles", "syndicat", "lescht", "##\u043d\u0435\u0433\u043e"], "ids": [16871, 84916, 66253, 27798, 27076], "seed": 8}
+{"pattern": ["soul", "edicion", "\u0576\u0561\u0565\u0582", "columbia", "/"], "ids": [16587, 15534, 90167, 13289, 120], "seed": 9}

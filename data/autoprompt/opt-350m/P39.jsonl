@@ -1,4 +1,10 @@
-{"pattern": ["\u0120investors", "Dutch", "bishop", "\u0120elected", "\u0120local"], "ids": [867, 40877, 32841, 2736, 400], "seed": 0, "P@1": 0.5010309278350515}
-{"pattern": ["\u0120bishops", "\u0120businessman", "bryce", "\u0120bishops", "ipeg"], "ids": [19929, 8950, 49492, 19929, 44715], "seed": 1, "P@1": 0.49896907216494846}
-{"pattern": ["\u0120bishops", "Obama", "\u0120youngest", "\u0120upper", "ocese"], "ids": [19929, 33382, 8733, 2853, 12074], "seed": 2, "P@1": 0.5030927835051546}
-{"pattern": ["\u0120bishops", "================================================================", "Mayor", "\u0120acquitted", "Catholic"], "ids": [19929, 49936, 36652, 17871, 42799], "seed": 3, "P@1": 0.49896907216494846}
+{"pattern": ["\u0120{}", "\u0120bishops", "\u0120praises", "\u0120tower", "Dutch"], "ids": [49153, 19929, 28506, 9368, 40877], "seed": 0, "P@1": 0.5010309278350515}
+{"pattern": ["\u0120bishops", "\u0120conferred", "andre", "\u0120elected", "ful"], "ids": [19929, 35851, 34537, 2736, 2650], "seed": 1, "P@1": 0.5010309278350515}
+{"pattern": ["1959", "\u0120suburbs", "\u0120bishops", "\u0120\u00e2\u0128\u0133", "\u0120becomes"], "ids": [46621, 13574, 19929, 48633, 3374], "seed": 2, "P@1": 0.5402061855670103}
+{"pattern": ["\u0120senators", "\u0120blocks", "stanbul", "ocese", "\u0120sacks"], "ids": [7028, 5491, 46770, 12074, 10531], "seed": 3, "P@1": 0.5010309278350515}
+{"pattern": ["Canadian", "\u0120bishops", "\u0120awarded", "\u0120former", "nesota"], "ids": [24819, 19929, 4241, 320, 46295], "seed": 4, "P@1": 0.5010309278350515}
+{"pattern": ["\u0120bishops", "\u0120mayoral", "\u0120${", "\u0120longest", "\u0120visiting"], "ids": [19929, 24629, 48982, 6463, 3918], "seed": 5, "P@1": 0.51340206185567}
+{"pattern": ["\u0120colonel", "\u0120firefighter", "\u0120councill", "\u0120bishops", "\u0120councill"], "ids": [35886, 15788, 48747, 19929, 48747], "seed": 6, "P@1": 0.3525773195876289}
+{"pattern": ["\u0120bishops", "\u0120president", ");", "\u0120kins", "elfth"], "ids": [19929, 394, 4397, 41490, 39663], "seed": 7, "P@1": 0.5010309278350515}
+{"pattern": ["\u0120``(", "bishop", "\u0120or", "\u0120anything", "than"], "ids": [50007, 32841, 50, 932, 5652], "seed": 8, "P@1": 0.4865979381443299}
+{"pattern": ["\u0120northeastern", "bishop", "\u0120elect", "\u0120newest", "\u0120polish"], "ids": [17406, 32841, 10371, 8946, 27931], "seed": 9, "P@1": 0.5010309278350515}

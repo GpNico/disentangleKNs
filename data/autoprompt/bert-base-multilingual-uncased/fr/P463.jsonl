@@ -1,4 +1,10 @@
-{"pattern": ["erthygl", "##lemez", "\u05de\u05d5\u05e8\u05d7\u05d1", "cithakan", "surviving"], "ids": [55939, 79360, 56477, 60596, 42258], "seed": 0, "P@1": 0.0}
-{"pattern": ["zeppelin", "bethlehem", "linkin", "amitie", "nazareth"], "ids": [42598, 87850, 92677, 78354, 93897], "seed": 1, "P@1": 0.0}
-{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "bbc", "\u0441\u0430\u0438\u0442", "tortura", "says"], "ids": [28937, 11896, 21115, 93652, 20782], "seed": 2, "P@1": 0.0}
-{"pattern": ["myspace", "\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0576\u0565\u0580\u056b", "##\u0631\u0627\u0639", "\u0936\u093f\u0915\u0937\u093e", "asteroiden"], "ids": [58292, 25524, 71240, 48496, 92566], "seed": 3, "P@1": 0.0}
+{"pattern": ["erthygl", "##lemez", "\u05de\u05d5\u05e8\u05d7\u05d1", "cithakan", "surviving"], "ids": [55939, 79360, 56477, 60596, 42258], "seed": 0}
+{"pattern": ["zeppelin", "bethlehem", "linkin", "amitie", "nazareth"], "ids": [42598, 87850, 92677, 78354, 93897], "seed": 1}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "bbc", "\u0441\u0430\u0438\u0442", "tortura", "says"], "ids": [28937, 11896, 21115, 93652, 20782], "seed": 2}
+{"pattern": ["myspace", "\u0561\u057d\u057f\u0565\u0580\u0578\u056b\u0564\u0576\u0565\u0580\u056b", "##\u0631\u0627\u0639", "\u0936\u093f\u0915\u0937\u093e", "asteroiden"], "ids": [58292, 25524, 71240, 48496, 92566], "seed": 3}
+{"pattern": ["\u043f\u043e\u0440\u0442\u0430\u043b", "ofisiel", "sting", "utnevnt", "##\u0446\u0438\u0458\u0438"], "ids": [77170, 63620, 55742, 69748, 37148], "seed": 4}
+{"pattern": ["secrets", "offisiell", "\u0aaa\u0ab0", "claim", "bloody"], "ids": [33690, 93352, 25334, 26297, 52186], "seed": 5}
+{"pattern": ["salute", "gaza", "37", "fowk", "conserva"], "ids": [53042, 40090, 11367, 85047, 29418], "seed": 6}
+{"pattern": ["coldplay", "genesis", "alexandria", "middle", "order"], "ids": [93839, 30508, 30525, 13470, 11970], "seed": 7}
+{"pattern": ["lewat", "metals", "palestinian", "cithakan", "\u0432\u043e\u043b\u043e\u0441\u0442\u0456"], "ids": [77300, 73345, 51492, 60596, 83789], "seed": 8}
+{"pattern": ["linkin", "muse", "metallica", "faith", "judetul"], "ids": [92677, 50678, 46671, 22033, 28313], "seed": 9}

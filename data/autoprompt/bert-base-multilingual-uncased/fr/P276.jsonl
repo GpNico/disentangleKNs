@@ -1,4 +1,10 @@
-{"pattern": ["voir", "imdb", "aeroport", "sentral", "delstatshuvudstaden"], "ids": [18466, 18103, 28614, 46779, 34076], "seed": 0, "P@1": 0.3543307086614173}
-{"pattern": ["archive", "officiellement", "##dington", "ville", "de"], "ids": [16579, 43529, 82263, 11750, 10102], "seed": 1, "P@1": 0.44881889763779526}
-{"pattern": ["newsletter", "rhestr", "officiel", "ciuda", "pukul"], "ids": [73891, 17092, 31692, 22020, 86788], "seed": 2, "P@1": 0.3937007874015748}
-{"pattern": ["genealogy", "casatorit", "unesco", "liste", "orasului"], "ids": [89853, 87364, 16077, 13593, 48045], "seed": 3, "P@1": 0.2283464566929134}
+{"pattern": ["titre", "ofisiel", "city", "internationale", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b"], "ids": [13021, 63620, 10575, 14717, 56604], "seed": 0}
+{"pattern": ["ou", "officiellement", "tourism", "museum", "de"], "ids": [10391, 43529, 27780, 11217, 10102], "seed": 1}
+{"pattern": ["website", "officielle", "ciuda", "populaire", "\u814e"], "ids": [12699, 43111, 22020, 26247, 7022], "seed": 2}
+{"pattern": ["page", "officielle", "centre", "urbaine", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [13524, 43111, 11534, 57771, 55892], "seed": 3}
+{"pattern": ["page", "officielle", "villes", "situe", "de"], "ids": [13524, 43111, 25850, 14737, 10102], "seed": 4}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "\u0562\u0576\u0561\u056f\u0561\u057e\u0561\u0575\u0580\u0568", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "##geordnete", "hoofdstad"], "ids": [58703, 51195, 56604, 70024, 52007], "seed": 5}
+{"pattern": ["officiellement", "\u043a\u043e\u043c\u043c\u0443\u043d\u0430", "officiel", "diocese", "drzavi"], "ids": [43529, 21651, 31692, 22062, 15121], "seed": 6}
+{"pattern": ["\u043f\u0440\u0430\u0437", "\u043b\u0456\u0447\u044b\u0446\u0446\u0430", "net", "website", "greater"], "ids": [48644, 88360, 11852, 12699, 18860], "seed": 7}
+{"pattern": ["gazetteer", "liste", "nationale", "universite", "\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e"], "ids": [30674, 13593, 13332, 15081, 62479], "seed": 8}
+{"pattern": ["planets", "liste", "officiel", "universite", "\u03ba\u03b1\u03b8\u03b5"], "ids": [32571, 13593, 31692, 15081, 29206], "seed": 9}

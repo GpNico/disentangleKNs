@@ -1,8 +1,0 @@
-{"pattern": ["##lund", "dani", "reuters", "currently", "youth"], "ids": [18028, 19522, 26665, 2747, 3360], "seed": 0, "P@1": 0.0}
-{"pattern": ["nhl", "footballer", "defence", "baseball", "defensive"], "ids": [7097, 4362, 4721, 3598, 5600], "seed": 1, "P@1": 0.4170168067226891}
-{"pattern": ["soccer", "scholastic", "sprinter", "papyrus", "defensive"], "ids": [4715, 24105, 19938, 29575, 5600], "seed": 2, "P@1": 0.4170168067226891}
-{"pattern": ["baseball", "tortricidae", "prodigy", "donetsk", "defensive"], "ids": [3598, 27683, 28334, 29151, 5600], "seed": 3, "P@1": 0.41596638655462187}
-{"pattern": ["medallist", "attack", "kris", "fielder", "former"], "ids": [28595, 2886, 19031, 25000, 2280], "seed": 4, "P@1": 0.014705882352941176}
-{"pattern": ["paralympic", "perennial", "reserve", "assistant", "match"], "ids": [17029, 14638, 3914, 3353, 2674], "seed": 5, "P@1": 0.0}
-{"pattern": ["cfl", "striker", "mika", "lau", "cfl"], "ids": [18830, 11854, 27857, 21360, 18830], "seed": 6, "P@1": 0.3960084033613445}
-{"pattern": ["footballer", "jays", "sentai", "defensive", "-"], "ids": [4362, 18930, 28650, 5600, 1011], "seed": 7, "P@1": 0.40861344537815125}

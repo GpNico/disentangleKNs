@@ -1,4 +1,10 @@
-{"pattern": ["Congress", "ciplinary", "\u0120striker", "Defense", "ensive"], "ids": [25997, 35569, 5955, 39049, 17355], "seed": 0, "P@1": 0.4170168067226891}
-{"pattern": ["\u0120soccer", "\u0120pinch", "ender", "North", "urdue"], "ids": [4191, 15168, 7232, 11073, 46420], "seed": 1, "P@1": 0.0}
-{"pattern": ["axter", "Sphere", "\u0120midfield", "\u0120midfield", "ith"], "ids": [45819, 45097, 9979, 9979, 3432], "seed": 2, "P@1": 0.005252100840336135}
-{"pattern": ["utenant", "\u0120midfield", "\u0120hitter", "\u0120custod", "itional"], "ids": [47397, 9979, 14005, 22790, 24176], "seed": 3, "P@1": 0.41386554621848737}
+{"pattern": [".):", "\u0120footballer", "ockey", "\":-", "\u0120defensive"], "ids": [38947, 19931, 16303, 50000, 2465], "seed": 0, "P@1": 0.4170168067226891}
+{"pattern": ["Chelsea", "\u0120fullback", "And", "\u0120orth", "bilt"], "ids": [27725, 24907, 2409, 25691, 44386], "seed": 1, "P@1": 0.022058823529411766}
+{"pattern": ["\u00c5\u012f", "\u0120unintentionally", "\u0120alias", "aced", "\u0120defensive"], "ids": [38183, 38691, 29853, 8988, 2465], "seed": 2, "P@1": 0.4180672268907563}
+{"pattern": ["\u0120honors", "\u0120midfield", "Minnesota", "\u0120current", "\u0120junior"], "ids": [10982, 9979, 40080, 595, 3812], "seed": 3, "P@1": 0.4369747899159664}
+{"pattern": ["\u00e8\u00a6\u013c\u00e9\u0128\u0134", "MN", "FC", "\u0120reserves", "\u0120versatile"], "ids": [50153, 35306, 5268, 5880, 16106], "seed": 4, "P@1": 0.4180672268907563}
+{"pattern": ["\u0120soccer", "\u0120humor", "\u0120star", "\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142", "\u0120defensive"], "ids": [4191, 12073, 999, 50147, 2465], "seed": 5, "P@1": 0.4170168067226891}
+{"pattern": ["\u0120blinded", "\u0120promising", "\u0120unbiased", "\u0120\u00e2\u0136\u013e", "\u0120defensive"], "ids": [40094, 6177, 37309, 49842, 2465], "seed": 6, "P@1": 0.4170168067226891}
+{"pattern": ["\u0120infant", "**", "\u0120\u00e2\u0122\u0137", "\u0120indie", "\u0120defensive"], "ids": [12099, 12606, 15130, 18572, 2465], "seed": 7, "P@1": 0.4222689075630252}
+{"pattern": ["goal", "linger", "_(", "AMS", "\u0120attacking"], "ids": [12697, 29529, 48124, 31864, 6666], "seed": 8, "P@1": 0.4180672268907563}
+{"pattern": ["\u0120fullback", "\u00e0\u00a8", "\u0120tackles", "\u0120returning", "rative"], "ids": [24907, 48187, 7955, 3357, 29566], "seed": 9, "P@1": 0.15546218487394958}

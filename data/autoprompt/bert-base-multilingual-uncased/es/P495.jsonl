@@ -1,4 +1,10 @@
-{"pattern": ["##parade", "\u0d67", "imperial", "gobierno", "de"], "ids": [79792, 1006, 15815, 14740, 10102], "seed": 0, "P@1": 0.3119266055045872}
-{"pattern": ["actrice", "actualmente", "depute", "\u0441\u0430\u0438\u0446\u0435", "miss"], "ids": [26087, 17783, 32048, 39719, 14344], "seed": 1, "P@1": 0.1743119266055046}
-{"pattern": ["vfl", "orodha", "una", "entidad", "bansang"], "ids": [51651, 45482, 10155, 46252, 43459], "seed": 2, "P@1": 0.3119266055045872}
-{"pattern": ["muere", "censo", "hivatalos", "##sreform", "din"], "ids": [62215, 16048, 24151, 66045, 10621], "seed": 3, "P@1": 0.12844036697247707}
+{"pattern": ["marianne", "pagina", "compitio", "cinematografico", "miss"], "ids": [35830, 16833, 75108, 49327, 14344], "seed": 0}
+{"pattern": ["tsile", "spania", "digimon", "patrol", "panorama"], "ids": [83429, 41772, 71763, 35358, 34077], "seed": 1}
+{"pattern": ["sitiu", "imperiale", "enciclopedia", "kombetare", "\u0432\u043e"], "ids": [90778, 30280, 36286, 91685, 10432], "seed": 2}
+{"pattern": ["couronne", "disneyland", "pratelan", "jaras", "urbanos"], "ids": [47519, 95589, 83253, 88174, 91963], "seed": 3}
+{"pattern": ["tiene", "engleza", "\u0648\u0632\u0627\u0631\u0629", "skating", "din"], "ids": [12687, 58152, 48035, 63083, 10621], "seed": 4}
+{"pattern": ["godzilla", "cens", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "##iciones", "\u0432\u0441\u0435\u0438"], "ids": [81703, 29440, 25693, 50434, 35173], "seed": 5}
+{"pattern": ["\u043f\u043e\u0440\u0442\u0440\u0435\u0442", "\u05d1\u05d0\u05ea\u05e8", "membri", "especiales", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [55812, 70937, 25550, 50392, 55892], "seed": 6}
+{"pattern": ["magica", "imdb", "vease", "televisione", "din"], "ids": [77020, 18103, 63142, 71541, 10621], "seed": 7}
+{"pattern": ["norwegen", "sweden", "numelor", "unidos", "\u2022"], "ids": [55468, 21113, 75507, 11212, 1275], "seed": 8}
+{"pattern": ["asia", "revista", "espanha", "arctic", "revista"], "ids": [12734, 14469, 31887, 42675, 14469], "seed": 9}

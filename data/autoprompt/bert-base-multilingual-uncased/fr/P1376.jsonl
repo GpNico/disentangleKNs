@@ -1,4 +1,10 @@
-{"pattern": ["\u0440\u0430\u0431\u043e\u0442\u043e\u0438", "prantsusmaa", "org", "gazetteer", ":"], "ids": [96067, 87148, 10355, 30674, 131], "seed": 0, "P@1": 0.2972972972972973}
-{"pattern": ["labdarugo", "inglis", "##while", "ciudat", "in"], "ids": [27738, 71324, 90508, 56823, 10104], "seed": 1, "P@1": 0.43243243243243246}
-{"pattern": ["sehri", "\u0926\u0930\u0935\u093f\u0921", "websteed", "etat", "republiken"], "ids": [85008, 52161, 94284, 13573, 44067], "seed": 2, "P@1": 0.3783783783783784}
-{"pattern": ["\u0994", "regioun", "##ee", "toun", "in"], "ids": [617, 56764, 12168, 49715, 10104], "seed": 3, "P@1": 0.35135135135135137}
+{"pattern": ["regional", "ezera", "ofisiel", "populaire", "miss"], "ids": [12536, 91930, 63620, 26247, 14344], "seed": 0}
+{"pattern": ["national", "tourist", "bestuurslaag", "lescht", "deelstaat"], "ids": [10551, 41181, 39803, 27798, 44839], "seed": 1}
+{"pattern": ["websteed", "distretto", "principale", "##ois", "statul"], "ids": [94284, 27490, 14614, 21182, 82592], "seed": 2}
+{"pattern": ["\u0644\u0648\u06a9", "pratelan", "kutha", "\u0636\u0644\u0639\u06d2", "kutha"], "ids": [53288, 83253, 34730, 76030, 34730], "seed": 3}
+{"pattern": ["tourist", "place", "lescht", "arrondissementer", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [41181, 11125, 27798, 56054, 28937], "seed": 4}
+{"pattern": ["\u043f\u0440\u0438\u0440\u043e\u0434\u0430", "\u0440\u0435\u0447\u043d\u043e\u0438", "franses", "province", "\u0641\u06cc\u0644\u0645\u0647\u0627\u06cc"], "ids": [67440, 43652, 47073, 12092, 81560], "seed": 5}
+{"pattern": ["\u0435\u043b\u0434\u0456", "autorite", "ligue", "populatiei", "din"], "ids": [67609, 39676, 18765, 26972, 10621], "seed": 6}
+{"pattern": ["imaxes", "suivants", "county", "arrondissementer", "\u80f1"], "ids": [93625, 49127, 10663, 56054, 6983], "seed": 7}
+{"pattern": ["nouvelle", "toun", "phare", "diocese", "\u043f\u043e\u043b\u0438\u0446\u0438\u0438"], "ids": [13577, 49715, 74376, 22062, 70414], "seed": 8}
+{"pattern": ["county", "\u091b\u0924\u0924\u0940\u0938\u0917\u0922", "imaxes", "du", "republikken"], "ids": [10663, 28537, 93625, 10169, 83107], "seed": 9}

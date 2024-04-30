@@ -1,4 +1,10 @@
-{"pattern": ["\u2173", "lama", "internet", "gazetteer", "tentang"], "ids": [1348, 20019, 12044, 30674, 23187], "seed": 0, "P@1": 0.6460176991150443}
-{"pattern": ["##\u0456\u0438\u0441\u044c\u043a\u043e\u044e", "britannica", "cithakan", "##eves", "of"], "ids": [65341, 14221, 60596, 32324, 10108], "seed": 1, "P@1": 0.6637168141592921}
-{"pattern": ["site", "cithakan", "##\u0c41\u0c17", "ferry", "of"], "ids": [11692, 60596, 55818, 29921, 10108], "seed": 2, "P@1": 0.6902654867256637}
-{"pattern": ["genealogy", "indicem", "##loxia", "##sby", "ya"], "ids": [89853, 33529, 28924, 45328, 10593], "seed": 3, "P@1": 0.6460176991150443}
+{"pattern": ["cithakan", "\u7def", "##\u0434\u0440\u0443", "##ices", "of"], "ids": [60596, 6646, 86463, 38532, 10108], "seed": 0}
+{"pattern": ["website", "##olski", "marekani", "friends", "of"], "ids": [12699, 74143, 64935, 16119, 10108], "seed": 1}
+{"pattern": ["rasmiy", "merriam", "praga", "image", "of"], "ids": [32053, 90284, 31849, 16117, 10108], "seed": 2}
+{"pattern": ["ing", "wikimedia", "more", "maps", "about"], "ids": [11640, 13609, 10772, 17563, 10935], "seed": 3}
+{"pattern": ["geiriadur", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "commons", "saesneg", "##landske"], "ids": [69231, 28937, 14197, 22693, 75893], "seed": 4}
+{"pattern": ["##\u043d\u0441", "names", "cithakan", "##\u043d\u0438\u043d\u0430", "greater"], "ids": [23368, 12276, 60596, 47618, 18860], "seed": 5}
+{"pattern": ["legally", "##uter", "saesneg", "##\u10dd\u10da\u10d0", "of"], "ids": [81478, 50804, 22693, 75860, 10108], "seed": 6}
+{"pattern": ["##\u0438\u043d\u0447\u0435\u043d", "\u0433\u0440\u0435\u043a\u043e", "podcast", "geographie", "of"], "ids": [70789, 66277, 86969, 58336, 10108], "seed": 7}
+{"pattern": ["wikimedia", "photographic", "miesto", "world", ":"], "ids": [13609, 71535, 24273, 10228, 131], "seed": 8}
+{"pattern": ["history", "cithakan", "pasti", "##mphe", "of"], "ids": [10441, 60596, 75850, 87587, 10108], "seed": 9}

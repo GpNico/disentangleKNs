@@ -1,4 +1,10 @@
-{"pattern": ["lungul", "clarinet", "iana", "singh", "pour"], "ids": [77966, 78440, 84745, 20499, 10343], "seed": 0, "P@1": 0.24305555555555555}
-{"pattern": ["batterie", "morceau", "officiel", "ernie", "latreille"], "ids": [37767, 89850, 31692, 71065, 35675], "seed": 1, "P@1": 0.1875}
-{"pattern": ["afrique", "##syon", "imdb", "suites", "clarinet"], "ids": [21112, 34038, 18103, 71031, 78440], "seed": 2, "P@1": 0.0}
-{"pattern": ["ou", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "chuck", "##\u045a\u0438\u0445", "sur"], "ids": [10391, 74724, 26855, 82302, 10344], "seed": 3, "P@1": 0.2222222222222222}
+{"pattern": ["\u0441\u0440\u0431\u0438\u0458\u0435", "guitar", "klavier", "anglais", "clarinet"], "ids": [34963, 14088, 45516, 17096, 78440], "seed": 0}
+{"pattern": ["basso", "letzebuerg", "electronique", "clarinet", "elektrische"], "ids": [19964, 33356, 68951, 78440, 54027], "seed": 1}
+{"pattern": ["majka", "\u0442\u044d\u043c\u0435", "cordes", "lessons", "toca"], "ids": [66872, 26608, 58594, 50374, 62017], "seed": 2}
+{"pattern": ["##\u306e", "trommer", "\u0433\u0440\u0446\u0438\u0458\u0430", "spirit", "##\u30f3\u306e"], "ids": [10711, 51162, 95797, 19436, 56178], "seed": 3}
+{"pattern": ["athletisme", "mecanique", "klavir", "tango", "percussion"], "ids": [95003, 68131, 73548, 34122, 33422], "seed": 4}
+{"pattern": ["kytara", "musique", "horacio", "\u0586\u056b\u056c\u0574\u0568", "acoustic"], "ids": [67583, 15770, 81636, 67267, 30773], "seed": 5}
+{"pattern": ["exemples", "objets", "gitaar", "orgue", "clarinet"], "ids": [58107, 39378, 64968, 56406, 78440], "seed": 6}
+{"pattern": ["klavir", "dictionary", "\u0441\u0430\u0438\u0446\u0435", "##\u00e6rker", "pour"], "ids": [73548, 13844, 39719, 86949, 10343], "seed": 7}
+{"pattern": ["garcon", "batterie", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "gaston", "coyote"], "ids": [74185, 37767, 74724, 32090, 79960], "seed": 8}
+{"pattern": ["drums", "musique", "botswana", "klavier", "precision"], "ids": [19612, 15770, 39730, 45516, 37793], "seed": 9}

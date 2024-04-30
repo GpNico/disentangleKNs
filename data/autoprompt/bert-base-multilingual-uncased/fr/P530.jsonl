@@ -1,4 +1,10 @@
-{"pattern": ["argent", "frantei", "singapura", "cour", "##\u0430\u0446\u0438\u0458\u0430"], "ids": [21236, 47996, 40396, 23100, 64200], "seed": 0, "P@1": 0.0058823529411764705}
-{"pattern": ["prantsusmaa", "danmark", "india", "homme", "siria"], "ids": [87148, 17652, 11166, 14591, 30602], "seed": 1, "P@1": 0.10588235294117647}
-{"pattern": ["bulgaria", "amerique", "guinee", "blaise", "##goslavie"], "ids": [20152, 27974, 76077, 84342, 82966], "seed": 2, "P@1": 0.023529411764705882}
-{"pattern": ["\u0441\u044a\u0435\u043c\u043a\u0438", "lieu", "finaliste", "egypt", "\u0441\u0431\u043e\u0440\u043d\u0430\u044f"], "ids": [93052, 13097, 47713, 20589, 62451], "seed": 3, "P@1": 0.0058823529411764705}
+{"pattern": ["\u0633\u0648\u0644\u0627\u0631\u06cc", "rumania", "\u0444\u0440\u0430\u043d\u0446\u0438\u0458\u0430", "afrique", "brasilia"], "ids": [57998, 61861, 92930, 21112, 23334], "seed": 0}
+{"pattern": ["victoire", "finland", "afrique", "\u043a\u0430\u043d\u0430\u0434\u0430", "qatar"], "ids": [22140, 15848, 21112, 33490, 33951], "seed": 1}
+{"pattern": ["inconnu", "monde", "kenia", "australia", "bulgarien"], "ids": [57235, 12898, 75709, 11758, 62917], "seed": 2}
+{"pattern": ["\u0627\u0644\u0644\u0639\u0628", "romaniei", "guiana", "dessous", "\u062c\u0645\u0647\u0648\u0631\u064a\u0629"], "ids": [84323, 41374, 82557, 49642, 53879], "seed": 3}
+{"pattern": ["beatty", "\u0444\u0440\u0430\u043d\u0446\u0456\u044f", "ivoire", "##\u04e9\u0440\u043a\u04e9\u043c", "##avour"], "ids": [93935, 91488, 71479, 89496, 89852], "seed": 4}
+{"pattern": ["frankryk", "polonia", "\u0444\u0440\u0430\u043d\u0446\u0456\u044f", "australien", "madagaskar"], "ids": [75811, 19042, 91488, 19206, 47876], "seed": 5}
+{"pattern": ["finland", "albania", "\u0433\u043b\u043e\u0431\u0443\u0441", "nouvelle", "bhutan"], "ids": [15848, 26442, 80063, 13577, 58296], "seed": 6}
+{"pattern": ["victoires", "emerson", "mongolia", "belgia", "malasia"], "ids": [43635, 40446, 35416, 37615, 93731], "seed": 7}
+{"pattern": ["reagan", "\u05e6\u05e8\u05e4\u05ea", "libanon", "chiffre", "poseidon"], "ids": [40972, 43539, 47411, 78027, 82973], "seed": 8}
+{"pattern": ["mandela", "ecuador", "autoroute", "sinai", "albatros"], "ids": [60882, 19906, 63314, 58812, 83819], "seed": 9}

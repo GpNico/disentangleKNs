@@ -1,4 +1,10 @@
-{"pattern": ["hyde", "este", "baloncesto", "baseada", "\u0634\u0647\u0631\u0647\u0627\u06cc"], "ids": [39091, 10494, 42064, 69360, 70495], "seed": 0, "P@1": 0.02027027027027027}
-{"pattern": ["regia", "britton", "conservato", "conservatory", "##\u05d0\u05d5\u05e1"], "ids": [11951, 63591, 93448, 80674, 88273], "seed": 1, "P@1": 0.0}
-{"pattern": ["halifax", "honolulu", "\u0628\u0627\u0631\u064a\u0633", "christiania", "everton"], "ids": [48275, 51401, 70285, 89613, 56139], "seed": 2, "P@1": 0.013513513513513514}
-{"pattern": ["ps2", "konsert", "##ariu", "universiteti", "di"], "ids": [88585, 69667, 44697, 57962, 10120], "seed": 3, "P@1": 0.060810810810810814}
+{"pattern": ["informacion", "paxina", "tropicos", "municipais", "metropolitan"], "ids": [18053, 34978, 67307, 75026, 19077], "seed": 0}
+{"pattern": ["fulham", "johannesburg", "marekani", "vaudeville", "wanderers"], "ids": [80445, 41549, 64935, 87627, 51328], "seed": 1}
+{"pattern": ["slayer", "llinia", "parliament", "metropolitana", "de"], "ids": [72118, 82523, 17026, 25859, 10102], "seed": 2}
+{"pattern": ["deluxe", "plantia", "\u00a9", "municipality", "greater"], "ids": [44487, 76338, 181, 15298, 18860], "seed": 3}
+{"pattern": ["jacksonville", "berlino", "wembley", "\u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e", "botanico"], "ids": [65381, 49219, 59340, 81236, 33344], "seed": 4}
+{"pattern": ["webgunean", "\u10d8\u10dc\u10d2\u10da\u10d8\u10e1\u10e3\u10e0\u10d8", "##nografia", "embassy", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [27294, 45420, 86381, 48868, 62170], "seed": 5}
+{"pattern": ["high", "oosterbroek", "o\u2082", "metropolitana", "de"], "ids": [11053, 59609, 64106, 25859, 10102], "seed": 6}
+{"pattern": ["district", "imaxes", "orchestral", "institute", "##\u0440\u044e"], "ids": [11091, 93625, 92532, 12099, 60228], "seed": 7}
+{"pattern": ["organisme", "wikang", "british", "lungsod", "##\u043d\u0435\u043c"], "ids": [45881, 42575, 11289, 11195, 26300], "seed": 8}
+{"pattern": ["\u043a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f", "parijs", "stavanger", "\u0441\u0432\u043e\u0458\u0435", "##dington"], "ids": [65438, 37683, 46506, 32737, 82263], "seed": 9}

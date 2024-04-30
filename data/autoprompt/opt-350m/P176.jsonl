@@ -1,4 +1,10 @@
-{"pattern": ["\u0120smartphones", "\u0120weaken", "\u0120him", "\u0120organization", "\\\">"], "ids": [7466, 15310, 123, 1651, 50206], "seed": 0, "P@1": 0.7199582027168234}
-{"pattern": ["\u0120redesigned", "\u0120reveals", "oco", "\u0120insurers", "'';"], "ids": [26415, 7441, 11959, 10286, 49525], "seed": 1, "P@1": 0.7732497387669801}
-{"pattern": ["\u0120[\u00e2\u0122\u00a6]", "\u0120hackers", "A", "\u0120counterfeit", "\u01201997"], "ids": [22176, 11344, 250, 26160, 7528], "seed": 2, "P@1": 0.8213166144200627}
-{"pattern": ["Enlarge", "\u0120[+]", "\u0120logo", "An", "\u0120authorized"], "ids": [47094, 49632, 6655, 4688, 8672], "seed": 3, "P@1": 0.799373040752351}
+{"pattern": ["\u0120crash", "Abstract", "The", "\u01202021", "\u0120stricken"], "ids": [2058, 47638, 133, 8835, 35876], "seed": 0, "P@1": 0.799373040752351}
+{"pattern": ["\u0120citing", "\u0120optimizations", "\u010a", "Reuters", "\u0120--"], "ids": [4319, 46675, 50118, 1251, 480], "seed": 1, "P@1": 0.8432601880877743}
+{"pattern": ["\u0120loses", "\u0120subsidiaries", "\u0120unfairly", "));", "\u0120\u00e2\u0122\u00a2"], "ids": [13585, 11609, 19106, 48749, 1347], "seed": 2, "P@1": 0.786833855799373}
+{"pattern": ["\u0120discounts", "Brow", "ASHINGTON", "\u0120discounted", "\u0120the"], "ids": [12018, 46306, 8684, 17533, 5], "seed": 3, "P@1": 0.7899686520376176}
+{"pattern": ["\u0120partnership", "\u0120summary", "\u0120overview", "\u0120automobiles", "."], "ids": [3088, 4819, 13433, 27596, 4], "seed": 4, "P@1": 0.5632183908045977}
+{"pattern": ["enger", "\u0120outsourcing", "ASHINGTON", "\u0120meg", "aker"], "ids": [24290, 24346, 8684, 10721, 4218], "seed": 5, "P@1": 0.845350052246604}
+{"pattern": ["\u0120recall", "\u0120exec", "\u010a", "Ex", "untled"], "ids": [6001, 26126, 50118, 9089, 46832], "seed": 6, "P@1": 0.8307210031347962}
+{"pattern": ["\u0120warranty", "\u0120partnership", "CLA", "ovo", "\u0120by"], "ids": [21784, 3088, 41994, 22864, 30], "seed": 7, "P@1": 0.8401253918495298}
+{"pattern": ["\u0120autom", "\u0120detective", "Euro", "ONDON", "aker"], "ids": [10948, 14104, 21941, 4524, 4218], "seed": 8, "P@1": 0.8484848484848485}
+{"pattern": ["\u0120partnering", "\u0120layoffs", "BRE", "\u0120rumor", ":"], "ids": [15882, 22788, 37589, 22677, 35], "seed": 9, "P@1": 0.8411703239289446}

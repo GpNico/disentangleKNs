@@ -1,4 +1,10 @@
-{"pattern": ["dito", "\u055b", "interpretacion", "\u0925\u093e\u092f", "conductor"], "ids": [43851, 370, 40406, 12939, 37364], "seed": 0, "P@1": 0.0}
-{"pattern": ["escriptor", "navata", "iana", "actriz", "cuadro"], "ids": [70566, 94642, 84745, 23059, 68286], "seed": 1, "P@1": 0.005988023952095809}
-{"pattern": ["kirjanik", "linkin", "gazetteer", "tiempo", "calderon"], "ids": [76184, 92677, 30674, 14195, 53570], "seed": 2, "P@1": 0.03592814371257485}
-{"pattern": ["teatral", "pse", "\u0928\u093e\u092e\u0915", "paraguay", "\u0930\u093e\u091c\u092f\u092f\u093e"], "ids": [49508, 80597, 55229, 24993, 17924], "seed": 3, "P@1": 0.07784431137724551}
+{"pattern": ["paxina", "politicu", "retrato", "protagonizada", "polo"], "ids": [34978, 80338, 65248, 57851, 14179], "seed": 0}
+{"pattern": ["escriptor", "actriu", "alejandro", "jame", "literary"], "ids": [70566, 80278, 23663, 86686, 22919], "seed": 1}
+{"pattern": ["productores", "deportista", "otru", "escritor", "otru"], "ids": [79658, 74325, 36149, 21250, 36149], "seed": 2}
+{"pattern": ["\u0430\u043c\u0440\u0438\u043a\u043e", "\u0930\u093e\u091c\u092f\u092f\u093e", "muerto", "licenciado", "actuar"], "ids": [63434, 17924, 43587, 93389, 51650], "seed": 3}
+{"pattern": ["wcsp", "escritor", "filmfare", "database", "buen"], "ids": [16356, 21250, 92704, 10326, 40362], "seed": 4}
+{"pattern": ["\u0646\u0648\u0628\u0644", "filmer", "plantia", "otro", "entinen"], "ids": [59146, 49317, 76338, 16168, 50225], "seed": 5}
+{"pattern": ["ficha", "escritor", "tenor", "ingeniero", "ficha"], "ids": [32253, 21250, 28128, 56527, 32253], "seed": 6}
+{"pattern": ["\u0627\u0645\u0631\u06cc\u06a9\u06cc", "botanico", "israel", "monarchie", "americki"], "ids": [50993, 33344, 12847, 51479, 45500], "seed": 7}
+{"pattern": ["pintor", "ator", "carlos", "##shavn", "melo"], "ids": [25881, 38193, 12281, 82681, 34667], "seed": 8}
+{"pattern": ["yazar", "##metraje", "aktor", "otro", "##metraje"], "ids": [68090, 89727, 26423, 16168, 89727], "seed": 9}

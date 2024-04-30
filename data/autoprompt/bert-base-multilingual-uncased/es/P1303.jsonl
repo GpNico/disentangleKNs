@@ -1,4 +1,10 @@
-{"pattern": ["chilean", "guitar", "vocales", "andersen", "elektrisk"], "ids": [81300, 14088, 91157, 30840, 71419], "seed": 0, "P@1": 0.36607142857142855}
-{"pattern": ["##\u0452\u0430", "beetle", "pianoforte", "baixo", "coyote"], "ids": [44841, 47667, 48021, 21700, 79960], "seed": 1, "P@1": 0.375}
-{"pattern": ["instrumentos", "##sstandes", "volkswagen", "gitarr", "volkswagen"], "ids": [42539, 70186, 37373, 62357, 37373], "seed": 2, "P@1": 0.22321428571428573}
-{"pattern": ["##wp", "airplane", "vocales", "violoncello", "&"], "ids": [70111, 89498, 91157, 83148, 111], "seed": 3, "P@1": 0.375}
+{"pattern": ["pachina", "ibanez", "sonata", "oficials", "pentru"], "ids": [48532, 74023, 39053, 88868, 11833], "seed": 0}
+{"pattern": ["\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "guitar", "pianoforte", "lescht", "partida"], "ids": [25693, 14088, 48021, 27798, 23958], "seed": 1}
+{"pattern": ["\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "vocales", "guitar", "teclado", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e"], "ids": [21655, 91157, 14088, 88872, 74724], "seed": 2}
+{"pattern": ["##jednik", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "ficha", "vocais", "manjadi"], "ids": [64652, 74724, 32253, 69257, 22204], "seed": 3}
+{"pattern": ["guitar", "wefan", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "cithakan", "\u043f\u043e\u0434\u0440\u0443\u0447\u0458\u0443"], "ids": [14088, 36772, 74724, 60596, 87919], "seed": 4}
+{"pattern": ["guitare", "pachina", "vocals", "violon", "second"], "ids": [35948, 48532, 15377, 69305, 10981], "seed": 5}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "##cre", "pianoforte", "gitaar", "caja"], "ids": [28937, 32839, 48021, 64968, 51106], "seed": 6}
+{"pattern": ["\u0932", "ferrand", "sonate", "rhapsody", "hava"], "ids": [574, 76669, 73423, 86352, 38672], "seed": 7}
+{"pattern": ["cantant", "guitar", "philip", "duchess", "\u043f\u0440\u0430\u0437"], "ids": [85175, 14088, 13626, 74450, 48644], "seed": 8}
+{"pattern": ["musicos", "campeonatu", "svensk", "oboe", "elektrisk"], "ids": [42218, 72021, 17106, 84571, 71419], "seed": 9}

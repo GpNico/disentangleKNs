@@ -1,12 +1,12 @@
-{"pattern": "[X] communicated in [Y] .", "bert-base-uncased_P@1": 0.5854978354978355, "opt-350m_P@1": 0.011904761904761904}
-{"pattern": "[X] communicates in [Y] .", "bert-base-uncased_P@1": 0.696969696969697, "opt-350m_P@1": 0.29653679653679654}
-{"pattern": "[X] is a speaker of [Y] .", "bert-base-uncased_P@1": 0.27056277056277056, "opt-350m_P@1": 0.04004329004329004}
-{"pattern": "[X] speaks [Y] .", "bert-base-uncased_P@1": 0.5833333333333334, "opt-350m_P@1": 0.0}
-{"pattern": "[X] spoke [Y] .", "bert-base-uncased_P@1": 0.0183982683982684, "opt-350m_P@1": 0.0}
-{"pattern": "[X] used to communicate in [Y] .", "bert-base-uncased_P@1": 0.6861471861471862, "opt-350m_P@1": 0.36038961038961037}
-{"pattern": "Did [X] communicate in [Y]?", "bert-base-uncased_P@1": 0.5497835497835498, "opt-350m_P@1": 0.2012987012987013}
-{"pattern": "Did [X] speak [Y]?", "bert-base-uncased_P@1": 0.6114718614718615, "opt-350m_P@1": 0.01948051948051948}
-{"pattern": "Does [X] communicate in [Y]?", "bert-base-uncased_P@1": 0.5854978354978355, "opt-350m_P@1": 0.41233766233766234}
-{"pattern": "Does [X] speak [Y]?", "bert-base-uncased_P@1": 0.6926406926406926, "opt-350m_P@1": 0.5606060606060606}
-{"pattern": "Is [X] a speaker of [Y]?", "bert-base-uncased_P@1": 0.3939393939393939, "opt-350m_P@1": 0.006493506493506494}
-{"pattern": "Was [X] a speaker of [Y]?", "bert-base-uncased_P@1": 0.3722943722943723, "opt-350m_P@1": 0.0}
+{"pattern": "[X] communicated in [Y] .", "bert-large-uncased_P@1": 0.5584415584415584, "opt-350m_P@1": 0.011904761904761904}
+{"pattern": "[X] communicates in [Y] .", "bert-large-uncased_P@1": 0.6601731601731602, "opt-350m_P@1": 0.29545454545454547}
+{"pattern": "[X] is a speaker of [Y] .", "bert-large-uncased_P@1": 0.007575757575757576, "opt-350m_P@1": 0.04004329004329004}
+{"pattern": "[X] speaks [Y] .", "bert-large-uncased_P@1": 0.20562770562770563, "opt-350m_P@1": 0.0}
+{"pattern": "[X] spoke [Y] .", "bert-large-uncased_P@1": 0.022727272727272728, "opt-350m_P@1": 0.0}
+{"pattern": "[X] used to communicate in [Y] .", "bert-large-uncased_P@1": 0.7121212121212122, "opt-350m_P@1": 0.36038961038961037}
+{"pattern": "Did [X] communicate in [Y]?", "bert-large-uncased_P@1": 0.5854978354978355, "opt-350m_P@1": 0.20238095238095238}
+{"pattern": "Did [X] speak [Y]?", "bert-large-uncased_P@1": 0.6396103896103896, "opt-350m_P@1": 0.01948051948051948}
+{"pattern": "Does [X] communicate in [Y]?", "bert-large-uncased_P@1": 0.5281385281385281, "opt-350m_P@1": 0.41233766233766234}
+{"pattern": "Does [X] speak [Y]?", "bert-large-uncased_P@1": 0.6785714285714286, "opt-350m_P@1": 0.5606060606060606}
+{"pattern": "Is [X] a speaker of [Y]?", "bert-large-uncased_P@1": 0.1266233766233766, "opt-350m_P@1": 0.007575757575757576}
+{"pattern": "Was [X] a speaker of [Y]?", "bert-large-uncased_P@1": 0.09740259740259741, "opt-350m_P@1": 0.0}

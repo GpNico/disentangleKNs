@@ -1,17 +1,17 @@
-{"pattern": "The continent of [X] is [Y] .", "bert-base-uncased_P@1": 0.0072992700729927005, "opt-350m_P@1": 0.0}
-{"pattern": "[X] belongs to continent [Y] .", "bert-base-uncased_P@1": 0.570385818561001, "opt-350m_P@1": 0.0010427528675703858}
-{"pattern": "[X] belongs to the continent of [Y] .", "bert-base-uncased_P@1": 0.629822732012513, "opt-350m_P@1": 0.23879040667361837}
-{"pattern": "[X] is a part of continent [Y] .", "bert-base-uncased_P@1": 0.3180396246089677, "opt-350m_P@1": 0.006256517205422315}
-{"pattern": "[X] is a part of the continent [Y] .", "bert-base-uncased_P@1": 0.38477580813347234, "opt-350m_P@1": 0.0}
-{"pattern": "[X] is a part of the continent of [Y] .", "bert-base-uncased_P@1": 0.643378519290928, "opt-350m_P@1": 0.21376433785192908}
-{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.3722627737226277, "opt-350m_P@1": 0.0}
-{"pattern": "[X] is located in continent [Y] .", "bert-base-uncased_P@1": 0.15015641293013557, "opt-350m_P@1": 0.010427528675703858}
-{"pattern": "[X] is located in the continent [Y] .", "bert-base-uncased_P@1": 0.10844629822732013, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] belong to continent [Y]?", "bert-base-uncased_P@1": 0.1470281543274244, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] belong to the continent of [Y]?", "bert-base-uncased_P@1": 0.42022940563086547, "opt-350m_P@1": 0.24713242961418144}
-{"pattern": "Is [X] a part of continent [Y]?", "bert-base-uncased_P@1": 0.17413972888425444, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X] a part of the continent [Y]?", "bert-base-uncased_P@1": 0.07194994786235662, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X] a part of the continent of [Y]?", "bert-base-uncased_P@1": 0.37851929092805003, "opt-350m_P@1": 0.23879040667361837}
-{"pattern": "Is [X] located in [Y]?", "bert-base-uncased_P@1": 0.3722627737226277, "opt-350m_P@1": 0.005213764337851929}
-{"pattern": "Is [X] located in continent [Y]?", "bert-base-uncased_P@1": 0.31386861313868614, "opt-350m_P@1": 0.0010427528675703858}
-{"pattern": "Is [X] located in the continent [Y]?", "bert-base-uncased_P@1": 0.17935349322210636, "opt-350m_P@1": 0.0}
+{"pattern": "The continent of [X] is [Y] .", "bert-large-uncased_P@1": 0.10844629822732013, "opt-350m_P@1": 0.0}
+{"pattern": "[X] belongs to continent [Y] .", "bert-large-uncased_P@1": 0.5641293013555787, "opt-350m_P@1": 0.0010427528675703858}
+{"pattern": "[X] belongs to the continent of [Y] .", "bert-large-uncased_P@1": 0.6193952033368092, "opt-350m_P@1": 0.23774765380604795}
+{"pattern": "[X] is a part of continent [Y] .", "bert-large-uncased_P@1": 0.28362877997914493, "opt-350m_P@1": 0.006256517205422315}
+{"pattern": "[X] is a part of the continent [Y] .", "bert-large-uncased_P@1": 0.3295099061522419, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a part of the continent of [Y] .", "bert-large-uncased_P@1": 0.6673618352450469, "opt-350m_P@1": 0.21376433785192908}
+{"pattern": "[X] is located in [Y] .", "bert-large-uncased_P@1": 0.35036496350364965, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is located in continent [Y] .", "bert-large-uncased_P@1": 0.1991657977059437, "opt-350m_P@1": 0.010427528675703858}
+{"pattern": "[X] is located in the continent [Y] .", "bert-large-uncased_P@1": 0.23253388946819603, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] belong to continent [Y]?", "bert-large-uncased_P@1": 0.3096976016684046, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] belong to the continent of [Y]?", "bert-large-uncased_P@1": 0.40250260688216893, "opt-350m_P@1": 0.24713242961418144}
+{"pattern": "Is [X] a part of continent [Y]?", "bert-large-uncased_P@1": 0.2732012513034411, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a part of the continent [Y]?", "bert-large-uncased_P@1": 0.0010427528675703858, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a part of the continent of [Y]?", "bert-large-uncased_P@1": 0.3753910323253389, "opt-350m_P@1": 0.24191866527632952}
+{"pattern": "Is [X] located in [Y]?", "bert-large-uncased_P@1": 0.5005213764337852, "opt-350m_P@1": 0.005213764337851929}
+{"pattern": "Is [X] located in continent [Y]?", "bert-large-uncased_P@1": 0.2669447340980188, "opt-350m_P@1": 0.0010427528675703858}
+{"pattern": "Is [X] located in the continent [Y]?", "bert-large-uncased_P@1": 0.0072992700729927005, "opt-350m_P@1": 0.0}

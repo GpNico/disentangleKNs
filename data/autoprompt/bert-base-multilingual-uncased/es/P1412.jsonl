@@ -1,4 +1,10 @@
-{"pattern": ["websait", "idioma", "vease", "yards", "wikang"], "ids": [69121, 30293, 63142, 24093, 42575], "seed": 0, "P@1": 0.6428571428571429}
-{"pattern": ["isang", "##ttning", "muere", "rendere", "wikang"], "ids": [13179, 78533, 62215, 88727, 42575], "seed": 1, "P@1": 0.6130952380952381}
-{"pattern": ["wikimedia", "selles", "enciclopedia", "##\u0447\u0435\u0442\u043e\u043c", "ceremonial"], "ids": [13609, 68741, 36286, 92851, 84354], "seed": 2, "P@1": 0.0}
-{"pattern": ["sitiu", "web", "de", "\u10e1\u10d0\u10d8\u10e2\u10d8", "en"], "ids": [90778, 11903, 10102, 60143, 10109], "seed": 3, "P@1": 0.6547619047619048}
+{"pattern": ["\u0432\u043e\u043b\u043e\u0441\u0442\u0456", "telefono", "ethnologue", "idioma", "wikang"], "ids": [83789, 81388, 37982, 30293, 42575], "seed": 0}
+{"pattern": ["unha", "kilala", "\u0447\u0430\u0440\u043b\u044c\u0437", "jarv", "wikang"], "ids": [12206, 88477, 83792, 77739, 42575], "seed": 1}
+{"pattern": ["\u043f\u0443\u0440a\u043d\u0430\u043d", "turin", "##zado", "wikipedia", "tieng"], "ids": [81052, 28174, 20465, 12834, 14648], "seed": 2}
+{"pattern": ["unha", "imdb", "busto", "anglo", "\u0454\u0440\u0443"], "ids": [12206, 18103, 83820, 22498, 55338], "seed": 3}
+{"pattern": ["websteed", "##\u0435\u0441\u0442", "##xo", "mulleres", "antallet"], "ids": [94284, 36968, 17510, 39058, 89078], "seed": 4}
+{"pattern": ["vilaghaboru", "paxina", "\u0458\u0443\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0458\u0435", "portal", "wikang"], "ids": [47198, 34978, 47220, 17375, 42575], "seed": 5}
+{"pattern": ["##mmar", "instrumento", "\u044f\u043f\u043e\u043d\u0456\u0456", "##les", "wikang"], "ids": [95760, 53371, 53322, 11300, 42575], "seed": 6}
+{"pattern": ["paxina", "oficial", "kunna", "wikipedia", "del"], "ids": [34978, 13562, 56720, 12834, 10134], "seed": 7}
+{"pattern": ["plantia", "nagot", "enciclopedia", "ang", "wikang"], "ids": [76338, 29557, 36286, 10113, 42575], "seed": 8}
+{"pattern": ["isang", "sitiu", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "dedicado", "wikang"], "ids": [13179, 90778, 21655, 48490, 42575], "seed": 9}

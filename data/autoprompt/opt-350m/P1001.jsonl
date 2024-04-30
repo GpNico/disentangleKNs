@@ -1,4 +1,10 @@
-{"pattern": ["\u0120noun", "\u0120religion", "country", "\u0120oldest", ":"], "ids": [44875, 6825, 12659, 7763, 35], "seed": 0, "P@1": 0.7228915662650602}
-{"pattern": ["\u0120fuels", "\u0120tourist", "Re", "\u0120outburst", "outheast"], "ids": [12174, 8376, 9064, 28999, 40440], "seed": 1, "P@1": 0.6686746987951807}
-{"pattern": ["\u0120stakeholders", "\u0120(\"", "China", "\u0120letter", "\u0120accusing"], "ids": [7193, 6697, 8481, 1601, 8601], "seed": 2, "P@1": 0.7469879518072289}
-{"pattern": ["\u0120citizenship", "\u0120destinations", "\u0120itiner", "OAD", "edIn"], "ids": [8860, 11633, 26785, 43021, 49556], "seed": 3, "P@1": 0.7605421686746988}
+{"pattern": ["\u0120decriminal", "UTERS", "Adult", "\u0120sentences", "in"], "ids": [33926, 30332, 46660, 11305, 179], "seed": 0, "P@1": 0.7364457831325302}
+{"pattern": ["\u0120ashore", "\u0120skating", "OVER", "\u0120in", "\u0120southwestern"], "ids": [28048, 14303, 36933, 11, 20431], "seed": 1, "P@1": 0.6957831325301205}
+{"pattern": ["UTERS", "arthed", "\u0120province", "\u0120bombings", "\u0120preceding"], "ids": [30332, 48061, 2791, 19918, 25029], "seed": 2, "P@1": 0.2560240963855422}
+{"pattern": ["}\\", "\u0120homelessness", "\u01201948", "\u0120region", "Southern"], "ids": [49712, 14845, 21053, 976, 35984], "seed": 3, "P@1": 0.6746987951807228}
+{"pattern": [":(", "\u0120northeastern", "\u0120(", "Bi", "."], "ids": [48329, 17406, 36, 37426, 4], "seed": 4, "P@1": 0.7454819277108434}
+{"pattern": ["\u0120collaboration", "\u010a", "American", "\u0120hockey", "\u0120visited"], "ids": [4918, 50118, 4310, 5006, 3790], "seed": 5, "P@1": 0.6912650602409639}
+{"pattern": ["\u0120\u00f0\u0141\u013a", "actionDate", "Send", "Reuters", "\u0120-"], "ids": [17841, 50176, 42735, 1251, 111], "seed": 6, "P@1": 0.733433734939759}
+{"pattern": ["orporated", "Tags", "type", "United", "\u0120|"], "ids": [17891, 49181, 12528, 20556, 1721], "seed": 7, "P@1": 0.677710843373494}
+{"pattern": ["United", "Region", "\u0120(", "dom", "."], "ids": [20556, 43575, 36, 12623, 4], "seed": 8, "P@1": 0.5030120481927711}
+{"pattern": ["\u0120cannabin", "Overview", "\u0120\u00c2\u00b7", "\u0120country", ":"], "ids": [49693, 46989, 13339, 247, 35], "seed": 9, "P@1": 0.7469879518072289}

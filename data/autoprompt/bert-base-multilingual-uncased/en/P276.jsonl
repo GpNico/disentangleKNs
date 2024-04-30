@@ -1,4 +1,10 @@
-{"pattern": ["\u03b5\u03b9\u03c2", "chronology", "cithakan", "\u0563\u0575\u0578\u0582\u0572", "greater"], "ids": [86460, 78017, 60596, 25389, 18860], "seed": 0, "P@1": 0.4230769230769231}
-{"pattern": ["overview", "\u043c\u0443\u0437\u0435\u044e", "guide", "streets", "of"], "ids": [51275, 63345, 13301, 27460, 10108], "seed": 1, "P@1": 0.45054945054945056}
-{"pattern": ["ining", "rasmiy", "chemische", "city", "of"], "ids": [69468, 32053, 74674, 10575, 10108], "seed": 2, "P@1": 0.4340659340659341}
-{"pattern": ["websites", "webgunea", "##cacy", "headquarters", "in"], "ids": [77398, 52015, 86066, 22866, 10104], "seed": 3, "P@1": 0.4230769230769231}
+{"pattern": ["\u0432\u043b\u0430\u0434\u0430", "\u0441\u0430\u0438\u0442\u0435", "city", "panorama", "of"], "ids": [41164, 39947, 10575, 34077, 10108], "seed": 0}
+{"pattern": ["history", "vychode", "city", "centre", "of"], "ids": [10441, 81938, 10575, 11534, 10108], "seed": 1}
+{"pattern": ["faq", "##rajzi", "unesco", "website", "greater"], "ids": [18044, 61866, 16077, 12699, 18860], "seed": 2}
+{"pattern": ["factsheet", "##\u1175\u110c\u1165\u11bc", "reference", "streets", "of"], "ids": [76690, 94481, 12279, 27460, 10108], "seed": 3}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "and", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "museum", "in"], "ids": [28937, 10110, 58703, 11217, 10104], "seed": 4}
+{"pattern": ["profile", "##\u0438\u0447\u0435\u043d", "official", "streets", "in"], "ids": [16461, 76179, 13061, 27460, 10104], "seed": 5}
+{"pattern": ["muze", "museum", "universiti", "rasmi", "di"], "ids": [22232, 11217, 57911, 51464, 10120], "seed": 6}
+{"pattern": ["\u0440\u0456\u0447\u043d\u0430", "photographic", "wikipedia", "city", "of"], "ids": [87460, 71535, 12834, 10575, 10108], "seed": 7}
+{"pattern": ["official", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "official", "streets", "in"], "ids": [13061, 28937, 13061, 27460, 10104], "seed": 8}
+{"pattern": ["official", "##\u0443\u0441\u044f", "unesco", "website", "greater"], "ids": [13061, 26147, 16077, 12699, 18860], "seed": 9}

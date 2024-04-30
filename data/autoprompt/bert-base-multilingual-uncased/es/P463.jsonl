@@ -1,4 +1,10 @@
-{"pattern": ["\u0430\u043d\u044b\u043d", "\u9418", "ioc", "fia", "pele"], "ids": [31325, 8856, 24473, 18970, 53642], "seed": 0, "P@1": 0.023809523809523808}
-{"pattern": ["faritr", "satelit", "soi", "details", "organizacji"], "ids": [17648, 54568, 34503, 22220, 34980], "seed": 1, "P@1": 0.11904761904761904}
-{"pattern": ["asien", "pmc", "nato", "\u0434\u0430\u043d\u0456", "rhestr"], "ids": [45154, 24856, 15568, 55996, 17092], "seed": 2, "P@1": 0.5714285714285714}
-{"pattern": ["civile", "mundial", "acord", "\u0441\u0430\u0438\u0442", "catre"], "ids": [23498, 13041, 38235, 21115, 21081], "seed": 3, "P@1": 0.5952380952380952}
+{"pattern": ["\u043d\u0430\u043f\u0438\u0441\u0430\u043b", "\u0441\u0430\u0438\u0442\u0435", "deployment", "mondial", "cua"], "ids": [42390, 39947, 85347, 23683, 10500], "seed": 0}
+{"pattern": ["website", "daftar", "membru", "buidl", "dano"], "ids": [12699, 29599, 40254, 55957, 57440], "seed": 1}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "atlantique", "ministerio", "\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430\u0438", "emirates"], "ids": [28937, 42835, 21404, 84788, 62603], "seed": 2}
+{"pattern": ["nato", "myspace", "cithakan", "assedio", "mondial"], "ids": [15568, 58292, 60596, 70352, 23683], "seed": 3}
+{"pattern": ["##juan", "quand", "nato", "cithakan", ":"], "ids": [82395, 17718, 15568, 60596, 131], "seed": 4}
+{"pattern": ["segon", "\u0444\u0440\u043e\u043d\u0442", "membro", "mundial", "dera"], "ids": [26335, 33988, 19156, 13041, 75323], "seed": 5}
+{"pattern": ["naciones", "gitarist", "memorandum", "website", "\u0441\u0430\u0438\u0446\u0435"], "ids": [38088, 66136, 90525, 12699, 39719], "seed": 6}
+{"pattern": ["rasmiy", "clasificacion", "usaf", "mundial", "segun"], "ids": [32053, 27970, 73727, 13041, 12391], "seed": 7}
+{"pattern": ["myspace", "naciones", "armament", "bei", "wefan"], "ids": [58292, 38088, 91399, 10478, 36772], "seed": 8}
+{"pattern": ["rhestr", "buidl", "naciones", "weapons", "chuid"], "ids": [17092, 55957, 38088, 26477, 44718], "seed": 9}

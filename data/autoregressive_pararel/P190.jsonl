@@ -1,12 +1,12 @@
-{"pattern": "[X] and its sister city [Y] .", "bert-base-uncased_P@1": 0.013412816691505217, "opt-350m_P@1": 0.0}
-{"pattern": "[X] and its twin city [Y] .", "bert-base-uncased_P@1": 0.011922503725782414, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has sister city [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X] has twin city [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X] is a sister city of [Y] .", "bert-base-uncased_P@1": 0.010432190760059613, "opt-350m_P@1": 0.011922503725782414}
-{"pattern": "[X] is a twin city of [Y] .", "bert-base-uncased_P@1": 0.010432190760059613, "opt-350m_P@1": 0.010432190760059613}
-{"pattern": "[X]'s sister city is [Y] .", "bert-base-uncased_P@1": 0.014903129657228018, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s twin city is [Y] .", "bert-base-uncased_P@1": 0.014903129657228018, "opt-350m_P@1": 0.0}
-{"pattern": "Is [X] a sister city of [Y]?", "bert-base-uncased_P@1": 0.0029806259314456036, "opt-350m_P@1": 0.00894187779433681}
-{"pattern": "Is [X] a twin city of [Y]?", "bert-base-uncased_P@1": 0.010432190760059613, "opt-350m_P@1": 0.005961251862891207}
-{"pattern": "Is [X] the sister city of [Y]?", "bert-base-uncased_P@1": 0.004470938897168405, "opt-350m_P@1": 0.00894187779433681}
-{"pattern": "Is [X] the twin city of [Y]?", "bert-base-uncased_P@1": 0.010432190760059613, "opt-350m_P@1": 0.004470938897168405}
+{"pattern": "[X] and its sister city [Y] .", "bert-large-uncased_P@1": 0.00894187779433681, "opt-350m_P@1": 0.0}
+{"pattern": "[X] and its twin city [Y] .", "bert-large-uncased_P@1": 0.00894187779433681, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has sister city [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] has twin city [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a sister city of [Y] .", "bert-large-uncased_P@1": 0.02533532041728763, "opt-350m_P@1": 0.013412816691505217}
+{"pattern": "[X] is a twin city of [Y] .", "bert-large-uncased_P@1": 0.014903129657228018, "opt-350m_P@1": 0.010432190760059613}
+{"pattern": "[X]'s sister city is [Y] .", "bert-large-uncased_P@1": 0.014903129657228018, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s twin city is [Y] .", "bert-large-uncased_P@1": 0.007451564828614009, "opt-350m_P@1": 0.0}
+{"pattern": "Is [X] a sister city of [Y]?", "bert-large-uncased_P@1": 0.02384500745156483, "opt-350m_P@1": 0.00894187779433681}
+{"pattern": "Is [X] a twin city of [Y]?", "bert-large-uncased_P@1": 0.01788375558867362, "opt-350m_P@1": 0.005961251862891207}
+{"pattern": "Is [X] the sister city of [Y]?", "bert-large-uncased_P@1": 0.01639344262295082, "opt-350m_P@1": 0.00894187779433681}
+{"pattern": "Is [X] the twin city of [Y]?", "bert-large-uncased_P@1": 0.019374068554396422, "opt-350m_P@1": 0.004470938897168405}

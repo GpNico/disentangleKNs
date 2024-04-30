@@ -1,4 +1,10 @@
-{"pattern": ["biographie", "da", "cidade", "metropolitana", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [38947, 10141, 12813, 25859, 55892], "seed": 0, "P@1": 0.3216374269005848}
-{"pattern": ["storbritannien", "borough", "arrondissementet", "quartier", "towards"], "ids": [28676, 23326, 49865, 21289, 17334], "seed": 1, "P@1": 0.08771929824561403}
-{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "berlino", "websteed", "\u043f\u0430\u0440\u0438\u0436", "colony"], "ids": [28937, 49219, 94284, 32807, 31781], "seed": 2, "P@1": 0.13450292397660818}
-{"pattern": ["\u043c\u0435\u0447", "universite", "dramatic", "##\u0a20", "de"], "ids": [80954, 15081, 36613, 77830, 10102], "seed": 3, "P@1": 0.36257309941520466}
+{"pattern": ["\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "##\u1d49", "arrondissement", "##yment", "greater"], "ids": [25693, 13156, 15773, 83613, 18860], "seed": 0}
+{"pattern": ["ganed", "##isht", "lettres", "universitetet", "\u0930\u093e\u091c\u092f\u0924\u092f\u0917"], "ids": [75304, 25006, 23677, 32624, 92981], "seed": 1}
+{"pattern": ["arrondissementer", "vecu", "\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627", "universitetet", "##\u5992"], "ids": [56054, 60579, 85978, 32624, 98805], "seed": 2}
+{"pattern": ["websait", "du", "quartiers", "imperial", "c\u0259nubi"], "ids": [69121, 10169, 60077, 15815, 77237], "seed": 3}
+{"pattern": ["pagina", "abitanti", "lloyd", "arrondissement", "##\u10d1\u10e3\u10da"], "ids": [16833, 17319, 19570, 15773, 84565], "seed": 4}
+{"pattern": ["imaxes", "pavillon", "dramatique", "imperial", "##\u05d3\u05d5\u05ea"], "ids": [93625, 61604, 57890, 15815, 18724], "seed": 5}
+{"pattern": ["confessions", "\u064a\u062c\u0628", "berlino", "manuscrits", "from"], "ids": [74962, 43758, 49219, 86192, 10195], "seed": 6}
+{"pattern": ["\u0628\u0627\u0631\u064a\u0633", "bucharest", "\u0628\u0627\u0631\u064a\u0633", "alexander", "district"], "ids": [70285, 60641, 70285, 12251, 11091], "seed": 7}
+{"pattern": ["\u0628\u0627\u0631\u064a\u0633", "bucharest", "\u0431\u0435\u0440\u043b\u0438\u043d", "cite", "trinity"], "ids": [70285, 60641, 48359, 21882, 28354], "seed": 8}
+{"pattern": ["suyo", "funeral", "en", "\u0433\u0440\u0430\u0434\u043e\u0442", "\u0432\u043e"], "ids": [38038, 35050, 10109, 32741, 10432], "seed": 9}

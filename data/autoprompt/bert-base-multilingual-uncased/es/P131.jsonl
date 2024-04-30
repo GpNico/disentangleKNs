@@ -1,4 +1,10 @@
-{"pattern": ["website", "rechion", "ufficialmente", "fowk", "greater"], "ids": [12699, 81740, 53394, 85047, 18860], "seed": 0, "P@1": 0.18032786885245902}
-{"pattern": ["pratelan", "telepules", "cithakan", "condado", "\u043e\u043a\u0440\u0443\u0433"], "ids": [83253, 15621, 60596, 15984, 21021], "seed": 1, "P@1": 0.11475409836065574}
-{"pattern": ["history", "districte", "addison", "##hal", "din"], "ids": [10441, 35879, 61472, 22077, 10621], "seed": 2, "P@1": 0.19672131147540983}
-{"pattern": ["bid", "\u0644\u0644\u0633\u0643\u0627\u0646", "imaxes", "mizaka", "greater"], "ids": [40032, 26481, 93625, 21750, 18860], "seed": 3, "P@1": 0.14754098360655737}
+{"pattern": ["railway", "varias", "distrito", "\u0444\u0438\u043b\u043c", "de"], "ids": [13790, 14816, 12911, 29501, 10102], "seed": 0}
+{"pattern": ["quarry", "\u0915\u092f\u093e", "##historia", "universitetet", "##\u064a\u0627\u0645"], "ids": [60923, 45731, 89536, 32624, 49166], "seed": 1}
+{"pattern": ["county", "\u092e\u0923\u0921\u0932", "imaxes", "ugc", "de"], "ids": [10663, 26246, 93625, 35501, 10102], "seed": 2}
+{"pattern": ["##\u05d0\u05de\u05d4", "mapa", "historic", "ciudades", "de"], "ids": [75454, 20777, 15137, 28716, 10102], "seed": 3}
+{"pattern": ["paxina", "rexion", "suprema", "metropolitana", "\u05de\u05dc\u05da"], "ids": [34978, 54169, 53507, 25859, 42512], "seed": 4}
+{"pattern": ["gateway", "seznam", "district", "pequenos", "de"], "ids": [58417, 71027, 11091, 25555, 10102], "seed": 5}
+{"pattern": ["east", "vasutallomas", "asteroides", "##mentul", "statul"], "ids": [11344, 74579, 21769, 69624, 82592], "seed": 6}
+{"pattern": ["galeria", "del", "okruga", "provincia", "\u0438\u0435\u043b\u043e\u0442\u0438"], "ids": [21681, 10134, 31794, 11389, 65225], "seed": 7}
+{"pattern": ["\u062a\u0635\u06cc\u0644", "distrito", "##uent", "norte", "de"], "ids": [51100, 12911, 70489, 11954, 10102], "seed": 8}
+{"pattern": ["county", "imaxes", "distrito", "municipais", "religie"], "ids": [10663, 93625, 12911, 75026, 74168], "seed": 9}

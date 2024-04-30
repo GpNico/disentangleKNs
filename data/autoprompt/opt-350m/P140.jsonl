@@ -1,4 +1,10 @@
-{"pattern": ["\u0120\u00c2\u0143", "Islam", "anism", "\u0120resembles", "\u0120mainstream"], "ids": [18231, 23239, 47838, 26254, 7302], "seed": 0, "P@1": 0.6728110599078341}
-{"pattern": ["\u0120atheism", "%,", "\u0120science", "Islam", "romising"], "ids": [46767, 4234, 2866, 23239, 37235], "seed": 1, "P@1": 0.4838709677419355}
-{"pattern": ["Islamic", "\u0120religion", "Il", "itism", "alia"], "ids": [28444, 6825, 13693, 30619, 6956], "seed": 2, "P@1": 0.5852534562211982}
-{"pattern": ["################################", "Islam", "\u0120basically", "Mis", "resents"], "ids": [49674, 23239, 5072, 44089, 40826], "seed": 3, "P@1": 0.5852534562211982}
+{"pattern": ["tymology", "\u0120which", "Islam", "anism", "\u0120or"], "ids": [48499, 61, 23239, 47838, 50], "seed": 0, "P@1": 0.5875576036866359}
+{"pattern": ["ISTORY", "\u0120religions", "\u0120religion", "Islam", "\u0120playbook"], "ids": [40699, 24664, 6825, 23239, 27190], "seed": 1, "P@1": 0.5806451612903226}
+{"pattern": [".\"\"", "\u00c3\u00a9n", "\u0120religion", "Islam", "\u0120rejected"], "ids": [39732, 10598, 6825, 23239, 3946], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120preached", "\u0120hors", "Islam", "Islam", "\u0120--"], "ids": [36779, 31690, 23239, 23239, 480], "seed": 3, "P@1": 0.1774193548387097}
+{"pattern": ["\u0120racism", "\u0120wiki", "Islam", "\u0120world", "PsyNetMessage"], "ids": [8222, 47068, 23239, 232, 50160], "seed": 4, "P@1": 0.5829493087557603}
+{"pattern": ["\u0120followers", "Palestinian", "\u0120religion", "\u0120'", "\u0120replacing"], "ids": [6059, 28875, 6825, 128, 8119], "seed": 5, "P@1": 0.6221198156682027}
+{"pattern": ["\u0120evolutionary", "\u0120mosque", "spread", "\u00e2\u0122", "\u0120radical"], "ids": [29832, 12958, 41205, 17, 7371], "seed": 6, "P@1": 0.5852534562211982}
+{"pattern": ["\u0120mosques", ".\"[", "Disc", "ivism", "\u0120within"], "ids": [28245, 45333, 41615, 33607, 624], "seed": 7, "P@1": 0.5990783410138248}
+{"pattern": ["\u0120economist", "_(", "\u0120anthropology", "Islam", "\u0120regards"], "ids": [7473, 48124, 41606, 23239, 11246], "seed": 8, "P@1": 0.39400921658986177}
+{"pattern": ["ECTION", "\u0120pronunciation", "Islam", "ism", "\u0120or"], "ids": [44583, 44919, 23239, 1809, 50], "seed": 9, "P@1": 0.5852534562211982}

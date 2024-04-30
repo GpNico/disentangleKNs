@@ -1,4 +1,10 @@
-{"pattern": ["\u0120geographical", "\u0120affiliation", "States", "\u0120top", "]:"], "ids": [20456, 23114, 39852, 299, 42645], "seed": 0, "P@1": 0.14580645161290323}
-{"pattern": ["Fact", "\u0120trafficking", "\u0120licensing", "\u00e2\u0122", "\u0120in"], "ids": [37724, 7492, 10765, 17, 11], "seed": 1, "P@1": 0.19225806451612903}
-{"pattern": ["\u0120voters", "\u0120currently", "\u0120residency", "born", "\u0120in"], "ids": [1983, 855, 17332, 5400, 11], "seed": 2, "P@1": 0.1329032258064516}
-{"pattern": ["Taylor", "\u0120paranormal", "\u0120traffickers", "\u0120invade", "\u0120central"], "ids": [32799, 41939, 24480, 34425, 1353], "seed": 3, "P@1": 0.31225806451612903}
+{"pattern": ["\u0120investor", "\u0120combining", "Mont", "olina", "\u0120and"], "ids": [3942, 15224, 24007, 27343, 8], "seed": 0, "P@1": 0.20516129032258065}
+{"pattern": ["\u0120passenger", "RC", "earchers", "\u0120covering", "\u0120central"], "ids": [4408, 5199, 46028, 4631, 1353], "seed": 1, "P@1": 0.2838709677419355}
+{"pattern": ["ACT", "\u0120avenue", "ivities", "In", "\u0120southeastern"], "ids": [13709, 24797, 34201, 1121, 19698], "seed": 2, "P@1": 0.25290322580645164}
+{"pattern": ["University", "icycle", "\u0120car", "\u0120laws", "\u0120in"], "ids": [29972, 39943, 512, 2074, 11], "seed": 3, "P@1": 0.22193548387096773}
+{"pattern": ["cyclopedia", "artments", "City", "point", ","], "ids": [49484, 27101, 15075, 2300, 6], "seed": 4, "P@1": 0.2735483870967742}
+{"pattern": ["\u0120bear", "\u0120spider", "\u0120\u00e2\u0122\u0136", "\u0120universities", "\u0120of"], "ids": [4649, 29499, 93, 6630, 9], "seed": 5, "P@1": 0.28}
+{"pattern": ["\u0120clash", ":", "California", "\u0120respectively", "\u0120defeating"], "ids": [6064, 35, 26926, 4067, 14114], "seed": 6, "P@1": 0.1832258064516129}
+{"pattern": ["\u0120\u00e2\u0138\u00ba", "location", "\u0120....", "\u0120b", "."], "ids": [26074, 41829, 39574, 741, 4], "seed": 7, "P@1": 0.08258064516129032}
+{"pattern": ["Favorite", "\u0120neighbourhood", "\u0120official", "state", ":"], "ids": [48236, 12258, 781, 4897, 35], "seed": 8, "P@1": 0.2632258064516129}
+{"pattern": ["\u00e2\u0123", "\u0120famous", "\u0120neighbour", "state", ":"], "ids": [40669, 3395, 14915, 4897, 35], "seed": 9, "P@1": 0.25806451612903225}

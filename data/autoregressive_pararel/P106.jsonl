@@ -1,12 +1,12 @@
-{"pattern": "The occupation of [X] is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "The profession of [X] is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X] works as [Y] .", "bert-base-uncased_P@1": 0.00243605359317905, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s occupation is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s occupation is a [Y] .", "bert-base-uncased_P@1": 0.0036540803897685747, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s occupation is an [Y] .", "bert-base-uncased_P@1": 0.07429963459196103, "opt-350m_P@1": 0.0036540803897685747}
-{"pattern": "[X]'s profession is [Y] .", "bert-base-uncased_P@1": 0.001218026796589525, "opt-350m_P@1": 0.0}
-{"pattern": "[X]'s profession is a [Y] .", "bert-base-uncased_P@1": 0.0048721071863581, "opt-350m_P@1": 0.001218026796589525}
-{"pattern": "[X]'s profession is an [Y] .", "bert-base-uncased_P@1": 0.020706455542021926, "opt-350m_P@1": 0.0097442143727162}
-{"pattern": "[X], who works as [Y] .", "bert-base-uncased_P@1": 0.012180267965895249, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] work as [Y]?", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
-{"pattern": "Does [X] work as a [Y]?", "bert-base-uncased_P@1": 0.02192448233861145, "opt-350m_P@1": 0.0060901339829476245}
+{"pattern": "The occupation of [X] is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "The profession of [X] is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X] works as [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s occupation is [Y] .", "bert-large-uncased_P@1": 0.001218026796589525, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s occupation is a [Y] .", "bert-large-uncased_P@1": 0.0060901339829476245, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s occupation is an [Y] .", "bert-large-uncased_P@1": 0.013398294762484775, "opt-350m_P@1": 0.0036540803897685747}
+{"pattern": "[X]'s profession is [Y] .", "bert-large-uncased_P@1": 0.0, "opt-350m_P@1": 0.0}
+{"pattern": "[X]'s profession is a [Y] .", "bert-large-uncased_P@1": 0.0048721071863581, "opt-350m_P@1": 0.001218026796589525}
+{"pattern": "[X]'s profession is an [Y] .", "bert-large-uncased_P@1": 0.018270401948842874, "opt-350m_P@1": 0.0097442143727162}
+{"pattern": "[X], who works as [Y] .", "bert-large-uncased_P@1": 0.031668696711327646, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] work as [Y]?", "bert-large-uncased_P@1": 0.001218026796589525, "opt-350m_P@1": 0.0}
+{"pattern": "Does [X] work as a [Y]?", "bert-large-uncased_P@1": 0.020706455542021926, "opt-350m_P@1": 0.0060901339829476245}

@@ -1,14 +1,14 @@
-{"pattern": "[X] has diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "opt-350m_P@1": 0.003157894736842105}
-{"pattern": "[X] has diplomatic ties with [Y] .", "bert-base-uncased_P@1": 0.03263157894736842, "opt-350m_P@1": 0.008421052631578947}
-{"pattern": "[X] holds diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.028421052631578948, "opt-350m_P@1": 0.023157894736842106}
-{"pattern": "[X] holds diplomatic ties with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "opt-350m_P@1": 0.015789473684210527}
-{"pattern": "[X] maintains diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.02736842105263158, "opt-350m_P@1": 0.02526315789473684}
-{"pattern": "[X] ties diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.035789473684210524, "opt-350m_P@1": 0.010526315789473684}
-{"pattern": "[X], which has diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.029473684210526315, "opt-350m_P@1": 0.007368421052631579}
-{"pattern": "[X], which ties diplomatic relations with [Y] .", "bert-base-uncased_P@1": 0.031578947368421054, "opt-350m_P@1": 0.007368421052631579}
-{"pattern": "Does [X] have diplomatic relations with [Y]?", "bert-base-uncased_P@1": 0.030526315789473683, "opt-350m_P@1": 0.00631578947368421}
-{"pattern": "Does [X] have diplomatic ties with [Y]?", "bert-base-uncased_P@1": 0.023157894736842106, "opt-350m_P@1": 0.007368421052631579}
-{"pattern": "Does [X] hold diplomatic relations with [Y]?", "bert-base-uncased_P@1": 0.02631578947368421, "opt-350m_P@1": 0.008421052631578947}
-{"pattern": "Does [X] hold diplomatic ties with [Y]?", "bert-base-uncased_P@1": 0.02, "opt-350m_P@1": 0.008421052631578947}
-{"pattern": "Does [X] maintain diplomatic relations with [Y]?", "bert-base-uncased_P@1": 0.03368421052631579, "opt-350m_P@1": 0.010526315789473684}
-{"pattern": "Does [X] tie diplomatic relations with [Y]?", "bert-base-uncased_P@1": 0.028421052631578948, "opt-350m_P@1": 0.017894736842105262}
+{"pattern": "[X] has diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.03894736842105263, "opt-350m_P@1": 0.003157894736842105}
+{"pattern": "[X] has diplomatic ties with [Y] .", "bert-large-uncased_P@1": 0.034736842105263156, "opt-350m_P@1": 0.008421052631578947}
+{"pattern": "[X] holds diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.03894736842105263, "opt-350m_P@1": 0.023157894736842106}
+{"pattern": "[X] holds diplomatic ties with [Y] .", "bert-large-uncased_P@1": 0.035789473684210524, "opt-350m_P@1": 0.015789473684210527}
+{"pattern": "[X] maintains diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.03684210526315789, "opt-350m_P@1": 0.02526315789473684}
+{"pattern": "[X] ties diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.03684210526315789, "opt-350m_P@1": 0.010526315789473684}
+{"pattern": "[X], which has diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.034736842105263156, "opt-350m_P@1": 0.007368421052631579}
+{"pattern": "[X], which ties diplomatic relations with [Y] .", "bert-large-uncased_P@1": 0.034736842105263156, "opt-350m_P@1": 0.007368421052631579}
+{"pattern": "Does [X] have diplomatic relations with [Y]?", "bert-large-uncased_P@1": 0.03368421052631579, "opt-350m_P@1": 0.00631578947368421}
+{"pattern": "Does [X] have diplomatic ties with [Y]?", "bert-large-uncased_P@1": 0.02736842105263158, "opt-350m_P@1": 0.007368421052631579}
+{"pattern": "Does [X] hold diplomatic relations with [Y]?", "bert-large-uncased_P@1": 0.03263157894736842, "opt-350m_P@1": 0.008421052631578947}
+{"pattern": "Does [X] hold diplomatic ties with [Y]?", "bert-large-uncased_P@1": 0.03263157894736842, "opt-350m_P@1": 0.008421052631578947}
+{"pattern": "Does [X] maintain diplomatic relations with [Y]?", "bert-large-uncased_P@1": 0.030526315789473683, "opt-350m_P@1": 0.010526315789473684}
+{"pattern": "Does [X] tie diplomatic relations with [Y]?", "bert-large-uncased_P@1": 0.029473684210526315, "opt-350m_P@1": 0.017894736842105262}

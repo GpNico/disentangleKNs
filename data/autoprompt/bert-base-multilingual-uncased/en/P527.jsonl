@@ -1,4 +1,10 @@
-{"pattern": ["carbone", "\u043a\u0440\u0430\u0456\u043d\u044b", "\u0442\u044d\u043c\u0435", "\u6a61", "with"], "ids": [67237, 74428, 26608, 4788, 10171], "seed": 0}
-{"pattern": ["carbone", "mercury", "phosphate", "ruby", "lotta"], "ids": [67237, 23258, 92568, 36340, 40232], "seed": 1}
-{"pattern": ["wolfram", "sydney", "h\u2082o", "karbon", "golden"], "ids": [65861, 14809, 35206, 70369, 14209], "seed": 2}
-{"pattern": ["@", "iupac", "##\u0c02\u0c17", "mercury", "&"], "ids": [137, 82787, 16837, 23258, 111], "seed": 3}
+{"pattern": ["\u0441\u0442\u0438\u0445\u0438", "##uld", "carbone", "cithakan", "##\u0d30\u0d15\u0d3e\u0d30\u0d02"], "ids": [47800, 75073, 67237, 60596, 74099], "seed": 0}
+{"pattern": ["lemon", "carbone", "myanmar", "noah", "helium"], "ids": [74206, 67237, 31691, 39638, 69551], "seed": 1}
+{"pattern": ["karbon", "commons", "gjeld", "old", "_"], "ids": [70369, 14197, 76638, 11737, 142], "seed": 2}
+{"pattern": ["carbone", "wikimedia", "##\u0440\u0445\u0443", "sheet", "representing"], "ids": [67237, 13609, 87788, 39736, 30538], "seed": 3}
+{"pattern": ["h\u2082o", "lotus", "karbon", "o\u2082", "golden"], "ids": [35206, 29653, 70369, 64106, 14209], "seed": 4}
+{"pattern": ["karbon", "\u10d4\u10d9\u10da\u10d4\u10e1\u10d8\u10d0", "##web", "cithakan", "golden"], "ids": [70369, 54685, 39620, 60596, 14209], "seed": 5}
+{"pattern": ["carbono", "water", "##moni", "storbritannien", "carbono"], "ids": [61833, 11917, 70543, 28676, 61833], "seed": 6}
+{"pattern": ["\u091a\u0932\u091a\u093f\u0924\u0930", "tabel", "iupac", "##\u0938\u092e\u093e", "golden"], "ids": [78073, 75206, 82787, 89565, 14209], "seed": 7}
+{"pattern": ["wolfram", "bristol", "boone", "co\u2082", "southern"], "ids": [65861, 24724, 64393, 34578, 12952], "seed": 8}
+{"pattern": ["sharon", "r\u00f8de", "karbon", "h\u2082o", "golden"], "ids": [34900, 64374, 70369, 35206, 14209], "seed": 9}

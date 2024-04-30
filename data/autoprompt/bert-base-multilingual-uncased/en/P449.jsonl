@@ -1,4 +1,10 @@
-{"pattern": ["westwood", "tv", "estadunidense", "##\u0634\u0627\u0621", "##watch"], "ids": [57859, 10827, 49277, 56666, 72684], "seed": 0, "P@1": 0.005847953216374269}
-{"pattern": ["reprise", "daytime", "situs", "\u6cf7", "gjeld"], "ids": [31046, 92828, 20757, 5039, 76638], "seed": 1, "P@1": 0.1871345029239766}
-{"pattern": ["u2", "faritr", "\u043f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u0438", "karolina", "primetime"], "ids": [45929, 17648, 95972, 49287, 81969], "seed": 2, "P@1": 0.19883040935672514}
-{"pattern": ["springfield", "emmy", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "okviru", "kanala"], "ids": [36741, 26332, 58703, 66382, 92606], "seed": 3, "P@1": 0.24561403508771928}
+{"pattern": ["\u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0438", "##\u05e9\u05d9\u05de\u05d5\u05e9", "imdb", "abc", "stacja"], "ids": [38765, 49445, 18103, 16081, 40289], "seed": 0}
+{"pattern": ["airplane", "daytime", "\u0433\u043e\u0434\u0430", "database", "\u043a\u0430\u043d\u0430\u043b\u0430"], "ids": [89498, 92828, 10369, 10326, 57415], "seed": 1}
+{"pattern": ["daytime", "stranica", "\u0441\u0430\u0438\u0446\u0435", "fakultat", "kanala"], "ids": [92828, 45112, 39719, 47124, 92606], "seed": 2}
+{"pattern": ["emmy", "sitcom", "\u0438\u0437\u0434\u0430\u043d\u0438\u0438", "##\u043f\u0430\u043d\u0438\u044f", "dla"], "ids": [26332, 58988, 79063, 69578, 12304], "seed": 3}
+{"pattern": ["eyaletinde", "tonight", "abc", "##\u0430\u043d\u043d\u044f", "##deki"], "ids": [83291, 31200, 16081, 22946, 35689], "seed": 4}
+{"pattern": ["primetime", "feud", "daytime", "situs", "dari"], "ids": [81969, 85433, 92828, 20757, 10443], "seed": 5}
+{"pattern": ["cdc", "\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "##ziune", "pagina", "primetime"], "ids": [80288, 89067, 89176, 16833, 81969], "seed": 6}
+{"pattern": ["situs", "\u0432\u0430\u0440\u0448\u0430\u0432\u0430", "emmy", "resultados", "temporadas"], "ids": [20757, 89067, 26332, 26362, 33587], "seed": 7}
+{"pattern": ["sailkatua", "londra", "tf1", "abc", "philadelphia"], "ids": [78982, 22907, 74741, 16081, 16001], "seed": 8}
+{"pattern": ["football", "sitcom", "amerykanski", "\u0441\u0430\u0438\u0446\u0435", "stacja"], "ids": [11420, 58988, 28811, 39719, 40289], "seed": 9}

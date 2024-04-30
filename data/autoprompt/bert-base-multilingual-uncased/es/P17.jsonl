@@ -1,4 +1,10 @@
-{"pattern": ["synopsis", "clasificacion", "partido", "comunas", "\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e"], "ids": [20918, 27970, 13115, 40662, 62479], "seed": 0, "P@1": 0.38461538461538464}
-{"pattern": ["inglaterra", "prusia", "corea", "aru", "##gao"], "ids": [19686, 68310, 28739, 85404, 44544], "seed": 1, "P@1": 0.125}
-{"pattern": ["bajo", "franciaorszag", "surat", "##burgo", "\u0441\u0430\u0438\u0442\u044b\u043d\u0434\u0430\u0493\u044b"], "ids": [14039, 95556, 31431, 32801, 45778], "seed": 2, "P@1": 0.07692307692307693}
-{"pattern": ["\u05de\u05d5\u05ea\u05d5", "relaciones", "youtube", "##ziune", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [51012, 27426, 15665, 89176, 55892], "seed": 3, "P@1": 0.28846153846153844}
+{"pattern": ["sitio", "historisches", "competizioni", "ciudaes", "ng"], "ids": [22045, 87234, 61391, 84812, 10822], "seed": 0}
+{"pattern": ["pagina", "delegation", "jaras", "nacionales", "##\u05d3\u05d5\u05ea"], "ids": [16833, 44097, 88174, 33776, 18724], "seed": 1}
+{"pattern": ["aerodrome", "##yasi", "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442", "situado", "bansang"], "ids": [79367, 54657, 21985, 22625, 43459], "seed": 2}
+{"pattern": ["nazista", "\u0627\u0644\u0631\u064a\u0641\u064a", "jaras", "ayuntamiento", "\u0645\u062f\u0646"], "ids": [86113, 94812, 88174, 36393, 30763], "seed": 3}
+{"pattern": ["vasutallomas", "lista", "construyo", "comunas", "##\u043b\u044c\u043d\u044b\u0445"], "ids": [74579, 14247, 55402, 40662, 18540], "seed": 4}
+{"pattern": ["\u0430\u0443\u0434\u0430\u043d\u044b", "poskod", "prefecture", "municipais", "toda"], "ids": [46322, 46011, 27174, 75026, 15414], "seed": 5}
+{"pattern": ["unas", "\u0641\u0644\u0645", "puesto", "comunas", "de"], "ids": [26354, 41737, 20492, 40662, 10102], "seed": 6}
+{"pattern": ["##sstandes", "esas", "mejor", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "bansang"], "ids": [70186, 16460, 16440, 25693, 43459], "seed": 7}
+{"pattern": ["airlines", "espainia", "zeeland", "golf", "\u043e\u0431\u043e\u0440\u043e\u043d\u0443"], "ids": [17694, 69912, 58835, 18195, 84817], "seed": 8}
+{"pattern": ["##\ufdfa", "wikimedia", "mayores", "comunas", "\u0634\u0645\u0627\u0644"], "ids": [105774, 13609, 32387, 40662, 22120], "seed": 9}

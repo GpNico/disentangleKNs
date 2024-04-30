@@ -1,4 +1,10 @@
-{"pattern": ["\u043a\u0435\u043f", "cortometraggio", "\u0627\u0644\u0645\u0633\u064a\u062d\u064a\u0629", "musulmanes", "juzni"], "ids": [14934, 33276, 68871, 72608, 78806], "seed": 0, "P@1": 0.6666666666666666}
-{"pattern": ["leia", "\u0438\u0441\u043b\u0430\u043c", "#", "\u1109\u1165\u11ab\u1109\u116e\u110b\u1175\u1103\u1161", "gjeld"], "ids": [84584, 53504, 108, 93228, 76638], "seed": 1, "P@1": 0.6984126984126984}
-{"pattern": ["comitatus", "interretialis", "\u0438\u0441\u043b\u0430\u043c", "\u0441\u043e\u0441\u0442\u043e\u0438\u0442", "apud"], "ids": [79654, 43022, 53504, 32850, 18922], "seed": 2, "P@1": 0.5396825396825397}
-{"pattern": ["\u0627\u0633\u0644\u0627\u0645", "webgunea", "pagina", "asas", "\u0627\u0635\u0648\u0644"], "ids": [28452, 52015, 16833, 66297, 55671], "seed": 3, "P@1": 0.6666666666666666}
+{"pattern": ["interretialis", "interretialis", "revolucion", "agama", "\u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043b\u0438"], "ids": [43022, 43022, 24976, 24694, 25717], "seed": 0}
+{"pattern": ["musulmanes", "christianity", "cithakan", "##\u03c6\u03b8\u03b7\u03ba\u03b5", "povijesti"], "ids": [72608, 41248, 60596, 60996, 51413], "seed": 1}
+{"pattern": ["\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "\u0627\u0644\u0627\u0633\u0644\u0627\u0645", "braga", "imaxes", "darul"], "ids": [44209, 44209, 51979, 93625, 64830], "seed": 2}
+{"pattern": ["\u0906\u0928\u0927\u0930", "\u091a\u0932\u091a\u093f\u0924\u0930", "##\u0561\u0580\u0578\u0582\u0576\u0561\u056f\u0578\u0582\u0574", "kajian", "orthodox"], "ids": [80089, 78073, 89936, 87802, 33100], "seed": 3}
+{"pattern": ["muslims", "##orden", "escola", "vorbitoare", "\u9eba"], "ids": [42344, 38229, 16525, 37777, 9910], "seed": 4}
+{"pattern": ["\u0430\u0442\u043b\u0430\u043d\u0442\u0438\u043a\u0430\u043d", "\u0438\u0441\u043b\u0430\u043c", "cithakan", "cortometraggio", "orthodox"], "ids": [22183, 53504, 60596, 33276, 33100], "seed": 5}
+{"pattern": ["organizacion", "\u0441\u043e\u0431\u043e\u0438", "nexus", "\u10e1\u10d0\u10d8\u10e2\u10d8", "musulmana"], "ids": [20561, 20940, 49780, 60143, 83746], "seed": 6}
+{"pattern": ["vease", "muslim", "http", "encyclopaedia", "riktning"], "ids": [63142, 19918, 10635, 32064, 16169], "seed": 7}
+{"pattern": ["lunetu", "musulmanes", "ideologia", "cithakan", "albumul"], "ids": [15215, 72608, 61766, 60596, 94506], "seed": 8}
+{"pattern": ["wikipedia", "pagan", "##izmus", "vease", "juzni"], "ids": [12834, 65195, 74536, 63142, 78806], "seed": 9}

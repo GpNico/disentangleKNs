@@ -1,4 +1,10 @@
-{"pattern": ["ellington", "fusion", "muzyka", "fantasy", "metropolitan"], "ids": [87219, 20934, 59518, 18532, 19077], "seed": 0, "P@1": 0.7023809523809523}
-{"pattern": ["bluff", "knjizevnost", "soul", "\u05de\u05d5\u05d6\u05d9\u05e7\u05d4", "muzika"], "ids": [40356, 83234, 16587, 78384, 64852], "seed": 1, "P@1": 0.625}
-{"pattern": ["siciliana", "elektronische", "musikk", "puccini", "smooth"], "ids": [84359, 89895, 48480, 74839, 48093], "seed": 2, "P@1": 0.6666666666666666}
-{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "##\u0633\u0679", "ellington", "duke", "stacja"], "ids": [39719, 79054, 87219, 14170, 40289], "seed": 3, "P@1": 0.6785714285714286}
+{"pattern": ["ellington", "##bibliothek", "verve", "websteed", "centrul"], "ids": [87219, 62203, 92609, 94284, 61457], "seed": 0}
+{"pattern": ["chicago", "salsa", "sax", "montreux", "metropolitan"], "ids": [12588, 65355, 61252, 93136, 19077], "seed": 1}
+{"pattern": ["salsa", "britten", "fusion", "yhdysvaltalainen", "korean"], "ids": [65355, 64650, 20934, 36256, 20261], "seed": 2}
+{"pattern": ["rhythm", "operas", "gemengen", "britisk", "smooth"], "ids": [28251, 56799, 50455, 45497, 48093], "seed": 3}
+{"pattern": ["beethoven", "ellington", "fusion", "klassisk", "african"], "ids": [30062, 87219, 20934, 74162, 14028], "seed": 4}
+{"pattern": ["gillespie", "pagina", "operas", "website", "contemporary"], "ids": [76246, 16833, 56799, 12699, 14948], "seed": 5}
+{"pattern": ["fotball", "musique", "##\u064a\u0641\u064a\u0629", "##pian", "swing"], "ids": [47962, 15770, 90496, 65602, 34043], "seed": 6}
+{"pattern": ["cabaret", "norsk", "salsa", "bergen", "amerikansk"], "ids": [61107, 14595, 65355, 18706, 18740], "seed": 7}
+{"pattern": ["chopin", "engleski", "salsa", "klasik", "african"], "ids": [57993, 12710, 65355, 53669, 14028], "seed": 8}
+{"pattern": ["ellington", "hudba", "muzica", "salsa", "muzika"], "ids": [87219, 86785, 54698, 65355, 64852], "seed": 9}

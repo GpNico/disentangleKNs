@@ -1,4 +1,4 @@
-{"pattern": "[X] is a part of [Y] .", "bert-base-uncased_P@1": 0.31084656084656087, "opt-350m_P@1": 0.021164021164021163}
-{"pattern": "[X] is part of [Y] .", "bert-base-uncased_P@1": 0.25132275132275134, "opt-350m_P@1": 0.003968253968253968}
-{"pattern": "Is [X] a part of [Y]?", "bert-base-uncased_P@1": 0.14682539682539683, "opt-350m_P@1": 0.006613756613756613}
-{"pattern": "Is [X] part of [Y]?", "bert-base-uncased_P@1": 0.13624338624338625, "opt-350m_P@1": 0.0}
+{"pattern": "[X] is a part of [Y] ."}
+{"pattern": "[X] is part of [Y] ."}
+{"pattern": "Is [X] a part of [Y]?"}
+{"pattern": "Is [X] part of [Y]?"}

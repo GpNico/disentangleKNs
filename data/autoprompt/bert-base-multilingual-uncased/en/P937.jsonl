@@ -1,4 +1,10 @@
-{"pattern": ["photography", "brussels", "kopenhagen", "naples", "bethlehem"], "ids": [30613, 37078, 57696, 41594, 87850], "seed": 0, "P@1": 0.12698412698412698}
-{"pattern": ["buidl", "wikimedia", "inglis", "embassy", "\u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"], "ids": [55957, 13609, 71324, 48868, 84096], "seed": 1, "P@1": 0.35978835978835977}
-{"pattern": ["homepage", "allee", "municipalities", "of", "metropolitan"], "ids": [61916, 80560, 39981, 10108, 19077], "seed": 2, "P@1": 0.3439153439153439}
-{"pattern": ["antiken", "ideiglenes", "website", "asylum", "greater"], "ids": [81686, 86116, 12699, 63011, 18860], "seed": 3, "P@1": 0.31746031746031744}
+{"pattern": ["cities", "anvers", "pariz", "parijs", "metropolis"], "ids": [17040, 64943, 46542, 37683, 59596], "seed": 0}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "sculptor", "biography", "embassy", "orasului"], "ids": [28937, 66855, 14097, 48868, 48045], "seed": 1}
+{"pattern": ["##cae", "buhne", "\u0438\u0431\u043d", "gjeld", "disneyland"], "ids": [63798, 64135, 44493, 76638, 95589], "seed": 2}
+{"pattern": ["biography", "galeria", "ahli", "museo", "di"], "ids": [14097, 21681, 23908, 14866, 10120], "seed": 3}
+{"pattern": ["situs", "situm", "delegation", "halls", "\u0434\u0430\u0432\u043b\u0430\u0442\u0438\u0438"], "ids": [20757, 48450, 44097, 62160, 76072], "seed": 4}
+{"pattern": ["portrait", "website", "complete", "streets", "of"], "ids": [22835, 12699, 13840, 27460, 10108], "seed": 5}
+{"pattern": ["##cajno", "##sse", "website", "apartments", "greater"], "ids": [62064, 13077, 12699, 79256, 18860], "seed": 6}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "##horidae", "website", "arrondissement", "east"], "ids": [28937, 91977, 12699, 15773, 11344], "seed": 7}
+{"pattern": ["##\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435", "\u0441\u0430\u0438\u0442\u0435", "concert", "square", "in"], "ids": [60141, 39947, 15907, 13366, 10104], "seed": 8}
+{"pattern": ["at", "monuments", "linguistique", "streets", "of"], "ids": [10160, 24549, 94116, 27460, 10108], "seed": 9}

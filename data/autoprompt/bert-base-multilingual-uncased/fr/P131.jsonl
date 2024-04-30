@@ -1,4 +1,10 @@
-{"pattern": ["gazetteer", "parmi", "##\u0441\u0435\u0442", "urbain", "de"], "ids": [30674, 18744, 74077, 65462, 10102], "seed": 0, "P@1": 0.26436781609195403}
-{"pattern": ["##\u0441\u043b\u0430\u0432\u0438\u044f", "nasionale", "gulch", "arrondissement", "van"], "ids": [88129, 54428, 45991, 15773, 10147], "seed": 1, "P@1": 0.20689655172413793}
-{"pattern": ["gazetteer", "nasjonale", "fosil", "\u043f\u0440\u043e\u0446\u0435\u0441\u0456", "huko"], "ids": [30674, 67923, 61369, 66369, 78036], "seed": 2, "P@1": 0.14942528735632185}
-{"pattern": ["savings", "sabha", "arrondissementer", "arrondissement", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [89933, 59651, 56054, 15773, 38937], "seed": 3, "P@1": 0.16091954022988506}
+{"pattern": ["voir", "\u0627\u06cc\u062f\u0627\u0631\u06cc", "\u0441\u0430\u0438\u0446\u0435", "diocese", "\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u043d"], "ids": [18466, 64149, 39719, 22062, 13943], "seed": 0}
+{"pattern": ["visite", "fotografi", "##\u094b\u0924", "websteed", "deelstaat"], "ids": [40560, 46388, 84227, 94284, 44839], "seed": 1}
+{"pattern": ["gallery", "liste", "officiel", "districts", "##\u0437\u0438\u0458\u0435"], "ids": [16176, 13593, 31692, 20824, 62493], "seed": 2}
+{"pattern": ["genealogy", "\u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8", "institut", "situe", "din"], "ids": [89853, 82512, 13786, 14737, 10621], "seed": 3}
+{"pattern": ["genyn", "voir", "nouveau", "county", "of"], "ids": [60799, 18466, 13870, 10663, 10108], "seed": 4}
+{"pattern": ["site", "voir", "##given", "districts", "de"], "ids": [11692, 18466, 76233, 20824, 10102], "seed": 5}
+{"pattern": ["romania", "olympique", "italie", "ville", "cherokee"], "ids": [12764, 29768, 16614, 11750, 57186], "seed": 6}
+{"pattern": ["photographic", "epa", "detaille", "province", "##\u043b\u043d\u0438\u0442\u0435"], "ids": [71535, 76775, 56583, 12092, 49735], "seed": 7}
+{"pattern": ["\u091c\u093f\u0932", "county", "##\u0938\u0925\u0933", "universiteit", "van"], "ids": [30173, 10663, 94308, 21425, 10147], "seed": 8}
+{"pattern": ["mosque", "liste", "officielle", "comtes", "c\u0443\u0442c\u0430\u043d\u0442\u0430\u043ba\u043a"], "ids": [51322, 13593, 43111, 63653, 46181], "seed": 9}

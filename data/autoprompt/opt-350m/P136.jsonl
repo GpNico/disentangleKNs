@@ -1,4 +1,10 @@
-{"pattern": ["\u0120remake", "\u0120blends", "\u0120jam", "\u0120classical", "dark"], "ids": [21280, 28337, 11914, 15855, 30423], "seed": 0, "P@1": 0.5355064027939465}
-{"pattern": ["\u0120orchestra", ")--", "\u0120genre", "\u0120specializing", "classic"], "ids": [20642, 43564, 11581, 25526, 41755], "seed": 1, "P@1": 0.2281722933643772}
-{"pattern": ["\u0120sax", "\u0120reboot", ".\u00ef\u00bf\u00bd", "\u0120classical", "ieval"], "ids": [31365, 18660, 35547, 15855, 47981], "seed": 2, "P@1": 0.6018626309662398}
-{"pattern": ["\u0120downtown", "\u0120movie", "\u0120mix", "antasy", "\u0120classical"], "ids": [3301, 1569, 3344, 40650, 15855], "seed": 3, "P@1": 0.020954598370197905}
+{"pattern": ["obook", "\u0120sings", "\u0120blends", "\u0120ballet", ","], "ids": [42581, 22707, 28337, 22573, 6], "seed": 0, "P@1": 0.6006984866123399}
+{"pattern": ["\u0120sax", "\u0120renaissance", "\u0120dramas", "anish", "orean"], "ids": [31365, 33095, 29430, 28627, 24452], "seed": 1, "P@1": 0.5960419091967404}
+{"pattern": ["\u0120blends", "\u0120genres", "Lou", "anuts", "\u0120classical"], "ids": [28337, 23409, 36076, 43931, 15855], "seed": 2, "P@1": 0.08381839348079162}
+{"pattern": ["\u0120improv", "\u0120contemporary", "isexual", "\u0120chamber", "ial"], "ids": [32092, 8708, 45799, 8421, 2617], "seed": 3, "P@1": 0.3480791618160652}
+{"pattern": ["\u0120founded", "\u0120sax", "OWN", "\u0120revised", "\u0120romantic"], "ids": [4790, 31365, 14356, 7692, 8728], "seed": 4, "P@1": 0.5576251455180442}
+{"pattern": ["Jewish", "\u0120contemporary", "\u0120crappy", "\u0120fre", "abad"], "ids": [34696, 8708, 43282, 7619, 7826], "seed": 5, "P@1": 0.38649592549476136}
+{"pattern": ["\u0120specializes", "\u0120sax", "oser", "\u0120moderates", "\u0120fictional"], "ids": [17859, 31365, 19780, 32519, 18588], "seed": 6, "P@1": 0.5983701979045402}
+{"pattern": ["\u0120novels", "\u0120sax", "\u0120genre", "\u0120overload", "emporary"], "ids": [19405, 31365, 11581, 37636, 45732], "seed": 7, "P@1": 0.580908032596042}
+{"pattern": ["\u0120improv", "\u0120sci", "asketball", "J", "\u0120classical"], "ids": [32092, 19974, 45126, 863, 15855], "seed": 8, "P@1": 0.49825378346915017}
+{"pattern": ["\u0120launches", "\u0120sax", "Independent", "utenberg", "\u0120romantic"], "ids": [10158, 31365, 41900, 48338, 8728], "seed": 9, "P@1": 0.5692665890570431}

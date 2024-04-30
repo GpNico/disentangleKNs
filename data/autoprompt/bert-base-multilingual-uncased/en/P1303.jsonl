@@ -1,4 +1,10 @@
-{"pattern": ["oboe", "glottolog", "cithakan", "thay", "boogie"], "ids": [84571, 72555, 60596, 14933, 58195], "seed": 0, "P@1": 0.18032786885245902}
-{"pattern": ["tocando", "rummut", "\u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044c", "belgian", "tocando"], "ids": [93022, 60410, 85723, 35447, 93022], "seed": 1, "P@1": 0.16393442622950818}
-{"pattern": ["oboe", "glottolog", "ethnologue", "##\u092d\u0935", "boogie"], "ids": [84571, 72555, 37982, 55494, 58195], "seed": 2, "P@1": 0.0273224043715847}
-{"pattern": ["vocals", "surf", "pianist", "oboe", "acoustic"], "ids": [15377, 60529, 35175, 84571, 30773], "seed": 3, "P@1": 0.18032786885245902}
+{"pattern": ["oboe", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e", "technical", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "acoustic"], "ids": [84571, 39872, 19162, 74724, 30773], "seed": 0}
+{"pattern": ["\u947c", "1st", "\u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e", "nigerian", "second"], "ids": [8878, 13850, 74724, 74909, 10981], "seed": 1}
+{"pattern": ["pianist", "vocals", "oboe", "/", "historical"], "ids": [35175, 15377, 84571, 120, 13869], "seed": 2}
+{"pattern": ["vocals", "theoretical", "oboe", "benny", "experimental"], "ids": [15377, 51302, 84571, 37574, 23998], "seed": 3}
+{"pattern": ["vocals", "karen", "gesang", "plays", "isang"], "ids": [15377, 24425, 54000, 17173, 13179], "seed": 4}
+{"pattern": ["klavir", "for", "handbuch", "ellington", "your"], "ids": [73548, 10139, 42194, 87219, 12787], "seed": 5}
+{"pattern": ["oboe", "benny", "created", "##horn", "acoustic"], "ids": [84571, 37574, 13979, 25379, 30773], "seed": 6}
+{"pattern": ["belize", "vocals", "pianoforte", "oboe", "acoustic"], "ids": [55079, 15377, 48021, 84571, 30773], "seed": 7}
+{"pattern": ["precision", "oboe", "judo", "vocals", "precision"], "ids": [37793, 84571, 49676, 15377, 37793], "seed": 8}
+{"pattern": ["pianoforte", "alpine", "guitarist", "oboe", "northern"], "ids": [48021, 39296, 35577, 84571, 12968], "seed": 9}

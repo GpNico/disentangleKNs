@@ -1,4 +1,10 @@
-{"pattern": ["\u011e", "\u0120french", "Foreign", "ness", "\u0120&&"], "ids": [50138, 41259, 37221, 1825, 48200], "seed": 0, "P@1": 0.6561479869423286}
-{"pattern": ["ne", "\u00c3\u00a9t", "\u0120<[", "English", "\u0120and"], "ids": [858, 10221, 50161, 35007, 8], "seed": 1, "P@1": 0.7671381936887922}
-{"pattern": ["anche", "\u0120policeman", "\u0120({", "Translation", "\u0120in"], "ids": [13706, 20976, 49698, 48940, 11], "seed": 2, "P@1": 0.8019586507072906}
-{"pattern": ["France", "\u0120fifteen", "\u0120submarines", "\u0120watched", "\u0120jailed"], "ids": [25010, 23843, 28642, 3996, 8420], "seed": 3, "P@1": 0.7312295973884657}
+{"pattern": ["\\\">", "French", "\u0120flips", "\u0120fists", "avorite"], "ids": [50206, 28586, 37719, 34281, 49669], "seed": 0, "P@1": 0.6996735582154516}
+{"pattern": ["ane", "\u0120between", "\u0120diplomatic", "British", "\u0120and"], "ids": [1728, 227, 5813, 24270, 8], "seed": 1, "P@1": 0.7823721436343852}
+{"pattern": ["British", "\u0120french", "SN", "\u0120handwriting", "innie"], "ids": [24270, 41259, 12436, 39615, 31854], "seed": 2, "P@1": 0.5995647442872688}
+{"pattern": ["French", "Dutch", "\u0120actually", "\u0120stereotypes", "\u0120authentic"], "ids": [28586, 40877, 888, 21463, 12757], "seed": 3, "P@1": 0.7551686615886833}
+{"pattern": ["\u00c3\u00a9e", "-(", "English", "ian", "\u0120or"], "ids": [9703, 38203, 35007, 811, 50], "seed": 4, "P@1": 0.794341675734494}
+{"pattern": ["swick", "\u0120()", "English", "\u00e2\u0122\u0135", "\u0120and"], "ids": [44479, 36418, 35007, 2383, 8], "seed": 5, "P@1": 0.7812840043525572}
+{"pattern": ["\u0120detained", "\u0120$(", "AFP", "WASHINGTON", "\u0120());"], "ids": [5624, 44612, 11528, 5762, 49953], "seed": 6, "P@1": 0.33514689880304677}
+{"pattern": ["oute", "enger", "\u00e2\u013f", "English", "\u0120or"], "ids": [33514, 24290, 30151, 35007, 50], "seed": 7, "P@1": 0.7823721436343852}
+{"pattern": ["\u0120most", "\u0120tourists", "\u0120speak", "\u0120shaky", "\u0120northern"], "ids": [144, 6349, 1994, 22032, 3285], "seed": 8, "P@1": 0.7682263329706203}
+{"pattern": ["France", "\u0120diplomacy", "\u0120meeting", "\u0120intercepted", ":"], "ids": [25010, 15166, 529, 15881, 35], "seed": 9, "P@1": 0.719260065288357}

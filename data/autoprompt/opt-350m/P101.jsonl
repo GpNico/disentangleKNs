@@ -1,4 +1,10 @@
-{"pattern": ["\u0120pornographic", "\u0120sciences", "\u0120", "ophys", "ministic"], "ids": [38739, 17874, 1437, 44677, 47907], "seed": 0, "P@1": 0.13089005235602094}
-{"pattern": ["\u0120astronomer", "OLOGY", "\u0120mathematical", "OLOGY", "\u0120pipe"], "ids": [40369, 41819, 30412, 41819, 11397], "seed": 1, "P@1": 0.12390924956369982}
-{"pattern": ["English", "\u0120scriptures", "\u0120sciences", "\u0120physicists", "ometry"], "ids": [35007, 44838, 17874, 41739, 40899], "seed": 2, "P@1": 0.11867364746945899}
-{"pattern": ["\u0120physicists", "general", "rology", "\u0120chaos", "professional"], "ids": [41739, 15841, 27895, 7724, 23878], "seed": 3, "P@1": 0.11343804537521815}
+{"pattern": ["\u0120religions", "\u0120sciences", "\u0120physicists", "\u0120poetry", "\u0120relativity"], "ids": [24664, 17874, 41739, 14665, 44999], "seed": 0, "P@1": 0.1343804537521815}
+{"pattern": ["\u0120mathematic", "\u0120proofs", "biology", "\u0120athletics", "\u0120pathology"], "ids": [45324, 45322, 41475, 16015, 38951], "seed": 1, "P@1": 0.1273996509598604}
+{"pattern": ["useum", "Phys", "\u0120philosophers", "biology", "\u0120maths"], "ids": [31093, 43827, 44267, 41475, 31955], "seed": 2, "P@1": 0.13089005235602094}
+{"pattern": ["._", "wx", "\u0120institute", "\u0120of", "\u0120introductory"], "ids": [48030, 42357, 14619, 9, 31196], "seed": 3, "P@1": 0.18150087260034903}
+{"pattern": ["\u0120mathematic", "Semitism", "\u0120physicists", "ology", "\u0120classics"], "ids": [45324, 19155, 41739, 4383, 20323], "seed": 4, "P@1": 0.03664921465968586}
+{"pattern": ["General", "\u0120humanities", "\u0120physicists", "ology", "ctory"], "ids": [9344, 38915, 41739, 4383, 45271], "seed": 5, "P@1": 0.13612565445026178}
+{"pattern": ["\u0120classical", "ology", "\u0120secular", "\u0120math", "\u0120aquatic"], "ids": [15855, 4383, 16413, 10638, 31092], "seed": 6, "P@1": 0.07504363001745201}
+{"pattern": ["\u0120teaches", "\u0120undergraduate", "\u0120mount", "\u0120journal", "\u0120computational"], "ids": [13419, 19555, 14206, 8812, 38163], "seed": 7, "P@1": 0.06806282722513089}
+{"pattern": ["\u0120telescopes", "Women", "ActionCode", "\u0120studied", "\u0120modern"], "ids": [35623, 19814, 50177, 8069, 2297], "seed": 8, "P@1": 0.14485165794066318}
+{"pattern": ["\u0120gods", "\u0120physicist", "\u0120teaches", "\u0120age", "\u0120intensive"], "ids": [25779, 33832, 13419, 1046, 12296], "seed": 9, "P@1": 0.1082024432809773}

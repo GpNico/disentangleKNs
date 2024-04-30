@@ -1,17 +1,17 @@
-{"pattern": "The headquarter of [X] is in [Y] .", "bert-base-uncased_P@1": 0.34581772784019976, "opt-350m_P@1": 0.09363295880149813}
-{"pattern": "The headquarter of [X] is located in [Y] .", "bert-base-uncased_P@1": 0.32459425717852686, "opt-350m_P@1": 0.1136079900124844}
-{"pattern": "The headquarters of [X] are in [Y] .", "bert-base-uncased_P@1": 0.3196004993757803, "opt-350m_P@1": 0.05368289637952559}
-{"pattern": "The headquarters of [X] are located in [Y] .", "bert-base-uncased_P@1": 0.34207240948813983, "opt-350m_P@1": 0.04369538077403246}
-{"pattern": "[X] is based in [Y] .", "bert-base-uncased_P@1": 0.3620474406991261, "opt-350m_P@1": 0.21473158551810237}
-{"pattern": "[X] is headquartered in [Y] .", "bert-base-uncased_P@1": 0.36329588014981273, "opt-350m_P@1": 0.26591760299625467}
-{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.29712858926342073, "opt-350m_P@1": 0.06991260923845194}
-{"pattern": "[X]'s headquarters are in [Y] .", "bert-base-uncased_P@1": 0.3620474406991261, "opt-350m_P@1": 0.046192259675405745}
-{"pattern": "[X], whose headquarters are in [Y] .", "bert-base-uncased_P@1": 0.3533083645443196, "opt-350m_P@1": 0.22347066167290885}
-{"pattern": "Are [X]'s headquarters in [Y]?", "bert-base-uncased_P@1": 0.3383270911360799, "opt-350m_P@1": 0.13607990012484394}
-{"pattern": "Are the headquarters of [X] in [Y]?", "bert-base-uncased_P@1": 0.31086142322097376, "opt-350m_P@1": 0.1136079900124844}
-{"pattern": "Are the headquarters of [X] located in [Y]?", "bert-base-uncased_P@1": 0.34207240948813983, "opt-350m_P@1": 0.13982521847690388}
-{"pattern": "Is [X] based in [Y]?", "bert-base-uncased_P@1": 0.28214731585518105, "opt-350m_P@1": 0.149812734082397}
-{"pattern": "Is [X] headquartered in [Y]?", "bert-base-uncased_P@1": 0.3595505617977528, "opt-350m_P@1": 0.20848938826466917}
-{"pattern": "Is [X] located in [Y]?", "bert-base-uncased_P@1": 0.23720349563046192, "opt-350m_P@1": 0.09737827715355805}
-{"pattern": "Is the headquarter of [X] in [Y]?", "bert-base-uncased_P@1": 0.2883895131086142, "opt-350m_P@1": 0.1111111111111111}
-{"pattern": "Is the headquarter of [X] located in [Y]?", "bert-base-uncased_P@1": 0.352059925093633, "opt-350m_P@1": 0.18601747815230962}
+{"pattern": "The headquarter of [X] is in [Y] .", "bert-large-uncased_P@1": 0.3408239700374532, "opt-350m_P@1": 0.09363295880149813}
+{"pattern": "The headquarter of [X] is located in [Y] .", "bert-large-uncased_P@1": 0.3096129837702871, "opt-350m_P@1": 0.1136079900124844}
+{"pattern": "The headquarters of [X] are in [Y] .", "bert-large-uncased_P@1": 0.3570536828963795, "opt-350m_P@1": 0.05493133583021224}
+{"pattern": "The headquarters of [X] are located in [Y] .", "bert-large-uncased_P@1": 0.3333333333333333, "opt-350m_P@1": 0.04244694132334582}
+{"pattern": "[X] is based in [Y] .", "bert-large-uncased_P@1": 0.3807740324594257, "opt-350m_P@1": 0.21473158551810237}
+{"pattern": "[X] is headquartered in [Y] .", "bert-large-uncased_P@1": 0.37702871410736577, "opt-350m_P@1": 0.26591760299625467}
+{"pattern": "[X] is located in [Y] .", "bert-large-uncased_P@1": 0.30711610486891383, "opt-350m_P@1": 0.06991260923845194}
+{"pattern": "[X]'s headquarters are in [Y] .", "bert-large-uncased_P@1": 0.3645443196004994, "opt-350m_P@1": 0.046192259675405745}
+{"pattern": "[X], whose headquarters are in [Y] .", "bert-large-uncased_P@1": 0.3545568039950062, "opt-350m_P@1": 0.2247191011235955}
+{"pattern": "Are [X]'s headquarters in [Y]?", "bert-large-uncased_P@1": 0.36329588014981273, "opt-350m_P@1": 0.1373283395755306}
+{"pattern": "Are the headquarters of [X] in [Y]?", "bert-large-uncased_P@1": 0.3732833957553059, "opt-350m_P@1": 0.1136079900124844}
+{"pattern": "Are the headquarters of [X] located in [Y]?", "bert-large-uncased_P@1": 0.3208489388264669, "opt-350m_P@1": 0.13982521847690388}
+{"pattern": "Is [X] based in [Y]?", "bert-large-uncased_P@1": 0.31835205992509363, "opt-350m_P@1": 0.149812734082397}
+{"pattern": "Is [X] headquartered in [Y]?", "bert-large-uncased_P@1": 0.3545568039950062, "opt-350m_P@1": 0.20973782771535582}
+{"pattern": "Is [X] located in [Y]?", "bert-large-uncased_P@1": 0.26217228464419473, "opt-350m_P@1": 0.09737827715355805}
+{"pattern": "Is the headquarter of [X] in [Y]?", "bert-large-uncased_P@1": 0.31335830212234705, "opt-350m_P@1": 0.1111111111111111}
+{"pattern": "Is the headquarter of [X] located in [Y]?", "bert-large-uncased_P@1": 0.21098626716604243, "opt-350m_P@1": 0.18476903870162298}

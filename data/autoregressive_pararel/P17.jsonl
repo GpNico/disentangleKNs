@@ -1,8 +1,8 @@
-{"pattern": "The country [X] is located in is [Y] .", "bert-base-uncased_P@1": 0.021929824561403508, "opt-350m_P@1": 0.010964912280701754}
-{"pattern": "The state [X] is located in is [Y] .", "bert-base-uncased_P@1": 0.0, "opt-350m_P@1": 0.007675438596491228}
-{"pattern": "[X] is located in [Y] .", "bert-base-uncased_P@1": 0.26096491228070173, "opt-350m_P@1": 0.0043859649122807015}
-{"pattern": "[X] is located in the following country: [Y] .", "bert-base-uncased_P@1": 0.49890350877192985, "opt-350m_P@1": 0.22149122807017543}
-{"pattern": "[X] is located in the following state: [Y] .", "bert-base-uncased_P@1": 0.23903508771929824, "opt-350m_P@1": 0.021929824561403508}
-{"pattern": "[X], located in [Y] .", "bert-base-uncased_P@1": 0.2576754385964912, "opt-350m_P@1": 0.0021929824561403508}
-{"pattern": "[X], which is located in [Y] .", "bert-base-uncased_P@1": 0.16447368421052633, "opt-350m_P@1": 0.003289473684210526}
-{"pattern": "Is [X] located in [Y]?", "bert-base-uncased_P@1": 0.3190789473684211, "opt-350m_P@1": 0.03399122807017544}
+{"pattern": "The country [X] is located in is [Y] .", "bert-large-uncased_P@1": 0.006578947368421052, "opt-350m_P@1": 0.010964912280701754}
+{"pattern": "The state [X] is located in is [Y] .", "bert-large-uncased_P@1": 0.003289473684210526, "opt-350m_P@1": 0.007675438596491228}
+{"pattern": "[X] is located in [Y] .", "bert-large-uncased_P@1": 0.2675438596491228, "opt-350m_P@1": 0.0043859649122807015}
+{"pattern": "[X] is located in the following country: [Y] .", "bert-large-uncased_P@1": 0.5131578947368421, "opt-350m_P@1": 0.2236842105263158}
+{"pattern": "[X] is located in the following state: [Y] .", "bert-large-uncased_P@1": 0.32894736842105265, "opt-350m_P@1": 0.021929824561403508}
+{"pattern": "[X], located in [Y] .", "bert-large-uncased_P@1": 0.28728070175438597, "opt-350m_P@1": 0.0021929824561403508}
+{"pattern": "[X], which is located in [Y] .", "bert-large-uncased_P@1": 0.2894736842105263, "opt-350m_P@1": 0.003289473684210526}
+{"pattern": "Is [X] located in [Y]?", "bert-large-uncased_P@1": 0.3190789473684211, "opt-350m_P@1": 0.03399122807017544}

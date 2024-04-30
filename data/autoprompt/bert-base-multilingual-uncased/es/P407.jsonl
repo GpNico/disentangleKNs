@@ -1,4 +1,10 @@
-{"pattern": ["havana", "\u0438\u0441\u043f\u0430\u043d\u0438", "turing", "variedades", "englannin"], "ids": [54410, 37810, 68678, 73081, 81385], "seed": 0, "P@1": 0.4927536231884058}
-{"pattern": ["mosses", "mosses", "myspace", "gobiernu", "botanique"], "ids": [91492, 91492, 58292, 29824, 83189], "seed": 1, "P@1": 0.08695652173913043}
-{"pattern": ["isopoda", "rasmiy", "sitio", "entomologist", "wikang"], "ids": [38280, 32053, 22045, 59446, 42575], "seed": 2, "P@1": 0.7318840579710145}
-{"pattern": ["imdb", "\u0441\u0430\u0438\u0442\u0435", "sitio", "literalmente", "en"], "ids": [18103, 39947, 22045, 88735, 10109], "seed": 3, "P@1": 0.782608695652174}
+{"pattern": ["simbad", "sitio", "oficial", "bains", "idioma"], "ids": [16860, 22045, 13562, 45734, 30293], "seed": 0}
+{"pattern": ["imdb", "sitio", "escrito", "literalmente", "en"], "ids": [18103, 22045, 24570, 88735, 10109], "seed": 1}
+{"pattern": ["hitchcock", "wikipedia", "##ldab", "oficial", "wikang"], "ids": [42145, 12834, 93701, 13562, 42575], "seed": 2}
+{"pattern": ["na", "sitio", "\u0441\u0430\u0442\u0435\u043b\u0438\u0442\u043e\u0442", "rowling", "wikang"], "ids": [10135, 22045, 70300, 80677, 42575], "seed": 3}
+{"pattern": ["paxina", "deportista", "oficial", "##blik", "idioma"], "ids": [34978, 74325, 13562, 81038, 30293], "seed": 4}
+{"pattern": ["resistance", "facebook", "localidad", "estadounidense", "idioma"], "ids": [19899, 21105, 19349, 16903, 30293], "seed": 5}
+{"pattern": ["accesat", "isang", "llibru", "recu", "wikang"], "ids": [50381, 13179, 62672, 35645, 42575], "seed": 6}
+{"pattern": ["photographic", "imdb", "oficial", "junto", "idioma"], "ids": [71535, 18103, 13562, 13625, 30293], "seed": 7}
+{"pattern": ["idioma", "spanish", "iris", "cavendish", "idioma"], "ids": [30293, 14945, 27290, 69048, 30293], "seed": 8}
+{"pattern": ["ballet", "isang", "\u0441\u0430\u0438\u0442\u0435", "analisis", "wikang"], "ids": [25353, 13179, 39947, 35516, 42575], "seed": 9}

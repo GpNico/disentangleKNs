@@ -1,4 +1,10 @@
-{"pattern": ["memoire", "taxon", "sailkatua", "ions", "jeu"], "ids": [30390, 46256, 78982, 69110, 17203], "seed": 0, "P@1": 0.0}
-{"pattern": ["actrice", "realisation", "metacritic", "stephane", "selling"], "ids": [26087, 21959, 34729, 36762, 27885], "seed": 1, "P@1": 0.2222222222222222}
-{"pattern": ["\u0441\u0430\u0438\u0446\u0435", "spielfilm", "officiel", "metier", "\u9394"], "ids": [39719, 89976, 31692, 87117, 8825], "seed": 2, "P@1": 0.007936507936507936}
-{"pattern": ["schauspieler", "trophee", "wittgenstein", "trophee", "meilleur"], "ids": [31659, 54963, 79516, 54963, 18581], "seed": 3, "P@1": 0.49206349206349204}
+{"pattern": ["pratelan", "acteurs", "futbolo", "personnalite", "pratelan"], "ids": [83253, 48777, 36294, 80871, 83253], "seed": 0}
+{"pattern": ["rees", "skadespelare", "rsssf", "etoile", "abrams"], "ids": [76218, 53228, 58283, 36983, 70217], "seed": 1}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "allmovie", "dictionnaire", "\u043f\u0440\u043e\u0446\u0435\u0441\u0438", "liege"], "ids": [28937, 95402, 29181, 88091, 31948], "seed": 2}
+{"pattern": ["ciclista", "actress", "luc", "seva", "vie"], "ids": [33672, 19275, 13002, 12004, 13583], "seed": 3}
+{"pattern": ["regisseur", "variety", "actress", "societe", "concrete"], "ids": [29592, 17748, 19275, 13806, 33801], "seed": 4}
+{"pattern": ["atriz", "sylvie", "realisateur", "olivier", "alger"], "ids": [41238, 86235, 34013, 22371, 32303], "seed": 5}
+{"pattern": ["spoorlijn", "anciennement", "regisseur", "##\u043d\u043e\u0441\u0442\u044f\u0445", "voormalig"], "ids": [51192, 78566, 29592, 80665, 48974], "seed": 6}
+{"pattern": ["electricite", "paradis", "actrice", "societe", "palmas"], "ids": [76090, 60264, 26087, 13806, 48970], "seed": 7}
+{"pattern": ["theatre", "##\u043c\u0438\u0446\u0430", "zyrtare", "overleden", "jonge"], "ids": [12350, 85480, 87630, 45137, 40256], "seed": 8}
+{"pattern": ["miglia", "aquino", "fame", "##euse", "\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0438"], "ids": [96273, 61387, 16724, 29750, 60069], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["hygiene", "fleurs", "officiel", "city", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [82700, 49348, 31692, 10575, 55892], "seed": 0, "P@1": 0.12195121951219512}
-{"pattern": ["universida", "administrativement", "europaea", "provincia", "##hochschule"], "ids": [33974, 81930, 32092, 11389, 71708], "seed": 1, "P@1": 0.054878048780487805}
-{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "##\u05e1\u05d9\u05df", "\u0627\u06cc\u062f\u0627\u0631\u06cc", "\u0627\u0644\u0639\u0627\u0635\u0645\u0629", "ifk"], "ids": [28937, 85602, 64149, 58824, 65435], "seed": 2, "P@1": 0.11585365853658537}
-{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "orasul", "\u0441\u0430\u0438\u0442\u0435", "institut", "metropolitan"], "ids": [28937, 37845, 39947, 13786, 19077], "seed": 3, "P@1": 0.07317073170731707}
+{"pattern": ["shopping", "gallery", "grands", "districts", "de"], "ids": [35263, 16176, 20755, 20824, 10102], "seed": 0}
+{"pattern": ["housing", "building", "websteed", "complexe", "greater"], "ids": [20183, 12262, 94284, 41760, 18860], "seed": 1}
+{"pattern": ["apartments", "booth", "batiment", "urbis", "de"], "ids": [79256, 47911, 29619, 95442, 10102], "seed": 2}
+{"pattern": ["cathedrale", "situee", "metro", "spotlight", "de"], "ids": [41071, 15499, 11340, 96513, 10102], "seed": 3}
+{"pattern": ["districtul", "premio", "londen", "ode", "premio"], "ids": [95967, 12772, 35196, 47987, 12772], "seed": 4}
+{"pattern": ["obituary", "situs", "##\u0635\u0646\u0641", "conservateur", "orasului"], "ids": [76504, 20757, 62021, 83701, 48045], "seed": 5}
+{"pattern": ["naitional", "websait", "##nister", "aeroport", "\u0911\u092b"], "ids": [87207, 69121, 85644, 28614, 28618], "seed": 6}
+{"pattern": ["franta", "kabul", "islamabad", "stade", "metropolitan"], "ids": [32149, 19225, 47779, 21040, 19077], "seed": 7}
+{"pattern": ["street", "tumbuhan", "imaxes", "municipais", "perbandaran"], "ids": [11902, 55993, 93625, 75026, 30712], "seed": 8}
+{"pattern": ["gallery", "liste", "officiel", "ville", "##\u043e\u043d\u043d\u044b\u0445"], "ids": [16176, 13593, 31692, 11750, 57295], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["senat", "pagina", "interna", "ciutat", "##\u10df"], "ids": [27118, 16833, 27347, 15684, 97058], "seed": 0, "P@1": 0.4166666666666667}
-{"pattern": ["eyaletinde", "ethnologue", "glottolog", "harta", "orasului"], "ids": [83291, 37982, 72555, 38407, 48045], "seed": 1, "P@1": 0.46296296296296297}
-{"pattern": ["2015\u0b86\u0bae", "arrondissementer", "commons", "distrito", "greater"], "ids": [71707, 56054, 14197, 12911, 18860], "seed": 2, "P@1": 0.48148148148148145}
-{"pattern": ["perbandaran", "arrondissementer", "distrito", "##\u0438\u0437\u0438\u0438", "greater"], "ids": [30712, 56054, 12911, 91911, 18860], "seed": 3, "P@1": 0.4722222222222222}
+{"pattern": ["legislative", "resedinta", "aeropuertu", "metropolitana", "de"], "ids": [22850, 36622, 74657, 25859, 10102], "seed": 0}
+{"pattern": ["state", "principal", "parlamentu", "ciuda", "de"], "ids": [10652, 11773, 33908, 22020, 10102], "seed": 1}
+{"pattern": ["arrondissementer", "##web", "universida", "urbana", "\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u0435\u0435"], "ids": [56054, 39620, 33974, 27811, 93614], "seed": 2}
+{"pattern": ["##ului", "messier", "commons", "gjeld", "orasul"], "ids": [12745, 62146, 14197, 76638, 37845], "seed": 3}
+{"pattern": ["arrondissementer", "cithakan", "circondare", "aeropuertu", "\u0644\u0645\u062d\u0627\u0641\u0638\u0629"], "ids": [56054, 60596, 51555, 74657, 43270], "seed": 4}
+{"pattern": ["conservato", "\u05d1\u05d9\u05d5\u05e0\u05d9", "arrondissementer", "website", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [93448, 34525, 56054, 12699, 62170], "seed": 5}
+{"pattern": ["godini", "kjeldene", "commons", "gjeld", "grad"], "ids": [40122, 51669, 14197, 76638, 14375], "seed": 6}
+{"pattern": ["resume", "provincias", "resedinta", "city", "de"], "ids": [21337, 31472, 36622, 10575, 10102], "seed": 7}
+{"pattern": ["commons", "pa", "imaxes", "universitetet", "##\u05d3\u05e8\u05d9\u05da"], "ids": [14197, 10202, 93625, 32624, 80308], "seed": 8}
+{"pattern": ["national", "resedinta", "aeropuertu", "metropolitana", "de"], "ids": [10551, 36622, 74657, 25859, 10102], "seed": 9}

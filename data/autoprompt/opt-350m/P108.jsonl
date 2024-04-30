@@ -1,4 +1,10 @@
-{"pattern": ["VIDIA", "microsoft", "\u0120crit", "ram", "ishes"], "ids": [49935, 48048, 28024, 4040, 10776], "seed": 0, "P@1": 0.05026455026455026}
-{"pattern": ["\u0120abolition", "NBC", "\u012000000000", "Microsoft", "\u0120and"], "ids": [34117, 19542, 49524, 35460, 8], "seed": 1, "P@1": 0.07936507936507936}
-{"pattern": ["Microsoft", "Compat", "\":\"\"},{\"", "Business", "\u0120thanked"], "ids": [35460, 49697, 50020, 18562, 9079], "seed": 2, "P@1": 0.06349206349206349}
-{"pattern": ["\u0120hearings", "Microsoft", "\u0120antitrust", "\u0120fined", "'';"], "ids": [9445, 35460, 18849, 10110, 49525], "seed": 3, "P@1": 0.07142857142857142}
+{"pattern": ["CNN", "Microsoft", ".\u00e2\u0122\u0136", "IB", "\u0120and"], "ids": [16256, 35460, 24922, 8863, 8], "seed": 0, "P@1": 0.082010582010582}
+{"pattern": ["\u0120corporation", "\u0120eBay", "ichick", "Microsoft", "\u0120unit"], "ids": [12772, 18595, 47790, 35460, 1933], "seed": 1, "P@1": 0.031746031746031744}
+{"pattern": ["\u0120computers", "Ds", "\u0120automakers", "Microsoft", "ets"], "ids": [7796, 32634, 15422, 35460, 2580], "seed": 2, "P@1": 0.082010582010582}
+{"pattern": ["NBC", "\u0120synd", "Penn", "VIDIA", "Microsoft"], "ids": [19542, 7504, 35104, 49935, 35460], "seed": 3, "P@1": 0.0}
+{"pattern": ["Microsoft", "\u0120earnings", "\u0120dips", "ATED", ":"], "ids": [35460, 1107, 29686, 5161, 35], "seed": 4, "P@1": 0.07142857142857142}
+{"pattern": ["CBS", "Microsoft", "\u0120declines", "\u0120government", "\u0120||"], "ids": [8949, 35460, 11081, 168, 45056], "seed": 5, "P@1": 0.07936507936507936}
+{"pattern": ["\u0120tournament", "\u0120governors", "Microsoft", "\u0120recipients", "\u0120351"], "ids": [1967, 12066, 35460, 11940, 40296], "seed": 6, "P@1": 0.07142857142857142}
+{"pattern": ["\u0120subsidiaries", "Microsoft", "\u0120`", "\u0120first", "'';"], "ids": [11609, 35460, 22209, 78, 49525], "seed": 7, "P@1": 0.082010582010582}
+{"pattern": ["\u0120('", "Microsoft", "\u0120(", ")", "\u0120>"], "ids": [31509, 35460, 36, 43, 8061], "seed": 8, "P@1": 0.09259259259259259}
+{"pattern": [".\u00e3\u0122\u012f", "Microsoft", "\u0120outsourcing", "\u0120coron", "\u0120--"], "ids": [50088, 35460, 24346, 34377, 480], "seed": 9, "P@1": 0.06878306878306878}

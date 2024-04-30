@@ -1,4 +1,10 @@
-{"pattern": ["\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0438", "site", "\u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f", "##\u0627\u0631\u06c1", "prifysgol"], "ids": [72827, 11692, 42903, 54411, 83024], "seed": 0, "P@1": 0.6632653061224489}
-{"pattern": ["artigo", "cithakan", "abitanti", "##eaux", "de"], "ids": [34254, 60596, 17319, 50534, 10102], "seed": 1, "P@1": 0.7142857142857143}
-{"pattern": ["meaning", "\u0907\u0917\u0930\u091c\u0940", "\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443", "ville", "of"], "ids": [19886, 67323, 95562, 11750, 10108], "seed": 2, "P@1": 0.6836734693877551}
-{"pattern": ["aerodrome", "francuske", "udara", "##\u0433\u043e\u04b3\u0438", "hotel"], "ids": [79367, 21743, 23787, 50641, 12752], "seed": 3, "P@1": 0.6224489795918368}
+{"pattern": ["wikimedia", "saesneg", "##\u056f\u0561\u0581\u056b", "environnement", "of"], "ids": [13609, 22693, 95229, 37749, 10108], "seed": 0}
+{"pattern": ["##forschung", "literalmente", "##iologia", "tourisme", "de"], "ids": [49403, 88735, 81253, 62230, 10102], "seed": 1}
+{"pattern": ["##pedia", "\u043f\u0443\u0440a\u043d\u0430\u043d", "##ique", "cithakan", "greater"], "ids": [44774, 81052, 12259, 60596, 18860], "seed": 2}
+{"pattern": ["wikimedia", "paginam", "\u4f0e", "commons", "greater"], "ids": [13609, 70512, 1809, 14197, 18860], "seed": 3}
+{"pattern": ["ou", "llugar", "afrikaans", "ville", "de"], "ids": [10391, 32341, 52816, 11750, 10102], "seed": 4}
+{"pattern": ["##sner", "\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "wiki", "vie", "de"], "ids": [94133, 26814, 25883, 13583, 10102], "seed": 5}
+{"pattern": ["database", "wikimedia", "cithakan", "\u62c5", "greater"], "ids": [10326, 13609, 60596, 3991, 18860], "seed": 6}
+{"pattern": ["#", "\u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f", "fransanik", "municipais", "\u062f\u0631\u0628\u0627\u0631\u0647"], "ids": [108, 94645, 62779, 75026, 39181], "seed": 7}
+{"pattern": ["##\u0907", "britannica", "bbc", "autour", "de"], "ids": [33912, 14221, 11896, 22796, 10102], "seed": 8}
+{"pattern": ["appellantur", "britannica", "article", "nouvelles", "de"], "ids": [83949, 14221, 12877, 20233, 10102], "seed": 9}

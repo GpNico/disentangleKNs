@@ -1,8 +1,0 @@
-{"pattern": ["kilograms", "businessman", "retired", "acclaimed", "swedish"], "ids": [18857, 6883, 3394, 10251, 4467], "seed": 0, "P@1": 0.24116930572472595}
-{"pattern": ["roster", "lenin", "songwriter", "sociologist", "olympic"], "ids": [9238, 17497, 6009, 25106, 4386], "seed": 1, "P@1": 0.0}
-{"pattern": ["iain", "gough", "##oche", "career", "parliamentary"], "ids": [24486, 29124, 23555, 2476, 5768], "seed": 2, "P@1": 0.1559074299634592}
-{"pattern": ["footballer", "vittorio", "zeppelin", "laureate", "german"], "ids": [4362, 25914, 22116, 17656, 2446], "seed": 3, "P@1": 0.0}
-{"pattern": ["judgment", "jain", "statesman", "norwegian", "belarusian"], "ids": [8689, 17136, 17689, 5046, 15626], "seed": 4, "P@1": 0.15834348355663824}
-{"pattern": ["aggregator", "politicians", "marxist", "famous", "belarusian"], "ids": [24089, 8801, 15511, 3297, 15626], "seed": 5, "P@1": 0.16443361753958588}
-{"pattern": ["fixtures", "artistic", "statesman", "footballer", "artistic"], "ids": [17407, 6018, 17689, 4362, 6018], "seed": 6, "P@1": 0.1364190012180268}
-{"pattern": ["extinct", "surname", "##ogist", "and", "modern"], "ids": [8548, 11988, 22522, 1998, 2715], "seed": 7, "P@1": 0.06942752740560293}

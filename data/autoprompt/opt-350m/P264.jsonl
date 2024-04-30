@@ -1,4 +1,10 @@
-{"pattern": ["\u0120liberty", "Apple", "ixir", "\u0120\u00c2\u00bd", "Western"], "ids": [17574, 20770, 46180, 18430, 27467], "seed": 0, "P@1": 0.0}
-{"pattern": ["\u0120brands", "\u0120liberty", "\u0120(+", "Apple", "\u0120());"], "ids": [3595, 17574, 16998, 20770, 49953], "seed": 1, "P@1": 0.0}
-{"pattern": ["\u0120liberty", "\u0120decoration", "Apple", "wealth", "\u0120-"], "ids": [17574, 37364, 20770, 26257, 111], "seed": 2, "P@1": 0.0}
-{"pattern": ["Liber", "catentry", "\u0120apple", "CENT", "istic"], "ids": [38107, 50207, 15162, 31152, 5580], "seed": 3, "P@1": 0.0}
+{"pattern": ["Apple", "\u0120subsidiaries", "Liber", "terness", ","], "ids": [20770, 11609, 38107, 48699, 6], "seed": 0, "P@1": 0.0}
+{"pattern": ["\u0120painted", "\u0120liberty", "\u0120iCloud", "\u0120liberty", "Gold"], "ids": [10122, 17574, 36073, 17574, 20439], "seed": 1, "P@1": 0.0}
+{"pattern": ["Apple", "Gold", "\u0120liberty", "Station", "\u0120and"], "ids": [20770, 20439, 17574, 41925, 8], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120<!--", "Apple", "\u0120liberty", "\u0120monument", "The"], "ids": [49962, 20770, 17574, 14222, 133], "seed": 3, "P@1": 0.0}
+{"pattern": ["\u0120websites", "Liber", "ty", "\u0120($", "%),"], "ids": [7656, 38107, 2553, 1358, 20186], "seed": 4, "P@1": 0.0}
+{"pattern": ["Apple", "\u0120tallest", "\u0120liberty", "\u0120\u00e2\u0122\u0137", "Ultimate"], "ids": [20770, 28038, 17574, 15130, 46427], "seed": 5, "P@1": 0.0}
+{"pattern": ["Apple", "\u0120rival", "\u0120liberty", "\u0120red", "\u0120\u00e2\u0122\u00a2"], "ids": [20770, 3429, 17574, 1275, 1347], "seed": 6, "P@1": 0.0}
+{"pattern": ["Apple", "\u0120subsidiaries", "Liber", "terness", "\u0120and"], "ids": [20770, 11609, 38107, 48699, 8], "seed": 7, "P@1": 0.0}
+{"pattern": ["themed", "\u0120liberty", "Arc", "\u0120\u00c2\u00a3", "African"], "ids": [14694, 17574, 45018, 984, 30112], "seed": 8, "P@1": 0.0}
+{"pattern": ["iatures", "Apple", "\u0120liberty", "ML", "\u0120versus"], "ids": [46720, 20770, 17574, 10537, 4411], "seed": 9, "P@1": 0.0}

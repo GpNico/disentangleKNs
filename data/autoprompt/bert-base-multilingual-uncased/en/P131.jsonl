@@ -1,4 +1,10 @@
-{"pattern": ["arrondissementer", "http", "coal", "\u0435\u043a\u0442", "greater"], "ids": [56054, 10635, 28203, 60800, 18860], "seed": 0, "P@1": 0.23295454545454544}
-{"pattern": ["database", "##olina", "perbandaran", "parke", "din"], "ids": [10326, 86237, 30712, 27302, 10621], "seed": 1, "P@1": 0.3068181818181818}
-{"pattern": ["wikimedia", "polka", "##ografie", "perbandaran", "rural"], "ids": [13609, 77341, 87252, 30712, 14982], "seed": 2, "P@1": 0.25}
-{"pattern": ["samband", "stad", "lugha", "website", "van"], "ids": [37757, 13740, 22052, 12699, 10147], "seed": 3, "P@1": 0.2784090909090909}
+{"pattern": ["ialah", "federation", "perbandaran", "harta", "greater"], "ids": [15065, 15229, 30712, 38407, 18860], "seed": 0}
+{"pattern": ["geschichten", "scenic", "database", "unesco", "greater"], "ids": [56391, 87932, 10326, 16077, 18860], "seed": 1}
+{"pattern": ["district", "kingdom", "canton", "##mentul", "statului"], "ids": [11091, 11721, 13914, 69624, 76477], "seed": 2}
+{"pattern": ["poate", "true", "\u0434\u0430\u0440", "commons", "judetul"], "ids": [25354, 16222, 11869, 14197, 28313], "seed": 3}
+{"pattern": ["hedmark", "toledo", "nepal", "kalifornia", "nazareth"], "ids": [67144, 23369, 21062, 50211, 93897], "seed": 4}
+{"pattern": ["galeria", "municipais", "imaxes", "districts", "##\u0632\u064a\u0648\u0646"], "ids": [21681, 75026, 93625, 20824, 77158], "seed": 5}
+{"pattern": ["district", "osztalyanak", "imaxes", "municipais", "southern"], "ids": [11091, 83612, 93625, 75026, 12952], "seed": 6}
+{"pattern": ["tourist", "\u0441\u0430\u0438\u0446\u0435", "tourism", "district", "of"], "ids": [41181, 39719, 27780, 11091, 10108], "seed": 7}
+{"pattern": ["bristol", "bagdad", "maine", "nepal", "lebanon"], "ids": [24724, 48030, 19666, 21062, 38835], "seed": 8}
+{"pattern": ["is", "imaxes", "\u0430\u043a\u0448", "administrativement", "frae"], "ids": [10127, 93625, 38721, 81930, 24400], "seed": 9}

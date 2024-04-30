@@ -1,4 +1,10 @@
-{"pattern": ["altos", "petersburg", "seoul", "asuncion", "damaskus"], "ids": [34289, 22957, 23422, 45836, 83533], "seed": 0, "P@1": 0.006622516556291391}
-{"pattern": ["ither", "israeli", "##oned", "cities", "\u0926\u093f\u0932\u0932\u0940"], "ids": [75720, 25828, 56675, 17040, 42562], "seed": 1, "P@1": 0.0}
-{"pattern": ["berlijn", "bucharest", "berlino", "nueva", "tripoli"], "ids": [69417, 60641, 49219, 12782, 44126], "seed": 2, "P@1": 0.026490066225165563}
-{"pattern": ["este", "parijs", "seoul", "ciudad", "\u05e6\u05d4"], "ids": [10494, 37683, 23422, 12034, 60809], "seed": 3, "P@1": 0.026490066225165563}
+{"pattern": ["dividido", "asteroides", "bucharest", "berlino", "baghdad"], "ids": [60453, 21769, 60641, 49219, 54489], "seed": 0}
+{"pattern": ["xapon", "##mientos", "bucharest", "lungsod", "##\u9398"], "ids": [61350, 34597, 60641, 11195, 104605], "seed": 1}
+{"pattern": ["localidades", "aristoteles", "spartak", "peking", "spartak"], "ids": [34421, 51056, 57508, 45508, 57508], "seed": 2}
+{"pattern": ["\u043a\u043e\u043b\u0438\u0448\u043d\u0456\u0438", "\u0431\u0435\u043b\u0433\u0440\u0430\u0434", "##\u30a7\u30fc\u30e0\u30b9", "##iterio", "c\u0259nubi"], "ids": [75169, 81513, 94434, 57460, 77237], "seed": 3}
+{"pattern": ["pueblo", "peking", "bucharest", "tri", "city"], "ids": [16901, 45508, 60641, 11820, 10575], "seed": 4}
+{"pattern": ["tottenham", "bruselas", "berlino", "hongkong", "babilonia"], "ids": [52181, 88196, 49219, 57274, 86538], "seed": 5}
+{"pattern": ["derecha", "baghdad", "stavanger", "bucharest", "saigon"], "ids": [39132, 54489, 46506, 60641, 93288], "seed": 6}
+{"pattern": ["brussels", "pueblo", "peking", "baghdad", "olimpico"], "ids": [37078, 16901, 45508, 54489, 36303], "seed": 7}
+{"pattern": ["medallas", "capitals", "vuelos", "hanoi", "y"], "ids": [69747, 74348, 90984, 50020, 167], "seed": 8}
+{"pattern": ["olimpiai", "johannesburg", "trece", "llugar", "olimpiai"], "ids": [57057, 41549, 47031, 32341, 57057], "seed": 9}

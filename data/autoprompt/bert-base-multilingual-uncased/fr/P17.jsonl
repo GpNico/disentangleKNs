@@ -1,4 +1,10 @@
-{"pattern": ["olimpiai", "liste", "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442", "situee", "\u0645\u062f\u0646"], "ids": [57057, 13593, 21985, 15499, 30763], "seed": 0, "P@1": 0.40145985401459855}
-{"pattern": ["\u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0442\u043e\u0440", "reference", "accidente", "naturelles", "din"], "ids": [30448, 12279, 47448, 60971, 10621], "seed": 1, "P@1": 0.35036496350364965}
-{"pattern": ["coisas", "ganador", "\u043a\u0430\u043d\u0430\u0434\u0430", "\u30d5\u30e9\u30f3\u30b9", "\u092a\u093e\u0915\u093f\u0938\u0924\u093e\u0928"], "ids": [77928, 46042, 33490, 30378, 66047], "seed": 2, "P@1": 0.0}
-{"pattern": ["\u0442\u043e\u043c\u044b\u043d\u044b\u04a3", "cles", "glottolog", "geographie", "\u0911\u092b"], "ids": [40810, 56256, 72555, 58336, 28618], "seed": 3, "P@1": 0.20437956204379562}
+{"pattern": ["une", "reign", "\u0646\u0633\u0645\u0629", "ville", "en"], "ids": [10249, 30498, 14976, 11750, 10109], "seed": 0}
+{"pattern": ["piliakalnis", "liste", "villes", "situees", "\u09ac\u09bf\u09ad\u09be\u0997\u09b0"], "ids": [54555, 13593, 25850, 82254, 69093], "seed": 1}
+{"pattern": ["observatory", "liste", "championnat", "villages", "##\u0447\u043d\u043e\u0438"], "ids": [35909, 13593, 16375, 17495, 26565], "seed": 2}
+{"pattern": ["\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f", "\u0632\u0627\u062f\u0647", "jeunesse", "titre", "miss"], "ids": [80584, 19654, 32294, 13021, 14344], "seed": 3}
+{"pattern": ["decors", "francie", "astana", "automobile", "decors"], "ids": [61233, 55589, 58496, 27605, 61233], "seed": 4}
+{"pattern": ["websteed", "titre", "weather", "names", "##\u04b3\u043e\u0438"], "ids": [94284, 13021, 24387, 12276, 15300], "seed": 5}
+{"pattern": ["liste", "collect", "miejscowosci", "situees", "\u0627\u062c\u0631\u0627\u06cc"], "ids": [13593, 71931, 27938, 82254, 64646], "seed": 6}
+{"pattern": ["badminton", "\u043b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432", "championnat", "d", "##\u0435\u0440\u0445\u043d\u044f"], "ids": [44809, 90011, 16375, 146, 94065], "seed": 7}
+{"pattern": ["xapon", "iles", "\u043f\u0430\u043c", "haute", "\u57f7"], "ids": [61350, 28046, 20352, 15744, 2858], "seed": 8}
+{"pattern": ["lescht", "du", "\u0924\u094c\u0930", "villes", "##\u0443\u0436\u0435\u043d"], "ids": [27798, 10169, 64883, 25850, 94759], "seed": 9}

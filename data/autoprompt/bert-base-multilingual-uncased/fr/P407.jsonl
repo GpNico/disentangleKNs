@@ -1,4 +1,10 @@
-{"pattern": ["ethnologue", "francese", "palais", "inglese", "pavillon"], "ids": [37982, 16382, 21590, 20235, 61604], "seed": 0, "P@1": 0.4503311258278146}
-{"pattern": ["abitanti", "inglese", "partit", "revolutionnaire", "colonial"], "ids": [17319, 20235, 22408, 77515, 20961], "seed": 1, "P@1": 0.152317880794702}
-{"pattern": ["\u043f\u0456\u0441\u043d\u044f", "titre", "\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430", "wikipedia", "cote"], "ids": [71949, 13021, 44323, 12834, 14185], "seed": 2, "P@1": 0.6026490066225165}
-{"pattern": ["\u0431\u0435\u043a", "\u0432\u043e\u043b\u043e\u0441\u0442\u044c", "langue", "ingles", "langue"], "ids": [88314, 63411, 20219, 12194, 20219], "seed": 3, "P@1": 0.31788079470198677}
+{"pattern": ["sampiyonas\u0131", "prononciation", "ofisiel", "locality", "bahasa"], "ids": [76521, 93584, 63620, 67958, 13683], "seed": 0}
+{"pattern": ["\u0915\u0930\u093f\u0915\u091f", "equipe", "mellor", "stade", "\u05db\u05d3\u05d5\u05e8"], "ids": [41874, 12923, 48503, 21040, 79887], "seed": 1}
+{"pattern": ["ashes", "langue", "officielle", "\u0444\u0440\u0435\u043d\u0441\u043a\u0438", "et"], "ids": [65487, 20219, 43111, 60593, 10137], "seed": 2}
+{"pattern": ["sabbath", "ethnologue", "genre", "etranger", "berbahasa"], "ids": [56417, 37982, 14557, 46480, 85859], "seed": 3}
+{"pattern": ["\u0434\u0432\u043e\u0440\u0446\u0430", "inglese", "\u0434\u0432\u043e\u0440\u0435\u0446", "\u0456\u043d\u0444\u0430\u0440\u043c\u0430\u0446\u044b\u044f", "pavillon"], "ids": [94538, 20235, 54571, 42566, 61604], "seed": 4}
+{"pattern": ["edifice", "titre", "\u0432\u043e\u043b\u043e\u0441\u0442\u0456", "wikipedia", "\u0c06\u0c30\u0c17\u0c2f"], "ids": [42860, 13021, 83789, 12834, 19122], "seed": 5}
+{"pattern": ["langue", "nemetul", "wrestler", "gazetteer", "langue"], "ids": [20219, 86725, 50121, 30674, 20219], "seed": 6}
+{"pattern": ["turing", "ou", "medallas", "\u0441\u0430\u0438\u0446\u0435", "deportista"], "ids": [68678, 10391, 69747, 39719, 74325], "seed": 7}
+{"pattern": ["traduction", "zeppelin", "database", "ancien", "langue"], "ids": [44737, 42598, 10326, 16131, 20219], "seed": 8}
+{"pattern": ["englische", "\u0444\u043b\u0430\u0433", "imdb", "titre", "pavillon"], "ids": [52416, 65422, 18103, 13021, 61604], "seed": 9}

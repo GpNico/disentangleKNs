@@ -1,4 +1,10 @@
-{"pattern": ["unite", "arrondissementer", "ancien", "ceremonial", "\u0442\u04e9\u043d\u044c\u044f\u043a"], "ids": [20683, 56054, 16131, 84354, 38937], "seed": 0, "P@1": 0.04827586206896552}
-{"pattern": ["ligue", "trois", "punjab", "georgia", "graafschap"], "ids": [18765, 12475, 36740, 14972, 64931], "seed": 1, "P@1": 0.0}
-{"pattern": ["qatar", "jordan", "ouest", "belga", "suburban"], "ids": [33951, 16405, 13819, 31044, 60644], "seed": 2, "P@1": 0.05517241379310345}
-{"pattern": ["\u9cc4", "prifysgol", "bore", "direction", "prifysgol"], "ids": [9761, 83024, 57550, 14821, 83024], "seed": 3, "P@1": 0.034482758620689655}
+{"pattern": ["cricket", "chemins", "succes", "ville", "din"], "ids": [20280, 46168, 16339, 11750, 10621], "seed": 0}
+{"pattern": ["sehri", "##tren", "fowk", "hiel", "##yn"], "ids": [85008, 51764, 85047, 83385, 13030], "seed": 1}
+{"pattern": ["bosnie", "london", "ouest", "rebelde", "##land"], "ids": [64882, 10912, 13819, 87616, 11209], "seed": 2}
+{"pattern": ["liens", "\u0430\u043d\u044b\u049b\u0442\u0430\u043c\u0430\u043b\u044b\u049b", "cithakan", "\u06af\u0648\u0631\u0647", "rural"], "ids": [71960, 69306, 60596, 37282, 14982], "seed": 3}
+{"pattern": ["northern", "monarchy", "counties", "ouest", "antiken"], "ids": [12968, 43796, 18819, 13819, 81686], "seed": 4}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "fransiyaning", "\u00b9", "province", ":"], "ids": [28937, 33313, 194, 12092, 131], "seed": 5}
+{"pattern": ["revient", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "referendum", "council", "sur"], "ids": [41296, 58703, 27297, 12457, 10344], "seed": 6}
+{"pattern": ["anciennement", "##sico", "districts", "parliament", "de"], "ids": [78566, 89457, 20824, 17026, 10102], "seed": 7}
+{"pattern": ["ceremonial", "feminine", "les", "\u043c\u0458\u0435\u0441\u0442\u043e", "judetul"], "ids": [84354, 45050, 10152, 64691, 28313], "seed": 8}
+{"pattern": ["fivondronan", "##e", "compris", "fylke", "republikken"], "ids": [21214, 10111, 33227, 14466, 83107], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["\u057a\u0561\u0577\u057f\u0578\u0576\u0561\u056f\u0561\u0576", "\u0644\u06cc\u0633\u062a\u06cc", "animation", "district", "greater"], "ids": [24602, 24265, 21762, 11091, 18860], "seed": 0, "P@1": 0.273224043715847}
-{"pattern": ["building", "consulta", "\u043d\u0430\u0441\u0435\u043b\u044c\u043d\u0456\u0446\u0442\u0432\u0430", "city", "of"], "ids": [12262, 40174, 29959, 10575, 10108], "seed": 1, "P@1": 0.3114754098360656}
-{"pattern": ["\u092a\u0930\u0938\u0915\u093e\u0930", "\u00a9", "city", "##\u0438\u0458\u0430", "of"], "ids": [26109, 181, 10575, 15078, 10108], "seed": 2, "P@1": 0.30601092896174864}
-{"pattern": ["\u0430\u0441\u0441\u0440", "theater", "benywaidd", "ganed", "prifysgol"], "ids": [39426, 14943, 65110, 75304, 83024], "seed": 3, "P@1": 0.2459016393442623}
+{"pattern": ["bourse", "##niku", "##vuti", "city", "of"], "ids": [82408, 22076, 82008, 10575, 10108], "seed": 0}
+{"pattern": ["zenit", "basket", "auckland", "olympia", "basket"], "ids": [88121, 28296, 31066, 38649, 28296], "seed": 1}
+{"pattern": ["pada", "bourse", "rasmi", "city", "of"], "ids": [10543, 82408, 51464, 10575, 10108], "seed": 2}
+{"pattern": ["auditorium", "##\u06af\u0631", "inglis", "studio", "in"], "ids": [58684, 28935, 71324, 12071, 10104], "seed": 3}
+{"pattern": ["\u00a9", "copyright", "city", "council", "of"], "ids": [181, 46921, 10575, 12457, 10108], "seed": 4}
+{"pattern": ["berlijn", "carnegie", "koronantsary", "univers", "club"], "ids": [69417, 36698, 67521, 36162, 10682], "seed": 5}
+{"pattern": ["2017", "\u00a9", "city", "##\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438", "greater"], "ids": [10294, 181, 10575, 68598, 18860], "seed": 6}
+{"pattern": ["\u00a9", "\u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0438", "metro", "city", "of"], "ids": [181, 25674, 11340, 10575, 10108], "seed": 7}
+{"pattern": ["hanoi", "bagdad", "johannesburg", "landern", "triangle"], "ids": [50020, 48030, 41549, 37323, 37880], "seed": 8}
+{"pattern": ["##\u044c\u0432\u0430", "auditorium", "inglis", "studios", "in"], "ids": [91249, 58684, 71324, 16037, 10104], "seed": 9}

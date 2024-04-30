@@ -1,4 +1,10 @@
-{"pattern": ["\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0438", "angles", "univerzite", "universitetet", "##cijom"], "ids": [67299, 22624, 50491, 32624, 65775], "seed": 0, "P@1": 0.18181818181818182}
-{"pattern": ["sua", "olimpiai", "database", "universidade", "\u0a93\u0aab"], "ids": [10559, 57057, 10326, 18032, 55203], "seed": 1, "P@1": 0.09090909090909091}
-{"pattern": ["babilonia", "parijs", "moscou", "ciudad", "\u9cc3"], "ids": [86538, 37683, 31370, 12034, 9760], "seed": 2, "P@1": 0.08484848484848485}
-{"pattern": ["##\u092e\u092e", "paxina", "incorporates", "metropolitana", "de"], "ids": [76268, 34978, 96480, 25859, 10102], "seed": 3, "P@1": 0.3333333333333333}
+{"pattern": ["ciudades", "hispan", "hamburg", "london", "bethlehem"], "ids": [28716, 70911, 15332, 10912, 87850], "seed": 0}
+{"pattern": ["orchestra", "conservato", "##ariu", "dramatique", ","], "ids": [15099, 93448, 44697, 57890, 117], "seed": 1}
+{"pattern": ["babilonia", "cairo", "espana", "london", "metropolis"], "ids": [86538, 35698, 12657, 10912, 59596], "seed": 2}
+{"pattern": ["\u05d1\u05ea\u05d5\u05db\u05e0\u05d9\u05ea", "biography", "center", "conceyu", "greater"], "ids": [82923, 14097, 11473, 33130, 18860], "seed": 3}
+{"pattern": ["ng", "unesco", "\u0441\u0430\u0438\u0442\u0435", "lungsod", "##yong"], "ids": [10822, 16077, 39947, 11195, 41482], "seed": 4}
+{"pattern": ["babilonia", "habana", "\u043b\u043e\u043d\u0434\u043e\u043d", "firenze", "casablanca"], "ids": [86538, 52404, 35546, 24202, 52797], "seed": 5}
+{"pattern": ["orchestra", "##ccion", "conservato", "principal", "de"], "ids": [15099, 17831, 93448, 11773, 10102], "seed": 6}
+{"pattern": ["baseret", "##xito", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u0438", "universitetet", "olimpijskih"], "ids": [91273, 94559, 59714, 32624, 87098], "seed": 7}
+{"pattern": ["\u0d2a\u0d30\u0d38\u0d15\u0d3e\u0d30\u0d02", "sitiu", "\u056d\u0578\u0580\u0570\u0580\u0564\u0561\u0575\u056b\u0576", "metropolitana", "de"], "ids": [84132, 90778, 55791, 25859, 10102], "seed": 8}
+{"pattern": ["paxina", "parijs", "cairo", "londen", "##\u043a\u0442\u0438\u043a\u0438"], "ids": [34978, 37683, 35698, 35196, 91127], "seed": 9}

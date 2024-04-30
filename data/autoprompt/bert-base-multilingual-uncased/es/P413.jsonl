@@ -1,4 +1,10 @@
-{"pattern": ["former", "\u0578\u0582\u056f\u0580", "omonima", "joaquim", "nigerian"], "ids": [11876, 17452, 56008, 46350, 74909], "seed": 0, "P@1": 0.0}
-{"pattern": ["##\u043e\u0440\u0438\u0438", "attaccante", "carolyn", "icao", "del"], "ids": [75570, 76244, 75699, 30063, 10134], "seed": 1, "P@1": 0.0}
-{"pattern": ["cdata", "##dao", "baku", "\u06a9\u0627", "\u0561\u056f\u0578\u0582\u0574\u0562\u056b"], "ids": [26141, 45354, 32465, 11731, 77450], "seed": 2, "P@1": 0.0}
-{"pattern": ["eredivisie", "\u043e\u0437\u043d\u0430\u0447\u0430\u0432\u0430", "##gue", "spisak", "zvanicni"], "ids": [55882, 80046, 17734, 13990, 77263], "seed": 3, "P@1": 0.0}
+{"pattern": ["regardless", "\u0925\u0935", "kulas", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "arsenal"], "ids": [68000, 10866, 67471, 28937, 23656], "seed": 0}
+{"pattern": ["del", "attaccante", "conabio", "orodha", "del"], "ids": [10134, 76244, 93048, 45482, 10134], "seed": 1}
+{"pattern": ["attaccante", "cedric", "herb", "\u0627\u0644\u0641\u0635\u064a\u0644\u0629", "ethiopian"], "ids": [76244, 63566, 33482, 77109, 89849], "seed": 2}
+{"pattern": ["\u0645\u06cc", "##\u0627\u064a\u064a", "\u05d4\u05e0\u05d1\u05d7\u05e8\u05ea", "licencia", "\u0938\u0925\u093f\u0924"], "ids": [28401, 45153, 92298, 64623, 24573], "seed": 3}
+{"pattern": ["kini", "\u5143", "\u0646\u0627\u062f\u064a", "concepcion", "\u06a9\u0627"], "ids": [11832, 2051, 23262, 30982, 11731], "seed": 4}
+{"pattern": ["akademii", "##\u043a\u0441\u0438\u043a\u0438", "calciatore", "muller", "ruolo"], "ids": [28651, 85906, 17825, 16091, 17784], "seed": 5}
+{"pattern": ["\u0444\u043a", "carattere", "futbolista", "\u0447\u0438\u0458\u0430\u0448\u0442\u043e", "cui"], "ids": [39835, 50538, 30158, 93898, 11586], "seed": 6}
+{"pattern": ["futbolista", "##\u0bb2\u0bbe\u0ba8\u0ba4\u0bc1", "con", "\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0438", "\u0435\u0435"], "ids": [30158, 63200, 10173, 30981, 12586], "seed": 7}
+{"pattern": ["melastomataceae", "futbolista", "altri", "johnson", "##hmen"], "ids": [66514, 30158, 13659, 13433, 48735], "seed": 8}
+{"pattern": ["titans", "calciatore", "tiempo", "martinez", "titans"], "ids": [61436, 17825, 14195, 18204, 61436], "seed": 9}

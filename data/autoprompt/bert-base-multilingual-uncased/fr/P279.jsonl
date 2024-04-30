@@ -1,4 +1,10 @@
-{"pattern": ["\u043e\u0434\u043d\u043e\u0441\u0438", "ncbi", "cithakan", "detaille", "petite"], "ids": [88426, 61322, 60596, 56583, 19214], "seed": 0, "P@1": 0.39325842696629215}
-{"pattern": ["orile", "##bold", "hindi", "dieux", "##euse"], "ids": [57671, 44702, 18465, 90234, 29750], "seed": 1, "P@1": 0.11235955056179775}
-{"pattern": ["\u0444\u0440\u0430\u043d\u0446\u0456\u0456", "database", "liste", "complexe", "afrikaanse"], "ids": [25532, 10326, 13593, 41760, 25349], "seed": 2, "P@1": 0.1797752808988764}
-{"pattern": ["\u091a\u0932\u091a\u093f\u0924\u0930", "genoemd", "guidelines", "francaise", "sur"], "ids": [78073, 22441, 69087, 13903, 10344], "seed": 3, "P@1": 0.34831460674157305}
+{"pattern": ["structure", "##\u0435\u0432\u0430\u043d", "lescht", "types", "fir"], "ids": [13519, 60384, 27798, 18806, 18221], "seed": 0}
+{"pattern": ["proteinas", "##wiki", "cithakan", "du", "petite"], "ids": [47447, 53424, 60596, 10169, 19214], "seed": 1}
+{"pattern": ["\u0430\u043c\u0456\u043d\u043e\u043a\u0438\u0441\u043b\u043e\u0442", "speciali", "##\u0768", "administrativement", "une"], "ids": [72172, 63284, 96805, 81930, 10249], "seed": 2}
+{"pattern": ["##\u043e\u0432\u0430\u045a\u0435", "##ienne", "cithakan", "pubchem", "petite"], "ids": [76621, 25311, 60596, 48721, 19214], "seed": 3}
+{"pattern": ["pennad", "\u0435\u0441\u0446\u044c", "\u80aa", "structure", "et"], "ids": [58060, 42021, 6949, 13519, 10137], "seed": 4}
+{"pattern": ["bem", "\u091b\u092f\u0932\u093e", "poate", "liste", "letzebuergesche"], "ids": [19060, 63086, 25354, 13593, 63420], "seed": 5}
+{"pattern": ["\u0438\u043d\u0433\u043b", "##\u0438\u043d\u0434\u0435\u0433\u0438", "proteines", "\u6cd5", "##\u0438\u043d\u0434\u0435\u0433\u0438"], "ids": [68320, 79758, 76436, 5020, 79758], "seed": 6}
+{"pattern": ["anvendes", "\u0932\u093f\u092f", "commons", "gjeld", "\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0438"], "ids": [88329, 36950, 14197, 76638, 68030], "seed": 7}
+{"pattern": ["protein", "buidl", "com", "definition", "pour"], "ids": [16883, 55957, 10241, 22267, 10343], "seed": 8}
+{"pattern": ["##\u0578\u0582\u0569\u056b\u0582\u0576\u0568", "cithakan", "\u092a\u0924\u0930\u093f\u0915\u093e", "pratique", "tentang"], "ids": [70243, 60596, 49081, 30046, 23187], "seed": 9}

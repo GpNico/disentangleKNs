@@ -1,4 +1,10 @@
-{"pattern": ["2021", "##\u0127", "autorite", "situe", "\u0645\u062f\u0646"], "ids": [65588, 96681, 39676, 14737, 30763], "seed": 0, "P@1": 0.4277456647398844}
-{"pattern": ["webgunea", "\u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0438", "origine", "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0438", "##\u0a21"], "ids": [52015, 47742, 13848, 39621, 23119], "seed": 1, "P@1": 0.1676300578034682}
-{"pattern": ["\u0627\u06cc\u0646\u06af\u06cc\u0644\u06cc\u0633\u06cc\u062c\u0647", "article", "im", "##\u044d\u0448\u0448\u0430\u0440\u0430", "berbahasa"], "ids": [79544, 12877, 10205, 89064, 85859], "seed": 2, "P@1": 0.34104046242774566}
-{"pattern": ["titre", "piliakalnis", "##\u0440\u0435\u0434\u0430", "wikipedia", "credit"], "ids": [13021, 54555, 66588, 12834, 23814], "seed": 3, "P@1": 0.3352601156069364}
+{"pattern": ["\u0645\u0648\u0642\u0639", "partiellement", "\u043a\u0430\u0440\u0430\u0438\u0442", "drame", "berbahasa"], "ids": [14455, 32856, 86160, 48600, 85859], "seed": 0}
+{"pattern": ["\u0641\u06cc", "transfermarkt", "ethnologue", "fonds", "berbahasa"], "ids": [64046, 60396, 37982, 31776, 85859], "seed": 1}
+{"pattern": ["##medalje", "##\u06ce", "perpustakaan", "collectif", "berbahasa"], "ids": [48752, 96802, 80792, 69545, 85859], "seed": 2}
+{"pattern": ["malaysian", "\u0441\u0430\u0438\u0442", "du", "sculpteur", "berbahasa"], "ids": [67946, 21115, 10169, 76636, 85859], "seed": 3}
+{"pattern": ["\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "\u0435\u0441\u0446\u044c", "jakarta", "pays", "berbahasa"], "ids": [26814, 42021, 13500, 12553, 85859], "seed": 4}
+{"pattern": ["\u0633\u0648\u0641", "manlalaro", "pratique", "##\u0561\u0581\u0576\u0578\u0582\u0574", "wikang"], "ids": [89992, 69664, 30046, 59715, 42575], "seed": 5}
+{"pattern": ["wikipedia", "situe", "\u044e\u043d\u0430\u0438\u0442\u0435\u0434", "portal", "linguistique"], "ids": [12834, 14737, 66288, 17375, 94116], "seed": 6}
+{"pattern": ["moth", "roue", "dans", "\u043c\u0438\u043b\u043b\u0438", "census"], "ids": [26783, 42506, 10272, 50004, 11457], "seed": 7}
+{"pattern": ["voies", "\u0434\u0430\u043d\u0456", "trance", "##\u0627\u0634", "portal"], "ids": [49608, 55996, 61917, 35371, 17375], "seed": 8}
+{"pattern": ["digitalisat", "bolsa", "antiquite", "\u0441\u0430\u0438\u0446\u0435", "club"], "ids": [63119, 66877, 90807, 39719, 10682], "seed": 9}

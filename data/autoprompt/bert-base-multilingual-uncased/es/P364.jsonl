@@ -1,4 +1,10 @@
-{"pattern": ["folklore", "\u0627\u0645\u0631\u064a\u0643\u064a", "\u0430\u043d\u0433\u043b\u0438\u0441\u043a\u0438", "paisaje", "##\u0576\u056f\u0565\u0580\u0578\u0582\u0569\u0575\u0561\u0576"], "ids": [46999, 49432, 32963, 90557, 88237], "seed": 0, "P@1": 0.013157894736842105}
-{"pattern": ["nemetul", "ficha", "\u043f\u0440\u0430\u0437", "ojo", "tel"], "ids": [86725, 32253, 48644, 41576, 18611], "seed": 1, "P@1": 0.15789473684210525}
-{"pattern": ["compositores", "\u044f\u043c", "zyrtare", "concello", "organu"], "ids": [77055, 93724, 87630, 26215, 91994], "seed": 2, "P@1": 0.013157894736842105}
-{"pattern": ["la", "isang", "\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f\u0441\u044b", "secundario", "wikang"], "ids": [10106, 13179, 21655, 79196, 42575], "seed": 3, "P@1": 0.618421052631579}
+{"pattern": ["cinsin\u0259", "fr", "mulher", "cancion", "wikang"], "ids": [63039, 12053, 36065, 17011, 42575], "seed": 0}
+{"pattern": ["anglais", "paxina", "imperiu", "patrimoni", "metrin"], "ids": [17096, 34978, 55419, 48216, 36755], "seed": 1}
+{"pattern": ["paxina", "\u05d1\u05de\u05e1\u05d2\u05e8\u05ea", "ningun", "campeonatu", "\u05db\u05d3\u05d5\u05e8"], "ids": [34978, 29245, 33725, 72021, 79887], "seed": 2}
+{"pattern": ["\u0445\u043e\u0440\u0430\u0442\u0430", "campeonatu", "wikipedia", "##etis", "wikang"], "ids": [83854, 72021, 12834, 94299, 42575], "seed": 3}
+{"pattern": ["albums", "titre", "galego", "titres", "\u8e0f"], "ids": [15096, 13021, 29311, 29120, 8259], "seed": 4}
+{"pattern": ["isang", "huvudavrinningsomrade", "opera", "sobre", "wikang"], "ids": [13179, 33746, 11870, 10751, 42575], "seed": 5}
+{"pattern": ["\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "operas", "kilala", "##damente", "wikang"], "ids": [26814, 56799, 88477, 33261, 42575], "seed": 6}
+{"pattern": ["trebuie", "traduccion", "officiel", "vorbitoare", "del"], "ids": [55559, 38409, 31692, 37777, 10134], "seed": 7}
+{"pattern": ["paxina", "\u0442\u043e\u0433\u0430\u0432\u0430", "anglais", "pal", "wikang"], "ids": [34978, 64457, 17096, 17993, 42575], "seed": 8}
+{"pattern": ["banca", "engleza", "informacion", "engleski", "credito"], "ids": [41900, 58152, 18053, 12710, 62372], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "\u30ab\u30fc\u30eb", "angles", "multi", "colored"], "ids": [26814, 89508, 22624, 17682, 61769], "seed": 0, "P@1": 0.44370860927152317}
-{"pattern": ["proteine", "##nei", "commons", "cried", "the"], "ids": [70946, 31753, 14197, 94484, 10103], "seed": 1, "P@1": 0.41721854304635764}
-{"pattern": ["\u0ba4\u0bb0\u0bb5\u0bc1\u0ba4", "description", "details", "\u0909\u0928", "##\u062f\u06c1"], "ids": [36709, 20419, 22220, 65172, 46869], "seed": 2, "P@1": 0.31788079470198677}
-{"pattern": ["jessie", "proteine", "jessie", "coco", "nuclear"], "ids": [61343, 70946, 61343, 47691, 17115], "seed": 3, "P@1": 0.2582781456953642}
+{"pattern": ["##\u0434\u0441\u0442\u0432\u0430", "multitree", "cithakan", ":", "experimental"], "ids": [83970, 85739, 60596, 131, 23998], "seed": 0}
+{"pattern": ["\u0627\u06cc\u0646\u06af\u06cc\u0644\u06cc\u0633\u06cc\u062c\u0647", "saesneg", "category", "specific", "industrial"], "ids": [79544, 22693, 24716, 18974, 15149], "seed": 1}
+{"pattern": ["saesneg", "sailkatua", "high", "\u58e4", "oriented"], "ids": [22693, 78982, 11053, 2943, 50827], "seed": 2}
+{"pattern": ["\u04cf\u0430", "wefan", "saesneg", "##\u0d38\u0d3f\u0d7d", "functional"], "ids": [15186, 36772, 22693, 60659, 42649], "seed": 3}
+{"pattern": ["\u05d1\u05d0\u05e8\u05e5", "##kep", "cithakan", "##sel", "experimental"], "ids": [36774, 80948, 60596, 12924, 23998], "seed": 4}
+{"pattern": ["\u00ae", "cithakan", "obci", "category", "small"], "ids": [185, 60596, 17715, 24716, 11871], "seed": 5}
+{"pattern": ["\u0456\u043d\u0448\u0456", "##onyme", "##\u0930\u093f\u092f\u093e", "conventional", "iranian"], "ids": [24219, 86265, 67929, 50348, 40282], "seed": 6}
+{"pattern": ["\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438", "\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430\u0438", "proteins", "umbenannt", "italian"], "ids": [28937, 84788, 37145, 46409, 11770], "seed": 7}
+{"pattern": ["ugc", "##\u064a\u0641\u064a\u0629", "ugc", "kannada", "synthetic"], "ids": [35501, 90496, 35501, 70857, 90010], "seed": 8}
+{"pattern": ["cithakan", "\u0441\u043e\u0431\u043e\u044e", "multi", "##\u0561\u0562\u0561\u0576\u0561\u056f\u0561\u0576", "based"], "ids": [60596, 38980, 17682, 76224, 11720], "seed": 9}

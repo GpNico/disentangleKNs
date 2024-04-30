@@ -1,4 +1,10 @@
-{"pattern": ["\u0441\u0430\u0438\u0442", "\u0447\u043e\u043b\u0456", "computer", "\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "\u0441\u0430\u0438\u0442"], "ids": [21115, 73223, 14831, 56604, 21115], "seed": 0, "P@1": 0.4270833333333333}
-{"pattern": ["komputer", "websites", "\u0431\u0430\u0437\u0456", "macintosh", "cua"], "ids": [39196, 77398, 37163, 58303, 10500], "seed": 1, "P@1": 0.59375}
-{"pattern": ["2800", "computers", "specifications", "websait", "\u0441\u0430\u0438\u0446\u0435"], "ids": [76454, 44077, 83096, 69121, 39719], "seed": 2, "P@1": 0.6041666666666666}
-{"pattern": ["\u05d1", "tablet", "rasmi", "x86", "\u05d7\u05d1\u05e8\u05ea"], "ids": [418, 74215, 51464, 69905, 30217], "seed": 3, "P@1": 0.5520833333333334}
+{"pattern": ["tablet", "console", "stran", "database", "frae"], "ids": [74215, 36564, 56060, 10326, 24400], "seed": 0}
+{"pattern": ["processor", "deluxe", "reference", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74074, 44487, 12279, 21115, 39719], "seed": 1}
+{"pattern": ["remake", "\u06c3", "computing", "websteed", "van"], "ids": [42135, 511, 42283, 94284, 10147], "seed": 2}
+{"pattern": ["console", "processor", "via", "website", "van"], "ids": [36564, 74074, 11310, 12699, 10147], "seed": 3}
+{"pattern": ["imaxes", "\u043d\u0430", "console", "websteed", "\u0431\u0430\u04b3\u0440"], "ids": [93625, 10124, 36564, 94284, 58765], "seed": 4}
+{"pattern": ["overview", "\u05d1\u05d0\u05ea\u05e8", "illustrated", "hardware", "cua"], "ids": [51275, 70937, 20708, 32071, 10500], "seed": 5}
+{"pattern": ["\u0438\u0437", "macintosh", "personaxe", "pratelan", "marca"], "ids": [10414, 58303, 74009, 83253, 13506], "seed": 6}
+{"pattern": ["oznaceni", "\u0642\u0627\u064a\u0645\u0629", "console", "programmer", "firmy"], "ids": [59789, 25012, 36564, 90302, 37255], "seed": 7}
+{"pattern": ["lescht", "##yddol", "\u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0446\u0442\u0432\u043e", "computers", "bei"], "ids": [27798, 81434, 62615, 44077, 10478], "seed": 8}
+{"pattern": ["processor", "\u0441\u0430\u0438\u0442", "official", "portal", "milik"], "ids": [74074, 21115, 13061, 17375, 51998], "seed": 9}

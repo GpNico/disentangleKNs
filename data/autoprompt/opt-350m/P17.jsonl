@@ -1,4 +1,10 @@
-{"pattern": ["\u0120sectarian", "\u0120mosque", "AFP", "NE", ","], "ids": [25454, 12958, 11528, 9009, 6], "seed": 0, "P@1": 0.4166666666666667}
-{"pattern": ["\u0120referendum", "\u0120shakes", "\u0120knife", "\u0120exports", "\u0120from"], "ids": [5047, 25229, 7023, 4302, 31], "seed": 1, "P@1": 0.4166666666666667}
-{"pattern": ["\u0120fascism", "ews", "look", "\u0120nationality", "\u0120country"], "ids": [36065, 10269, 13724, 26241, 247], "seed": 2, "P@1": 0.3958333333333333}
-{"pattern": ["\u0120travellers", "\\\",", "\u0120terrorism", "\u0120suspect", "\u0120entering"], "ids": [18268, 49778, 4952, 1985, 4201], "seed": 3, "P@1": 0.42653508771929827}
+{"pattern": ["reb", "\u0120colon", "\u0120conservatism", "\u0120gripped", "\u0120northeastern"], "ids": [16552, 17735, 35717, 31082, 17406], "seed": 0, "P@1": 0.4166666666666667}
+{"pattern": ["\":[", "\u0120country", "\u0120surrounding", "\u0120constitutional", "):"], "ids": [33525, 247, 3817, 6100, 3256], "seed": 1, "P@1": 0.4057017543859649}
+{"pattern": ["rat", "\u0120referendum", "Border", "\u0120countries", "\u0120including"], "ids": [6528, 5047, 43620, 749, 217], "seed": 2, "P@1": 0.4276315789473684}
+{"pattern": ["\u01201920", "\u0120treaty", "\":", "Britain", "\u0120accusing"], "ids": [18283, 11142, 7862, 29246, 8601], "seed": 3, "P@1": 0.40899122807017546}
+{"pattern": ["\u0120mixes", "\u0120nationalist", "\u0120\"", "Next", "\u0120stop"], "ids": [29652, 13167, 22, 19192, 912], "seed": 4, "P@1": 0.013157894736842105}
+{"pattern": ["\u0120extradition", "\u0120bilateral", "\u0120:", "Britain", "\u0120and"], "ids": [16798, 9526, 4832, 29246, 8], "seed": 5, "P@1": 0.4243421052631579}
+{"pattern": ["\u0120municip", "color", "Government", "\u0120countries", "\u0120like"], "ids": [40492, 21685, 28747, 749, 101], "seed": 6, "P@1": 0.4276315789473684}
+{"pattern": ["\u0120countries", "asketball", "\u0120\u00c2\u00a9", "\u0120updated", ")."], "ids": [749, 45126, 3705, 4752, 322], "seed": 7, "P@1": 0.0021929824561403508}
+{"pattern": ["\u0120(", "England", "=\\\"", "\u0120borders", ",''"], "ids": [36, 26698, 50003, 7562, 10559], "seed": 8, "P@1": 0.2916666666666667}
+{"pattern": ["\u0120massacre", "\".[", "AS", "\u0120independence", "\u0120shocks"], "ids": [12998, 49070, 2336, 5201, 23485], "seed": 9, "P@1": 0.39473684210526316}

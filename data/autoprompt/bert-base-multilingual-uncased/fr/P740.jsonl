@@ -1,4 +1,10 @@
-{"pattern": ["employment", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442", "\u25a0", "\u00a9", "greater"], "ids": [37727, 25693, 1432, 181, 18860], "seed": 0, "P@1": 0.05625}
-{"pattern": ["bonne", "troms\u00f8", "parijs", "\u0447\u0438\u043a\u0430\u0433\u043e", "wembley"], "ids": [32137, 56677, 37683, 62382, 59340], "seed": 1, "P@1": 0.0125}
-{"pattern": ["exposition", "est", "imaxes", "suburb", "de"], "ids": [25465, 10182, 93625, 51749, 10102], "seed": 2, "P@1": 0.08125}
-{"pattern": ["plantia", "\u6200", "sitiu", "perbandaran", "greater"], "ids": [76338, 3893, 90778, 30712, 18860], "seed": 3, "P@1": 0.05}
+{"pattern": ["hms", "parijs", "oricon", "\u0447\u0438\u043a\u0430\u0433\u043e", "hms"], "ids": [17417, 37683, 43164, 62382, 17417], "seed": 0}
+{"pattern": ["ouest", "barcelona", "copenhague", "london", "pasadena"], "ids": [13819, 12375, 93655, 10912, 84815], "seed": 1}
+{"pattern": ["fulham", "chennai", "beirut", "americain", "genesis"], "ids": [80445, 52433, 36839, 17479, 30508], "seed": 2}
+{"pattern": ["entertainment", "\u10d2", "anglais", "originaire", "de"], "ids": [13880, 1131, 17096, 43282, 10102], "seed": 3}
+{"pattern": ["estacio", "\u0627\u0644\u062f\u0648\u0644\u064a", "lillehammer", "filadelfia", "&"], "ids": [64285, 30971, 76470, 66812, 111], "seed": 4}
+{"pattern": ["biografi", "o", "museu", "metropolitana", "\u044e\u0436\u043d\u043e\u0433\u043e"], "ids": [78785, 157, 20031, 25859, 86842], "seed": 5}
+{"pattern": ["anciennement", "hip", "giles", "studios", "de"], "ids": [78566, 18774, 47377, 16037, 10102], "seed": 6}
+{"pattern": ["\u0444\u0440\u0430\u043d\u0446\u0456\u044f", "jacksonville", "honolulu", "ville", "wembley"], "ids": [91488, 65381, 51401, 11750, 59340], "seed": 7}
+{"pattern": ["\u0628\u0627\u0631\u064a\u0633", "honolulu", "parijs", "malmo", "middlesex"], "ids": [70285, 51401, 37683, 29630, 67526], "seed": 8}
+{"pattern": ["abside", "2\u1d49", "gazetteer", "\u00a9", "greater"], "ids": [62980, 22053, 30674, 181, 18860], "seed": 9}

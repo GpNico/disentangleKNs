@@ -1,4 +1,10 @@
-{"pattern": ["gazetteer", "mojo", "pagina", "oficial", "finalizar"], "ids": [30674, 50128, 16833, 13562, 75282], "seed": 0}
-{"pattern": ["omonima", "juno", "river", "kazakhstan", "ultimo"], "ids": [56008, 64021, 10954, 41608, 13246], "seed": 1}
-{"pattern": ["##quert", "troa", "sangre", "concepto", "sebuah"], "ids": [83834, 90309, 37960, 42383, 11462], "seed": 2}
-{"pattern": ["\u0435\u0441\u0446\u044c", "pueblos", "website", "audio", "del"], "ids": [42021, 29016, 12699, 18160, 10134], "seed": 3}
+{"pattern": ["omonimo", "spanyol", "szamos", "##\u062a\u064a\u0646", "##\u0939\u0930\u0915\u094b"], "ids": [49791, 30751, 27721, 34228, 66098], "seed": 0}
+{"pattern": ["segun", "rasmiy", "nme", "nazwa", "del"], "ids": [12391, 32053, 79096, 21600, 10134], "seed": 1}
+{"pattern": ["##album", "\u0444\u0438\u043b\u043c\u0430", "espanhol", "webgunea", "antiguo"], "ids": [32723, 54051, 51927, 52015, 24871], "seed": 2}
+{"pattern": ["haqida", "mapquest", "muzica", "piezas", "acestui"], "ids": [40787, 35213, 54698, 49161, 80959], "seed": 3}
+{"pattern": ["descripcion", "girato", "myspace", "ruso", "del"], "ids": [49138, 80393, 58292, 29769, 10134], "seed": 4}
+{"pattern": ["zvanicni", "\u58e4", "\u091c\u0928\u0917\u0923\u0928\u093e", "imdb", "nuevo"], "ids": [77263, 2943, 22945, 18103, 13976], "seed": 5}
+{"pattern": ["skadespelare", "bolivar", "atlantico", "piatra", "##venir"], "ids": [53228, 29296, 37149, 75714, 67767], "seed": 6}
+{"pattern": ["castelan", "webgunea", "llamado", "nombre", "do"], "ids": [32844, 52015, 20155, 11512, 10154], "seed": 7}
+{"pattern": ["gaztelaniaz", "youtube", "ventas", "hallan", "aquest"], "ids": [38192, 15665, 62627, 30298, 13335], "seed": 8}
+{"pattern": ["sonora", "pagina", "oficial", "describe", "este"], "ids": [20339, 16833, 13562, 30013, 10494], "seed": 9}

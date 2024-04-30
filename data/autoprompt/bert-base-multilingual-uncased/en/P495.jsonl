@@ -1,4 +1,10 @@
-{"pattern": ["mural", "orile", "\u0441\u0430\u0438\u0446\u0435", "railways", "of"], "ids": [76640, 57671, 39719, 20226, 10108], "seed": 0, "P@1": 0.3516483516483517}
-{"pattern": ["\u767c", "products", "\u0441\u0430\u0438\u0446\u0435", "railways", "of"], "ids": [5971, 19208, 39719, 20226, 10108], "seed": 1, "P@1": 0.34615384615384615}
-{"pattern": ["asteroidi", "\u0627\u0644\u0627\u062d\u062f\u0627\u062b", "districtul", "\u0642\u0627\u064a\u0645\u0629", "statistics"], "ids": [23988, 92637, 95967, 25012, 16456], "seed": 2, "P@1": 0.1978021978021978}
-{"pattern": ["is", "isang", "tvavingeart", "manufacturer", "in"], "ids": [10127, 13179, 18998, 53030, 10104], "seed": 3, "P@1": 0.37362637362637363}
+{"pattern": ["village", "saint", "##\u0cbe\u0cb0\u0ca3", "gjeld", "wwf"], "ids": [11380, 10642, 63034, 76638, 36522], "seed": 0}
+{"pattern": ["is", "plastic", "cycling", "confederation", "of"], "ids": [10127, 37130, 35635, 44119, 10108], "seed": 1}
+{"pattern": ["career", "finlandia", "azerbaijan", "singapura", "gemini"], "ids": [13159, 21984, 27570, 40396, 60491], "seed": 2}
+{"pattern": ["vorbitoare", "database", "arlunydd", "##site", "tieng"], "ids": [37777, 10326, 40457, 62663, 14648], "seed": 3}
+{"pattern": ["\u043c\u0458\u0435\u0441\u0442\u043e", "\u0441\u0430\u0438\u0442\u0435", "auto", "federation", "of"], "ids": [64691, 39947, 14929, 15229, 10108], "seed": 4}
+{"pattern": ["railway", "lescht", "of", "villages", "neuroptera"], "ids": [13790, 27798, 10108, 17495, 72759], "seed": 5}
+{"pattern": ["s\u00f8lv", "1952", "##\u043d\u0441\u043a\u0430\u044f", "medal", "\u0441\u0431\u043e\u0440\u043d\u043e\u0438"], "ids": [42106, 11287, 28504, 13543, 24853], "seed": 6}
+{"pattern": ["\u0928\u093e\u092e\u0915", "touring", "kart", "federation", "of"], "ids": [55229, 35868, 48109, 15229, 10108], "seed": 7}
+{"pattern": ["hallan", "rhestr", "rivers", "mito", "\u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0435\u043d\u0438\u044f"], "ids": [30298, 17092, 25549, 28988, 84217], "seed": 8}
+{"pattern": ["career", "unknown", "appearance", "olympics", "representing"], "ids": [13159, 22669, 18985, 19450, 30538], "seed": 9}

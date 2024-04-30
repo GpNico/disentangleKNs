@@ -1,4 +1,10 @@
-{"pattern": ["\u0120continent", "\u0120holiest", "\u0120next", "\u0120decade", "\u0120claims"], "ids": [9183, 42520, 220, 2202, 1449], "seed": 0, "P@1": 0.3054187192118227}
-{"pattern": ["\u0120heritage", "\u0120qualifies", "\u0120continent", "atically", "\u0120for"], "ids": [7788, 31714, 9183, 23050, 13], "seed": 1, "P@1": 0.2660098522167488}
-{"pattern": ["\u0120museums", "\u0120world", "'';", "IFA", "\u0120and"], "ids": [19773, 232, 49525, 28673, 8], "seed": 2, "P@1": 0.0}
-{"pattern": ["\u0120decides", "\u0120archaeologists", "Japanese", "\u0120counterpart", "\u0120of"], "ids": [11703, 37325, 35655, 10255, 9], "seed": 3, "P@1": 0.09359605911330049}
+{"pattern": ["\u0120cultural", "\u0120giant", "\u0120releases", "\u0120recognized", "\u0120by"], "ids": [4106, 3065, 8255, 4984, 30], "seed": 0, "P@1": 0.5172413793103449}
+{"pattern": ["\u0120graveyard", "Gh", "\u0120recognised", "atell", "\u0120by"], "ids": [37814, 28916, 10953, 26142, 30], "seed": 1, "P@1": 0.5960591133004927}
+{"pattern": ["\"},", "ESCO", "\u0120world", "WW", "\u0120and"], "ids": [49852, 42456, 232, 20904, 8], "seed": 2, "P@1": 0.0}
+{"pattern": ["\u0120hopes", "\u0120anthrop", "ESCO", "utions", "\u0120rival"], "ids": [1991, 32117, 42456, 15790, 3429], "seed": 3, "P@1": 0.18226600985221675}
+{"pattern": ["\u0120veto", "\u0120museums", "\u0120reach", "world", ";"], "ids": [13594, 19773, 1338, 8331, 131], "seed": 4, "P@1": 0.06896551724137931}
+{"pattern": ["\u0120museums", "America", "\\\"", "ares", "\u0120slam"], "ids": [19773, 12580, 48110, 5347, 11977], "seed": 5, "P@1": 0.270935960591133}
+{"pattern": ["\u0120minus", "\u0120archaeological", "\u0120superheroes", "\u0120designation", "\u0120from"], "ids": [10877, 31565, 32254, 16048, 31], "seed": 6, "P@1": 0.5615763546798029}
+{"pattern": ["\u0120internationally", "\u0120attractions", "pmwiki", "entity", ":"], "ids": [9275, 16530, 50062, 46317, 35], "seed": 7, "P@1": 0.0049261083743842365}
+{"pattern": ["\u0120organizations", "\u0120alike", "\u0120(", "ESCO", "/,"], "ids": [2665, 9829, 36, 42456, 46253], "seed": 8, "P@1": 0.0}
+{"pattern": ["\u0120weakest", "\u0120worldwide", "\u0120monument", "\u01202021", "\u0120says"], "ids": [19261, 3612, 14222, 8835, 161], "seed": 9, "P@1": 0.5024630541871922}

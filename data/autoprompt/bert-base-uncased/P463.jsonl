@@ -1,8 +1,0 @@
-{"pattern": ["quran", "unicode", "world", "arch", "united"], "ids": [21288, 27260, 2088, 7905, 2142], "seed": 0, "P@1": 0.0}
-{"pattern": ["curator", "referee", "isis", "www", "."], "ids": [13023, 5330, 18301, 7479, 1012], "seed": 1, "P@1": 0.5862068965517241}
-{"pattern": ["goal", "framework", "sahara", "burma", "buddhist"], "ids": [3125, 7705, 19604, 11050, 7992], "seed": 2, "P@1": 0.0049261083743842365}
-{"pattern": ["orgasm", "python", "unicef", "benin", "kimberley"], "ids": [13892, 18750, 29073, 21164, 25004], "seed": 3, "P@1": 0.019704433497536946}
-{"pattern": ["www", "bwf", "www", "arab", "-"], "ids": [7479, 21215, 7479, 5424, 1011], "seed": 4, "P@1": 0.2561576354679803}
-{"pattern": ["heritage", "2019", "icao", "unicef", "algerian"], "ids": [4348, 10476, 18055, 29073, 16953], "seed": 5, "P@1": 0.4433497536945813}
-{"pattern": ["protected", "burials", "references", "eurovision", "&"], "ids": [5123, 23109, 7604, 12714, 1004], "seed": 6, "P@1": 0.5320197044334976}
-{"pattern": ["participates", "asteroid", "date", "unicef", "&"], "ids": [17257, 12175, 3058, 29073, 1004], "seed": 7, "P@1": 0.4975369458128079}

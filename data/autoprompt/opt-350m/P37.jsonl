@@ -1,4 +1,10 @@
-{"pattern": ["teen", "\u0120pronunciation", "pmwiki", "\u0120nationality", ":"], "ids": [13665, 44919, 50062, 26241, 35], "seed": 0, "P@1": 0.34555555555555556}
-{"pattern": ["Sports", "onen", "qv", "\u0120joined", "\u0120sensational"], "ids": [10554, 19938, 22638, 1770, 16851], "seed": 1, "P@1": 0.31}
-{"pattern": ["onen", "\u0120(", "song", "ography", "\u0120in"], "ids": [19938, 36, 17481, 10486, 11], "seed": 2, "P@1": 0.51}
-{"pattern": ["inki", "British", "\u0120(-", "\u0120phon", "?),"], "ids": [46524, 24270, 15611, 43676, 37398], "seed": 3, "P@1": 0.34555555555555556}
+{"pattern": ["uta", "======", "French", "/**", "\u0120seminal"], "ids": [14325, 48613, 28586, 49795, 36059], "seed": 0, "P@1": 0.13555555555555557}
+{"pattern": ["British", "\u00c3\u00a4", "choes", "\u0120airspace", "\u0120invade"], "ids": [24270, 1561, 48932, 25260, 34425], "seed": 1, "P@1": 0.11333333333333333}
+{"pattern": ["sson", "\u0120noun", "pmwiki", "istani", ","], "ids": [7815, 44875, 50062, 41364, 6], "seed": 2, "P@1": 0.2922222222222222}
+{"pattern": ["holm", "\u0120roofs", "\u0120patriotic", "\u0120fort", "\u0120showcasing"], "ids": [27967, 26418, 22908, 15016, 17708], "seed": 3, "P@1": 0.2644444444444444}
+{"pattern": ["sson", "Official", "\u0120languages", ":", ":"], "ids": [7815, 34111, 11991, 35, 35], "seed": 4, "P@1": 0.35777777777777775}
+{"pattern": ["ansson", "English", "anguage", "\u00b6\u0127", "\u0120the"], "ids": [26277, 35007, 49520, 49726, 5], "seed": 5, "P@1": 0.07}
+{"pattern": ["holm", "\u0120pronunciation", "German", "\u0120experts", "\u0120praise"], "ids": [27967, 44919, 27709, 2320, 8249], "seed": 6, "P@1": 0.10777777777777778}
+{"pattern": ["onen", "\u00c3\u012f", "Language", "\u0120from", "\u0120famed"], "ids": [19938, 45115, 46969, 31, 14661], "seed": 7, "P@1": 0.4222222222222222}
+{"pattern": ["onen", "\u0120anthem", "\u0120(", "a", "\u0120renowned"], "ids": [19938, 8392, 36, 102, 12086], "seed": 8, "P@1": 0.3622222222222222}
+{"pattern": ["ansson", "anguages", ":{", "\u0120(", "\u00e2\u0122\u00a6]"], "ids": [26277, 48957, 49681, 36, 48021], "seed": 9, "P@1": 0.0011111111111111111}

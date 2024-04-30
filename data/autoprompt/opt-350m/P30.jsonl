@@ -1,4 +1,10 @@
-{"pattern": ["\u0120iceberg", "\u0120})", "ahime", "\u0120continent", "UME"], "ids": [26937, 49000, 49966, 9183, 35137], "seed": 0, "P@1": 0.6725755995828988}
-{"pattern": ["Ice", "\u0120latitude", "\u0120countries", "Earth", "\u0120.............."], "ids": [38136, 36961, 749, 34526, 49739], "seed": 1, "P@1": 0.017726798748696558}
-{"pattern": ["\u01201901", "\u0120glaciers", "ESA", "Cons", "outheast"], "ids": [40193, 35823, 32416, 24514, 40440], "seed": 2, "P@1": 0.7591240875912408}
-{"pattern": ["\u0120orbiting", "\u0120secretive", "\u0120ice", "belt", "\u0120between"], "ids": [35065, 27174, 2480, 24187, 227], "seed": 3, "P@1": 0.6402502606882169}
+{"pattern": ["Australia", "agascar", "ARDIS", "\u0120continents", "\u0120glaciers"], "ids": [25533, 48459, 47508, 27382, 35823], "seed": 0, "P@1": 0.4035453597497393}
+{"pattern": ["\u0120astronauts", "\u0120why", "\u0120iceberg", "\u0120harvesting", "\u0120in"], "ids": [21904, 596, 26937, 23820, 11], "seed": 1, "P@1": 0.7205422314911366}
+{"pattern": ["\u0120iceberg", "SK", "\u0120circumference", "\u0120continent", "\u0120continent"], "ids": [26937, 17342, 45028, 9183, 9183], "seed": 2, "P@1": 0.5370177267987487}
+{"pattern": ["\u0120interstellar", "\u0120glaciers", "\u0120teach", "\u0120fragmented", "east"], "ids": [43240, 35823, 6396, 27946, 16843], "seed": 3, "P@1": 0.7330552659019812}
+{"pattern": ["\u0120continent", "\u00e8\u00a6\u013c\u00e9\u0128\u0134", "\u0120continent", "Australia", "estern"], "ids": [9183, 50153, 9183, 25533, 47723], "seed": 4, "P@1": 0.7382690302398331}
+{"pattern": ["\u0120continents", "Scotland", "\u0120ice", "...", "Earth"], "ids": [27382, 37022, 2480, 734, 34526], "seed": 5, "P@1": 0.027111574556830033}
+{"pattern": ["\u0120iceberg", "ICE", "agascar", "\u0120(?,", "Visit"], "ids": [26937, 9292, 48459, 50014, 45070], "seed": 6, "P@1": 0.31386861313868614}
+{"pattern": ["Ant", "KNOWN", "\u0120region", "ctica", "\u0120hemisphere"], "ids": [18348, 47300, 976, 46287, 32515], "seed": 7, "P@1": 0.6371220020855057}
+{"pattern": ["\u0120pengu", "ABC", "\u0120shortest", "\u0120expedition", "\u0120into"], "ids": [31526, 18929, 28617, 25512, 88], "seed": 8, "P@1": 0.7007299270072993}
+{"pattern": ["\u0120spacecraft", "\u0120churn", "\u0120iceberg", "ettes", "\u0120over"], "ids": [15138, 18209, 26937, 16683, 81], "seed": 9, "P@1": 0.3305526590198123}

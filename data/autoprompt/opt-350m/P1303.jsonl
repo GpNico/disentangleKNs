@@ -1,4 +1,10 @@
-{"pattern": ["\u01200004", "\u0120acoustic", "\u0120pian", "\u01200004", "\u0120acoustic"], "ids": [49514, 21979, 23674, 49514, 21979], "seed": 0, "P@1": 0.44834307992202727}
-{"pattern": ["\u0120teaches", "\u0120pian", "\u0120acoustic", "\u0120tipped", "\u0120competitive"], "ids": [13419, 23674, 21979, 13402, 2695], "seed": 1, "P@1": 0.42105263157894735}
-{"pattern": ["\u0120---------", "\u0120played", "\u0120instrument", "\u0120electric", "\u0120miniature"], "ids": [45793, 702, 10320, 3459, 26322], "seed": 2, "P@1": 0.42105263157894735}
-{"pattern": ["Liberal", "\u0120undergraduate", "\u0120played", "\u0120pian", "itational"], "ids": [44785, 19555, 702, 23674, 17166], "seed": 3, "P@1": 0.42105263157894735}
+{"pattern": ["\u0120husband", "\u0120hobbies", "\u0120orchestra", "\":-", "\u0120plays"], "ids": [1623, 36365, 20642, 50000, 1974], "seed": 0, "P@1": 0.35477582846003897}
+{"pattern": ["\u0120pian", "atography", "\u0120sax", "onet", "\u0120electric"], "ids": [23674, 34226, 31365, 39677, 3459], "seed": 1, "P@1": 0.43859649122807015}
+{"pattern": ["Tyler", "\u0120nurse", "\u0120lowers", "\u0120rebuilt", "\u0120classical"], "ids": [40270, 9008, 32222, 24627, 15855], "seed": 2, "P@1": 0.4249512670565302}
+{"pattern": ["\u0120pian", "uscript", "\u0120maple", "\u0120acoustic", "achine"], "ids": [23674, 47811, 27287, 21979, 47480], "seed": 3, "P@1": 0.2300194931773879}
+{"pattern": ["\u0120ballet", "%%", "\u0120acoustic", "\u0120upright", "\u0120overhead"], "ids": [22573, 49318, 21979, 25922, 15258], "seed": 4, "P@1": 0.42105263157894735}
+{"pattern": ["\u0120rushes", "\u0120chords", "\u0120sob", "hes", "\u0120onto"], "ids": [33617, 40286, 18769, 5065, 2500], "seed": 5, "P@1": 0.0}
+{"pattern": ["\u0120chords", "phony", "=\\\"", "\u0120mac", "shaw"], "ids": [40286, 29788, 50003, 13418, 18086], "seed": 6, "P@1": 0.10916179337231968}
+{"pattern": ["}}}", "\u0120crochet", "\u0120pian", "\u0120pian", "\u0120acoustic"], "ids": [49908, 44265, 23674, 23674, 21979], "seed": 7, "P@1": 0.4249512670565302}
+{"pattern": ["\u0120bureau", "\u0120orchestra", "\u00e6\u0138\u00b9", "\u0120keyboard", "\u0120bass"], "ids": [12331, 20642, 49257, 12722, 9590], "seed": 8, "P@1": 0.22612085769980506}
+{"pattern": ["\u0120melody", "\u0120painting", "\u0120viol", "\u0120classical", "inet"], "ids": [33301, 7674, 21711, 15855, 28430], "seed": 9, "P@1": 0.41325536062378165}

@@ -1,8 +1,0 @@
-{"pattern": ["competitions", "amnesia", "##urg", "breakers", "copa"], "ids": [6479, 29222, 12514, 24742, 10613], "seed": 0, "P@1": 0.01687116564417178}
-{"pattern": ["mika", "referee", "musica", "arboretum", ":"], "ids": [27857, 5330, 21137, 25197, 1024], "seed": 1, "P@1": 0.046012269938650305}
-{"pattern": ["autism", "twinned", "##litz", "##abia", "new"], "ids": [19465, 25901, 24725, 29039, 2047], "seed": 2, "P@1": 0.015337423312883436}
-{"pattern": ["guantanamo", "municipality", "cyclists", "##gizing", "northern"], "ids": [23094, 3250, 21912, 28660, 2642], "seed": 3, "P@1": 0.04141104294478527}
-{"pattern": ["amp", "armory", "##bert", "railways", "of"], "ids": [23713, 24139, 8296, 7111, 1997], "seed": 4, "P@1": 0.08588957055214724}
-{"pattern": ["autism", "##bek", "macedonia", "den", "##roy"], "ids": [19465, 24597, 11492, 7939, 13238], "seed": 5, "P@1": 0.012269938650306749}
-{"pattern": ["dart", "rivers", "metro", "##pina", "of"], "ids": [14957, 5485, 6005, 26787, 1997], "seed": 6, "P@1": 0.11042944785276074}
-{"pattern": ["mhz", "carriages", "##bert", "railways", "of"], "ids": [11413, 17744, 8296, 7111, 1997], "seed": 7, "P@1": 0.08282208588957055}

@@ -1,4 +1,10 @@
-{"pattern": ["liste", "\u091b\u092f\u0932\u093e", "##syon", "brasileira", "\u0584\u0561\u0576\u0561\u056f\u0561\u056f\u0561\u0576"], "ids": [13593, 63086, 34038, 22661, 62735], "seed": 0, "P@1": 0.03305785123966942}
-{"pattern": ["astronomia", "alkohol", "botanique", "##\u10ee\u10d0\u10d3\u10d0", "##tude"], "ids": [56381, 52956, 83189, 91215, 39006], "seed": 1, "P@1": 0.0}
-{"pattern": ["asteroidi", "zdroje", "stichting", "cahiers", "##\u043d\u0441\u043a\u043e\u0442\u043e"], "ids": [23988, 26022, 49873, 76124, 90001], "seed": 2, "P@1": 0.15702479338842976}
-{"pattern": ["wikimedia", "wikimedia", "site", "portal", "franzosische"], "ids": [13609, 13609, 11692, 17375, 27016], "seed": 3, "P@1": 0.24793388429752067}
+{"pattern": ["voir", "naitional", "reference", "commons", "cried"], "ids": [18466, 87207, 12279, 14197, 94484], "seed": 0}
+{"pattern": ["abitants", "##\u0446\u044b\u044f", "wiki", "informatique", "seccion"], "ids": [78295, 29683, 25883, 70157, 21359], "seed": 1}
+{"pattern": ["bronnen", "\u0430\u043d\u0433\u043b\u0438\u0441\u043a\u0438", "encyclopedie", "specialiste", "de"], "ids": [11085, 32963, 76923, 54290, 10102], "seed": 2}
+{"pattern": ["##\u0433\u044b", "cithakan", "obiettivo", "precis", "della"], "ids": [18007, 60596, 61288, 60684, 10322], "seed": 3}
+{"pattern": ["\u0c17\u0c41\u0c30\u0c02\u0c1a", "franta", "\u0441\u0430\u0438\u0442\u0435", "traite", "despre"], "ids": [62383, 32149, 39947, 25269, 33773], "seed": 4}
+{"pattern": ["selon", "imachens", "wiki", "portal", ":"], "ids": [13428, 61319, 25883, 17375, 131], "seed": 5}
+{"pattern": ["\u0442\u0430\u0442\u0430", "voir", "hemen", "database", "petite"], "ids": [19760, 18466, 49304, 10326, 19214], "seed": 6}
+{"pattern": ["\u0c17\u0c41\u0c30\u0c02\u0c1a", "\u0441\u0430\u0438\u0442", "centre", "precis", "sur"], "ids": [62383, 21115, 11534, 60684, 10344], "seed": 7}
+{"pattern": ["gje", "saoz", "britannica", "portal", "pour"], "ids": [89181, 76660, 14221, 17375, 10343], "seed": 8}
+{"pattern": ["\u0430\u043d\u0433\u043b\u0438\u0441\u043a\u0438", "\u0442\u0456\u043b\u0456", "portal", "traite", "\u0438\u044b\u043b\u0434\u044b\u04a3"], "ids": [32963, 40438, 17375, 25269, 24927], "seed": 9}

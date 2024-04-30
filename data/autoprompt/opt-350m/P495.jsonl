@@ -1,4 +1,10 @@
-{"pattern": ["\u0120embryo", "\u0120decriminal", "\u0120officially", "\u0120taboo", "\u0120in"], "ids": [37961, 33926, 4142, 31041, 11], "seed": 0, "P@1": 0.3160220994475138}
-{"pattern": ["\u0120\u00e2\u012a\u0134", "\u0120sushi", "\u0120region", "North", "orthern"], "ids": [42736, 28287, 976, 11073, 44963], "seed": 1, "P@1": 0.26298342541436465}
-{"pattern": ["shop", "\u0120tourist", "(*", "In", "\u0120northern"], "ids": [22799, 8376, 49570, 1121, 3285], "seed": 2, "P@1": 0.3104972375690608}
-{"pattern": ["\u0120sparks", "\u0120deforestation", "\u0120south", "\u00e2\u0124\u00ac", "western"], "ids": [30555, 35552, 2077, 10851, 16507], "seed": 3, "P@1": 0.3116022099447514}
+{"pattern": ["Foreign", "\u0120thriller", "\u0120'", "Initialized", "\u0120granted"], "ids": [37221, 14481, 128, 50026, 4159], "seed": 0, "P@1": 0.0011049723756906078}
+{"pattern": ["\u0120bilateral", "Australia", "\u0120|", "France", "\u0120vs"], "ids": [9526, 25533, 1721, 25010, 1954], "seed": 1, "P@1": 0.23425414364640884}
+{"pattern": ["\u0120bilateral", "\u0120:(", "\u0120[\u00e2\u0122\u00a6]", "USA", "\u0120beat"], "ids": [9526, 46225, 22176, 9080, 1451], "seed": 2, "P@1": 0.3392265193370166}
+{"pattern": ["\u0120helped", "\u0120slap", "\u0120democratically", "\u0120christ", "\u0120ruled"], "ids": [1147, 17605, 35595, 29224, 3447], "seed": 3, "P@1": 0.3237569060773481}
+{"pattern": ["\u0120statue", "\u0120comparison", "\u00e2\u0136\u0122\u00e2\u0136\u0122", "England", "\u0120>"], "ids": [9577, 6676, 49546, 26698, 8061], "seed": 4, "P@1": 0.30165745856353593}
+{"pattern": ["\u0120countries", "Canada", "\u0120away", "UCK", "aution"], "ids": [749, 14031, 409, 23806, 49818], "seed": 5, "P@1": 0.03425414364640884}
+{"pattern": ["\u0120bilateral", "\u0120hockey", "\u0120robotics", "England", "\u0120vs"], "ids": [9526, 5006, 20721, 26698, 1954], "seed": 6, "P@1": 0.25524861878453037}
+{"pattern": ["levision", "\u0120(", "\u0120licens", "Gen", "."], "ids": [41605, 36, 43009, 15887, 4], "seed": 7, "P@1": 0.013259668508287293}
+{"pattern": ["\u0120stars", "\u0120countries", "\u0120(", "Am", "\u0120representing"], "ids": [2690, 749, 36, 10127, 4561], "seed": 8, "P@1": 0.2972375690607735}
+{"pattern": ["\u0120countries", "\u0120comprising", "\u0120allies", "\u0120namely", ":"], "ids": [749, 14096, 4181, 13953, 35], "seed": 9, "P@1": 0.23314917127071824}

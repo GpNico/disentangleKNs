@@ -1,4 +1,10 @@
-{"pattern": ["\u03bc\u03bf\u03c5\u03c3\u03b5\u03b9\u03bf", "opgenomen", "pratelan", "\u0645\u0642\u0627\u0637\u0639\u0629", "van"], "ids": [82680, 36860, 83253, 29534, 10147], "seed": 0, "P@1": 0.3235294117647059}
-{"pattern": ["ang", "##hore", "imaxes", "gobernador", "bansang"], "ids": [10113, 56633, 93625, 27028, 43459], "seed": 1, "P@1": 0.38235294117647056}
-{"pattern": ["llista", "administratibo", "\u0458\u0435\u0434\u0438\u043d\u0438\u0446\u0430", "estau", "de"], "ids": [31324, 42812, 74453, 30896, 10102], "seed": 2, "P@1": 0.5882352941176471}
-{"pattern": ["wikimedia", "\u0438\u0441\u0442\u043e\u0440\u0438\u043a\u043e", "provins", "arrondissementer", "dwyrain"], "ids": [13609, 57391, 57108, 56054, 80355], "seed": 3, "P@1": 0.3235294117647059}
+{"pattern": ["\u0924\u092a\u094b\u092d\u092e\u093f\u092f\u093e", "gazetteer", "council", "regiones", "de"], "ids": [64783, 30674, 12457, 42197, 10102], "seed": 0}
+{"pattern": ["riesce", "paxina", "rasmi", "ciudaes", "wa"], "ids": [30832, 34978, 51464, 84812, 11587], "seed": 1}
+{"pattern": ["\u05d1\u05e4\u05e0\u05d9", "gazetteer", "poskod", "oficial", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [59657, 30674, 46011, 13562, 28937], "seed": 2}
+{"pattern": ["la", "resedinta", "punong", "junta", "din"], "ids": [10106, 36622, 88541, 26597, 10621], "seed": 3}
+{"pattern": ["erroldaren", "\u0441\u0442\u043e\u043b\u0438\u0446\u0456", "rechion", "historica", "de"], "ids": [72033, 92961, 81740, 25765, 10102], "seed": 4}
+{"pattern": ["lista", "fivondronan", "imaxes", "estado", "ng"], "ids": [14247, 21214, 93625, 10714, 10822], "seed": 5}
+{"pattern": ["census", "galeria", "gmina", "imaxes", "\u0645\u062f\u0646"], "ids": [11457, 21681, 14507, 93625, 30763], "seed": 6}
+{"pattern": ["oficialment", "idioma", "rasmi", "capital", "de"], "ids": [66580, 30293, 51464, 12020, 10102], "seed": 7}
+{"pattern": ["district", "census", "imaxes", "comunas", "\u0434\u043e\u0447\u0435\u0440\u0438"], "ids": [11091, 11457, 93625, 40662, 48823], "seed": 8}
+{"pattern": ["\u8717", "snl", "imaxes", "ostan", "sydostra"], "ids": [7573, 80436, 93625, 52102, 15748], "seed": 9}

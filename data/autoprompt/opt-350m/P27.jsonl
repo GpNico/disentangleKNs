@@ -1,4 +1,10 @@
-{"pattern": ["\u0120councillor", "\u0120(*", "\u0120countries", "\u0120participated", ":"], "ids": [15559, 43305, 749, 7849, 35], "seed": 0, "P@1": 0.3924843423799583}
-{"pattern": ["\u0120migrated", "\u0120citizenship", "\u0120surname", "USA", "\u0120to"], "ids": [34163, 8860, 35807, 9080, 7], "seed": 1, "P@1": 0.3778705636743215}
-{"pattern": ["\u0120nationality", "\u0120gender", "Country", "\u0120revoked", "ometown"], "ids": [26241, 3959, 36735, 19358, 33117], "seed": 2, "P@1": 0.35281837160751567}
-{"pattern": ["\u0120)]", "\u0120nationality", "\u0120gender", "\u0120native", "\u0120of"], "ids": [49940, 26241, 3959, 3763, 9], "seed": 3, "P@1": 0.3559498956158664}
+{"pattern": ["\u01202017", "\u0120referee", "Country", "\u0120internationally", "ometown"], "ids": [193, 9585, 36735, 9275, 33117], "seed": 0, "P@1": 0.33402922755741127}
+{"pattern": ["\u0120insults", "\u0120countries", "\u0120quart", "\u0120medal", "\u0120favoring"], "ids": [22536, 749, 18284, 5279, 32372], "seed": 1, "P@1": 0.33298538622129437}
+{"pattern": ["National", "\u0120countries", "\u0120boycot", "ting", "In"], "ids": [18285, 749, 29953, 2577, 1121], "seed": 2, "P@1": 0.17954070981210857}
+{"pattern": ["\u0120province", "\u0120remain", "\u0120lesbian", "\u0120epidemic", "\u0120in"], "ids": [2791, 1091, 21427, 11004, 11], "seed": 3, "P@1": 0.3935281837160752}
+{"pattern": ["\u0120politician", "\u0120twins", "Sw", "itzerland", "\u0120and"], "ids": [8676, 13137, 15417, 41607, 8], "seed": 4, "P@1": 0.33402922755741127}
+{"pattern": ["\u0120bilateral", "':", "Nor", "itzerland", "\u0120and"], "ids": [9526, 13373, 29723, 41607, 8], "seed": 5, "P@1": 0.2640918580375783}
+{"pattern": ["\u0120bilateral", "UN", "\u0120hockey", "\u0120fairness", "\u0120favors"], "ids": [9526, 4154, 5006, 16890, 20145], "seed": 6, "P@1": 0.31941544885177453}
+{"pattern": ["PAR", "\u0120vaccinations", "US", "\u0120topped", "\u0120neighboring"], "ids": [14280, 32509, 3048, 8319, 10935], "seed": 7, "P@1": 0.418580375782881}
+{"pattern": ["aga", "\u0120bilateral", "\u0120(", "Germany", "\u0120and"], "ids": [6080, 9526, 36, 24596, 8], "seed": 8, "P@1": 0.325678496868476}
+{"pattern": ["Image", "\u0120features", "\u0120countries", "\u0120first", ":"], "ids": [8532, 1575, 749, 78, 35], "seed": 9, "P@1": 0.2661795407098121}

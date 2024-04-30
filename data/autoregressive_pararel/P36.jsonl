@@ -1,8 +1,8 @@
-{"pattern": "The capital city of [X] is [Y] .", "bert-base-uncased_P@1": 0.5414012738853503, "opt-350m_P@1": 0.059447983014861996}
-{"pattern": "The capital of [X] is [Y] .", "bert-base-uncased_P@1": 0.5626326963906582, "opt-350m_P@1": 0.24416135881104034}
-{"pattern": "[X]'s capital city is [Y] .", "bert-base-uncased_P@1": 0.5605095541401274, "opt-350m_P@1": 0.010615711252653927}
-{"pattern": "[X]'s capital city, [Y] .", "bert-base-uncased_P@1": 0.5520169851380042, "opt-350m_P@1": 0.4607218683651805}
-{"pattern": "[X]'s capital is [Y] .", "bert-base-uncased_P@1": 0.564755838641189, "opt-350m_P@1": 0.01910828025477707}
-{"pattern": "[X]'s capital, [Y] .", "bert-base-uncased_P@1": 0.5414012738853503, "opt-350m_P@1": 0.44798301486199577}
-{"pattern": "[X], which has the capital [Y] .", "bert-base-uncased_P@1": 0.16772823779193205, "opt-350m_P@1": 0.15711252653927812}
-{"pattern": "[X], which has the capital city [Y] .", "bert-base-uncased_P@1": 0.4692144373673036, "opt-350m_P@1": 0.040339702760084924}
+{"pattern": "The capital city of [X] is [Y] .", "bert-large-uncased_P@1": 0.6220806794055201, "opt-350m_P@1": 0.059447983014861996}
+{"pattern": "The capital of [X] is [Y] .", "bert-large-uncased_P@1": 0.6220806794055201, "opt-350m_P@1": 0.24416135881104034}
+{"pattern": "[X]'s capital city is [Y] .", "bert-large-uncased_P@1": 0.6199575371549894, "opt-350m_P@1": 0.010615711252653927}
+{"pattern": "[X]'s capital city, [Y] .", "bert-large-uncased_P@1": 0.5987261146496815, "opt-350m_P@1": 0.4607218683651805}
+{"pattern": "[X]'s capital is [Y] .", "bert-large-uncased_P@1": 0.6114649681528662, "opt-350m_P@1": 0.01910828025477707}
+{"pattern": "[X]'s capital, [Y] .", "bert-large-uncased_P@1": 0.6029723991507431, "opt-350m_P@1": 0.44798301486199577}
+{"pattern": "[X], which has the capital [Y] .", "bert-large-uncased_P@1": 0.5732484076433121, "opt-350m_P@1": 0.15711252653927812}
+{"pattern": "[X], which has the capital city [Y] .", "bert-large-uncased_P@1": 0.5859872611464968, "opt-350m_P@1": 0.040339702760084924}

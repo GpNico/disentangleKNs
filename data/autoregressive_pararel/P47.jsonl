@@ -1,18 +1,18 @@
-{"pattern": "[X] borders with [Y] .", "bert-base-uncased_P@1": 0.15950920245398773, "opt-350m_P@1": 0.08895705521472393}
-{"pattern": "[X] shares a border with [Y] .", "bert-base-uncased_P@1": 0.1441717791411043, "opt-350m_P@1": 0.0950920245398773}
-{"pattern": "[X] shares a common border with [Y] .", "bert-base-uncased_P@1": 0.1579754601226994, "opt-350m_P@1": 0.11042944785276074}
-{"pattern": "[X] shares border with [Y] .", "bert-base-uncased_P@1": 0.13957055214723926, "opt-350m_P@1": 0.11196319018404909}
-{"pattern": "[X] shares borders with [Y] .", "bert-base-uncased_P@1": 0.14570552147239263, "opt-350m_P@1": 0.10276073619631902}
-{"pattern": "[X] shares its border with [Y] .", "bert-base-uncased_P@1": 0.15030674846625766, "opt-350m_P@1": 0.10429447852760736}
-{"pattern": "[X] shares its borders with [Y] .", "bert-base-uncased_P@1": 0.16411042944785276, "opt-350m_P@1": 0.0950920245398773}
-{"pattern": "[X] shares the border with [Y] .", "bert-base-uncased_P@1": 0.147239263803681, "opt-350m_P@1": 0.11503067484662577}
-{"pattern": "[X] shares the borders with [Y] .", "bert-base-uncased_P@1": 0.15950920245398773, "opt-350m_P@1": 0.11809815950920245}
-{"pattern": "Does [X] border with [Y]?", "bert-base-uncased_P@1": 0.17484662576687116, "opt-350m_P@1": 0.09969325153374232}
-{"pattern": "Does [X] share a border with [Y]?", "bert-base-uncased_P@1": 0.15030674846625766, "opt-350m_P@1": 0.09355828220858896}
-{"pattern": "Does [X] share a common border with [Y]?", "bert-base-uncased_P@1": 0.1411042944785276, "opt-350m_P@1": 0.10429447852760736}
-{"pattern": "Does [X] share border with [Y]?", "bert-base-uncased_P@1": 0.1549079754601227, "opt-350m_P@1": 0.12423312883435583}
-{"pattern": "Does [X] share borders with [Y]?", "bert-base-uncased_P@1": 0.13650306748466257, "opt-350m_P@1": 0.1058282208588957}
-{"pattern": "Does [X] share its border with [Y]?", "bert-base-uncased_P@1": 0.14570552147239263, "opt-350m_P@1": 0.10122699386503067}
-{"pattern": "Does [X] share its borders with [Y]?", "bert-base-uncased_P@1": 0.14570552147239263, "opt-350m_P@1": 0.09662576687116564}
-{"pattern": "Does [X] share the border with [Y]?", "bert-base-uncased_P@1": 0.147239263803681, "opt-350m_P@1": 0.09355828220858896}
-{"pattern": "Does [X] share the borders with [Y]?", "bert-base-uncased_P@1": 0.1411042944785276, "opt-350m_P@1": 0.10429447852760736}
+{"pattern": "[X] borders with [Y] .", "bert-large-uncased_P@1": 0.18865030674846625, "opt-350m_P@1": 0.08895705521472393}
+{"pattern": "[X] shares a border with [Y] .", "bert-large-uncased_P@1": 0.18404907975460122, "opt-350m_P@1": 0.0950920245398773}
+{"pattern": "[X] shares a common border with [Y] .", "bert-large-uncased_P@1": 0.17638036809815952, "opt-350m_P@1": 0.10889570552147239}
+{"pattern": "[X] shares border with [Y] .", "bert-large-uncased_P@1": 0.18404907975460122, "opt-350m_P@1": 0.11196319018404909}
+{"pattern": "[X] shares borders with [Y] .", "bert-large-uncased_P@1": 0.19478527607361965, "opt-350m_P@1": 0.10122699386503067}
+{"pattern": "[X] shares its border with [Y] .", "bert-large-uncased_P@1": 0.1794478527607362, "opt-350m_P@1": 0.10276073619631902}
+{"pattern": "[X] shares its borders with [Y] .", "bert-large-uncased_P@1": 0.20552147239263804, "opt-350m_P@1": 0.0950920245398773}
+{"pattern": "[X] shares the border with [Y] .", "bert-large-uncased_P@1": 0.18404907975460122, "opt-350m_P@1": 0.11503067484662577}
+{"pattern": "[X] shares the borders with [Y] .", "bert-large-uncased_P@1": 0.18404907975460122, "opt-350m_P@1": 0.11809815950920245}
+{"pattern": "Does [X] border with [Y]?", "bert-large-uncased_P@1": 0.17638036809815952, "opt-350m_P@1": 0.09969325153374232}
+{"pattern": "Does [X] share a border with [Y]?", "bert-large-uncased_P@1": 0.1687116564417178, "opt-350m_P@1": 0.09355828220858896}
+{"pattern": "Does [X] share a common border with [Y]?", "bert-large-uncased_P@1": 0.1794478527607362, "opt-350m_P@1": 0.10429447852760736}
+{"pattern": "Does [X] share border with [Y]?", "bert-large-uncased_P@1": 0.17638036809815952, "opt-350m_P@1": 0.12423312883435583}
+{"pattern": "Does [X] share borders with [Y]?", "bert-large-uncased_P@1": 0.17024539877300612, "opt-350m_P@1": 0.1058282208588957}
+{"pattern": "Does [X] share its border with [Y]?", "bert-large-uncased_P@1": 0.19478527607361965, "opt-350m_P@1": 0.10122699386503067}
+{"pattern": "Does [X] share its borders with [Y]?", "bert-large-uncased_P@1": 0.1901840490797546, "opt-350m_P@1": 0.09662576687116564}
+{"pattern": "Does [X] share the border with [Y]?", "bert-large-uncased_P@1": 0.16717791411042945, "opt-350m_P@1": 0.0950920245398773}
+{"pattern": "Does [X] share the borders with [Y]?", "bert-large-uncased_P@1": 0.17177914110429449, "opt-350m_P@1": 0.10276073619631902}

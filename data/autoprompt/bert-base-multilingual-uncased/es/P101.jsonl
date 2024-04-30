@@ -1,4 +1,10 @@
-{"pattern": ["homepage", "concretamente", "algebra", "zoologia", "&"], "ids": [61916, 87275, 36326, 71793, 111], "seed": 0, "P@1": 0.08108108108108109}
-{"pattern": ["udalerria", "universidad", "gadam", "instituto", "nafarroako"], "ids": [26185, 13804, 38288, 13149, 66149], "seed": 1, "P@1": 0.018018018018018018}
-{"pattern": ["knjizevnost", "chilean", "informatica", "fizika", "chilena"], "ids": [83234, 81300, 53421, 63030, 48265], "seed": 2, "P@1": 0.0}
-{"pattern": ["zoologia", "\u0642\u0627\u064a\u0645\u0629", "ingelesez", "matematica", "como"], "ids": [71793, 25012, 19668, 32192, 10245], "seed": 3, "P@1": 0.0}
+{"pattern": ["scienze", "delft", "matematica", "zoologia", "religiao"], "ids": [53991, 68810, 32192, 71793, 86193], "seed": 0}
+{"pattern": ["teoria", "sonntag", "astronomie", "terapia", "dins"], "ids": [15671, 96602, 48364, 56954, 13604], "seed": 1}
+{"pattern": ["asociacion", "quimico", "teoria", "\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0430", "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0430\u0442\u0430"], "ids": [21791, 86562, 15671, 83818, 53057], "seed": 2}
+{"pattern": ["exposicion", "rurales", "cientifico", "matematika", "y"], "ids": [38663, 74181, 43576, 54972, 167], "seed": 3}
+{"pattern": ["officiel", "wikisky", "instituti", "brasileira", "##\u05d6\u05d5\u05d2"], "ids": [31692, 34791, 52331, 22661, 64109], "seed": 4}
+{"pattern": ["grenade", "ciencies", "mitologia", "arquitecto", "teoria"], "ids": [86623, 54099, 44388, 45880, 15671], "seed": 5}
+{"pattern": ["ademas", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430", "algebra", "ciencias", "\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430"], "ids": [14047, 58754, 36326, 21771, 58754], "seed": 6}
+{"pattern": ["descripcion", "ciencias", "algebra", "religion", "descripcion"], "ids": [49138, 21771, 36326, 15309, 49138], "seed": 7}
+{"pattern": ["gjeld", "definicion", "##ides", "tratado", "knjizevne"], "ids": [76638, 54824, 15803, 26833, 52558], "seed": 8}
+{"pattern": ["premio", "harvard", "espanhol", "nobel", "sobre"], "ids": [12772, 17023, 51927, 16303, 10751], "seed": 9}

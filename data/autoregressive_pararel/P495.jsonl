@@ -1,38 +1,38 @@
-{"pattern": "[X] came from [Y] .", "bert-base-uncased_P@1": 0.17790055248618786, "opt-350m_P@1": 0.0011049723756906078}
-{"pattern": "[X] comes from [Y] .", "bert-base-uncased_P@1": 0.20662983425414364, "opt-350m_P@1": 0.0}
-{"pattern": "[X] formed in [Y] .", "bert-base-uncased_P@1": 0.12375690607734807, "opt-350m_P@1": 0.0033149171270718232}
-{"pattern": "[X] is from [Y] .", "bert-base-uncased_P@1": 0.22320441988950276, "opt-350m_P@1": 0.017679558011049725}
-{"pattern": "[X] originated in [Y] .", "bert-base-uncased_P@1": 0.30165745856353593, "opt-350m_P@1": 0.10386740331491713}
-{"pattern": "[X] was created in [Y] .", "bert-base-uncased_P@1": 0.2541436464088398, "opt-350m_P@1": 0.0022099447513812156}
-{"pattern": "[X] was developed in [Y] .", "bert-base-uncased_P@1": 0.33259668508287293, "opt-350m_P@1": 0.016574585635359115}
-{"pattern": "[X] was first created in [Y] .", "bert-base-uncased_P@1": 0.2740331491712707, "opt-350m_P@1": 0.02983425414364641}
-{"pattern": "[X] was first made in [Y] .", "bert-base-uncased_P@1": 0.343646408839779, "opt-350m_P@1": 0.05856353591160221}
-{"pattern": "[X] was first produced in [Y] .", "bert-base-uncased_P@1": 0.3558011049723757, "opt-350m_P@1": 0.06519337016574586}
-{"pattern": "[X] was formed in [Y] .", "bert-base-uncased_P@1": 0.13701657458563535, "opt-350m_P@1": 0.0011049723756906078}
-{"pattern": "[X] was formulated in [Y] .", "bert-base-uncased_P@1": 0.25303867403314917, "opt-350m_P@1": 0.008839779005524863}
-{"pattern": "[X] was from [Y] .", "bert-base-uncased_P@1": 0.143646408839779, "opt-350m_P@1": 0.0033149171270718232}
-{"pattern": "[X], created in [Y] .", "bert-base-uncased_P@1": 0.25082872928176797, "opt-350m_P@1": 0.0066298342541436465}
-{"pattern": "[X], developed in [Y] .", "bert-base-uncased_P@1": 0.3392265193370166, "opt-350m_P@1": 0.027624309392265192}
-{"pattern": "[X], formulated in [Y] .", "bert-base-uncased_P@1": 0.2176795580110497, "opt-350m_P@1": 0.03756906077348066}
-{"pattern": "[X], from [Y] .", "bert-base-uncased_P@1": 0.23204419889502761, "opt-350m_P@1": 0.0022099447513812156}
-{"pattern": "[X], that originated in [Y] .", "bert-base-uncased_P@1": 0.292817679558011, "opt-350m_P@1": 0.12596685082872927}
-{"pattern": "[X], that was created in [Y] .", "bert-base-uncased_P@1": 0.16574585635359115, "opt-350m_P@1": 0.004419889502762431}
-{"pattern": "[X], that was developed in [Y] .", "bert-base-uncased_P@1": 0.2729281767955801, "opt-350m_P@1": 0.023204419889502764}
-{"pattern": "[X], that was formed in [Y] .", "bert-base-uncased_P@1": 0.1005524861878453, "opt-350m_P@1": 0.0033149171270718232}
-{"pattern": "[X], that was formulated in [Y] .", "bert-base-uncased_P@1": 0.10165745856353592, "opt-350m_P@1": 0.008839779005524863}
-{"pattern": "[X], who was from [Y] .", "bert-base-uncased_P@1": 0.06961325966850829, "opt-350m_P@1": 0.0055248618784530384}
-{"pattern": "Did [X] come from [Y]?", "bert-base-uncased_P@1": 0.12044198895027625, "opt-350m_P@1": 0.0011049723756906078}
-{"pattern": "Did [X] form in [Y]?", "bert-base-uncased_P@1": 0.10939226519337017, "opt-350m_P@1": 0.0033149171270718232}
-{"pattern": "Did [X] originate in [Y]?", "bert-base-uncased_P@1": 0.2828729281767956, "opt-350m_P@1": 0.12596685082872927}
-{"pattern": "Does [X] come from [Y]?", "bert-base-uncased_P@1": 0.09171270718232044, "opt-350m_P@1": 0.0077348066298342545}
-{"pattern": "Does [X] originate in [Y]?", "bert-base-uncased_P@1": 0.28950276243093925, "opt-350m_P@1": 0.16795580110497238}
-{"pattern": "Is [X] formulated in [Y]?", "bert-base-uncased_P@1": 0.23535911602209944, "opt-350m_P@1": 0.07955801104972375}
-{"pattern": "Is [X] from [Y]?", "bert-base-uncased_P@1": 0.19779005524861878, "opt-350m_P@1": 0.013259668508287293}
-{"pattern": "Was [X] created in [Y]?", "bert-base-uncased_P@1": 0.23204419889502761, "opt-350m_P@1": 0.012154696132596685}
-{"pattern": "Was [X] developed in [Y]?", "bert-base-uncased_P@1": 0.2839779005524862, "opt-350m_P@1": 0.049723756906077346}
-{"pattern": "Was [X] first created in [Y]?", "bert-base-uncased_P@1": 0.26077348066298345, "opt-350m_P@1": 0.09502762430939227}
-{"pattern": "Was [X] first made in [Y]?", "bert-base-uncased_P@1": 0.2994475138121547, "opt-350m_P@1": 0.13591160220994475}
-{"pattern": "Was [X] first produced in [Y]?", "bert-base-uncased_P@1": 0.31933701657458563, "opt-350m_P@1": 0.1425414364640884}
-{"pattern": "Was [X] formed in [Y]?", "bert-base-uncased_P@1": 0.2121546961325967, "opt-350m_P@1": 0.0055248618784530384}
-{"pattern": "Was [X] formulated in [Y]?", "bert-base-uncased_P@1": 0.21878453038674034, "opt-350m_P@1": 0.02541436464088398}
-{"pattern": "Was [X] from [Y]?", "bert-base-uncased_P@1": 0.14917127071823205, "opt-350m_P@1": 0.0033149171270718232}
+{"pattern": "[X] came from [Y] .", "bert-large-uncased_P@1": 0.14696132596685083, "opt-350m_P@1": 0.0011049723756906078}
+{"pattern": "[X] comes from [Y] .", "bert-large-uncased_P@1": 0.16022099447513813, "opt-350m_P@1": 0.0}
+{"pattern": "[X] formed in [Y] .", "bert-large-uncased_P@1": 0.18453038674033148, "opt-350m_P@1": 0.0033149171270718232}
+{"pattern": "[X] is from [Y] .", "bert-large-uncased_P@1": 0.17569060773480663, "opt-350m_P@1": 0.017679558011049725}
+{"pattern": "[X] originated in [Y] .", "bert-large-uncased_P@1": 0.2883977900552486, "opt-350m_P@1": 0.10386740331491713}
+{"pattern": "[X] was created in [Y] .", "bert-large-uncased_P@1": 0.22983425414364642, "opt-350m_P@1": 0.0022099447513812156}
+{"pattern": "[X] was developed in [Y] .", "bert-large-uncased_P@1": 0.3237569060773481, "opt-350m_P@1": 0.017679558011049725}
+{"pattern": "[X] was first created in [Y] .", "bert-large-uncased_P@1": 0.3314917127071823, "opt-350m_P@1": 0.02983425414364641}
+{"pattern": "[X] was first made in [Y] .", "bert-large-uncased_P@1": 0.34585635359116024, "opt-350m_P@1": 0.05856353591160221}
+{"pattern": "[X] was first produced in [Y] .", "bert-large-uncased_P@1": 0.35359116022099446, "opt-350m_P@1": 0.06519337016574586}
+{"pattern": "[X] was formed in [Y] .", "bert-large-uncased_P@1": 0.1878453038674033, "opt-350m_P@1": 0.0011049723756906078}
+{"pattern": "[X] was formulated in [Y] .", "bert-large-uncased_P@1": 0.16353591160220995, "opt-350m_P@1": 0.008839779005524863}
+{"pattern": "[X] was from [Y] .", "bert-large-uncased_P@1": 0.1138121546961326, "opt-350m_P@1": 0.0033149171270718232}
+{"pattern": "[X], created in [Y] .", "bert-large-uncased_P@1": 0.33480662983425413, "opt-350m_P@1": 0.0066298342541436465}
+{"pattern": "[X], developed in [Y] .", "bert-large-uncased_P@1": 0.34917127071823206, "opt-350m_P@1": 0.028729281767955802}
+{"pattern": "[X], formulated in [Y] .", "bert-large-uncased_P@1": 0.16022099447513813, "opt-350m_P@1": 0.03756906077348066}
+{"pattern": "[X], from [Y] .", "bert-large-uncased_P@1": 0.17790055248618786, "opt-350m_P@1": 0.0022099447513812156}
+{"pattern": "[X], that originated in [Y] .", "bert-large-uncased_P@1": 0.2983425414364641, "opt-350m_P@1": 0.12596685082872927}
+{"pattern": "[X], that was created in [Y] .", "bert-large-uncased_P@1": 0.3149171270718232, "opt-350m_P@1": 0.004419889502762431}
+{"pattern": "[X], that was developed in [Y] .", "bert-large-uncased_P@1": 0.33812154696132596, "opt-350m_P@1": 0.023204419889502764}
+{"pattern": "[X], that was formed in [Y] .", "bert-large-uncased_P@1": 0.2773480662983425, "opt-350m_P@1": 0.0033149171270718232}
+{"pattern": "[X], that was formulated in [Y] .", "bert-large-uncased_P@1": 0.13370165745856355, "opt-350m_P@1": 0.008839779005524863}
+{"pattern": "[X], who was from [Y] .", "bert-large-uncased_P@1": 0.10276243093922652, "opt-350m_P@1": 0.0055248618784530384}
+{"pattern": "Did [X] come from [Y]?", "bert-large-uncased_P@1": 0.11491712707182321, "opt-350m_P@1": 0.0011049723756906078}
+{"pattern": "Did [X] form in [Y]?", "bert-large-uncased_P@1": 0.18453038674033148, "opt-350m_P@1": 0.0033149171270718232}
+{"pattern": "Did [X] originate in [Y]?", "bert-large-uncased_P@1": 0.28950276243093925, "opt-350m_P@1": 0.12486187845303867}
+{"pattern": "Does [X] come from [Y]?", "bert-large-uncased_P@1": 0.1270718232044199, "opt-350m_P@1": 0.0077348066298342545}
+{"pattern": "Does [X] originate in [Y]?", "bert-large-uncased_P@1": 0.2994475138121547, "opt-350m_P@1": 0.16795580110497238}
+{"pattern": "Is [X] formulated in [Y]?", "bert-large-uncased_P@1": 0.20552486187845304, "opt-350m_P@1": 0.08066298342541436}
+{"pattern": "Is [X] from [Y]?", "bert-large-uncased_P@1": 0.1723756906077348, "opt-350m_P@1": 0.013259668508287293}
+{"pattern": "Was [X] created in [Y]?", "bert-large-uncased_P@1": 0.29171270718232045, "opt-350m_P@1": 0.012154696132596685}
+{"pattern": "Was [X] developed in [Y]?", "bert-large-uncased_P@1": 0.3116022099447514, "opt-350m_P@1": 0.05082872928176796}
+{"pattern": "Was [X] first created in [Y]?", "bert-large-uncased_P@1": 0.3138121546961326, "opt-350m_P@1": 0.09502762430939227}
+{"pattern": "Was [X] first made in [Y]?", "bert-large-uncased_P@1": 0.3160220994475138, "opt-350m_P@1": 0.13480662983425415}
+{"pattern": "Was [X] first produced in [Y]?", "bert-large-uncased_P@1": 0.3314917127071823, "opt-350m_P@1": 0.1425414364640884}
+{"pattern": "Was [X] formed in [Y]?", "bert-large-uncased_P@1": 0.27071823204419887, "opt-350m_P@1": 0.0055248618784530384}
+{"pattern": "Was [X] formulated in [Y]?", "bert-large-uncased_P@1": 0.2265193370165746, "opt-350m_P@1": 0.026519337016574586}
+{"pattern": "Was [X] from [Y]?", "bert-large-uncased_P@1": 0.14475138121546963, "opt-350m_P@1": 0.0033149171270718232}

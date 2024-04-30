@@ -1,4 +1,10 @@
-{"pattern": ["Member", "ilingual", "\u0120mainly", "\u0120spoken", "\u0120include"], "ids": [45899, 41586, 4412, 5826, 680], "seed": 0, "P@1": 0.6289381563593932}
-{"pattern": ["\u0120either", "\u0120english", "\u0120\u00e2\u0122", "Name", "\u0120vs"], "ids": [1169, 47510, 44, 31723, 1954], "seed": 1, "P@1": 0.10618436406067679}
-{"pattern": ["\u0120dual", "English", "\u0120married", "\u0120a", "\u0120complementary"], "ids": [6594, 35007, 2997, 10, 25402], "seed": 2, "P@1": 0.6382730455075846}
-{"pattern": ["Favorite", "\u0120nationality", ";", "\u0120language", ":"], "ids": [48236, 26241, 131, 2777, 35], "seed": 3, "P@1": 0.6534422403733956}
+{"pattern": ["anguages", "\u0120imported", "British", "\u0120accent", "atin"], "ids": [48957, 10590, 24270, 15056, 16779], "seed": 0, "P@1": 0.6347724620770129}
+{"pattern": [".(", "German", "\u00e2\u0122", "\u0120spoken", "\u0120versus"], "ids": [21154, 27709, 17, 5826, 4411], "seed": 1, "P@1": 0.5647607934655776}
+{"pattern": ["Token", "().", "\u0120history", "English", "\u0120to"], "ids": [45643, 49123, 750, 35007, 7], "seed": 2, "P@1": 0.67561260210035}
+{"pattern": ["arma", "={", "\u0120(", "Dutch", "\u0120or"], "ids": [15277, 49248, 36, 40877, 50], "seed": 3, "P@1": 0.5764294049008168}
+{"pattern": ["\u0120translations", "British", "\u0120characters", "\u0120dis", "peak"], "ids": [41762, 24270, 3768, 2982, 37271], "seed": 4, "P@1": 0.5752625437572929}
+{"pattern": ["\u0120combines", "\u0120languages", "German", "-", "\u0120and"], "ids": [15678, 11991, 27709, 12, 8], "seed": 5, "P@1": 0.6161026837806302}
+{"pattern": ["\u0120midfielder", "language", "\u0120crowned", "\u0120'", "\u0120best"], "ids": [5732, 19527, 19061, 128, 275], "seed": 6, "P@1": 0.4177362893815636}
+{"pattern": ["\"),", "\u0120background", "English", "\u0120mixed", "\u0120between"], "ids": [16844, 3618, 35007, 4281, 227], "seed": 7, "P@1": 0.662777129521587}
+{"pattern": ["\u0120fridge", "English", "\u0120sofa", "\u0120spoken", "\u0120traditional"], "ids": [22087, 35007, 26711, 5826, 2065], "seed": 8, "P@1": 0.6581096849474912}
+{"pattern": ["\u0120dictatorship", "English", "\u0120show", "\u0120strictly", "\u0120in"], "ids": [23422, 35007, 311, 14657, 11], "seed": 9, "P@1": 0.6709451575262544}

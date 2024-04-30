@@ -1,4 +1,10 @@
-{"pattern": ["femme", "officiel", "\u0441\u043f\u0430\u0440\u0442\u0430\u043a", "nationale", "miss"], "ids": [17027, 31692, 65797, 13332, 14344], "seed": 0, "P@1": 0.3391812865497076}
-{"pattern": ["nurwegen", "balangay", "prairie", "situe", "en"], "ids": [78621, 43929, 40303, 14737, 10109], "seed": 1, "P@1": 0.3508771929824561}
-{"pattern": ["lescht", "\u06c1\u0648\u0627\u064a\u06cc", "centre", "comunas", "\u05d9\u05d4\u05d5\u05d3\u05d9"], "ids": [27798, 34223, 11534, 40662, 38508], "seed": 2, "P@1": 0.17543859649122806}
-{"pattern": ["liste", "musi", "sculptor", "politique", "saking"], "ids": [13593, 28925, 66855, 15235, 32589], "seed": 3, "P@1": 0.13450292397660818}
+{"pattern": ["pagina", "mineur", "ofisiel", "scouts", "##\u0ba4\u0ba4\u0bc1\u0b95"], "ids": [16833, 86656, 63620, 58548, 95588], "seed": 0}
+{"pattern": ["\u0905\u092d\u093f\u0928\u0924\u0930\u0940", "actrice", "originaire", "surtout", "en"], "ids": [96291, 26087, 43282, 23370, 10109], "seed": 1}
+{"pattern": ["\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "##duutsch", "historisches", "centre", "\u0936\u093e\u0938\u0924\u0930\u0940\u092f"], "ids": [58703, 77498, 87234, 11534, 95414], "seed": 2}
+{"pattern": ["officiel", "zodynas", "propinsi", "tout", "ing"], "ids": [31692, 86893, 38389, 12666, 11640], "seed": 3}
+{"pattern": ["\u0441\u0435\u0437\u043e\u043d\u0435", "badminton", "actuellement", "originaire", "en"], "ids": [23234, 44809, 33046, 43282, 10109], "seed": 4}
+{"pattern": ["denkmal", "naissance", "abitanti", "##\u0438\u0437\u0438\u0438", "tout"], "ids": [60845, 34201, 17319, 91911, 12666], "seed": 5}
+{"pattern": ["\u0442\u0443\u0440\u0430\u04bb\u044b\u043d\u0434\u0430", "\u0938\u0930\u0915\u093e\u0930", "websteed", "democratique", "adtong"], "ids": [66399, 39425, 94284, 59735, 12416], "seed": 6}
+{"pattern": ["einer", "\u0441\u0430\u0438\u0446\u0435", "verband", "nationaux", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [10673, 39719, 27952, 70141, 55892], "seed": 7}
+{"pattern": ["frankrig", "albania", "myanmar", "francu", "##tien"], "ids": [59290, 26442, 31691, 82622, 20558], "seed": 8}
+{"pattern": ["arrondissementer", "stato", "\u0448\u0438\u043b\u0430", "lescht", "##\u0647\u0627\u06cc"], "ids": [56054, 11445, 52196, 27798, 11024], "seed": 9}

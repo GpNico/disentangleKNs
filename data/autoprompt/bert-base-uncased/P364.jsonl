@@ -1,8 +1,0 @@
-{"pattern": ["jamaica", "jamaican", "language", "estonian", "southern"], "ids": [9156, 17851, 2653, 12029, 2670], "seed": 0, "P@1": 0.1455026455026455}
-{"pattern": ["2017", "jury", "main", "language", "-"], "ids": [2418, 6467, 2364, 2653, 1011], "seed": 1, "P@1": 0.4074074074074074}
-{"pattern": ["languages", "somali", "afrikaans", "sinai", "##gical"], "ids": [4155, 16831, 28673, 20837, 26715], "seed": 2, "P@1": 0.11772486772486772}
-{"pattern": ["antony", "cemetery", "bilingual", "sino", "-"], "ids": [16262, 4528, 17636, 19432, 1011], "seed": 3, "P@1": 0.4880952380952381}
-{"pattern": ["speaks", "kannada", "malayalam", "kurdish", "kenyan"], "ids": [8847, 13873, 12998, 15553, 20428], "seed": 4, "P@1": 0.24867724867724866}
-{"pattern": ["gamble", "vocals", "performed", "translated", "their"], "ids": [18503, 2955, 2864, 5421, 2037], "seed": 5, "P@1": 0.25132275132275134}
-{"pattern": ["php", "bombing", "luftwaffe", "gov", "."], "ids": [25718, 8647, 17740, 18079, 1012], "seed": 6, "P@1": 0.0}
-{"pattern": ["bestseller", "language", "kannada", "sweden", "classical"], "ids": [24304, 2653, 13873, 4701, 4556], "seed": 7, "P@1": 0.2037037037037037}

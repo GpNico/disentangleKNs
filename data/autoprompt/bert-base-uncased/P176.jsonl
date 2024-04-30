@@ -1,8 +1,0 @@
-{"pattern": ["listened", "brand", "eponymous", "disney", "/"], "ids": [7791, 4435, 15248, 6373, 1013], "seed": 0, "P@1": 0.8160919540229885}
-{"pattern": ["fuselage", "offers", "wikipedia", "mitsubishi", "/"], "ids": [13478, 4107, 16948, 19695, 1013], "seed": 1, "P@1": 0.800417972831766}
-{"pattern": ["brands", "##avian", "lotus", "sci", "##avian"], "ids": [9639, 21654, 13030, 16596, 21654], "seed": 2, "P@1": 0.009404388714733543}
-{"pattern": ["tiger", "physicians", "harta", "motors", "virgin"], "ids": [6816, 11572, 26283, 9693, 6261], "seed": 3, "P@1": 0.14106583072100312}
-{"pattern": ["jennifer", "swift", "muller", "em", "##achi"], "ids": [7673, 9170, 12304, 7861, 21046], "seed": 4, "P@1": 0.22152560083594566}
-{"pattern": ["singapore", "specialising", "##yu", "ale", "##avi"], "ids": [5264, 23315, 10513, 15669, 18891], "seed": 5, "P@1": 0.04179728317659352}
-{"pattern": ["sponsorship", "website", "divides", "ford", "and"], "ids": [12026, 4037, 20487, 4811, 1998], "seed": 6, "P@1": 0.7753396029258098}
-{"pattern": ["royal", "barber", "reliance", "eu", "american"], "ids": [2548, 13362, 17975, 7327, 2137], "seed": 7, "P@1": 0.11180773249738767}

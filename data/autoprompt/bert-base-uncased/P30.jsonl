@@ -1,8 +1,0 @@
-{"pattern": ["antarctic", "bulgaria", "defendants", "##tension", "polar"], "ids": [10227, 8063, 16362, 29048, 11508], "seed": 0, "P@1": 0.7278415015641293}
-{"pattern": ["##khand", "antarctic", "##ogenic", "greenland", "equatorial"], "ids": [25910, 10227, 24278, 16128, 21333], "seed": 1, "P@1": 0.22523461939520334}
-{"pattern": ["antarctic", "arctic", "interact", "imagine", "peninsular"], "ids": [10227, 10162, 11835, 5674, 22682], "seed": 2, "P@1": 0.7278415015641293}
-{"pattern": ["shaun", "polar", "australia", "falkland", "polar"], "ids": [16845, 11508, 2660, 25257, 11508], "seed": 3, "P@1": 0.735140771637122}
-{"pattern": ["isla", "glacier", "chile", "ascension", "##hole"], "ids": [25340, 10046, 7029, 18071, 11484], "seed": 4, "P@1": 0.11470281543274244}
-{"pattern": ["prayed", "stark", "antarctic", "seton", "cyber"], "ids": [14283, 9762, 10227, 28796, 16941], "seed": 5, "P@1": 0.1710114702815433}
-{"pattern": ["antarctic", "combo", "photos", "orchid", "."], "ids": [10227, 25025, 7760, 15573, 1012], "seed": 6, "P@1": 0.0}
-{"pattern": ["hulk", "polar", "australia", "mcdonnell", "polar"], "ids": [16009, 11508, 2660, 23149, 11508], "seed": 7, "P@1": 0.7153284671532847}

@@ -1,4 +1,10 @@
-{"pattern": ["\u0441\u0442\u0438\u0445\u0438", "herecka", "##\u0baf\u0ba4", "database", "miss"], "ids": [47800, 83647, 68150, 10326, 14344], "seed": 0, "P@1": 0.32105263157894737}
-{"pattern": ["##\u0640", "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "##matic", "party", "of"], "ids": [96780, 18903, 82833, 11727, 10108], "seed": 1, "P@1": 0.3894736842105263}
-{"pattern": ["unofficial", "artistic", "\u043a\u0440\u0430\u0435", "database", "representing"], "ids": [88047, 30552, 64355, 10326, 30538], "seed": 2, "P@1": 0.4}
-{"pattern": ["##\u0436\u0430\u0438", "situs", "\u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u0438\u043a", "facebook", "wwf"], "ids": [78081, 20757, 66452, 21105, 36522], "seed": 3, "P@1": 0.11052631578947368}
+{"pattern": ["food", "eurovision", "born", "deportista", "of"], "ids": [15225, 22100, 11161, 74325, 10108], "seed": 0}
+{"pattern": ["badminton", "retired", "##\u043e\u0432\u043d\u0430", "database", "representing"], "ids": [44809, 18162, 30833, 10326, 30538], "seed": 1}
+{"pattern": ["official", "##\u0434\u044c", "heritage", "names", "in"], "ids": [13061, 46066, 17328, 12276, 10104], "seed": 2}
+{"pattern": ["\u05d0\u05e9\u05ea\u05d5", "\u05d0\u05d5\u05ea\u05d5", "biography", "\u0436\u043e\u049b", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [65526, 18158, 14097, 71996, 55892], "seed": 3}
+{"pattern": ["brandt", "photographic", "database", "villages", "##sabb"], "ids": [46165, 71535, 10326, 17495, 74431], "seed": 4}
+{"pattern": ["\u0441\u0440\u0435\u0434\u0441\u0442\u0432", "\u05d7\u05d1\u05e8", "biography", "himself", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [47684, 37852, 14097, 14885, 55892], "seed": 5}
+{"pattern": ["\u043f\u0440\u0438\u043d\u044f\u0442\u043e", "olympics", "archer", "born", "representing"], "ids": [57874, 19450, 47635, 11161, 30538], "seed": 6}
+{"pattern": ["##course", "\u0447\u0435\u0441\u0442\u044c", "##hockey", "olympics", "representing"], "ids": [86391, 19959, 68835, 19450, 30538], "seed": 7}
+{"pattern": ["career", "unofficial", "olympics", "##boy", "representing"], "ids": [13159, 88047, 19450, 48082, 30538], "seed": 8}
+{"pattern": ["consisted", "handball", "badminton", "biography", "representing"], "ids": [31423, 37957, 44809, 14097, 30538], "seed": 9}

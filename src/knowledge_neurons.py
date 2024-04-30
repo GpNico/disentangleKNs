@@ -146,7 +146,7 @@ class KnowledgeNeurons:
             else:
                 os.makedirs(os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{p}'), exist_ok=True)
                 p_already_computed_kns = {}
-                seen_uuids = []
+                p_seen_uuids = []
             already_computed_kns[p] = p_already_computed_kns
             seen_uuids[p] = p_seen_uuids
 

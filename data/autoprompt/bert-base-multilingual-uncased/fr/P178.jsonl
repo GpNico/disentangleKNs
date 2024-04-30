@@ -1,4 +1,10 @@
-{"pattern": ["tablet", "liyane", "\u0432\u0456\u043a\u0456\u0441\u0445\u043e\u0432\u0456\u0448\u0447\u044b", "\u0456\u043d\u0444\u0430\u0440\u043c\u0430\u0446\u044b\u044f", "\u0442\u044d\u043c\u0435"], "ids": [74215, 93910, 26814, 42566, 26608], "seed": 0, "P@1": 0.38738738738738737}
-{"pattern": ["gates", "orchard", "processor", "cithakan", "\u05d1\u05de\u05e1\u05d2\u05e8\u05ea"], "ids": [30075, 82808, 74074, 60596, 29245], "seed": 1, "P@1": 0.5315315315315315}
-{"pattern": ["specifications", "historique", "computer", "digest", "chez"], "ids": [83096, 22296, 14831, 80527, 15967], "seed": 2, "P@1": 0.6486486486486487}
-{"pattern": ["webgune", "zyrtare", "pratelan", "##\u0448\u0447\u0443", "computer"], "ids": [57158, 87630, 83253, 92967, 14831], "seed": 3, "P@1": 0.05405405405405406}
+{"pattern": ["processor", "publisher", "officielle", "officielle", "chez"], "ids": [74074, 33581, 43111, 43111, 15967], "seed": 0}
+{"pattern": ["\u4ed5", "zanru", "processor", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u0438\u0446\u0435"], "ids": [1781, 87780, 74074, 21115, 39719], "seed": 1}
+{"pattern": ["processor", "\u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a", "retrospective", "plates", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74074, 30034, 81993, 46661, 39719], "seed": 2}
+{"pattern": ["ega", "beetle", "ane", "logiciel", "frae"], "ids": [41061, 47667, 31207, 93739, 24400], "seed": 3}
+{"pattern": ["processor", "\u05d1\u05d0\u05ea\u05e8", "produkt", "serii", "cua"], "ids": [74074, 70937, 49347, 31223, 10500], "seed": 4}
+{"pattern": ["grafica", "processor", "websteed", "subsidiary", "vun"], "ids": [48171, 74074, 94284, 51778, 11086], "seed": 5}
+{"pattern": ["processor", "\u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a", "deluxe", "\u0441\u0430\u0438\u0442", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74074, 30034, 44487, 21115, 39719], "seed": 6}
+{"pattern": ["unveiled", "mythologie", "\u0441\u0430\u0438\u0442\u0435", "hardware", "cua"], "ids": [84539, 58965, 39947, 32071, 10500], "seed": 7}
+{"pattern": ["enemies", "amerykanska", "stacja", "pc", "firmy"], "ids": [48046, 63665, 40289, 16408, 37255], "seed": 8}
+{"pattern": ["console", "\u05e2\u05dc", "##ellus", "##vuti", "\u05d7\u05d1\u05e8\u05ea"], "ids": [36564, 10654, 52986, 82008, 30217], "seed": 9}

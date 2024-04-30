@@ -1,4 +1,10 @@
-{"pattern": ["epouse", "\u0430\u0434\u0440\u0435\u0441", "website", "city", "de"], "ids": [22571, 83510, 12699, 10575, 10102], "seed": 0, "P@1": 0.275}
-{"pattern": ["beirut", "\u0628\u063a\u062f\u0627\u062f", "victoria", "ville", "reliant"], "ids": [36839, 45612, 12841, 11750, 70697], "seed": 1, "P@1": 0.0625}
-{"pattern": ["airlines", "##\u094a", "hms", "parijs", "hms"], "ids": [17694, 96819, 17417, 37683, 17417], "seed": 2, "P@1": 0.04375}
-{"pattern": ["municipality", "administration", "voo", "\u0645\u062f\u0646", "greater"], "ids": [15298, 14778, 65154, 30763, 18860], "seed": 3, "P@1": 0.16875}
+{"pattern": ["ganed", "arrondissement", "exchange", "centre", "prifysgol"], "ids": [75304, 15773, 19394, 11534, 83024], "seed": 0}
+{"pattern": ["capitale", "\u0628\u0627\u0631\u064a\u0633", "\u043b\u043e\u043d\u0434\u043e\u043d", "wwe", "metropole"], "ids": [19472, 70285, 35546, 18988, 51959], "seed": 1}
+{"pattern": ["burlington", "beirut", "parijs", "hermes", "dominion"], "ids": [70862, 36839, 37683, 49092, 72143], "seed": 2}
+{"pattern": ["peak", "batiment", "socio", "metro", "de"], "ids": [15320, 29619, 37190, 11340, 10102], "seed": 3}
+{"pattern": ["huvudavrinningsomrade", "officiellement", "relations", "london", "et"], "ids": [33746, 43529, 17078, 10912, 10137], "seed": 4}
+{"pattern": ["museum", "par", "media", "tower", "de"], "ids": [11217, 10263, 11456, 16657, 10102], "seed": 5}
+{"pattern": ["centre", "principale", "metropolitana", "electronique", "de"], "ids": [11534, 14614, 25859, 68951, 10102], "seed": 6}
+{"pattern": ["voir", "liste", "centre", "downtown", "de"], "ids": [18466, 13593, 11534, 29367, 10102], "seed": 7}
+{"pattern": ["selon", "imdb", "astronomie", "diocese", "##\u0446\u0438\u0458\u0438"], "ids": [13428, 18103, 48364, 22062, 37148], "seed": 8}
+{"pattern": ["empire", "street", "imaxes", "municipais", "utanfor"], "ids": [13359, 11902, 93625, 75026, 41885], "seed": 9}

@@ -1,4 +1,10 @@
-{"pattern": ["website", "\u00a9", "ciudaes", "shilling", "de"], "ids": [12699, 181, 84812, 71159, 10102], "seed": 0, "P@1": 0.35294117647058826}
-{"pattern": ["lliure", "genomics", "naitional", "metropolitana", "o"], "ids": [63382, 57812, 87207, 25859, 157], "seed": 1, "P@1": 0.3627450980392157}
-{"pattern": ["paxina", "britannica", "metro", "##roes", "de"], "ids": [34978, 14221, 11340, 69992, 10102], "seed": 2, "P@1": 0.39215686274509803}
-{"pattern": ["##market", "##web", "botanico", "ciudat", "\u05de\u05dc\u05da"], "ids": [54856, 39620, 33344, 56823, 42512], "seed": 3, "P@1": 0.37254901960784315}
+{"pattern": ["photographic", "olympiske", "paginam", "imaxes", "kutha"], "ids": [71535, 53726, 70512, 93625, 34730], "seed": 0}
+{"pattern": ["wikimedia", "nymphalidae", "photographic", "ciudad", "delstatshuvudstaden"], "ids": [13609, 83544, 71535, 12034, 34076], "seed": 1}
+{"pattern": ["pagina", "bancian", "located", "comunas", "greater"], "ids": [16833, 75080, 12120, 40662, 18860], "seed": 2}
+{"pattern": ["cbe", "cia", "pagina", "ciudades", "de"], "ids": [81997, 15720, 16833, 28716, 10102], "seed": 3}
+{"pattern": ["pagina", "sitio", "komite", "metropolitana", "##\u0442\u0438\u0447\u043d\u043e\u0433\u043e"], "ids": [16833, 22045, 81242, 25859, 62712], "seed": 4}
+{"pattern": ["webgunea", "\u0433\u043e\u0440\u0430\u0434", "olim", "\u043b\u0430\u044c\u0442\u0442\u0430\u043d", "olimpico"], "ids": [52015, 44606, 44261, 78976, 36303], "seed": 5}
+{"pattern": ["pagina", "rechion", "automatic", "metropolitana", "antiken"], "ids": [16833, 81740, 32013, 25859, 81686], "seed": 6}
+{"pattern": ["timeline", "greatest", "britischen", "ciudad", "de"], "ids": [80182, 18483, 28082, 12034, 10102], "seed": 7}
+{"pattern": ["oficialament", "\u0430\u043d\u0433\u043b\u0438\u0441\u043a\u0438", "ofisiel", "universidade", "\u0641\u06cc\u0644\u0645\u0647\u0627\u06cc"], "ids": [89193, 32963, 63620, 18032, 81560], "seed": 8}
+{"pattern": ["literalmente", "el", "##ccidae", "website", "greater"], "ids": [88735, 10117, 84085, 12699, 18860], "seed": 9}

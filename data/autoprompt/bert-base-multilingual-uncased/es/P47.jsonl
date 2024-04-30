@@ -1,4 +1,10 @@
-{"pattern": ["distret", "\u043b\u0443\u0447\u0448\u0435", "nacions", "gotha", "illas"], "ids": [75819, 82357, 55794, 51609, 57048], "seed": 0, "P@1": 0.006578947368421052}
-{"pattern": ["knock", "##vez", "\u043a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "tabor", "graafschap"], "ids": [62580, 37538, 79221, 57417, 64931], "seed": 1, "P@1": 0.039473684210526314}
-{"pattern": ["gradina", "shire", "##historia", "actuales", "republikken"], "ids": [89320, 61800, 89536, 60352, 83107], "seed": 2, "P@1": 0.039473684210526314}
-{"pattern": ["periferia", "##\u064a\u0637\u0627\u0644\u064a\u0629", "##quer", "sudoeste", "de"], "ids": [91290, 80788, 30416, 67522, 10102], "seed": 3, "P@1": 0.13815789473684212}
+{"pattern": ["\u2075", "\u0441\u043e\u0432\u0435\u0442", "de", "ciudades", "de"], "ids": [1292, 16490, 10102, 28716, 10102], "seed": 0}
+{"pattern": ["tradicionalmente", "botanico", "fosil", "provincia", ":"], "ids": [57375, 33344, 61369, 11389, 131], "seed": 1}
+{"pattern": ["corn", "##fusa", "rechion", "metropolitana", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [53214, 89235, 81740, 25859, 55892], "seed": 2}
+{"pattern": ["##\u056b\u0561\u0576", "continente", "llen", "franta", "judetul"], "ids": [88539, 37170, 29174, 32149, 28313], "seed": 3}
+{"pattern": ["kominote", "\u05da", "circondare", "\u043a\u043e\u0434\u0443\u0454\u0442\u044c\u0441\u044f", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [24440, 427, 51555, 74485, 55892], "seed": 4}
+{"pattern": ["norte", "\u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0438", "metropolitana", "suroeste", "de"], "ids": [11954, 47742, 25859, 50438, 10102], "seed": 5}
+{"pattern": ["middlesex", "mara", "antioquia", "\u043c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433", "##atia"], "ids": [67526, 25767, 50863, 82738, 60691], "seed": 6}
+{"pattern": ["jagd", "federacion", "hospital", "metropolitana", "din"], "ids": [89387, 29969, 13532, 25859, 10621], "seed": 7}
+{"pattern": ["symbol", "veces", "separado", "provincia", "de"], "ids": [24395, 17998, 87085, 11389, 10102], "seed": 8}
+{"pattern": ["zivjelo", "\u0432\u0443\u043b\u0438\u0446\u0456", "pratelan", "franciae", "condado"], "ids": [36471, 42840, 83253, 52064, 15984], "seed": 9}

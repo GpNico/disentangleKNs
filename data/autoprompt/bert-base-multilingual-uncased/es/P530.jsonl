@@ -1,4 +1,10 @@
-{"pattern": ["japonia", "norteamerica", "espanha", "sweden", "somalia"], "ids": [65603, 86176, 31887, 21113, 36764], "seed": 0, "P@1": 0.010471204188481676}
-{"pattern": ["poland", "espainia", "japan", "##\u043e\u043d\u043d\u044b\u0438", "dhabi"], "ids": [18209, 69912, 11937, 96419, 69515], "seed": 1, "P@1": 0.1256544502617801}
-{"pattern": ["romania", "espainia", "japao", "\u043c\u0435\u043a\u0441\u0438\u043a\u0443", "zealand"], "ids": [12764, 69912, 41346, 13964, 14192], "seed": 2, "P@1": 0.11518324607329843}
-{"pattern": ["diarsipan", "sudafrica", "japonia", "unidos", "hungary"], "ids": [22622, 52483, 65603, 11212, 24738], "seed": 3, "P@1": 0.07853403141361257}
+{"pattern": ["espainia", "singapore", "amerika", "piatra", "zealand"], "ids": [69912, 19649, 12634, 75714, 14192], "seed": 0}
+{"pattern": ["espainia", "bangladesh", "japan", "\u10ef\u10d4\u10e0", "unido"], "ids": [69912, 23692, 11937, 86310, 19957], "seed": 1}
+{"pattern": ["\u0433\u0435\u0440\u043c\u0430\u043d\u0438\u0458\u0430", "\u0432\u0434\u0430\u043b\u043e\u0441\u044f", "ficcion", "yhdysvallat", "magyarorszag"], "ids": [55708, 67512, 51313, 87289, 48741], "seed": 2}
+{"pattern": ["romania", "espainia", "ddr", "medica", "qatar"], "ids": [12764, 69912, 19558, 40684, 33951], "seed": 3}
+{"pattern": ["destroyer", "myanmar", "meksiko", "wolfram", "##iator"], "ids": [53292, 31691, 17790, 65861, 85730], "seed": 4}
+{"pattern": ["\u043c\u0435\u043a\u0441\u0438\u043a\u0443", "archivado", "\u0441\u0430\u0449", "ungaria", "bukan"], "ids": [13964, 59231, 35242, 81158, 31488], "seed": 5}
+{"pattern": ["espainia", "espainia", "israeli", "asia", "sudafrica"], "ids": [69912, 69912, 25828, 12734, 52483], "seed": 6}
+{"pattern": ["sudafrica", "norteamerica", "indonesian", "rumuniji", "storbritannia"], "ids": [52483, 86176, 45369, 74624, 37495], "seed": 7}
+{"pattern": ["norteamerica", "deutsches", "belgia", "allemagne", "bangladesh"], "ids": [86176, 42827, 37615, 19344, 23692], "seed": 8}
+{"pattern": ["gaztelaniaz", "japan", "storbritannia", "espainia", "egypt"], "ids": [38192, 11937, 37495, 69912, 20589], "seed": 9}

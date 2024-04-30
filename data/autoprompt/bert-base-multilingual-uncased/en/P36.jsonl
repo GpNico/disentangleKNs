@@ -1,4 +1,10 @@
-{"pattern": ["ligne", "officiel", "situs", "metropolitana", "\u0c86\u0cab"], "ids": [14675, 31692, 20757, 25859, 29520], "seed": 0, "P@1": 0.4411764705882353}
-{"pattern": ["department", "arrondissementer", "administrativement", "distrito", "greater"], "ids": [12406, 56054, 81930, 12911, 18860], "seed": 1, "P@1": 0.625}
-{"pattern": ["arrondissementer", "conservato", "\u05d4\u05e9\u05e0\u05d9\u05dd", "kebangsaan", "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea"], "ids": [56054, 93448, 26593, 20682, 62170], "seed": 2, "P@1": 0.5}
-{"pattern": ["\u043c\u0435\u0434\u044b\u044f\u0444\u0430\u0438\u043b\u044b", "pratelan", "\u062a\u062a\u0628\u0639", "harta", "orasul"], "ids": [56604, 83253, 53847, 38407, 37845], "seed": 3, "P@1": 0.5073529411764706}
+{"pattern": ["\u0627\u0631\u0633\u0627\u0644", "federation", "\u00a9", "city", "of"], "ids": [96299, 15229, 181, 10575, 10108], "seed": 0}
+{"pattern": ["pratelan", "pecahan", "bancian", "harta", "orasul"], "ids": [83253, 55798, 75080, 38407, 37845], "seed": 1}
+{"pattern": ["intae", "arrondissementer", "districts", "ceety", "of"], "ids": [86952, 56054, 20824, 32469, 10108], "seed": 2}
+{"pattern": ["arrondissementer", "resedinta", "postale", "metro", "de"], "ids": [56054, 36622, 95224, 11340, 10102], "seed": 3}
+{"pattern": ["legislative", "arrondissementer", "til", "city", "of"], "ids": [22850, 56054, 10303, 10575, 10108], "seed": 4}
+{"pattern": ["district", "arrondissementer", "district", "ceety", "greater"], "ids": [11091, 56054, 11091, 32469, 18860], "seed": 5}
+{"pattern": ["arrondissementer", "\u0627\u06d2", "commons", "aeroport", "greater"], "ids": [56054, 12542, 14197, 28614, 18860], "seed": 6}
+{"pattern": ["websteed", "wewengkon", "territorium", "harta", "stadt"], "ids": [94284, 50813, 58556, 38407, 12082], "seed": 7}
+{"pattern": ["district", "arrondissementer", "district", "municipality", "greater"], "ids": [11091, 56054, 11091, 15298, 18860], "seed": 8}
+{"pattern": ["with", "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u0435\u043d", "fowk", "varsity", "o"], "ids": [10171, 78085, 85047, 71858, 157], "seed": 9}

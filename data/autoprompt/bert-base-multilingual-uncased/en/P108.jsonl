@@ -1,4 +1,10 @@
-{"pattern": ["packard", "perfil", "\u0441\u0430\u0438\u0446\u0435", "rasmiy", "\u0441\u0430\u0438\u0446\u0435"], "ids": [72310, 52389, 39719, 32053, 39719], "seed": 0, "P@1": 0.3448275862068966}
-{"pattern": ["cpu", "traded", "sheet", "imagens", "\u0441\u0430\u0438\u0446\u0435"], "ids": [39520, 50006, 39736, 75152, 39719], "seed": 1, "P@1": 0.3793103448275862}
-{"pattern": ["maserati", "entreprise", "apple", "xbox", "chrysler"], "ids": [94599, 25618, 17006, 23107, 51879], "seed": 2, "P@1": 0.13793103448275862}
-{"pattern": ["osbourne", "milliard", "cratere", "##spiller", "chez"], "ids": [87882, 94688, 91539, 41420, 15967], "seed": 3, "P@1": 0.3448275862068966}
+{"pattern": ["barcellona", "specifications", "packard", "\u043d\u0430", "fondazione"], "ids": [77332, 83096, 72310, 10124, 44928], "seed": 0}
+{"pattern": ["##\u0458\u0430\u0432\u0438\u043e", "cpu", "americky", "results", "\u0441\u0430\u0438\u0446\u0435"], "ids": [74412, 39520, 35036, 15569, 39719], "seed": 1}
+{"pattern": ["\u043f\u043e\u0432\u0456\u0442\u0456", "motorola", "atualmente", "enigma", "da"], "ids": [66780, 63870, 25120, 64400, 10141], "seed": 2}
+{"pattern": ["intercontinental", "macintosh", "legend", "\u0639\u0646", "\u0645\u0631\u0643\u0632"], "ids": [55987, 58303, 20466, 11971, 25431], "seed": 3}
+{"pattern": ["cpu", "interview", "rhestr", "sitios", "woiwodschaft"], "ids": [39520, 16705, 17092, 55199, 94015], "seed": 4}
+{"pattern": ["chrysler", "\u0644\u0647\u06cc\u0633\u062a\u0627\u0646", "##\u043e\u043d\u043a\u0430", "veb", "##ografie"], "ids": [51879, 28141, 85954, 79385, 87252], "seed": 5}
+{"pattern": ["cpu", "brazila", "\u0430\u043c\u0435\u0440\u0438\u043a\u0430", "\u05e2\u05dc", "\u05d0\u05ea\u05e8"], "ids": [39520, 89840, 35367, 10654, 88212], "seed": 6}
+{"pattern": ["entrenador", "\u0627\u0645\u0631\u06cc\u06a9\u06cc", "statistika", "\u043a\u043e\u043c\u0430\u043d\u0434\u0430", "\u0441\u043e\u0445\u0442\u0430\u0438"], "ids": [34593, 50993, 77361, 21955, 91257], "seed": 7}
+{"pattern": ["taula", "dwight", "computer", "\u0430\u0444\u0456\u0446\u044b\u0438\u043d\u044b", "zvijez\u0111u"], "ids": [84249, 51279, 14831, 58703, 82398], "seed": 8}
+{"pattern": ["motorola", "##\u0433\u0430\u043b\u0438\u044f", "americke", "zdroje", "\u043f\u043e\u0440\u0442\u0430\u043b"], "ids": [63870, 95705, 25621, 26022, 77170], "seed": 9}

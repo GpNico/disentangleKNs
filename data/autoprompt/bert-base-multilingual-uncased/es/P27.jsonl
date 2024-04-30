@@ -1,4 +1,10 @@
-{"pattern": ["mehiko", "##\u043a\u043e\u0441\u0442\u0438", "romania", "japao", "sodra"], "ids": [20789, 63832, 12764, 41346, 16128], "seed": 0, "P@1": 0.03260869565217391}
-{"pattern": ["wikimedia", "atlas", "llen", "forecasts", "##a\u0440"], "ids": [13609, 12410, 29174, 67224, 90820], "seed": 1, "P@1": 0.19021739130434784}
-{"pattern": ["gazetteer", "asociacion", "distritos", "comunas", "##\u05dc\u05d5\u05df"], "ids": [30674, 21791, 46575, 40662, 66810], "seed": 2, "P@1": 0.22282608695652173}
-{"pattern": ["member", "\u0440\u043e\u0434\u0435\u043d\u0430", "rol", "eurovision", "representing"], "ids": [11924, 85652, 16287, 22100, 30538], "seed": 3, "P@1": 0.32065217391304346}
+{"pattern": ["entomologische", "concello", "unitit", "municipios", "\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e"], "ids": [49160, 26215, 85952, 25845, 62479], "seed": 0}
+{"pattern": ["llamada", "deportista", "tallet", "statsminister", "de"], "ids": [22009, 74325, 17323, 68916, 10102], "seed": 1}
+{"pattern": ["rhestr", "antiguo", "\u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c", "anhianhi", "bansang"], "ids": [17092, 24871, 44662, 15023, 43459], "seed": 2}
+{"pattern": ["suroeste", "korea", "belga", "pais", "noroeste"], "ids": [50438, 14035, 31044, 11893, 29301], "seed": 3}
+{"pattern": ["nurwegen", "paxina", "deportista", "representantes", "\u0906\u0928\u0927\u0930"], "ids": [78621, 34978, 74325, 40524, 80089], "seed": 4}
+{"pattern": ["paxina", "pambansang", "apil", "roewer", "botanico"], "ids": [34978, 79182, 76652, 87442, 33344], "seed": 5}
+{"pattern": ["fallecio", "biografia", "\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438", "gobierno", "\u05de\u05de\u05e9\u05dc\u05ea"], "ids": [45906, 19161, 28992, 14740, 55892], "seed": 6}
+{"pattern": ["silbermedaille", "lie\u00dfen", "maraton", "campeon", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [83951, 74546, 82524, 24700, 28937], "seed": 7}
+{"pattern": ["actor", "llen", "olimpiai", "compitio", "din"], "ids": [13544, 29174, 57057, 75108, 10621], "seed": 8}
+{"pattern": ["fallecio", "\u0642\u0627\u064a\u0645\u0629", "distritos", "conjuntos", "delstatshuvudstaden"], "ids": [45906, 25012, 46575, 87643, 34076], "seed": 9}

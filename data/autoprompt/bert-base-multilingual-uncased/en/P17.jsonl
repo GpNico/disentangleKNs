@@ -1,4 +1,10 @@
-{"pattern": ["futsal", "zenske", "##telj", "website", "miss"], "ids": [57777, 84350, 28440, 12699, 14344], "seed": 0, "P@1": 0.3945945945945946}
-{"pattern": ["\u0c2e\u0c02\u0c21\u0c32\u0c02\u0c32\u0c28", "pratelan", "\u0634\u06c1\u0631", "republic", "##\u0442\u043d\u0435"], "ids": [54472, 83253, 14652, 13805, 67246], "seed": 1, "P@1": 0.3837837837837838}
-{"pattern": ["statistical", "ibukota", "situs", "ofisiel", "statistics"], "ids": [18898, 80088, 20757, 63620, 16456], "seed": 2, "P@1": 0.3783783783783784}
-{"pattern": ["\u2022", "isam", "database", "names", "\u0444\u0443\u0442\u0431\u043e\u043b\u0431\u043e\u0437\u0438"], "ids": [1275, 26510, 10326, 12276, 28937], "seed": 3, "P@1": 0.42702702702702705}
+{"pattern": ["ice", "regionale", "badminton", "team", "of"], "ids": [15926, 22015, 44809, 10820, 10108], "seed": 0}
+{"pattern": ["geo", "abitur", "photographic", "census", "of"], "ids": [53227, 45214, 71535, 11457, 10108], "seed": 1}
+{"pattern": ["\u607c", "ranges", "siemens", "algeria", "siemens"], "ids": [3747, 51487, 40941, 38198, 40941], "seed": 2}
+{"pattern": ["\u0c35\u0c38\u0c24\u0c41\u0c35\u0c41\u0c32\u0c41", "composition", "isang", "municipalities", "ng"], "ids": [42715, 22075, 13179, 39981, 10822], "seed": 3}
+{"pattern": ["pratelan", "\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432", "arrondissementer", "municipalities", "##\u0442\u043d\u043e\u0438"], "ids": [83253, 79380, 56054, 39981, 46668], "seed": 4}
+{"pattern": ["\u043d\u0430\u0440", "directory", "highest", "municipalities", "of"], "ids": [23302, 16070, 17963, 39981, 10108], "seed": 5}
+{"pattern": ["\u932c", "altitude", "handball", "association", "of"], "ids": [8799, 19725, 37957, 11610, 10108], "seed": 6}
+{"pattern": ["repos", "dopuniti", "tourism", "federation", "of"], "ids": [94424, 29517, 27780, 15229, 10108], "seed": 7}
+{"pattern": ["\u057a\u0565\u057f\u0584", "largest", "handball", "embassy", "of"], "ids": [47746, 15474, 37957, 48868, 10108], "seed": 8}
+{"pattern": ["category", "##raan", "tourist", "\u0a38\u0a39\u0a3f\u0a30", "of"], "ids": [24716, 57106, 41181, 84975, 10108], "seed": 9}

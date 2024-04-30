@@ -1,4 +1,10 @@
-{"pattern": ["\u0120screenplay", "reportprint", "\u0120disgr", "former", "aced"], "ids": [26735, 50170, 25425, 22098, 8988], "seed": 0, "P@1": 0.11571254567600488}
-{"pattern": ["################", "\u0120populist", "\u0120lawmaker", "EA", "\u0120comedic"], "ids": [49806, 16144, 10302, 14684, 29045], "seed": 1, "P@1": 0.27040194884287455}
-{"pattern": ["\u0120(", "Fin", "later", "ussian", "\u0120independent"], "ids": [36, 34027, 36600, 42472, 2222], "seed": 2, "P@1": 0.14129110840438489}
-{"pattern": ["\u0120assassinated", "\u0120\u00e2\u0122", "ollywood", "Turkish", "\u0120top"], "ids": [31762, 44, 9718, 37300, 299], "seed": 3, "P@1": 0.0097442143727162}
+{"pattern": ["Pakistan", "\u0120detained", "\u0120acclaimed", "\u0120electrom", "democratic"], "ids": [20700, 5624, 14954, 45475, 38566], "seed": 0, "P@1": 0.1607795371498173}
+{"pattern": ["oubtedly", "ional", "\u0120musician", "fortunately", "bernatorial"], "ids": [41732, 6073, 9613, 45779, 46639], "seed": 1, "P@1": 0.09866017052375152}
+{"pattern": ["jriwal", "\u0120impeachment", "Canadian", "Legendary", "\u0120aspiring"], "ids": [48057, 14097, 24819, 46272, 18885], "seed": 2, "P@1": 0.18270401948842874}
+{"pattern": ["escription", "BBC", "AFTA", "Legendary", "\u0120republican"], "ids": [49934, 28713, 39796, 46272, 37958], "seed": 3, "P@1": 0.2095006090133983}
+{"pattern": ["American", "\u0120theorist", "actor", "\u0120footballer", "Canadian"], "ids": [4310, 40646, 24625, 19931, 24819], "seed": 4, "P@1": 0.3800243605359318}
+{"pattern": ["\u0120him", "Actor", "\u0120footballer", "\u00d4", "\u0120political"], "ids": [123, 40448, 19931, 49077, 559], "seed": 5, "P@1": 0.06942752740560293}
+{"pattern": ["Political", "\u0120professor", "Legendary", "\u0120he", "wegian"], "ids": [39548, 3097, 46272, 37, 45618], "seed": 6, "P@1": 0.23142509135200975}
+{"pattern": ["anyahu", "actor", "\u0120legislator", "->", "\u0120professional"], "ids": [46526, 24625, 23351, 46613, 2038], "seed": 7, "P@1": 0.2143727161997564}
+{"pattern": ["...", "\u0120theatrical", "\u0120legislator", "\u0120</", "\u0120professional"], "ids": [734, 20720, 23351, 49703, 2038], "seed": 8, "P@1": 0.17783191230207065}
+{"pattern": ["acts", "\u0120()", "\u0120(),", "\u0120assassinated", "Canadian"], "ids": [19170, 36418, 49038, 31762, 24819], "seed": 9, "P@1": 0.2095006090133983}
