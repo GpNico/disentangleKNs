@@ -83,7 +83,7 @@ if __name__ == '__main__':
     ### LOAD CONFIG ###
     
     config = utils.load_config(debug = args.debug)
-    
+    print("hey")
     
     
     ### RUN AUTOPROMPT ###
