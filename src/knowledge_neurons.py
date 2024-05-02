@@ -1473,7 +1473,7 @@ class KnowledgeNeurons:
             assert ids.shape[0] == len(sentences_tok)
             scores[uuid] = {k:v/len(sentences_tok) for k,v in scores[uuid].items()}
             
-            output_probs = softmax(logits[target_pos_i, target_pos_j].cpu())
+            output_probs = softmax(logits[target_pos_i, target_pos_j].cpu().float())
             probs[uuid] = output_probs[torch.arange(output_probs.shape[0]), target.flatten()].tolist()
 
         return scores, probs

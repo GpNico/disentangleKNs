@@ -852,7 +852,7 @@ def plot_kns_exps(
         
         # P@k #
         
-        p_at_ks = ['P@{k}' for k in config.ACCURACY_RANKS]
+        p_at_ks = [f'P@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in p_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[1]['sem_wo_kns'][k] for k in p_at_ks], color = COLORS['semantics'], linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -917,7 +917,7 @@ def plot_kns_exps(
         
         # CCP@k #
         
-        ccp_at_ks = ['ccp@{k}' for k in config.ACCURACY_RANKS]
+        ccp_at_ks = [f'ccp@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in ccp_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[1]['sem_wo_kns'][k] for k in ccp_at_ks], color = COLORS['semantics'], linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -984,7 +984,7 @@ def plot_kns_exps(
         
         # P@k #
         
-        p_at_ks = ['P@{k}' for k in config.ACCURACY_RANKS]
+        p_at_ks = [f'P@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[2]['vanilla'][k] for k in p_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[2]['sem_wo_kns'][k] for k in p_at_ks], color = 'blue', linestyle = '--', marker = '+', label = ' w/o Sem KNs')
@@ -1018,7 +1018,7 @@ def plot_kns_exps(
         
         # CCP@k #
         
-        ccp_at_ks = ['ccp@{k}' for k in config.ACCURACY_RANKS]
+        ccp_at_ks = [f'ccp@{k}' for k in config.ACCURACY_RANKS]
         
         plt.plot(np.arange(4), [scores[2]['vanilla'][k] for k in ccp_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
         plt.plot(np.arange(4), [scores[2]['sem_wo_kns'][k] for k in ccp_at_ks], color = 'blue', linestyle = '--', marker = '+', label = ' w/o Sem KNs')
