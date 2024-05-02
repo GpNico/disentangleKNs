@@ -113,7 +113,7 @@ class KnowledgeNeurons:
         self.config = config
 
         if p_thresh:
-            self.p_thresh
+            self.p_thresh = p_thresh
         else:
             self.p_thresh = self.config.P_THRESH
         
