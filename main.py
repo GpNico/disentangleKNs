@@ -46,6 +46,9 @@ if __name__ == '__main__':
                         help="Add a prefix 'Answer in one word:' to ParaRel prompts.")
     
     # Knowledge Neurons
+    parser.add_argument('--p_thresh', 
+                        type=str, 
+                        help="If not given take the one from config file.")
     parser.add_argument('--kns_compute',
                         action="store_true",
                         help="Compute knowledge neurons.")
@@ -234,7 +237,8 @@ if __name__ == '__main__':
                     dataset_type = dataset[lang]['type'],
                     model_name = args.model_name,
                     device = device,
-                    config = config
+                    config = config,
+                    p_thresh = args.p_thresh
                 )
                     
                 if args.kns_compute:
@@ -248,7 +252,8 @@ if __name__ == '__main__':
                                         relative_probs, 
                                         os.path.join(kn.kns_path, kn.dataset_type), 
                                         kns_match = not(args.kns_unmatch),
-                                        lang = lang
+                                        lang = lang,
+                                        p_thresh = kn.p_thresh
                                         )
                 
         if args.kns_analysis:   
@@ -262,7 +267,8 @@ if __name__ == '__main__':
                     dataset_type = None,
                     model_name = args.model_name,
                     device = None,
-                    config = config
+                    config = config,
+                    p_thresh = args.p_thresh
                 )
             
             analysis_res = kn.compute_kns_multilingual_analysis()
@@ -272,6 +278,7 @@ if __name__ == '__main__':
                                             kns_path = kn.kns_path,
                                             dataset_type = 'pararel', # /!\
                                             config = config,
+                                            p_thresh = kn.p_thresh
                                             )
             exit(0)
     else:
@@ -293,7 +300,8 @@ if __name__ == '__main__':
                 dataset_type = dataset_type,
                 model_name = args.model_name,
                 device = device,
-                config = config
+                config = config,
+                p_thresh = args.p_thresh
             )
                 
         if args.kns_compute:
@@ -306,7 +314,8 @@ if __name__ == '__main__':
                                 scores, 
                                 relative_probs, 
                                 os.path.join(kn.kns_path, kn.dataset_type), 
-                                kns_match = not(args.kns_unmatch))
+                                kns_match = not(args.kns_unmatch),
+                                p_thresh = kn.p_thresh)
             
             if config.WANDB:
                 wandb.finish()
@@ -326,7 +335,8 @@ if __name__ == '__main__':
             plots.plot_kns_exps(scores = scores, 
                                 kns_path=kn.kns_path,
                                 config = config, 
-                                dataset_name = kn.dataset_type)
+                                dataset_name = kn.dataset_type,
+                                p_thresh = kn.p_thresh)
             
             if config.WANDB:
                 wandb.finish()
@@ -344,7 +354,8 @@ if __name__ == '__main__':
                                 dataset_type = None,
                                 model_name = model_name,
                                 device = None,
-                                config = config
+                                config = config,
+                                p_thresh = args.p_thresh
                             )
                     
                 

@@ -87,7 +87,8 @@ class KnowledgeNeurons:
                  dataset_type: str,
                  model_name: str,
                  device: str,
-                 config: Config) -> None:
+                 config: Config,
+                 p_thresh: float = None) -> None:
         
         #self.model = torch.compile(model) # I am Speed doesn't work on windows but will work on Jean Zay
         self.model = model
@@ -110,6 +111,11 @@ class KnowledgeNeurons:
         
         self.device = device
         self.config = config
+
+        if p_thresh:
+            self.p_thresh
+        else:
+            self.p_thresh = self.config.P_THRESH
         
         
         
@@ -203,23 +209,23 @@ class KnowledgeNeurons:
         
         # KNs path
         if kns_match:
-            kns_path = os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{self.config.P_THRESH}')
+            kns_path = os.path.join(self.kns_path, self.dataset_type, self.lang, f'kns_p_{self.p_thresh}')
             rela_names = [n[:-5] for n in os.listdir(kns_path) if '.json' in n]
         else:
             # So rela were ignored by ParaRel
             rela_names = list(
                         set(
-                            [n[:-5] for n in os.listdir(os.path.join(self.kns_path, 'autoprompt', self.lang, f'kns_p_{self.config.P_THRESH}')) if '.json' in n]
+                            [n[:-5] for n in os.listdir(os.path.join(self.kns_path, 'autoprompt', self.lang, f'kns_p_{self.p_thresh}')) if '.json' in n]
                             ).intersection(
                                 set(
-                                    [n[:-5] for n in os.listdir(os.path.join(self.kns_path, 'pararel', self.lang, f'kns_p_{self.config.P_THRESH}')) if '.json' in n]
+                                    [n[:-5] for n in os.listdir(os.path.join(self.kns_path, 'pararel', self.lang, f'kns_p_{self.p_thresh}')) if '.json' in n]
                                     )
                             )
                         )
             if self.dataset_type == 'autoprompt':
-                kns_path = os.path.join(self.kns_path, 'pararel', self.lang, f'kns_p_{self.config.P_THRESH}')
+                kns_path = os.path.join(self.kns_path, 'pararel', self.lang, f'kns_p_{self.p_thresh}')
             elif self.dataset_type == 'pararel':
-                kns_path = os.path.join(self.kns_path, 'autoprompt', self.lang, f'kns_p_{self.config.P_THRESH}')
+                kns_path = os.path.join(self.kns_path, 'autoprompt', self.lang, f'kns_p_{self.p_thresh}')
             else:
                 raise
         
@@ -717,9 +723,9 @@ class KnowledgeNeurons:
     def compute_kns_analysis(self) -> Tuple[Dict[str, int], Dict[str, int], Dict[str, int]]:
         
         # ParaRel path
-        pararel_path = os.path.join(self.kns_path, 'pararel', f'kns_p_{self.config.P_THRESH}')
+        pararel_path = os.path.join(self.kns_path, 'pararel', f'kns_p_{self.p_thresh}')
         # Autoprompt path
-        autoprompt_path = os.path.join(self.kns_path, 'autoprompt', f'kns_p_{self.config.P_THRESH}')
+        autoprompt_path = os.path.join(self.kns_path, 'autoprompt', f'kns_p_{self.p_thresh}')
         
         # Get relations names
         rela_names = list(
@@ -874,10 +880,10 @@ class KnowledgeNeurons:
 
             predicate_ids = list(
                             set(
-                                [n[:-5] for n in os.listdir(os.path.join(pararel_path, lang, f'kns_p_{self.config.P_THRESH}')) if '.json' in n]
+                                [n[:-5] for n in os.listdir(os.path.join(pararel_path, lang, f'kns_p_{self.p_thresh}')) if '.json' in n]
                                 ).intersection( # add instead of intersection /!\
                                     set(
-                                        [n[:-5] for n in os.listdir(os.path.join(autoprompt_path, lang, f'kns_p_{self.config.P_THRESH}')) if '.json' in n]
+                                        [n[:-5] for n in os.listdir(os.path.join(autoprompt_path, lang, f'kns_p_{self.p_thresh}')) if '.json' in n]
                                         )
                                 )
                             )
@@ -886,11 +892,11 @@ class KnowledgeNeurons:
             autoprompt_kns, pararel_kns = {}, {}
             for predicate_id in predicate_ids:
                 # Getting KNs by rela for rela overlap
-                if os.path.exists(os.path.join(autoprompt_path, lang, f'kns_p_{self.config.P_THRESH}', predicate_id + '.json')):
-                    with open(os.path.join(autoprompt_path, lang, f'kns_p_{self.config.P_THRESH}', predicate_id + '.json'), 'r') as f:
+                if os.path.exists(os.path.join(autoprompt_path, lang, f'kns_p_{self.p_thresh}', predicate_id + '.json')):
+                    with open(os.path.join(autoprompt_path, lang, f'kns_p_{self.p_thresh}', predicate_id + '.json'), 'r') as f:
                         autoprompt_kns[predicate_id] = json.load(f)
-                if os.path.exists(os.path.join(pararel_path, lang, f'kns_p_{self.config.P_THRESH}', predicate_id + '.json')):
-                    with open(os.path.join(pararel_path, lang, f'kns_p_{self.config.P_THRESH}', predicate_id + '.json'), 'r') as f:
+                if os.path.exists(os.path.join(pararel_path, lang, f'kns_p_{self.p_thresh}', predicate_id + '.json')):
+                    with open(os.path.join(pararel_path, lang, f'kns_p_{self.p_thresh}', predicate_id + '.json'), 'r') as f:
                         pararel_kns[predicate_id] = json.load(f)
                     
             full_kns[lang] = {'autoprompt': autoprompt_kns,

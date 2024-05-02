@@ -89,6 +89,9 @@ def load_trex_by_uuid(
             
             # Load Prompts
             if autoprompt:
+                if not(os.path.exists(os.path.join(config.PATH_TO_SAVED_PROMPTS, model_name, lang, f'{predicate_id}.jsonl'))):
+                    print(f"No Autoprompt for {predicate_id}")
+                    continue
                 # /!\ Autoprompt need for the sake of simplicity, to be tokenized here to avoid possible mistake /!\
                 autoprompts_tok = []
                 with open(os.path.join(config.PATH_TO_SAVED_PROMPTS, model_name, lang, f'{predicate_id}.jsonl'), 'r') as f:

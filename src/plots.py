@@ -452,7 +452,8 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
                      relative_probs: Dict[str, Dict[str, float]], 
                      kns_path: str,
                      kns_match: bool = True,
-                     lang: str = '') -> None:
+                     lang: str = '',
+                     p_thresh: str = None) -> None:
     rela_names = list(relative_probs['wo_kns'].keys())
     
     if lang == '':
@@ -478,19 +479,19 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
     plt.legend()
     
     if kns_match:
-        plt.title('P@k on T-REX - Without & Doubling KNs' + title_suffix)
+        plt.title(f'P@k on T-REX - Without & Doubling KNs (p = {p_thresh})' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_p_at_k{filename_suffix}.png"
+                f"kns_surgery_p_at_k{filename_suffix}_p_{p_thresh}.png"
             )
         )
     else:
-        plt.title('P@k on T-REX - Without & Doubling KNs - UnMatched KNs' + title_suffix)
+        plt.title(f'P@k on T-REX - Without & Doubling KNs (p = {p_thresh}) - UnMatched KNs' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_unmatched_p_at_k{filename_suffix}.png"
+                f"kns_surgery_unmatched_p_at_k{filename_suffix}_p_{p_thresh}.png"
             )
         )
     plt.close()
@@ -511,19 +512,19 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
     plt.legend()
     
     if kns_match:
-        plt.title('CCP@k on T-REX - Without & Doubling KNs' + title_suffix)
+        plt.title(f'CCP@k on T-REX - Without & Doubling KNs (p = {p_thresh})' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_ccp_at_k{filename_suffix}.png"
+                f"kns_surgery_ccp_at_k{filename_suffix}_p_{p_thresh}.png"
             )
         )
     else:
-        plt.title('CCP@k on T-REX - Without & Doubling KNs - UnMatched KNs' + title_suffix)
+        plt.title(f'CCP@k on T-REX - Without & Doubling KNs (p = {p_thresh})- UnMatched KNs' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_unmatched_ccp_at_k{filename_suffix}.png"
+                f"kns_surgery_unmatched_ccp_at_k{filename_suffix}_p_{p_thresh}.png"
             )
         )
     plt.close()
@@ -553,19 +554,19 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
     db_patch = mpatches.Patch(facecolor=colors[1], label='db KNs')
     plt.legend(handles=[wo_patch, db_patch])
     if kns_match:
-        plt.title('Relative Probs - Without KNs, Doubling KNs' + title_suffix)
+        plt.title(f'Relative Probs - Without KNs, Doubling KNs  (p = {p_thresh})' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_relative_probs{filename_suffix}.png"
+                f"kns_surgery_relative_probs{filename_suffix}_p_{p_thresh}.png"
             )
         )
     else:
-        plt.title('Relative Probs - Without KNs, Doubling KNs - UnMatched KNs' + title_suffix)
+        plt.title(f'Relative Probs - Without KNs, Doubling KNs  (p = {p_thresh}) - UnMatched KNs' + title_suffix)
         plt.savefig(
             os.path.join(
                 kns_path,
-                f"kns_surgery_unmatched_relative_probs{filename_suffix}.png"
+                f"kns_surgery_unmatched_relative_probs{filename_suffix}_p_{p_thresh}.png"
             )
         )
     plt.close()
@@ -601,7 +602,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.ylabel('KNs Count')
     
     plt.legend()
-    plt.title(f"KNs Multilinguality - {kwargs['dataset_type']}")
+    plt.title(f"KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
  
     
     sem_syn_y_max = 0
@@ -631,7 +632,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.ylabel('KNs Count')
     
     plt.legend()
-    plt.title(f"Semantics KNs Multilinguality - {kwargs['dataset_type']}")
+    plt.title(f"Semantics KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
     
     # SYN
     syn_fig = plt.figure()
@@ -659,7 +660,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.ylabel('KNs Count')
     
     plt.legend()
-    plt.title(f"Syntax KNs Multilinguality - {kwargs['dataset_type']}")
+    plt.title(f"Syntax KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
  
     
     
@@ -684,7 +685,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.ylabel('KNs Count')
     
     plt.legend()
-    plt.title(f"Knowledge KNs Multilinguality - {kwargs['dataset_type']}")
+    plt.title(f"Knowledge KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
  
     # YLIM
     
@@ -706,7 +707,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"kns_multilinguality_layer_dist.png"
+                f"kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
             )
         )
     
@@ -714,7 +715,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"sem_kns_multilinguality_layer_dist.png"
+                f"sem_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
             )
         )
     
@@ -722,7 +723,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"syn_kns_multilinguality_layer_dist.png"
+                f"syn_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
             )
         )
     
@@ -730,7 +731,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"know_kns_multilinguality_layer_dist.png"
+                f"know_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
             )
         )
     
@@ -751,7 +752,7 @@ def plot_multilingual_analysis(res, **kwargs):
                           fmt='.0f',
                           mask=mask) 
 
-    plt.title('Shared KNs across Languages')
+    plt.title(f'Shared KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
     
@@ -759,7 +760,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"heatmap_kns_multilinguality.png"
+                f"heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
             )
         )
     plt.close()
@@ -776,7 +777,7 @@ def plot_multilingual_analysis(res, **kwargs):
                           fmt='.0f',
                           mask=mask) 
 
-    plt.title('Shared Semantics KNs across Languages')
+    plt.title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
     
@@ -784,7 +785,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"sem_heatmap_kns_multilinguality.png"
+                f"sem_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
             )
         )
     plt.close()
@@ -801,7 +802,7 @@ def plot_multilingual_analysis(res, **kwargs):
                           fmt='.0f',
                           mask=mask) 
 
-    plt.title('Shared Syntax KNs across Languages')
+    plt.title(f'Shared Syntax KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
     
@@ -809,7 +810,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"syn_heatmap_kns_multilinguality.png"
+                f"syn_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
             )
         )
     plt.close()
@@ -826,7 +827,7 @@ def plot_multilingual_analysis(res, **kwargs):
                           fmt='.0f',
                           mask=mask) 
 
-    plt.title('Shared Knowledge KNs across Languages')
+    plt.title(f'Shared Knowledge KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
     
@@ -834,7 +835,7 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"know_heatmap_kns_multilinguality.png"
+                f"know_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
             )
         )
     plt.close()
@@ -867,7 +868,7 @@ def plot_kns_exps(
         plt.xlabel('k')
         plt.ylabel('P@k')
         plt.legend()
-        plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
+        plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         
         # Log
         if config.WANDB:
@@ -878,7 +879,7 @@ def plot_kns_exps(
             os.path.join(
                 kns_path,
                 kwargs["dataset_name"],
-                f"kns_exp_1_p_at_k_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}.png"
+                f"kns_exp_1_p_at_k_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
@@ -903,12 +904,13 @@ def plot_kns_exps(
         plt.xticks([1.5,3.5,5.5], labels=['sem.', 'syn.', 'know'])
         plt.legend()
         plt.grid(True)
-        
+        plt.title(f'p = {kwargs["p_thresh"]}')
+
         plt.savefig(
             os.path.join(
                 kns_path,
                 kwargs["dataset_name"],
-                f"kns_exp_1_p_at_1_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_bar_plot.png"
+                f"kns_exp_1_p_at_1_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_bar_plot_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
@@ -930,7 +932,7 @@ def plot_kns_exps(
         plt.xlabel('k')
         plt.ylabel('CCP@k')
         plt.legend()
-        plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
+        plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n p = {kwargs["p_thresh"]} -{kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         
         # Log
         if config.WANDB:
@@ -941,7 +943,7 @@ def plot_kns_exps(
             os.path.join(
                 kns_path,
                 kwargs['dataset_name'],
-                f"kns_exp_1_ccp_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}.png"
+                f"kns_exp_1_ccp_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
@@ -966,12 +968,13 @@ def plot_kns_exps(
         plt.xticks([1.5,3.5,5.5], labels=['sem.', 'syn.', 'know'])
         plt.legend()
         plt.grid(True)
+        plt.title(f'p = {kwargs["p_thresh"]}')
         
         plt.savefig(
             os.path.join(
                 kns_path,
                 kwargs["dataset_name"],
-                f"kns_exp_1_ccp_at_1_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_bar_plot.png"
+                f"kns_exp_1_ccp_at_1_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_bar_plot_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
@@ -997,7 +1000,7 @@ def plot_kns_exps(
         plt.xlabel('k')
         plt.ylabel('P@k')
         plt.legend()
-        plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
+        plt.title(f'P@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
         #plt.gcf().subplots_adjust(top=0.15)
         # Log
         if config.WANDB:
@@ -1008,7 +1011,7 @@ def plot_kns_exps(
             os.path.join(
                 kns_path,
                 'sem_syn_know',
-                f"kns_exp_2_p_at_k_thresh_{int(scores[2]['threshold']*100)}_{scores[2]['kns_mode']}_{kwargs['dataset_name']}_db_fact_{scores[2]['db_fact']}.png"
+                f"kns_exp_2_p_at_k_thresh_{int(scores[2]['threshold']*100)}_{scores[2]['kns_mode']}_{kwargs['dataset_name']}_db_fact_{scores[2]['db_fact']}_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
@@ -1031,7 +1034,7 @@ def plot_kns_exps(
         plt.xlabel('k')
         plt.ylabel('CCP@k')
         plt.legend()
-        plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
+        plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
         #plt.gcf().subplots_adjust(top=0.15)
         # Log
         if config.WANDB:
@@ -1042,7 +1045,7 @@ def plot_kns_exps(
             os.path.join(
                 kns_path,
                 'sem_syn_know',
-                f"kns_exp_2_ccp_thresh_{int(scores[2]['threshold']*100)}_{scores[2]['kns_mode']}_{kwargs['dataset_name']}_db_fact_{scores[2]['db_fact']}.png"
+                f"kns_exp_2_ccp_thresh_{int(scores[2]['threshold']*100)}_{scores[2]['kns_mode']}_{kwargs['dataset_name']}_db_fact_{scores[2]['db_fact']}_p_{kwargs['p_thresh']}.png"
             )
         )
         plt.close()
