@@ -317,7 +317,8 @@ if __name__ == '__main__':
                                 relative_probs, 
                                 os.path.join(kn.kns_path, kn.dataset_type), 
                                 kns_match = not(args.kns_unmatch),
-                                p_thresh = kn.p_thresh)
+                                p_thresh = kn.p_thresh,
+                                config = config)
             
             if config.WANDB:
                 wandb.finish()

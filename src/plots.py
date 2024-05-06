@@ -607,7 +607,8 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
                      kns_path: str,
                      kns_match: bool = True,
                      lang: str = '',
-                     p_thresh: str = None) -> None:
+                     p_thresh: str = None,
+                     config: Config = None) -> None:
     rela_names = list(relative_probs['wo_kns'].keys())
     
     if lang == '':
@@ -619,15 +620,15 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
 
     ### PLOT P@k ###
     
-    p_at_ks = ['P@1', 'P@5', 'P@20', 'P@100']
+    p_at_ks = [f'P@{k}' for k in config.ACCURACY_RANKS]
+    ks = config.ACCURACY_RANKS
     
-    plt.plot(np.arange(4), [scores['vanilla'][k] for k in p_at_ks], linewidth = 3., color = 'black', marker = '+', label = 'vanilla')
-    plt.plot(np.arange(4), [scores['wo_kns'][k] for k in p_at_ks], linestyle = '--', color = 'grey', marker = '+', label = 'w/o KNs')
-    plt.plot(np.arange(4), [scores['db_kns'][k] for k in p_at_ks], color = 'grey', marker = '+', label = 'db KNs')
+    plt.plot(ks, [scores['vanilla'][k] for k in p_at_ks], linewidth = 3., color = 'black', marker = '+', label = 'vanilla')
+    plt.plot(ks, [scores['wo_kns'][k] for k in p_at_ks], linestyle = '--', color = 'grey', marker = '+', label = 'w/o KNs')
+    plt.plot(ks, [scores['db_kns'][k] for k in p_at_ks], color = 'grey', marker = '+', label = 'db KNs')
     
     plt.ylim((0,1))
-    plt.xticks(np.arange(4), 
-               labels = [1,5,20,100])
+    plt.xscale('log')
     plt.xlabel('k')
     plt.ylabel('P@k')
     plt.legend()
@@ -652,15 +653,14 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
     
     ### PLOT CCP@k ###
     
-    ccp_at_ks = ['ccp@1', 'ccp@5', 'ccp@20', 'ccp@100']
+    ccp_at_ks = [f'ccp@{k}' for k in config.ACCURACY_RANKS]
     
-    plt.plot(np.arange(4), [scores['vanilla'][k] for k in ccp_at_ks], linewidth = 3., color = 'black', marker = '+', label = 'vanilla')
-    plt.plot(np.arange(4), [scores['wo_kns'][k] for k in ccp_at_ks], linestyle = '--', color = 'grey', marker = '+', label = 'w/o KNs')
-    plt.plot(np.arange(4), [scores['db_kns'][k] for k in ccp_at_ks], color = 'grey', marker = '+', label = 'db KNs')
+    plt.plot(ks, [scores['vanilla'][k] for k in ccp_at_ks], linewidth = 3., color = 'black', marker = '+', label = 'vanilla')
+    plt.plot(ks, [scores['wo_kns'][k] for k in ccp_at_ks], linestyle = '--', color = 'grey', marker = '+', label = 'w/o KNs')
+    plt.plot(ks, [scores['db_kns'][k] for k in ccp_at_ks], color = 'grey', marker = '+', label = 'db KNs')
     
     plt.ylim((0,1))
-    plt.xticks(np.arange(4), 
-               labels = [1,5,20,100])
+    plt.xscale('log')
     plt.xlabel('k')
     plt.ylabel('CCP@k')
     plt.legend()
@@ -1110,10 +1110,6 @@ def plot_kns_exps(
         # Create a single legend for all plots on the right side of the figure
         fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
         
-        # Log
-        if config.WANDB:
-            wandb.log({"Exp 1 - P@k ": plt})
-        
         # Save
         plt.savefig(
             os.path.join(
@@ -1266,9 +1262,6 @@ def plot_kns_exps(
         plt.legend()
         plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n p = {kwargs["p_thresh"]} -{kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         """
-        # Log
-        if config.WANDB:
-            wandb.log({"Exp 1 - CCP@k ": plt})
             
         # Save
         plt.savefig(
@@ -1427,9 +1420,6 @@ def plot_kns_exps(
         #plt.gcf().subplots_adjust(top=0.15)
         """
         
-        # Log
-        if config.WANDB:
-            wandb.log({"Exp 2 - P@k ": plt})
             
         # Save
         plt.savefig(
@@ -1554,10 +1544,7 @@ def plot_kns_exps(
         plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Knowledge KNs\n On Trivial Prompt "X [MASK] ."\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[2]["kns_mode"]} - {np.round(scores[2]["threshold"],2)}')
         #plt.gcf().subplots_adjust(top=0.15)
         """
-        
-        # Log
-        if config.WANDB:
-            wandb.log({"Exp 2 - CCP@k ": plt})
+
             
         # Save
         plt.savefig(

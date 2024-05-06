@@ -376,15 +376,15 @@ class KnowledgeNeurons:
             #         not the same we can test using all & the same amounts of KNs
             
             scores_exp1 = {
-                        'vanilla': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'sem_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'sem_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'syn_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'syn_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'only_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'only_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'shared_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'shared_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
+                        'vanilla': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'sem_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'sem_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'syn_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'syn_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'only_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'only_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'shared_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'shared_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS}
                         }
             num_eval = {k: 0 for k in scores_exp1.keys()}
             
@@ -575,15 +575,15 @@ class KnowledgeNeurons:
             
             
             scores_exp2 = {
-                        'vanilla': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'sem_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'sem_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'syn_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'syn_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'only_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'only_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'shared_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'shared_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
+                        'vanilla': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'sem_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'sem_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'syn_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'syn_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'only_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'only_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'shared_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'shared_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS}
                         }
             num_eval = {k: 0 for k in scores_exp1.keys()}
             
@@ -1531,27 +1531,18 @@ class KnowledgeNeurons:
             ids = ids.cpu()
             target = target.cpu()
 
-            scores[uuid] = {'P@1': 0,
-                            'P@5': 0,
-                            'P@20': 0,
-                            'P@100': 0}
-            scores[uuid]['P@1'] = ((target[:] == ids[:,:1]).any(axis = 1)).sum().item()
-            scores[uuid]['P@5'] = ((target[:] == ids[:,:5]).any(axis = 1)).sum().item()
-            scores[uuid]['P@20'] = ((target[:] == ids[:,:20]).any(axis = 1)).sum().item()
-            scores[uuid]['P@100'] = ((target[:] == ids[:,:100]).any(axis = 1)).sum().item()
+            scores[uuid] = {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS}
+            for k in self.config.ACCURACY_RANKS:
+                scores[uuid][f'P@{k}'] = ((target[:] == ids[:,:k]).any(axis = 1)).sum().item()
             
             if correct_category:
-                scores[uuid]['ccp@1'] = 0.
-                scores[uuid]['ccp@5'] = 0.
-                scores[uuid]['ccp@20'] = 0.
-                scores[uuid]['ccp@100'] = 0.
+                for k in self.config.ACCURACY_RANKS:
+                    scores[uuid][f'ccp@{k}'] = 0.
                 # Number of answers of the model in the right category
                 # It supposes that no further filtration will be made ie. Ys are 1 token long
                 for l in range(ids.shape[0]):
-                    scores[uuid]['ccp@1'] += tensors_intersection_size(ids[l,:1], Ys_ids)/1
-                    scores[uuid]['ccp@5'] += tensors_intersection_size(ids[l,:5], Ys_ids)/5
-                    scores[uuid]['ccp@20'] += tensors_intersection_size(ids[l,:20], Ys_ids)/20
-                    scores[uuid]['ccp@100'] += tensors_intersection_size(ids[l,:100], Ys_ids)/100
+                    for k in self.config.ACCURACY_RANKS:
+                        scores[uuid][f'ccp@{k}'] += tensors_intersection_size(ids[l,:k], Ys_ids)/k
             
             assert ids.shape[0] == len(sentences_tok)
             scores[uuid] = {k:v/len(sentences_tok) for k,v in scores[uuid].items()}

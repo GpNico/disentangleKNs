@@ -37,7 +37,7 @@ class Config:
     ACCURACY_RANKS = [1,5,10,20,50,100] # ks in P@k
     
     # MultiLingual
-    LANGS = ['en', 'fr', 'es', 'ca', 'da', 'de', 'fi', 'it', 'nl', 'pl', 'pt', 'ru', 'sv']
+    LANGS = ['en', 'fr', 'es', 'ca', 'da', 'de', 'it', 'nl', 'pt', 'sv'] # We removed 'ru', 'fi' and 'pl'
     
     # Autoprompt
     N_SEEDS = 10
@@ -56,7 +56,7 @@ class Config:
     DEBUG_MIN_N_PROMPTS = 4
     
     # TREx
-    DEBUG_ACCURACY_RANKS = [1,5,20,100]
+    DEBUG_ACCURACY_RANKS = [1,5,20,50,100]
     
     # MultiLingual
     DEBUG_LANGS = ['es', 'en', 'fr']
