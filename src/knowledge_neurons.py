@@ -116,6 +116,7 @@ class KnowledgeNeurons:
             self.p_thresh = p_thresh
         else:
             self.p_thresh = self.config.P_THRESH
+        print('threshold p = ', self.p_thresh )
         
         
         
@@ -380,12 +381,18 @@ class KnowledgeNeurons:
                         'sem_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
                         'syn_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
                         'syn_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
+                        'only_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'only_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'shared_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'shared_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
                         }
-            num_eval = 0
+            num_eval = {k: 0 for k in scores_exp1.keys()}
             
             for k, rela in enumerate(analysis_dict['rela_names']):
+                
+                if self.config.DEBUG:
+                    if k == 3:
+                        break
                 
                 thresholds = list(analysis_dict[rela]['sem_kns'].keys())
                 _thresh = find_closest_elem(thresholds, thresh)
@@ -394,10 +401,12 @@ class KnowledgeNeurons:
                 
                 if self.dataset_type == 'pararel':
                     _syn_kns = analysis_dict[rela]['pararel_syn_kns'][_thresh]
-                    _know_kns = {k: v[_thresh] for k, v in analysis_dict[rela]['pararel_know_kns'].items()}
+                    _shared_know_kns = analysis_dict[rela]['shared_know_kns']
+                    _only_know_kns = analysis_dict[rela]['pararel_only_know_kns']
                 elif self.dataset_type == 'autoprompt':
                     _syn_kns = analysis_dict[rela]['autoprompt_syn_kns'][_thresh]
-                    _know_kns = {k: v[_thresh] for k, v in analysis_dict[rela]['autoprompt_know_kns'].items()}
+                    _shared_know_kns = analysis_dict[rela]['shared_know_kns']
+                    _only_know_kns = analysis_dict[rela]['autoprompt_only_know_kns']
                     
                 
                 if len(_sem_kns) == 0 or len(_syn_kns) == 0:
@@ -411,11 +420,12 @@ class KnowledgeNeurons:
                     print("\tNum. Syntax KNs: ", len(_syn_kns))
                     
                 if kns_mode == 'equal':
-                    m = min(len(_sem_kns), len(_syn_kns)) # Asserting there will always be more Knowledge KNs
+                    m = min(len(_sem_kns), len(_syn_kns))
                     _sem_kns = _sem_kns[:m]
                     _syn_kns = _syn_kns[:m]
-                    _know_kns = {k: v[:m] for k,v in _know_kns.items()}
-                    
+                    _only_know_kns = {k: v[:m] for k,v in _only_know_kns.items()}
+                    _shared_know_kns = {k: v[:m] for k,v in _shared_know_kns.items()}
+                
                 
                 ### Vanilla ###
                 
@@ -428,7 +438,7 @@ class KnowledgeNeurons:
                 
                 if vanilla_raw_res:
                     # Storing P@k & CCP@k
-                    num_eval += len(vanilla_raw_res[0])
+                    num_eval['vanilla'] += len(vanilla_raw_res[0])
                     for uuid in vanilla_raw_res[0]:
                         for _s in scores_exp1['vanilla'].keys():
                             scores_exp1['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
@@ -443,7 +453,8 @@ class KnowledgeNeurons:
                         )
                 if sem_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['sem_wo_kns'] += len(sem_wo_raw_res[0])
+                    for uuid in sem_wo_raw_res[0]:
                         for _s in scores_exp1['sem_wo_kns'].keys():
                             scores_exp1['sem_wo_kns'][_s] += sem_wo_raw_res[0][uuid][_s]
                             
@@ -455,7 +466,8 @@ class KnowledgeNeurons:
                         )
                 if sem_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['sem_db_kns'] += len(sem_db_raw_res[0])
+                    for uuid in sem_db_raw_res[0]:
                         for _s in scores_exp1['sem_db_kns'].keys():
                             scores_exp1['sem_db_kns'][_s] += sem_db_raw_res[0][uuid][_s]
                             
@@ -469,7 +481,8 @@ class KnowledgeNeurons:
                         )
                 if syn_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['syn_wo_kns'] += len(syn_wo_raw_res[0])
+                    for uuid in syn_wo_raw_res[0]:
                         for _s in scores_exp1['syn_wo_kns'].keys():
                             scores_exp1['syn_wo_kns'][_s] += syn_wo_raw_res[0][uuid][_s]
                             
@@ -481,40 +494,69 @@ class KnowledgeNeurons:
                         )
                 if syn_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['syn_db_kns'] += len(syn_db_raw_res[0])
+                    for uuid in syn_db_raw_res[0]:
                         for _s in scores_exp1['syn_db_kns'].keys():
                             scores_exp1['syn_db_kns'][_s] += syn_db_raw_res[0][uuid][_s]
                             
                 ### Knowledge Eval ###
                 
-                know_wo_raw_res = self.eval_one_rela_by_uuid(
+                only_know_wo_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
                         mode = 'wo',
-                        rela_kns = _know_kns,
+                        rela_kns = _only_know_kns,
                         correct_category = True,
                         )
-                if know_wo_raw_res:
+                if only_know_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
-                        for _s in scores_exp1['know_wo_kns'].keys():
-                            scores_exp1['know_wo_kns'][_s] += know_wo_raw_res[0][uuid][_s]
+                    num_eval['only_know_wo_kns'] += len(only_know_wo_raw_res[0])
+                    for uuid in only_know_wo_raw_res[0]:
+                        for _s in scores_exp1['only_know_wo_kns'].keys():
+                            scores_exp1['only_know_wo_kns'][_s] += only_know_wo_raw_res[0][uuid][_s]
                             
-                know_db_raw_res = self.eval_one_rela_by_uuid(
+                only_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
                         mode = 'db',
-                        rela_kns = _know_kns,
+                        rela_kns = _only_know_kns,
                         correct_category = True,
                         )
-                if know_db_raw_res:
+                if only_know_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
-                        for _s in scores_exp1['know_db_kns'].keys():
-                            scores_exp1['know_db_kns'][_s] += know_db_raw_res[0][uuid][_s]
+                    num_eval['only_know_db_kns'] += len(only_know_db_raw_res[0])
+                    for uuid in only_know_db_raw_res[0]:
+                        for _s in scores_exp1['only_know_db_kns'].keys():
+                            scores_exp1['only_know_db_kns'][_s] += only_know_db_raw_res[0][uuid][_s]
+                            
+                shared_know_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = _shared_know_kns,
+                        correct_category = True,
+                        )
+                if shared_know_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['shared_know_wo_kns'] += len(shared_know_wo_raw_res[0])
+                    for uuid in shared_know_wo_raw_res[0]:
+                        for _s in scores_exp1['shared_know_wo_kns'].keys():
+                            scores_exp1['shared_know_wo_kns'][_s] += shared_know_wo_raw_res[0][uuid][_s]
+                            
+                shared_know_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = _shared_know_kns,
+                        correct_category = True,
+                        )
+                if shared_know_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['shared_know_db_kns'] += len(shared_know_db_raw_res[0])
+                    for uuid in shared_know_db_raw_res[0]:
+                        for _s in scores_exp1['shared_know_db_kns'].keys():
+                            scores_exp1['shared_know_db_kns'][_s] += shared_know_db_raw_res[0][uuid][_s]
                             
                 
                             
             
-            scores_exp1 = {k1: {k2: v/num_eval for k2, v in scores_exp1[k1].items()} for k1 in scores_exp1.keys()}
+            scores_exp1 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp1[k1].items()} for k1 in scores_exp1.keys()}
             
             # Storing mode
             scores_exp1['kns_mode'] = kns_mode
@@ -538,12 +580,18 @@ class KnowledgeNeurons:
                         'sem_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
                         'syn_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
                         'syn_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
-                        'know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
+                        'only_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'only_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'shared_know_wo_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0},
+                        'shared_know_db_kns': {'P@1': 0, 'P@5': 0, 'P@20': 0, 'P@100': 0, 'ccp@1': 0, 'ccp@5': 0, 'ccp@20': 0, 'ccp@100': 0}
                         }
-            num_eval = 0
+            num_eval = {k: 0 for k in scores_exp1.keys()}
             
             for k, rela in enumerate(analysis_dict['rela_names']):
+                
+                if self.config.DEBUG:
+                    if k == 3:
+                        break
                 
                 thresholds = list(analysis_dict[rela]['sem_kns'].keys())
                 _thresh = find_closest_elem(thresholds, thresh)
@@ -552,13 +600,12 @@ class KnowledgeNeurons:
                 
                 if self.dataset_type == 'pararel':
                     _syn_kns = analysis_dict[rela]['pararel_syn_kns'][_thresh]
-                    _know_kns = {k: v[_thresh] for k, v in analysis_dict[rela]['pararel_know_kns'].items()}
+                    _shared_know_kns = analysis_dict[rela]['shared_know_kns']
+                    _only_know_kns = analysis_dict[rela]['pararel_only_know_kns']
                 elif self.dataset_type == 'autoprompt':
                     _syn_kns = analysis_dict[rela]['autoprompt_syn_kns'][_thresh]
-                    _know_kns = {k: v[_thresh] for k, v in analysis_dict[rela]['autoprompt_know_kns'].items()}
-                
-                
-                    
+                    _shared_know_kns = analysis_dict[rela]['shared_know_kns']
+                    _only_know_kns = analysis_dict[rela]['autoprompt_only_know_kns']
                 
                 if len(_sem_kns) == 0 or len(_syn_kns) == 0:
                     print(f"Skipping {rela} as Semantics and/or Syntax KNs are empty.")
@@ -574,7 +621,8 @@ class KnowledgeNeurons:
                     m = min(len(_sem_kns), len(_syn_kns)) # Asserting there will always be more Knowledge KNs
                     _sem_kns = _sem_kns[:m]
                     _syn_kns = _syn_kns[:m]
-                    _know_kns = {k: v[:m] for k,v in _know_kns.items()}
+                    _only_know_kns = {k: v[:m] for k,v in _only_know_kns.items()}
+                    _shared_know_kns = {k: v[:m] for k,v in _shared_know_kns.items()}
                     
                 ### Creating Custom Prompts ###
                 
@@ -605,7 +653,7 @@ class KnowledgeNeurons:
                 
                 if vanilla_raw_res:
                     # Storing P@k & CCP@k
-                    num_eval += len(vanilla_raw_res[0])
+                    num_eval['vanilla'] += len(vanilla_raw_res[0])
                     for uuid in vanilla_raw_res[0]:
                         for _s in scores_exp2['vanilla'].keys():
                             scores_exp2['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
@@ -622,7 +670,8 @@ class KnowledgeNeurons:
                         )
                 if sem_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['sem_wo_kns'] += len(sem_wo_raw_res[0])
+                    for uuid in sem_wo_raw_res[0]:
                         for _s in scores_exp2['sem_wo_kns'].keys():
                             scores_exp2['sem_wo_kns'][_s] += sem_wo_raw_res[0][uuid][_s]
                             
@@ -636,7 +685,8 @@ class KnowledgeNeurons:
                         )
                 if sem_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['sem_db_kns'] += len(sem_db_raw_res[0])
+                    for uuid in sem_db_raw_res[0]:
                         for _s in scores_exp2['sem_db_kns'].keys():
                             scores_exp2['sem_db_kns'][_s] += sem_db_raw_res[0][uuid][_s]
                             
@@ -651,7 +701,8 @@ class KnowledgeNeurons:
                         )
                 if syn_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['syn_wo_kns'] += len(syn_wo_raw_res[0])
+                    for uuid in syn_wo_raw_res[0]:
                         for _s in scores_exp2['syn_wo_kns'].keys():
                             scores_exp2['syn_wo_kns'][_s] += syn_wo_raw_res[0][uuid][_s]
                             
@@ -664,44 +715,75 @@ class KnowledgeNeurons:
                         )
                 if syn_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
+                    num_eval['syn_db_kns'] += len(syn_db_raw_res[0])
+                    for uuid in syn_db_raw_res[0]:
                         for _s in scores_exp2['syn_db_kns'].keys():
                             scores_exp2['syn_db_kns'][_s] += syn_db_raw_res[0][uuid][_s]
                             
                 ### Knowledge Eval ###
-                
-                know_wo_raw_res = self.eval_one_rela_by_uuid(
+                            
+                only_know_wo_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
                         mode = 'wo',
-                        rela_kns = _know_kns,
+                        rela_kns = _only_know_kns,
                         correct_category = True,
                         custom_dataset = custom_dataset,
                         db_fact = db_fact
                         )
-                if know_wo_raw_res:
+                if only_know_wo_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
-                        for _s in scores_exp2['know_wo_kns'].keys():
-                            scores_exp2['know_wo_kns'][_s] += know_wo_raw_res[0][uuid][_s]
+                    num_eval['only_know_wo_kns'] += len(only_know_wo_raw_res[0])
+                    for uuid in only_know_wo_raw_res[0]:
+                        for _s in scores_exp2['only_know_wo_kns'].keys():
+                            scores_exp2['only_know_wo_kns'][_s] += only_know_wo_raw_res[0][uuid][_s]
                             
-                know_db_raw_res = self.eval_one_rela_by_uuid(
+                only_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
                         mode = 'db',
-                        rela_kns = _know_kns,
+                        rela_kns = _only_know_kns,
                         correct_category = True,
                         custom_dataset = custom_dataset,
                         db_fact = db_fact
                         )
-                if know_db_raw_res:
+                if only_know_db_raw_res:
                     # Storing P@k & CCP@k
-                    for uuid in vanilla_raw_res[0]:
-                        for _s in scores_exp2['know_db_kns'].keys():
-                            scores_exp2['know_db_kns'][_s] += know_db_raw_res[0][uuid][_s]
+                    num_eval['only_know_db_kns'] += len(only_know_db_raw_res[0])
+                    for uuid in only_know_db_raw_res[0]:
+                        for _s in scores_exp2['only_know_db_kns'].keys():
+                            scores_exp2['only_know_db_kns'][_s] += only_know_db_raw_res[0][uuid][_s]
+                            
+                shared_know_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = _shared_know_kns,
+                        correct_category = True,
+                        custom_dataset = custom_dataset,
+                        db_fact = db_fact
+                        )
+                if shared_know_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['shared_know_wo_kns'] += len(shared_know_wo_raw_res[0])
+                    for uuid in shared_know_wo_raw_res[0]:
+                        for _s in scores_exp2['shared_know_wo_kns'].keys():
+                            scores_exp2['shared_know_wo_kns'][_s] += shared_know_wo_raw_res[0][uuid][_s]
+                            
+                shared_know_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = _shared_know_kns,
+                        correct_category = True,
+                        custom_dataset = custom_dataset,
+                        db_fact = db_fact
+                        )
+                if shared_know_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['shared_know_db_kns'] += len(shared_know_db_raw_res[0])
+                    for uuid in shared_know_db_raw_res[0]:
+                        for _s in scores_exp2['shared_know_db_kns'].keys():
+                            scores_exp2['shared_know_db_kns'][_s] += shared_know_db_raw_res[0][uuid][_s]
                             
                 
-                                      
-            
-            scores_exp2 = {k1: {k2: v/num_eval for k2, v in scores_exp2[k1].items()} for k1 in scores_exp2.keys()}
+            scores_exp2 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp2[k1].items()} for k1 in scores_exp2.keys()}
             
             # Storing params
             scores_exp2['kns_mode'] = kns_mode
@@ -758,27 +840,25 @@ class KnowledgeNeurons:
             ### SEMANTICS, SYNTAX & KNOWLEDGE KNs SUM ###
             if 'sem_kns' not in res_dict.keys():
                 res_dict['sem_kns'] = {thresh: set(kns) for thresh, kns in rela_analysis['sem_kns'].items()}
+                
                 res_dict['pararel_syn_kns'] = {thresh: set(kns) for thresh, kns in rela_analysis['pararel_syn_kns'].items()}
                 res_dict['autoprompt_syn_kns'] = {thresh: set(kns) for thresh, kns in rela_analysis['autoprompt_syn_kns'].items()}
-                res_dict['shared_know_kns'] = {kn for kn in rela_analysis['shared_know_kns']}
-                res_dict['pararel_know_kns'] = {}
-                res_dict['autoprompt_know_kns'] = {}
-                for thresh in rela_analysis['sem_kns'].keys():
-                    res_dict['pararel_know_kns'][thresh] = set()
-                    res_dict['autoprompt_know_kns'][thresh] = set()
-                    for uuid in rela_analysis['pararel_know_kns'].keys():
-                        res_dict['pararel_know_kns'][thresh].update(set(rela_analysis['pararel_know_kns'][uuid][thresh]))
-                        res_dict['autoprompt_know_kns'][thresh].update(set(rela_analysis['autoprompt_know_kns'][uuid][thresh]))
+                
+                res_dict['shared_know_kns_set'] = {kn for kn in rela_analysis['shared_know_kns_set']}
+                res_dict['pararel_only_know_kns_set'] = {kn for kn in rela_analysis['pararel_only_know_kns_set']}
+                res_dict['autoprompt_only_know_kns_set'] = {kn for kn in rela_analysis['autoprompt_only_know_kns_set']}
+                
                 res_dict['category'] = copy.copy(rela_analysis['category'])
             else:
-                res_dict['shared_know_kns'].update(rela_analysis['shared_know_kns'])
+                res_dict['shared_know_kns_set'].update(rela_analysis['shared_know_kns_set'])
+                res_dict['pararel_only_know_kns_set'].update(rela_analysis['pararel_only_know_kns_set'])
+                res_dict['autoprompt_only_know_kns_set'].update(rela_analysis['autoprompt_only_know_kns_set'])
+                
                 for thresh in res_dict['sem_kns'].keys():
                     res_dict['sem_kns'][thresh].update(rela_analysis['sem_kns'][thresh])
                     res_dict['pararel_syn_kns'][thresh].update(rela_analysis['pararel_syn_kns'][thresh])
                     res_dict['autoprompt_syn_kns'][thresh].update(rela_analysis['autoprompt_syn_kns'][thresh])
-                    for uuid in rela_analysis['pararel_know_kns'].keys():
-                        res_dict['pararel_know_kns'][thresh].update(set(rela_analysis['pararel_know_kns'][uuid][thresh]))
-                        res_dict['autoprompt_know_kns'][thresh].update(set(rela_analysis['autoprompt_know_kns'][uuid][thresh]))
+                    
                     for k in res_dict['category'][thresh].keys():
                         if 'count' in k:
                             res_dict['category'][thresh][k] += rela_analysis['category'][thresh][k]
@@ -812,8 +892,8 @@ class KnowledgeNeurons:
                                             )
         res_dict['pararel_sem_syn_know_dist'] = sem_syn_know_dist_tuple[0]
         res_dict['autoprompt_sem_syn_know_dist'] = sem_syn_know_dist_tuple[1]
-        res_dict['pararel_sem_syn_know_dist_std'] = sem_syn_know_dist_tuple[2]
-        res_dict['autoprompt_sem_syn_know_dist_std'] = sem_syn_know_dist_tuple[3]
+        res_dict['pararel_sem_syn_know_dist_se'] = sem_syn_know_dist_tuple[2]
+        res_dict['autoprompt_sem_syn_know_dist_se'] = sem_syn_know_dist_tuple[3]
         
         ### CATEGORY ###
         
@@ -837,6 +917,7 @@ class KnowledgeNeurons:
                     res_dict['category'][thresh][k][l] /= count
                     
         # Sanity Check
+        """
         for thresh in res_dict['category'].keys():
             sem_count, syn_count, know_count = 0, 0, 0
             sem_count = sum(list(res_dict['category'][thresh]['sem'].values()))
@@ -848,7 +929,7 @@ class KnowledgeNeurons:
             assert abs(sem_count - 1.) < 0.001 or thresh == 1.
             assert abs(syn_count - 1.) < 0.001 or thresh == 1.
             assert abs(know_count - 1.) < 0.001 or thresh == 0.0
-        
+        """
         ### SEM KNS TO RELA ###
         
         res_dict['sem_kns2rela'] = self._sem_kns2rela(
@@ -1424,6 +1505,8 @@ class KnowledgeNeurons:
                 else:
                     assert isinstance(rela_kns, list)
                     _kns = rela_kns 
+                if len(_kns) == 0:
+                    continue # skip uuid if there are no kns
                     
                 hook_handles = self.register_nks_hooks(
                                             _kns,
@@ -1683,12 +1766,27 @@ class KnowledgeNeurons:
         _autoprompt_know_kns = self._knowledge_kns(autoprompt_kns_dict, _autoprompt_sem_syn_kns)
         
         # Get shared know_kns
-        _shared_know_kns = set()
+        _shared_know_kns, _pararel_only_know_kns, _autoprompt_only_know_kns = set(), set(), set()
+        _shared_know_kns_uuid, _pararel_only_know_kns_uuid, _autoprompt_only_know_kns_uuid = {}, {}, {}
         _thresh = find_closest_elem(list(_refined_sem_kns.keys()), self.config.ACCROSS_UUIDS_THRESHOLD)
         for uuid in _pararel_know_kns.keys():
+                _shared_know_kns_uuid[uuid] = []
+                _pararel_only_know_kns_uuid[uuid] = []
                 for kn in _pararel_know_kns[uuid][_thresh]:
                     if kn in _autoprompt_know_kns[uuid][_thresh]:
                         _shared_know_kns.add(kn)
+                        _shared_know_kns_uuid[uuid].append(kn)
+                    else:
+                        _pararel_only_know_kns.add(kn)
+                        _pararel_only_know_kns_uuid[uuid].append(kn)
+        for uuid in _autoprompt_know_kns.keys():
+                _autoprompt_only_know_kns_uuid[uuid] = []
+                for kn in _autoprompt_know_kns[uuid][_thresh]:
+                    if kn in _pararel_know_kns[uuid][_thresh]:
+                        assert kn in _shared_know_kns
+                    else:
+                        _autoprompt_only_know_kns.add(kn)
+                        _autoprompt_only_know_kns_uuid[uuid].append(kn)
         
         
         ###### KNs CATEGORY ######
@@ -1707,9 +1805,12 @@ class KnowledgeNeurons:
                 'sem_kns': _refined_sem_kns,
                 'pararel_syn_kns':  _pararel_refined_syn_kns,
                 'autoprompt_syn_kns': _autoprompt_refined_syn_kns,
-                'pararel_know_kns': _pararel_know_kns,
-                'autoprompt_know_kns': _autoprompt_know_kns,
-                'shared_know_kns': _shared_know_kns,
+                'shared_know_kns_set': _shared_know_kns,
+                'pararel_only_know_kns_set': _pararel_only_know_kns,
+                'autoprompt_only_know_kns_set': _autoprompt_only_know_kns,
+                'shared_know_kns': _shared_know_kns_uuid,
+                'pararel_only_know_kns': _pararel_only_know_kns_uuid,
+                'autoprompt_only_know_kns': _autoprompt_only_know_kns_uuid,
                 'category': category_layer2count}
     
     def _sem_syn_kns(self, kns_dict: Dict[str, List[ Tuple[float, float]]]) -> Dict[float, List[ Tuple[float, float] ]]:
@@ -1818,10 +1919,13 @@ class KnowledgeNeurons:
                         continue # /!\
                     # Get SEM,SYN & KNOW KNs #
                     _sem_kns = res_dict[rela]['sem_kns'][thresh]
+                    
                     _pararel_syn_kns = res_dict[rela]['pararel_syn_kns'][thresh]
                     _autoprompt_syn_kns = res_dict[rela]['autoprompt_syn_kns'][thresh]
-                    _pararel_know_kns = res_dict[rela]['pararel_know_kns'][uuid][thresh]
-                    _autoprompt_know_kns = res_dict[rela]['autoprompt_know_kns'][uuid][thresh]
+                    
+                    _pararel_only_know_kns = res_dict[rela]['pararel_only_know_kns'][uuid]
+                    _autoprompt_only_know_kns = res_dict[rela]['autoprompt_only_know_kns'][uuid]
+                    _shared_know_kns = res_dict[rela]['shared_know_kns'][uuid]
                     
                     # Get KNs #
                     _pararel_kns = pararel_kns[rela][uuid]
@@ -1832,44 +1936,27 @@ class KnowledgeNeurons:
                     
                     # Get know kns division
                     # Pararel POV
-                    pararel_only_n_know_kns = 0
-                    pararel_shared_n_know_kns = 0
-                    for kn in _pararel_know_kns:
-                        # I think kn is hashable here
-                        if kn in _autoprompt_know_kns:
-                            pararel_shared_n_know_kns += 1
-                        else:
-                            pararel_only_n_know_kns += 1
+                    pararel_only_n_know_kns = len(_pararel_only_know_kns)
+                    shared_n_know_kns = len(_shared_know_kns)
                             
                     # Autoprompt POV
-                    autoprompt_only_n_know_kns = 0
-                    autoprompt_shared_n_know_kns = 0
-                    for kn in _autoprompt_know_kns:
-                        # I think kn is hashable here
-                        if kn in _pararel_know_kns:
-                            autoprompt_shared_n_know_kns += 1
-                        else:
-                            autoprompt_only_n_know_kns += 1
+                    autoprompt_only_n_know_kns = len(_autoprompt_only_know_kns)
                     
                     
                     # Compute Num #
                     pararel_n_kns = len(_pararel_kns)
-                    pararel_n_know_kns = len(_pararel_know_kns)
                     pararel_n_sem_kns = len(set(_pararel_kns).intersection(set(_sem_kns)))
                     pararel_n_syn_kns = len(set(_pararel_syn_kns).intersection(set(_pararel_kns)))
-                    assert pararel_n_kns == pararel_n_know_kns + pararel_n_sem_kns + pararel_n_syn_kns
-                    assert pararel_n_know_kns == pararel_only_n_know_kns + pararel_shared_n_know_kns
+                    assert pararel_n_kns == pararel_only_n_know_kns + shared_n_know_kns + pararel_n_sem_kns + pararel_n_syn_kns
                     
                     autoprompt_n_kns = len(_autoprompt_kns)
-                    autoprompt_n_know_kns = len(_autoprompt_know_kns)
                     autoprompt_n_sem_kns = len(set(_sem_kns).intersection(set(_autoprompt_kns)))
                     autoprompt_n_syn_kns = len(set(_autoprompt_syn_kns).intersection(set(_autoprompt_kns)))
-                    assert autoprompt_n_kns == autoprompt_n_know_kns + autoprompt_n_sem_kns + autoprompt_n_syn_kns
-                    assert autoprompt_n_know_kns == autoprompt_only_n_know_kns + autoprompt_shared_n_know_kns
+                    assert autoprompt_n_kns == autoprompt_only_n_know_kns + shared_n_know_kns + autoprompt_n_sem_kns + autoprompt_n_syn_kns
                     
                     # Store #
-                    pararel_res_by_thresh.append([pararel_n_sem_kns, pararel_n_syn_kns, pararel_n_know_kns, pararel_only_n_know_kns, pararel_shared_n_know_kns])
-                    autoprompt_res_by_thresh.append([autoprompt_n_sem_kns, autoprompt_n_syn_kns, autoprompt_n_know_kns, autoprompt_only_n_know_kns, autoprompt_shared_n_know_kns])
+                    pararel_res_by_thresh.append([pararel_n_sem_kns, pararel_n_syn_kns, pararel_only_n_know_kns, shared_n_know_kns])
+                    autoprompt_res_by_thresh.append([autoprompt_n_sem_kns, autoprompt_n_syn_kns, autoprompt_only_n_know_kns, shared_n_know_kns])
                     
                 pararel_res_by_uuid.append(pararel_res_by_thresh)
                 autoprompt_res_by_uuid.append(autoprompt_res_by_thresh)
@@ -1877,27 +1964,23 @@ class KnowledgeNeurons:
                 pararel_res.append(pararel_res_by_thresh)
                 autoprompt_res.append(autoprompt_res_by_thresh)
 
-            pararel_res_by_uuid = np.array(pararel_res_by_uuid) # Shape [n_uuid, n_thresh, 5]
+            pararel_res_by_uuid = np.array(pararel_res_by_uuid) # Shape [n_uuid, n_thresh, 4]
             autoprompt_res_by_uuid = np.array(autoprompt_res_by_uuid)
             
-            pararel_res_by_rela[rela] = pararel_res_by_uuid.mean(axis=0) # shape [n_thresh, 5]
+            pararel_res_by_rela[rela] = pararel_res_by_uuid.mean(axis=0) # shape [n_thresh, 4]
             autoprompt_res_by_rela[rela] = autoprompt_res_by_uuid.mean(axis=0) 
             
         
-        pararel_res_arr = np.array(pararel_res)
+        pararel_res_arr = np.array(pararel_res) 
         autoprompt_res_arr = np.array(autoprompt_res)
         # Mean
-        pararel_res = pararel_res_arr.mean(axis = 0) # shape [n_thresh, 5] but in fact n_thresh = 1 here 
+        pararel_res = pararel_res_arr.mean(axis = 0) # shape [n_thresh, 4] but in fact n_thresh = 1 here 
         autoprompt_res = autoprompt_res_arr.mean(axis = 0)
         # Std
-        pararel_res_std = pararel_res_arr.std(axis = 0) # shape [n_thresh, 5]
-        autoprompt_res_std = autoprompt_res_arr.std(axis = 0)
-        
-        
-        assert (abs(pararel_res[:,2] - pararel_res[:,3] - pararel_res[:,4]) < 0.01).all()
-        assert (abs(autoprompt_res[:,2] - autoprompt_res[:,3] - autoprompt_res[:,4]) < 0.01).all()
+        pararel_res_se = pararel_res_arr.std(axis = 0)/np.sqrt(pararel_res_arr.shape[0]) # shape [n_thresh, 4]
+        autoprompt_res_se = autoprompt_res_arr.std(axis = 0)/np.sqrt(autoprompt_res_arr.shape[0])
 
-        return (pararel_res, autoprompt_res, pararel_res_std, autoprompt_res_std, pararel_res_by_rela, autoprompt_res_by_rela)
+        return (pararel_res, autoprompt_res, pararel_res_se, autoprompt_res_se, pararel_res_by_rela, autoprompt_res_by_rela)
     
     
     def _kns_category(

@@ -50,6 +50,7 @@ class Config:
     # Made to be faster when testing code
     
     DEBUG_WANDB = False
+    DEBUG_MODELS_TO_PLOT = ['bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']
     
     # Data
     DEBUG_MIN_N_PROMPTS = 4
@@ -67,8 +68,10 @@ class Config:
     
     def __init__(self, debug: bool) -> None:
         if not(debug):
+            self.DEBUG = False
             return
         
+        self.DEBUG = True
         # Change attributes to DEBUG_ attributes
         for attr, value in Config.__dict__.items():
             if '__' in attr:

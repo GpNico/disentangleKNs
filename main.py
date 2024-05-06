@@ -49,6 +49,8 @@ if __name__ == '__main__':
     parser.add_argument('--p_thresh', 
                         type=str, 
                         help="If not given take the one from config file.")
+    parser.add_argument('--plot_only',
+                        action="store_true")
     parser.add_argument('--kns_compute',
                         action="store_true",
                         help="Compute knowledge neurons.")
@@ -326,11 +328,25 @@ if __name__ == '__main__':
             
             kns_mode = 'equal' if args.equal else 'all'
             
-            scores = kn.compute_experiments(
-                                        thresh = config.ACCROSS_UUIDS_THRESHOLD, 
-                                        kns_mode=kns_mode, 
-                                        exps = [1, 2], 
-                                        db_fact=config.TRIVIAL_PROMPT_ACTIVATION_FACT)
+            if not(args.plot_only):
+                scores = kn.compute_experiments(
+                                            thresh = config.ACCROSS_UUIDS_THRESHOLD, 
+                                            kns_mode=kns_mode, 
+                                            exps = [1, 2], 
+                                            db_fact=config.TRIVIAL_PROMPT_ACTIVATION_FACT)
+            
+            
+                os.makedirs(os.path.join(kn.kns_path, kn.dataset_type, 'raw'), exist_ok=True)
+                if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle')):
+                    print('Results already exists! They will be overwritten.')
+                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'), 'wb') as file:
+                    pickle.dump(scores, file)
+            else:
+                assert os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'))
+                print("Loading data...")
+                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'), 'rb') as file:
+                    scores = pickle.load(file)
+            
             
             plots.plot_kns_exps(scores = scores, 
                                 kns_path=kn.kns_path,
@@ -372,15 +388,18 @@ if __name__ == '__main__':
                                         models_analysis,
                                         kns_path = config.PATH_TO_KNS_DIR,
                                         plot_error_bars = config.PLOT_ERROR_BARS,
-                                        wandb_flag=config.WANDB
+                                        wandb_flag=config.WANDB,
+                                        p_thresh = kn.p_thresh
                                         ) 
+
             plots.plot_sem_syn_know_layer_distribution(
                                         models_analysis,
                                         threshold = config.ACCROSS_UUIDS_THRESHOLD,
                                         kns_path=config.PATH_TO_KNS_DIR,
-                                        wandb_flag=config.WANDB
+                                        wandb_flag=config.WANDB,
+                                        p_thresh = kn.p_thresh
                                         )
-            
+
             if config.WANDB:
                 wandb.finish()
             exit(0)
