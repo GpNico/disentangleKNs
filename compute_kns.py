@@ -26,6 +26,8 @@ if __name__ ==  '__main__':
                         help="Load the autoprompt version of the datasets.")
     parser.add_argument('--predicate_id',
                         type=str)
+    parser.add_argument('--lang', 
+                        type=str)
 
     args = parser.parse_args()
     
@@ -64,12 +66,15 @@ if __name__ ==  '__main__':
                                 )
     
     ### CREATE KNs OBJECT ###
+    if args.lang:
+        dataset = dataset[args.lang]
+        dataset_type = dataset['type']
     
     kn = KnowledgeNeurons(
                 model = model.model,
                 tokenizer = tokenizer,
                 data = dataset,
-                dataset_type = dataset['type'],
+                dataset_type = dataset_type,
                 model_name = args.model_name,
                 device = device,
                 config = config
