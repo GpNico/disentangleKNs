@@ -68,8 +68,8 @@ if __name__ ==  '__main__':
     ### CREATE KNs OBJECT ###
     if args.lang:
         dataset = dataset[args.lang]
-        dataset_type = dataset['type']
-    
+    dataset_type = dataset['type']
+        
     kn = KnowledgeNeurons(
                 model = model.model,
                 tokenizer = tokenizer,
