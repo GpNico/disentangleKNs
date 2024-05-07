@@ -1,5 +1,6 @@
 import json
 import os
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import torch
@@ -237,6 +238,24 @@ def sort_by_seeds(model_name: str = 'all', config: Config = None) -> None:
                         file.write(json.dumps(line) + '\n')
         
     print("Done!") 
+    
+def add_colored_hatches(ax, data, colors):
+    # Iterate over data and create a colored hatch for each cell
+    for i in range(data.shape[0]):
+        for j in range(data.shape[1]):
+            if j>i:
+                continue
+            # Create a rectangle with hatching
+            hatch = '////'
+            ax.add_patch(
+                plt.Rectangle(
+                    (j+0.05, i+0.05), 0.9, 0.9, 
+                    fill=False, 
+                    hatch=hatch, 
+                    color=colors[i, j], 
+                    lw=4)
+                )
+
     
     
     
