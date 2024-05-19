@@ -66,12 +66,12 @@ class ModelWrapper(nn.Module):
                                             ).to(device)
         elif 't5' in model_name:
             self.config = AutoConfig.from_pretrained(
-                                            f"google/{model_name}",
-                                            torch_dtype = torch.float16,
-                                            )
+                                            f"google/{model_name}",)
+                                            #torch_dtype = torch.float16,
+                                            #)
             self.model = T5ForConditionalGeneration.from_pretrained(
                                             f"google/{model_name}",
-                                            torch_dtype = torch.float16,
+                                            #torch_dtype = torch.float16,
                                             config=self.config
                                             ).to(device)
         self.model.eval()

@@ -143,8 +143,8 @@ def load_pretrained(model_name):
         tokenizer = AutoTokenizer.from_pretrained(f"meta-llama/{model_name}")
         tokenizer.pad_token = "[PAD]"
     elif 't5' in model_name:
-        config = AutoConfig.from_pretrained(f"google/{model_name}", torch_dtype = torch.float16)
-        model = T5ForConditionalGeneration.from_pretrained(f"google/{model_name}", torch_dtype = torch.float16)
+        config = AutoConfig.from_pretrained(f"google/{model_name}")
+        model = T5ForConditionalGeneration.from_pretrained(f"google/{model_name}")
         tokenizer = T5Tokenizer.from_pretrained(f"google/{model_name}")
     else:
         config = AutoConfig.from_pretrained(model_name, torch_dtype = torch.float16)
