@@ -3,7 +3,7 @@
 import os
 import torch
 import torch.nn as nn
-from transformers import T5ForConditionalGeneration, AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM
+from transformers import T5ForConditionalGeneration, AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM, BloomForCausalLM
 
 
 class ModelWrapper(nn.Module):
@@ -51,6 +51,17 @@ class ModelWrapper(nn.Module):
                                             output_hidden_states = output_hidden_states
                                             )
             self.model = AutoModelForMaskedLM.from_pretrained(
+                                            model_name,
+                                            torch_dtype = torch.float16,
+                                            config=self.config
+                                            ).to(device)
+        elif 'bloom' in model_name:
+            self.config = AutoConfig.from_pretrained(
+                                            model_name,
+                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            output_hidden_states = output_hidden_states
+                                            )
+            self.model = BloomForCausalLM.from_pretrained(
                                             model_name,
                                             torch_dtype = torch.float16,
                                             config=self.config
@@ -136,7 +147,7 @@ class ModelWrapper(nn.Module):
                                                                                                           # mask tokens so this only focus on the last one
             return masked_logits[:,-1,:]
         
-        elif self.config.model_type in ['opt', 'llama']:
+        elif self.config.model_type in ['opt', 'llama', 'bloom']:
             return logits[torch.arange(input_ids.shape[0]),
                           attention_mask.sum(dim=-1)-1] # that's a neat trick!
         elif self.config.model_type == 't5':
