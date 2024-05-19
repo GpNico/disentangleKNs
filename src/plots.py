@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.ticker import MaxNLocator
+from matplotlib.colors import ListedColormap, Normalize
+from matplotlib.cm import ScalarMappable
 import numpy as np
 import os
 import torch
@@ -11,7 +13,7 @@ from matplotlib.colors import LinearSegmentedColormap, LogNorm
 import wandb
 from PIL import Image
 
-from src.utils import find_closest_elem
+from src.utils import find_closest_elem, add_colored_hatches
 from src.knowledge_neurons import KnowledgeNeurons
 from config import Config
 
@@ -728,7 +730,7 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
 
 def plot_multilingual_analysis(res, **kwargs):
     
-    layers_count, sem_layers_count, syn_layers_count, know_layers_count, heatmap, sem_heatmap, syn_heatmap, know_heatmap = res
+    layers_count, sem_layers_count, syn_layers_count, shared_know_layers_count, only_know_layers_count, heatmap, sem_heatmap, syn_heatmap, shared_know_heatmap, only_know_heatmap = res
     MIN_ALPHA = 0.2
     MAX_ALPHA = 1.
     ALPHA_OFFSET = (MAX_ALPHA - MIN_ALPHA)/(len(layers_count)-1)
@@ -772,8 +774,11 @@ def plot_multilingual_analysis(res, **kwargs):
         plt.bar(list(sem_layers_count[l].keys()), 
                 list(sem_layers_count[l].values()), 
                 bottom = bottom,
-                color = COLORS['semantics'],
+                color = 'none',
+                hatch = "///",
+                edgecolor=COLORS_BIS['relation'],
                 alpha = alpha,
+                lw=2.,
                 label = f'{l}')
         alpha += ALPHA_OFFSET
     
@@ -800,7 +805,7 @@ def plot_multilingual_analysis(res, **kwargs):
         plt.bar(list(syn_layers_count[l].keys()), 
                 list(syn_layers_count[l].values()), 
                 bottom = bottom,
-                color = COLORS['syntax'],
+                color = COLORS_BIS['relation'],
                 alpha = alpha,
                 label = f'{l}')
         alpha += ALPHA_OFFSET
@@ -819,18 +824,18 @@ def plot_multilingual_analysis(res, **kwargs):
     
     
     # KNOW
-    know_fig = plt.figure()
+    only_know_fig = plt.figure()
     bottom = None
     alpha = MIN_ALPHA
-    for l in know_layers_count.keys():
+    for l in only_know_layers_count.keys():
         if bottom is not None:
-            bottom += np.array(list(know_layers_count[l-1].values()))
+            bottom += np.array(list(only_know_layers_count[l-1].values()))
         else:
-            bottom = np.zeros(len(know_layers_count[l]))
-        plt.bar(list(know_layers_count[l].keys()), 
-                list(know_layers_count[l].values()), 
+            bottom = np.zeros(len(only_know_layers_count[l]))
+        plt.bar(list(only_know_layers_count[l].keys()), 
+                list(only_know_layers_count[l].values()), 
                 bottom = bottom,
-                color = COLORS['knowledge_only'],
+                color = COLORS_BIS['concept'],
                 alpha = alpha,
                 label = f'{l}')
         alpha += ALPHA_OFFSET
@@ -839,7 +844,32 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.ylabel('KNs Count')
     
     plt.legend()
-    plt.title(f"Knowledge KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
+    plt.title(f"Concept (English only) KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
+    
+    shared_know_fig = plt.figure()
+    bottom = None
+    alpha = MIN_ALPHA
+    for l in shared_know_layers_count.keys():
+        if bottom is not None:
+            bottom += np.array(list(shared_know_layers_count[l-1].values()))
+        else:
+            bottom = np.zeros(len(shared_know_layers_count[l]))
+        plt.bar(list(shared_know_layers_count[l].keys()), 
+                list(shared_know_layers_count[l].values()), 
+                bottom = bottom,
+                color = 'none',
+                hatch = '///',
+                edgecolor = COLORS_BIS['concept'],
+                lw = 2.,
+                alpha = alpha,
+                label = f'{l}')
+        alpha += ALPHA_OFFSET
+        
+    plt.xlabel('Layer')
+    plt.ylabel('KNs Count')
+    
+    plt.legend()
+    plt.title(f"Concept (Shared with AutoPrompt) KNs Multilinguality  (p = {kwargs['p_thresh']}) - {kwargs['dataset_type']}")
  
     # YLIM
     
@@ -852,8 +882,11 @@ def plot_multilingual_analysis(res, **kwargs):
     ax = fig.gca()
     ax.set_ylim((0, 1.1*know_y_max))
     
-    ax_know = know_fig.gca()
-    ax_know.set_ylim((0, 1.1*know_y_max)) 
+    ax_only_know = only_know_fig.gca()
+    ax_only_know.set_ylim((0, 1.1*know_y_max)) 
+    
+    ax_shared_know = shared_know_fig.gca()
+    ax_shared_know.set_ylim((0, 1.1*know_y_max)) 
     
     # SAVING
     
@@ -881,16 +914,23 @@ def plot_multilingual_analysis(res, **kwargs):
             )
         )
     
-    know_fig.savefig(
+    only_know_fig.savefig(
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"know_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
+                f"only_know_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
+            )
+        )
+    
+    shared_know_fig.savefig(
+            os.path.join(
+                kwargs['kns_path'],
+                kwargs['dataset_type'],
+                f"shared_know_kns_multilinguality_layer_dist_p_{kwargs['p_thresh']}.png"
             )
         )
     
     plt.close('all')
-    
     
     ### HEATMAPS ###
     
@@ -920,20 +960,41 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.close()
     
     # SEM
+    
+    fig, ax = plt.subplots()
+    cmap = sb.color_palette("Oranges", as_cmap=True)
+    
     mask = np.triu(np.ones_like(sem_heatmap, dtype=bool))
     np.fill_diagonal(mask, False)
 
-    dataplot = sb.heatmap(sem_heatmap, 
-                          cmap="Blues", 
-                          annot=True,
-                          xticklabels= kwargs['config'].LANGS, 
-                          yticklabels= kwargs['config'].LANGS,
-                          fmt='.0f',
-                          mask=mask) 
+    # Create the heatmap
+    sb.heatmap(sem_heatmap, 
+               cmap=ListedColormap(['white']), 
+               annot=True, 
+               cbar = False, 
+               xticklabels=kwargs['config'].LANGS, 
+               yticklabels=kwargs['config'].LANGS,
+               fmt='.0f', 
+               ax=ax, 
+               mask = mask)
 
-    plt.title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
-    plt.xlabel('Languages')
-    plt.ylabel('Languages')
+    # Generate colors for hatches based on cell value
+    colors = cmap(sem_heatmap/sem_heatmap.max())
+
+    # Add colored hatches
+    add_colored_hatches(ax, sem_heatmap, colors)
+    
+    # Customized Color Bar
+    norm = Normalize(vmin=np.min(sem_heatmap), vmax=np.max(sem_heatmap))
+    sm = ScalarMappable(cmap="Oranges", norm=norm)
+    sm.set_array([])  # You can set an array of values to match the range you are using
+
+    # Create color bar for this ScalarMappable
+    cbar = plt.colorbar(sm, ax=ax)
+    # Adjust the color bar container to remove the black edge
+    cbar.outline.set_edgecolor(None)
+
+    ax.set_title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
     
     plt.savefig(
             os.path.join(
@@ -970,18 +1031,18 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.close()
     
     # KNOW
-    mask = np.triu(np.ones_like(know_heatmap, dtype=bool))
+    mask = np.triu(np.ones_like(only_know_heatmap, dtype=bool))
     np.fill_diagonal(mask, False)
 
-    dataplot = sb.heatmap(know_heatmap, 
-                          cmap="Greens", 
+    dataplot = sb.heatmap(only_know_heatmap, 
+                          cmap="Blues", 
                           annot=True,
                           xticklabels= kwargs['config'].LANGS, 
                           yticklabels= kwargs['config'].LANGS,
                           fmt='.0f',
                           mask=mask) 
 
-    plt.title(f'Shared Knowledge KNs across Languages  (p = {kwargs["p_thresh"]})')
+    plt.title(f'Shared Knowledge (English only) KNs \nacross Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
     
@@ -989,7 +1050,52 @@ def plot_multilingual_analysis(res, **kwargs):
             os.path.join(
                 kwargs['kns_path'],
                 kwargs['dataset_type'],
-                f"know_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
+                f"only_know_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
+            )
+        )
+    plt.close()
+    
+    
+    fig, ax = plt.subplots()
+    cmap = sb.color_palette("Blues", as_cmap=True)
+    
+    mask = np.triu(np.ones_like(shared_know_heatmap, dtype=bool))
+    np.fill_diagonal(mask, False)
+
+    # Create the heatmap
+    sb.heatmap(shared_know_heatmap, 
+               cmap=ListedColormap(['white']), 
+               annot=True, 
+               cbar = False, 
+               xticklabels=kwargs['config'].LANGS, 
+               yticklabels=kwargs['config'].LANGS,
+               fmt='.0f', 
+               ax=ax, 
+               mask = mask)
+
+    # Generate colors for hatches based on cell value
+    colors = cmap(shared_know_heatmap/shared_know_heatmap.max())
+
+    # Add colored hatches
+    add_colored_hatches(ax, shared_know_heatmap, colors)
+    
+    # Customized Color Bar
+    norm = Normalize(vmin=np.min(shared_know_heatmap), vmax=np.max(shared_know_heatmap))
+    sm = ScalarMappable(cmap="Blues", norm=norm)
+    sm.set_array([])  # You can set an array of values to match the range you are using
+
+    # Create color bar for this ScalarMappable
+    cbar = plt.colorbar(sm, ax=ax)
+    # Adjust the color bar container to remove the black edge
+    cbar.outline.set_edgecolor(None)
+    
+    ax.set_title(f'Shared Knowledge (Shared with Autoprompt) KNs \n across Languages  (p = {kwargs["p_thresh"]})')
+    
+    plt.savefig(
+            os.path.join(
+                kwargs['kns_path'],
+                kwargs['dataset_type'],
+                f"shared_know_heatmap_kns_multilinguality_p_{kwargs['p_thresh']}.png"
             )
         )
     plt.close()

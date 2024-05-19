@@ -1017,12 +1017,13 @@ class KnowledgeNeurons:
             else:
                 inter_predicate_ids = inter_predicate_ids.intersection(set(full_kns[lang][STUDIED_DATASET].keys()))
         
-        print(f'Found: {len(inter_predicate_ids)} common predicate_ids.')
+        print(f'Found: {len(inter_predicate_ids)} common predicate_ids: {inter_predicate_ids}')
         
         kns_2_lang = {}
         sem_kns_2_lang = {}
         syn_kns_2_lang = {}
-        know_kns_2_lang = {}
+        shared_know_kns_2_lang = {}
+        only_know_kns_2_lang = {}
         
         for lang in full_kns.keys():
             
@@ -1061,16 +1062,25 @@ class KnowledgeNeurons:
                         syn_kns_2_lang[kn] = _res
                         
                 # KNOW
-                for uuid in full_analysis[lang][predicate_id][f'{STUDIED_DATASET}_know_kns']:
-                    _know_kns = full_analysis[lang][predicate_id][f'{STUDIED_DATASET}_know_kns'][uuid][_thresh]
-                    for kn in _know_kns:
-                        if kn in know_kns_2_lang.keys():
-                            know_kns_2_lang[kn][lang] = True
+                for uuid in full_analysis[lang][predicate_id][f'shared_know_kns']:
+                    _shared_know_kns = full_analysis[lang][predicate_id][f'shared_know_kns'][uuid]
+                    for kn in _shared_know_kns:
+                        if kn in shared_know_kns_2_lang.keys():
+                            shared_know_kns_2_lang[kn][lang] = True
                         else:
                             _res = {l: False for l in self.config.LANGS}
                             _res[lang] = True
-                            know_kns_2_lang[kn] = _res
+                            shared_know_kns_2_lang[kn] = _res
                             
+                for uuid in full_analysis[lang][predicate_id][f'{STUDIED_DATASET}_only_know_kns']:
+                    _only_know_kns = full_analysis[lang][predicate_id][f'{STUDIED_DATASET}_only_know_kns'][uuid]
+                    for kn in _only_know_kns:
+                        if kn in only_know_kns_2_lang.keys():
+                            only_know_kns_2_lang[kn][lang] = True
+                        else:
+                            _res = {l: False for l in self.config.LANGS}
+                            _res[lang] = True
+                            only_know_kns_2_lang[kn] = _res
 
                             
                             
@@ -1105,13 +1115,21 @@ class KnowledgeNeurons:
             syn_layers_count[num_langs][layer] += 1
             
         # KNOW
-        know_layers_count = {l+1: {k: 0 for k in range(self.model_layers_num[self.model_name])} for l in range(len(self.config.LANGS))}
+        shared_know_layers_count = {l+1: {k: 0 for k in range(self.model_layers_num[self.model_name])} for l in range(len(self.config.LANGS))}
         
-        for kn in know_kns_2_lang.keys():
-            res = list(know_kns_2_lang[kn].values())
+        for kn in shared_know_kns_2_lang.keys():
+            res = list(shared_know_kns_2_lang[kn].values())
             layer, _ = kn
             num_langs = sum(res)
-            know_layers_count[num_langs][layer] += 1
+            shared_know_layers_count[num_langs][layer] += 1
+            
+        only_know_layers_count = {l+1: {k: 0 for k in range(self.model_layers_num[self.model_name])} for l in range(len(self.config.LANGS))}
+        
+        for kn in only_know_kns_2_lang.keys():
+            res = list(only_know_kns_2_lang[kn].values())
+            layer, _ = kn
+            num_langs = sum(res)
+            only_know_layers_count[num_langs][layer] += 1
             
         # Heatmap 
         
@@ -1142,16 +1160,34 @@ class KnowledgeNeurons:
                     if b1 and b2: # kn appears in both lang
                         syn_heatmap[idx1, idx2] += 1 
                         
-        know_heatmap = np.zeros((len(self.config.LANGS), len(self.config.LANGS)))
-        for kn in know_kns_2_lang.keys():
-            for idx1, (lang1, b1) in enumerate(know_kns_2_lang[kn].items()):
+        shared_know_heatmap = np.zeros((len(self.config.LANGS), len(self.config.LANGS)))
+        for kn in shared_know_kns_2_lang.keys():
+            for idx1, (lang1, b1) in enumerate(shared_know_kns_2_lang[kn].items()):
                 assert self.config.LANGS[idx1] == lang1 # Never too sure
-                for idx2, (lang2, b2) in enumerate(know_kns_2_lang[kn].items()):
+                for idx2, (lang2, b2) in enumerate(shared_know_kns_2_lang[kn].items()):
                     assert self.config.LANGS[idx2] == lang2 # Never too sure
                     if b1 and b2: # kn appears in both lang
-                        know_heatmap[idx1, idx2] += 1    
+                        shared_know_heatmap[idx1, idx2] += 1 
+                        
+        only_know_heatmap = np.zeros((len(self.config.LANGS), len(self.config.LANGS)))
+        for kn in only_know_kns_2_lang.keys():
+            for idx1, (lang1, b1) in enumerate(only_know_kns_2_lang[kn].items()):
+                assert self.config.LANGS[idx1] == lang1 # Never too sure
+                for idx2, (lang2, b2) in enumerate(only_know_kns_2_lang[kn].items()):
+                    assert self.config.LANGS[idx2] == lang2 # Never too sure
+                    if b1 and b2: # kn appears in both lang
+                        only_know_heatmap[idx1, idx2] += 1    
 
-        return (layers_count, sem_layers_count, syn_layers_count, know_layers_count, heatmap, sem_heatmap, syn_heatmap, know_heatmap) 
+        return (layers_count, 
+                sem_layers_count, 
+                syn_layers_count, 
+                shared_know_layers_count, 
+                only_know_layers_count,
+                heatmap, 
+                sem_heatmap, 
+                syn_heatmap, 
+                shared_know_heatmap,
+                only_know_heatmap) 
             
 
     def compute_knowledge_neurons_by_uuid(
