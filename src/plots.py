@@ -949,6 +949,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.title(f'Shared KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
+    print("Full KNs ", heatmap)
     
     plt.savefig(
             os.path.join(
@@ -977,6 +978,7 @@ def plot_multilingual_analysis(res, **kwargs):
                fmt='.0f', 
                ax=ax, 
                mask = mask)
+    print("Relational Shared KNs ", sem_heatmap)
 
     # Generate colors for hatches based on cell value
     colors = cmap(sem_heatmap/sem_heatmap.max())
@@ -1016,6 +1018,7 @@ def plot_multilingual_analysis(res, **kwargs):
                           yticklabels= kwargs['config'].LANGS,
                           fmt='.0f',
                           mask=mask) 
+    print("Relational Non-Shared KNs ", syn_heatmap)
 
     plt.title(f'Shared Syntax KNs across Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
@@ -1041,7 +1044,8 @@ def plot_multilingual_analysis(res, **kwargs):
                           yticklabels= kwargs['config'].LANGS,
                           fmt='.0f',
                           mask=mask) 
-
+    print("Conceptual Non-Shared KNs ", only_know_heatmap)
+    
     plt.title(f'Shared Knowledge (English only) KNs \nacross Languages  (p = {kwargs["p_thresh"]})')
     plt.xlabel('Languages')
     plt.ylabel('Languages')
@@ -1072,6 +1076,7 @@ def plot_multilingual_analysis(res, **kwargs):
                fmt='.0f', 
                ax=ax, 
                mask = mask)
+    print("Conceptual Shared KNs ", shared_know_heatmap)
 
     # Generate colors for hatches based on cell value
     colors = cmap(shared_know_heatmap/shared_know_heatmap.max())

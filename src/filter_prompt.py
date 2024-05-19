@@ -81,13 +81,12 @@ def _compute_trex_scores(
                                     tokenizer= tokenizer
                                     ) # Shape [batch_size, Voc_size]
             
-            
             # Compute P@k
             _, ids = torch.topk(prediction_logits, k = max_k)
             
             ids = ids.cpu()
             target = target.cpu()
-            
+            #print(f"IDS: {ids[0, :10]} ; Y: {Y}; Y IDS: {target[0]}")
             for k in config.ACCURACY_RANKS:
                 _p_k = (target[:] == ids[:,:k]).any(axis = 1).numpy().astype(float)
                 rela_scores[f'P@{k}'] += _p_k

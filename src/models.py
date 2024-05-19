@@ -57,12 +57,12 @@ class ModelWrapper(nn.Module):
                                             ).to(device)
         elif 'bloom' in model_name:
             self.config = AutoConfig.from_pretrained(
-                                            model_name,
+                                            f"bigscience/{model_name}",
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             output_hidden_states = output_hidden_states
                                             )
             self.model = BloomForCausalLM.from_pretrained(
-                                            model_name,
+                                            f"bigscience/{model_name}",
                                             torch_dtype = torch.float16,
                                             config=self.config
                                             ).to(device)

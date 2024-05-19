@@ -22,6 +22,8 @@ def run_autoprompt(
         template = '<s> {sub_label} ' + '[T] '*config.N_TRIGGER_TOKENS + '[P] </s>'
     elif 'Llama' in model_name:
         template = '<s> {sub_label}' + '[T]'*config.N_TRIGGER_TOKENS + '[P]'
+    elif 'bloom' in model_name:
+        template = '{sub_label}' + '[T]'*config.N_TRIGGER_TOKENS + '[P]'
     elif 't5' in model_name:
         template = '{sub_label} ' + '[T] '*(config.N_TRIGGER_TOKENS - 1) +'[T]</s>' # No predict token
     

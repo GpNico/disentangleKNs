@@ -76,7 +76,10 @@ class KnowledgeNeurons:
                 "opt-350m": 24,
                 "opt-6.7b": 32,
                 'Llama-2-7b-hf': 32,
-                'flan-t5-xl': 24
+                'flan-t5-xl': 24,
+                'bloom-560m': 24,
+                'bloom-3b': 30,
+                'bloom-7b1': 30
                 }
     
     

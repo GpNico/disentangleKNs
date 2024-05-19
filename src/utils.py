@@ -21,6 +21,8 @@ def load_tokenizer(model_name: str):
                                              add_prefix_space = True,) # I think I should) # Not sure why
     if 'Llama' in model_name:
         return AutoTokenizer.from_pretrained(f'meta-llama/{model_name}')
+    if 'bloom' in model_name:
+        return AutoTokenizer.from_pretrained(f"bigscience/{model_name}", add_prefix_space=True)
     if 't5' in model_name:
         return T5Tokenizer.from_pretrained(f"google/{model_name}")
     else:
@@ -34,7 +36,7 @@ def should_lower(model_name: str) -> bool:
                       'bert-large-uncased',
                       'bert-base-multilingual-uncased']:
         return True
-    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl']:
+    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl', 'bloom-560m', 'bloom-3b', 'bloom-7b1']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")
@@ -48,6 +50,8 @@ def is_autoregressive(model_name):
         return True
     if 'opt' in model_name:
         return True
+    if 'bloom' in model_name:
+        return True
     if 't5' in model_name:
         return True # More complicated I think but treated as one
     
@@ -59,6 +63,8 @@ def get_model_intermediate_layer(model: nn.Module,
         return model.bert.encoder.layer[layer_num].intermediate
     elif 'opt' in model_name:
         return model.model.decoder.layers[layer_num].fc1
+    elif 'bloom' in model_name:
+        return model.transformer.h[0].mlp.dense_h_to_4h
     elif 'Llama' in model_name:
         # This is a bit tricky as LlaMa formula for the MLP is:
         # down_proj(act_fn(gate_proj(input))*up_proj(input))
@@ -82,6 +88,8 @@ def get_intermediate_dim(model: nn.Module,
         return model.bert.encoder.layer[0].intermediate.dense.out_features
     elif 'opt' in model_name:
         return model.model.decoder.layers[0].fc1.out_features
+    elif 'bloom' in model_name:
+        return model.transformer.h[0].mlp.dense_h_to_4h.out_features
     elif 'Llama' in model_name:
         return model.model.layers[0].mlp.up_proj.out_features
     elif 't5' in model_name:
