@@ -181,7 +181,7 @@ class TriggerTemplatizer:
         predict_mask = input_ids.eq(self._tokenizer.predict_token_id)
         if self._config.model_type in ['bert', 'xlm']:
             input_ids[predict_mask] = self._tokenizer.mask_token_id
-        elif self._config.model_type in ['opt', 'llama']:
+        elif self._config.model_type in ['opt', 'llama', 'bloom']:
             # For auto regressive model there is no [mask] or [predict] tokens.
             # So we need to assume the prompt ends with [P]
             # Moreover, OPT tokenizeation doesn't add a special_token at the end of the
