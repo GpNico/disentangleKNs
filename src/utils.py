@@ -242,7 +242,9 @@ def sort_by_seeds(model_name: str = 'all', config: Config = None) -> None:
 
                 # Write the sorted lines back to the JSONL file
                 with open(os.path.join(path, f'{predicate_id}.jsonl'), 'w') as file:
-                    for line in sorted_lines:
+                    for k, line in enumerate(sorted_lines):
+                        if line['seed'] == 7 and k == 6:
+                            line['seed'] = 6
                         file.write(json.dumps(line) + '\n')
         
     print("Done!") 

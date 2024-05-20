@@ -38,7 +38,7 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool, 
     
     """
     
-    fig, axs = plt.subplots(2, len(models_analysis.keys()), figsize=(10,5))
+    fig, axs = plt.subplots(2, len(models_analysis.keys()), figsize=(15,5))
     
     max_y = 0
     for k, model_name in enumerate(models_analysis.keys()):
@@ -58,22 +58,22 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool, 
         
         ###
         axs[0,k].bar(1, pararel_res[2], color=COLORS_BIS['concept'])
-        axs[0,k].errorbar(1, pararel_res[2], yerr = pararel_res_se[2], color='black')
+        axs[0,k].errorbar(1, pararel_res[2], yerr = pararel_res_se[2], color='black', capsize=4.)
         
         axs[0,k].bar(2, pararel_res[3], color='none', hatch="///", edgecolor=COLORS_BIS['concept'], lw=4.)
-        axs[0,k].errorbar(2, pararel_res[3], yerr = pararel_res_se[3], color='black')
+        axs[0,k].errorbar(2, pararel_res[3], yerr = pararel_res_se[3], color='black', capsize=4.)
         
         axs[0,k].bar(3, autoprompt_res[2], color='none', edgecolor=COLORS_BIS['concept'], lw=4.)
-        axs[0,k].errorbar(3, autoprompt_res[2], yerr = autoprompt_res_se[2], color='black')
+        axs[0,k].errorbar(3, autoprompt_res[2], yerr = autoprompt_res_se[2], color='black', capsize=4.)
         
         axs[1,k].bar(1, pararel_res[1], color=COLORS_BIS['relation'])
-        axs[1,k].errorbar(1, pararel_res[1], yerr = pararel_res_se[1], color='black')
+        axs[1,k].errorbar(1, pararel_res[1], yerr = pararel_res_se[1], color='black', capsize=4.)
         
         axs[1,k].bar(2, pararel_res[0], color='none', hatch="///", edgecolor=COLORS_BIS['relation'], lw=4.)
-        axs[1,k].errorbar(2, pararel_res[0], yerr = pararel_res_se[0], color='black')
+        axs[1,k].errorbar(2, pararel_res[0], yerr = pararel_res_se[0], color='black', capsize=4.)
         
         axs[1,k].bar(3, autoprompt_res[1], color='none', edgecolor=COLORS_BIS['relation'], lw=4.,)
-        axs[1,k].errorbar(3, autoprompt_res[1], yerr = autoprompt_res_se[1], color='black')
+        axs[1,k].errorbar(3, autoprompt_res[1], yerr = autoprompt_res_se[1], color='black', capsize=4.)
         
         ### Add legend only once
         if k == 0:
@@ -107,8 +107,10 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool, 
         ###
         axs[0,k].set_title(model_name)
         
+        fig.text(0.04, 0.5, 'Neurons Count', ha='center', va='center', rotation='vertical', fontsize=12)
+        
         # Adjust layout to not overlap
-        plt.tight_layout(rect=[0, 0, 0.85, 1])  # Adjust the right margin to leave space for the legend
+        plt.tight_layout(rect=[0.05, 0, 0.9, 1])  # Adjust the right margin to leave space for the legend
 
         # Create a single legend for all plots on the right side of the figure
         fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
@@ -198,7 +200,7 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
     for model_name in models_analysis.keys():
         threshold = find_closest_elem(models_analysis[model_name]['sem_kns'].keys(), threshold)
         
-        fig, axs = plt.subplots(2, 3, figsize=(10,5), sharey='row')
+        fig, axs = plt.subplots(2, 3, figsize=(15,5), sharey='row')
         
         # SEM
         kns = models_analysis[model_name]['sem_kns'][threshold] # set
@@ -250,6 +252,10 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
         axs[0,1].set_xticks([])
         axs[0,2].set_xticks([])
         
+        axs[1,0].set_xticks(np.arange(len(layer_count)))
+        axs[1,1].set_xticks(np.arange(len(layer_count)))
+        axs[1,2].set_xticks(np.arange(len(layer_count)))
+        
         fig.text(0.5, 0.04, 'Layers', ha='center', va='center', fontsize=12)
         fig.text(0.04, 0.5, 'Neurons Count', ha='center', va='center', rotation='vertical', fontsize=12)
         
@@ -271,9 +277,9 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
         axs[1,2].set_xlim((0.5, KnowledgeNeurons.model_layers_num[model_name] + 0.5))
         
         # Adjust layout to prevent overlap
-        plt.tight_layout(rect=[0.05, 0.05, 0.85, 0.95]) 
+        plt.tight_layout(rect=[0.05, 0.05, 0.9, 0.95]) 
 
-        fig.suptitle(model_name, fontsize = 16, y = 0.98)
+        #fig.suptitle(model_name, fontsize = 16, y = 0.98)
         
         export_path = os.path.join(
                 kns_path,
@@ -1116,54 +1122,58 @@ def plot_kns_exps(
         ### PLOT EXP 1 ###
         
         # P@k #
-        fig = plt.figure(figsize=(7,10))
+        p_fig = plt.figure(figsize=(10,10))
         
         p_at_ks = [f'P@{k}' for k in config.ACCURACY_RANKS]
         ks = config.ACCURACY_RANKS
         
         marker = "P"
         markersize = 10.
+        linewidth_db = 7. 
+        linewidth_wo = 2. 
+        linewidth_vanilla = 3.
+        font_size = 24
         
-        plt.hlines(y = 0., xmin=min(ks), xmax=max(ks), color='grey', linewidth=2.)
+        plt.hlines(y = 0., xmin=min(ks), xmax=max(ks), color='grey', linewidth=linewidth_vanilla)
         
         plt.plot(ks, 
                  [scores[1]['sem_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['relation'], 
                  linestyle = '--',
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['sem_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['relation'], 
                  linestyle = '--',
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
         plt.plot(ks, 
                  [scores[1]['syn_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['relation'], 
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['syn_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['relation'], 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
         plt.plot(ks, 
                  [scores[1]['only_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['concept'], 
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['only_know_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['concept'], 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
@@ -1171,19 +1181,29 @@ def plot_kns_exps(
                  [scores[1]['shared_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['concept'], 
                  linestyle='--',
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['shared_know_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks], 
                  color = COLORS_BIS['concept'],
                  linestyle = '--', 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
         
+        sem_wo = np.array([scores[1]['sem_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        sem_db = np.array([scores[1]['sem_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        shared_know_wo = np.array([scores[1]['shared_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        shared_know_db = np.array([scores[1]['shared_know_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        only_know_wo = np.array([scores[1]['only_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        only_know_db = np.array([scores[1]['only_know_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        syn_wo = np.array([scores[1]['syn_wo_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
+        syn_db = np.array([scores[1]['syn_db_kns'][k] - scores[1]['vanilla'][k]for k in p_at_ks])
         
+        p_k_max_y = max(sem_wo.max(), sem_db.max(), shared_know_db.max(), shared_know_wo.max(), only_know_db.max(), only_know_wo.max(), syn_wo.max(), syn_db.max())
+        p_k_min_y = max(sem_wo.min(), sem_db.min(), shared_know_db.min(), shared_know_wo.min(), only_know_db.min(), only_know_wo.min(), syn_wo.min(), syn_db.min())
         
         """
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in p_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
@@ -1197,39 +1217,32 @@ def plot_kns_exps(
         plt.ylim((0,1))
         """
         
-        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['concept'], label = 'Concept')
-        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['relation'], label = 'Relation')
+        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['concept'], label = 'Concept', linewidth = linewidth_vanilla)
+        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['relation'], label = 'Relation', linewidth = linewidth_vanilla)
         plt.plot([-5,-4], [0.0, 0.0], color = 'none', label = ' ')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 2., label = 'English')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linestyle='--', linewidth = 2., label = 'Shared')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_vanilla , label = 'English')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linestyle='--', linewidth = linewidth_vanilla , label = 'Shared')
         plt.plot([-5,-4], [0.0, 0.0], marker = '+', color = 'none', label = '  ')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 3., label = '2xActivation')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 1., label = '0xActivation')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_db, label = '2xActivation')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_wo, label = '0xActivation')
         
         
         
         plt.xlim((min(ks), max(ks)))
         plt.xticks(ks, 
                    labels = config.ACCURACY_RANKS)
+        plt.tick_params(axis='y', labelsize=font_size)
+        plt.tick_params(axis='x', labelsize=font_size)
         plt.xscale('log')
-        plt.xlabel('k')
-        plt.ylabel(r'$\Delta$P@k')
+        #plt.xlabel('k')
+        #plt.ylabel(r'$\Delta$P@k')
         plt.title(f'P@k on T-REX - Without & Doubling KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         
-        plt.tight_layout(rect=[0, 0, 0.8, 1])  # Adjust the right margin to leave space for the legend
+        #plt.tight_layout(rect=[0, 0, 0.8, 1])  # Adjust the right margin to leave space for the legend
 
         # Create a single legend for all plots on the right side of the figure
-        fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
+        #p_fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
         
-        # Save
-        plt.savefig(
-            os.path.join(
-                kns_path,
-                kwargs["dataset_name"],
-                f"kns_exp_1_p_at_k_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_p_{kwargs['p_thresh']}.png"
-            )
-        )
-        plt.close()
         
         """
         # Bar plot
@@ -1268,53 +1281,53 @@ def plot_kns_exps(
         ccp_at_ks = [f'ccp@{k}' for k in config.ACCURACY_RANKS]
         
                 # P@k #
-        fig = plt.figure(figsize=(7,10))
+        ccp_fig = plt.figure(figsize=(10,10))
         
         ks = config.ACCURACY_RANKS
         
         marker = "P"
         markersize = 10.
         
-        plt.hlines(y = 0., xmin=min(ks), xmax=max(ks), color='grey', linewidth=2.)
+        plt.hlines(y = 0., xmin=min(ks), xmax=max(ks), color='grey', linewidth=linewidth_vanilla )
         
         plt.plot(ks, 
                  [scores[1]['sem_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['relation'], 
                  linestyle = '--',
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['sem_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['relation'], 
                  linestyle = '--',
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
         plt.plot(ks, 
                  [scores[1]['syn_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['relation'], 
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['syn_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['relation'], 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
         plt.plot(ks, 
                  [scores[1]['only_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['concept'], 
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['only_know_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['concept'], 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
@@ -1322,40 +1335,56 @@ def plot_kns_exps(
                  [scores[1]['shared_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['concept'], 
                  linestyle='--',
-                 linewidth = 1., 
+                 linewidth = linewidth_wo, 
                  marker = marker,
                  markersize=markersize)
         plt.plot(ks, 
                  [scores[1]['shared_know_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks], 
                  color = COLORS_BIS['concept'],
                  linestyle = '--', 
-                 linewidth = 3., 
+                 linewidth = linewidth_db, 
                  marker = marker,
                  markersize=markersize)
         
-        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['concept'], label = 'Concept')
-        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['relation'], label = 'Relation')
+        
+        sem_wo = np.array([scores[1]['sem_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        sem_db = np.array([scores[1]['sem_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        shared_know_wo = np.array([scores[1]['shared_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        shared_know_db = np.array([scores[1]['shared_know_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        only_know_wo = np.array([scores[1]['only_know_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        only_know_db = np.array([scores[1]['only_know_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        syn_wo = np.array([scores[1]['syn_wo_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        syn_db = np.array([scores[1]['syn_db_kns'][k] - scores[1]['vanilla'][k]for k in ccp_at_ks])
+        
+        ccp_k_max_y = max(sem_wo.max(), sem_db.max(), shared_know_db.max(), shared_know_wo.max(), only_know_db.max(), only_know_wo.max(), syn_wo.max(), syn_db.max())
+        ccp_k_min_y = min(sem_wo.min(), sem_db.min(), shared_know_db.min(), shared_know_wo.min(), only_know_db.min(), only_know_wo.min(), syn_wo.min(), syn_db.min())
+        
+        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['concept'], label = 'Concept', linewidth = linewidth_vanilla )
+        plt.plot([-5,-4], [0.0, 0.0], color = COLORS_BIS['relation'], label = 'Relation', linewidth = linewidth_vanilla )
         plt.plot([-5,-4], [0.0, 0.0], color = 'none', label = ' ')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 2., label = 'English')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linestyle='--', linewidth = 2., label = 'Shared')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_vanilla , label = 'English')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linestyle='--', linewidth = linewidth_vanilla , label = 'Shared')
         plt.plot([-5,-4], [0.0, 0.0], marker = '+', color = 'none', label = '  ')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 3., label = '2xActivation')
-        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = 1., label = '0xActivation')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_db, label = '2xActivation')
+        plt.plot([-5,-4], [0.0, 0.0], color = 'grey', linewidth = linewidth_wo, label = '0xActivation')
         
         
         
         plt.xlim((min(ks), max(ks)))
         plt.xticks(ks, 
                    labels = config.ACCURACY_RANKS)
+        plt.tick_params(axis='y', labelsize=font_size)
+        plt.tick_params(axis='x', labelsize=font_size)
+        plt.yticks([])
         plt.xscale('log')
-        plt.xlabel('k')
-        plt.ylabel(r'$\Delta$CCP@k')
-        plt.title(f'CCP@k on T-REX - Without & Doubling KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
+        #plt.xlabel('k')
+        #plt.ylabel(r'$\Delta$CCP@k')
+        #plt.title(f'CCP@k on T-REX - Without & Doubling KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         
-        plt.tight_layout(rect=[0, 0, 0.8, 1])  # Adjust the right margin to leave space for the legend
+        #plt.tight_layout(rect=[0, 0, 0.8, 1])  # Adjust the right margin to leave space for the legend
 
         # Create a single legend for all plots on the right side of the figure
-        fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
+        #ccp_fig.legend(loc='center right', bbox_to_anchor=(0.99, 0.5))
         
         """
         plt.plot(np.arange(4), [scores[1]['vanilla'][k] for k in ccp_at_ks], marker = '+', linewidth = 3., color='black', label = 'vanilla')
@@ -1373,16 +1402,37 @@ def plot_kns_exps(
         plt.legend()
         plt.title(f'CCP@k on T-REX - Without & Doubling KNs Semantics & Syntax KNs\n p = {kwargs["p_thresh"]} -{kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         """
+        
+        # Same y_axis
+        y_min = min(ccp_k_min_y, p_k_min_y)
+        y_max = max(ccp_k_max_y, p_k_max_y)
+        
+        ax_ccp = ccp_fig.gca()
+        ax_ccp.set_ylim((0.95*y_min, 1.05*y_max))
+        
+        ax_p = p_fig.gca()
+        ax_p.set_ylim((0.95*y_min, 1.05*y_max))
+        
             
         # Save
-        plt.savefig(
+        ccp_fig.savefig(
             os.path.join(
                 kns_path,
                 kwargs['dataset_name'],
                 f"kns_exp_1_ccp_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_p_{kwargs['p_thresh']}.png"
             )
         )
-        plt.close()
+        
+        # Save
+        p_fig.savefig(
+            os.path.join(
+                kns_path,
+                kwargs["dataset_name"],
+                f"kns_exp_1_p_at_k_thresh_{int(scores[1]['threshold']*100)}_{scores[1]['kns_mode']}_p_{kwargs['p_thresh']}.png"
+            )
+        )
+        
+        plt.close('all')
         
         """
         # Bar plot
