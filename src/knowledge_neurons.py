@@ -971,6 +971,7 @@ class KnowledgeNeurons:
                                         )
                                 )
                             )
+            print("lang: ", lang, " predicate_ids: ", predicate_ids)
             
             # Store all KNs
             autoprompt_kns, pararel_kns = {}, {}
@@ -1011,15 +1012,18 @@ class KnowledgeNeurons:
         ### COMPUTE BELONGINGS ###
         
         STUDIED_DATASET = 'pararel'
-        
+        print('LANGS:', full_kns.keys())
         # For now we'll do all KNs for all predicate_ids
         inter_predicate_ids = set()
+        new = True
         for lang in full_kns.keys():
-            if len(inter_predicate_ids) == 0:
+            print("New: ", set(full_kns[lang][STUDIED_DATASET].keys()))
+            if len(inter_predicate_ids) == 0 and new:
                 inter_predicate_ids = inter_predicate_ids.union(set(full_kns[lang][STUDIED_DATASET].keys()))
+                new = False
             else:
                 inter_predicate_ids = inter_predicate_ids.intersection(set(full_kns[lang][STUDIED_DATASET].keys()))
-        
+            print("Tot: ", inter_predicate_ids)
         print(f'Found: {len(inter_predicate_ids)} common predicate_ids: {inter_predicate_ids}')
         
         kns_2_lang = {}
@@ -1085,8 +1089,37 @@ class KnowledgeNeurons:
                             _res[lang] = True
                             only_know_kns_2_lang[kn] = _res
 
+        ### LANGS ANALYSIS ###
+        #print(len(kns_2_lang))
+        count = {k+1: 0 for k in range(len(full_kns))}
+        for kn in kns_2_lang.keys():
+            res = list(kns_2_lang[kn].values())
+            count[sum(res)] += 1
+        #print(count)
+        
+        langs_to_kns_count = {lang: [0,0] for lang in full_kns.keys()} # First value is monolingual, second value is shared
+        
+        count_kns = {}
+        for lang in full_kns.keys():
+            
+            for predicate_id in inter_predicate_ids:
+                
+                # KNS
+                for uuid in full_kns[lang][STUDIED_DATASET][predicate_id]:
+                    _kns = full_kns[lang][STUDIED_DATASET][predicate_id][uuid]
+                    for kn in _kns:
+                        kn = (kn[0], kn[1]) # Hashable
+                        count_kns[kn] = count_kns.get(kn, 0) + 1
+                        res = list(kns_2_lang[kn].values())
+                        num_langs = sum(res)
+                        if num_langs < 10:
+                            langs_to_kns_count[lang][0] += 1
+                        elif num_langs == 10:
+                            langs_to_kns_count[lang][1] += 1
                             
-                            
+        count_kns = dict(sorted(count_kns.items(), key = lambda item: item[1]))
+        #print(count_kns)
+                         
         ### LAYER ANALYSIS ###
         
         
@@ -1190,7 +1223,8 @@ class KnowledgeNeurons:
                 sem_heatmap, 
                 syn_heatmap, 
                 shared_know_heatmap,
-                only_know_heatmap) 
+                only_know_heatmap,
+                langs_to_kns_count) 
             
 
     def compute_knowledge_neurons_by_uuid(

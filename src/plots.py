@@ -736,10 +736,40 @@ def plot_kns_surgery(scores: Dict[str, Dict[str, float]],
 
 def plot_multilingual_analysis(res, **kwargs):
     
-    layers_count, sem_layers_count, syn_layers_count, shared_know_layers_count, only_know_layers_count, heatmap, sem_heatmap, syn_heatmap, shared_know_heatmap, only_know_heatmap = res
+    layers_count, sem_layers_count, syn_layers_count, shared_know_layers_count, only_know_layers_count, heatmap, sem_heatmap, syn_heatmap, shared_know_heatmap, only_know_heatmap, langs_to_kns_count = res
     MIN_ALPHA = 0.2
     MAX_ALPHA = 1.
     ALPHA_OFFSET = (MAX_ALPHA - MIN_ALPHA)/(len(layers_count)-1)
+    
+    
+    ### LANGS To KNS ###
+    
+    fig = plt.figure()
+    
+    langs = list(langs_to_kns_count.keys())
+    xs = np.arange(len(langs))
+    
+    plt.bar(xs, [langs_to_kns_count[lang][0] for lang in langs], color = 'lightcoral', label = 'monolingual')
+    plt.bar(xs, 
+            np.array([langs_to_kns_count[lang][0] for lang in langs]) + np.array([langs_to_kns_count[lang][1] for lang in langs]),
+            bottom = np.array([langs_to_kns_count[lang][0] for lang in langs]),
+            color = 'firebrick', 
+            label = 'shared')
+    
+    plt.xticks(xs, labels=langs)
+    plt.ylabel('Neurons Count', fontsize=19)
+    plt.tick_params(axis='x', labelsize=25)
+    plt.legend()
+    
+    
+    fig.savefig(
+            os.path.join(
+                kwargs['kns_path'],
+                kwargs['dataset_type'],
+                f"kns_shared_or_not_p_{kwargs['p_thresh']}.png"
+            )
+        )
+    plt.close()
     
     ### LAYER DISTRIBUTION ###
     
@@ -975,17 +1005,18 @@ def plot_multilingual_analysis(res, **kwargs):
     np.fill_diagonal(mask, False)
 
     # Create the heatmap
-    sb.heatmap(sem_heatmap, 
+    sem_dataplot = sb.heatmap(sem_heatmap, 
                cmap=ListedColormap(['white']), 
                annot=True, 
+               annot_kws={"size": 15},
                cbar = False, 
                xticklabels=kwargs['config'].LANGS, 
                yticklabels=kwargs['config'].LANGS,
                fmt='.0f', 
                ax=ax, 
                mask = mask)
-    print("Relational Shared KNs ", sem_heatmap)
-
+    #print("Relational Shared KNs ", sem_heatmap)
+    
     # Generate colors for hatches based on cell value
     colors = cmap(sem_heatmap/sem_heatmap.max())
 
@@ -993,7 +1024,7 @@ def plot_multilingual_analysis(res, **kwargs):
     add_colored_hatches(ax, sem_heatmap, colors)
     
     # Customized Color Bar
-    norm = Normalize(vmin=np.min(sem_heatmap), vmax=np.max(sem_heatmap))
+    norm = Normalize(vmin=0, vmax=np.max(sem_heatmap)) # np.min(sem_heatmap)
     sm = ScalarMappable(cmap="Oranges", norm=norm)
     sm.set_array([])  # You can set an array of values to match the range you are using
 
@@ -1002,7 +1033,12 @@ def plot_multilingual_analysis(res, **kwargs):
     # Adjust the color bar container to remove the black edge
     cbar.outline.set_edgecolor(None)
 
-    ax.set_title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
+    plt.tick_params(axis='x', labelsize=20)
+    plt.tick_params(axis='y', labelsize=20)
+
+    #ax.set_title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
+    ax.set_xlabel('Relation Shared', fontsize = 25)
+    plt.tight_layout()#rect=[0.0, 0.02, 1., 1.]) 
     
     plt.savefig(
             os.path.join(
@@ -1020,15 +1056,29 @@ def plot_multilingual_analysis(res, **kwargs):
     dataplot = sb.heatmap(syn_heatmap, 
                           cmap="Oranges", 
                           annot=True,
+                          annot_kws={"size": 15},
                           xticklabels= kwargs['config'].LANGS, 
                           yticklabels= kwargs['config'].LANGS,
                           fmt='.0f',
-                          mask=mask) 
-    print("Relational Non-Shared KNs ", syn_heatmap)
+                          mask=mask,
+                          cbar=False) 
+    #print("Relational Non-Shared KNs ", syn_heatmap)
 
-    plt.title(f'Shared Syntax KNs across Languages  (p = {kwargs["p_thresh"]})')
-    plt.xlabel('Languages')
-    plt.ylabel('Languages')
+    # Access the color bar
+    norm = Normalize(vmin=0, vmax=np.max(syn_heatmap)) # np.min(sem_heatmap)
+    sm = ScalarMappable(cmap="Oranges", norm=norm)
+    sm.set_array([])
+    cbar = plt.colorbar(sm, ax=plt.gca())
+    cbar.outline.set_edgecolor(None)
+    
+    plt.tick_params(axis='x', labelsize=20)
+    plt.tick_params(axis='y', labelsize=20)
+
+    #plt.title(f'Shared Syntax KNs across Languages  (p = {kwargs["p_thresh"]})')
+    #plt.xlabel('Languages')
+    #plt.ylabel('Languages')
+    plt.xlabel('Relation Non-Shared', fontsize = 25)
+    plt.tight_layout()
     
     plt.savefig(
             os.path.join(
@@ -1046,15 +1096,27 @@ def plot_multilingual_analysis(res, **kwargs):
     dataplot = sb.heatmap(only_know_heatmap, 
                           cmap="Blues", 
                           annot=True,
+                          annot_kws={"size": 15},
                           xticklabels= kwargs['config'].LANGS, 
                           yticklabels= kwargs['config'].LANGS,
                           fmt='.0f',
-                          mask=mask) 
-    print("Conceptual Non-Shared KNs ", only_know_heatmap)
+                          mask=mask,
+                          cbar = False) 
+    #print("Conceptual Non-Shared KNs ", only_know_heatmap)
+    norm = Normalize(vmin=0, vmax=np.max(only_know_heatmap)) # np.min(sem_heatmap)
+    sm = ScalarMappable(cmap="Blues", norm=norm)
+    sm.set_array([])
+    cbar = plt.colorbar(sm, ax=plt.gca())
+    cbar.outline.set_edgecolor(None)
     
-    plt.title(f'Shared Knowledge (English only) KNs \nacross Languages  (p = {kwargs["p_thresh"]})')
-    plt.xlabel('Languages')
-    plt.ylabel('Languages')
+    plt.tick_params(axis='x', labelsize=20)
+    plt.tick_params(axis='y', labelsize=20)
+    
+    #plt.title(f'Shared Knowledge (English only) KNs \nacross Languages  (p = {kwargs["p_thresh"]})')
+    #plt.xlabel('Languages')
+    #plt.ylabel('Languages')
+    plt.xlabel('Concept Non-Shared', fontsize = 25)
+    plt.tight_layout()
     
     plt.savefig(
             os.path.join(
@@ -1076,13 +1138,14 @@ def plot_multilingual_analysis(res, **kwargs):
     sb.heatmap(shared_know_heatmap, 
                cmap=ListedColormap(['white']), 
                annot=True, 
+               annot_kws={"size": 15},
                cbar = False, 
                xticklabels=kwargs['config'].LANGS, 
                yticklabels=kwargs['config'].LANGS,
                fmt='.0f', 
                ax=ax, 
                mask = mask)
-    print("Conceptual Shared KNs ", shared_know_heatmap)
+    #print("Conceptual Shared KNs ", shared_know_heatmap)
 
     # Generate colors for hatches based on cell value
     colors = cmap(shared_know_heatmap/shared_know_heatmap.max())
@@ -1091,7 +1154,7 @@ def plot_multilingual_analysis(res, **kwargs):
     add_colored_hatches(ax, shared_know_heatmap, colors)
     
     # Customized Color Bar
-    norm = Normalize(vmin=np.min(shared_know_heatmap), vmax=np.max(shared_know_heatmap))
+    norm = Normalize(vmin=0, vmax=np.max(shared_know_heatmap)) # np.min(shared_know_heatmap)
     sm = ScalarMappable(cmap="Blues", norm=norm)
     sm.set_array([])  # You can set an array of values to match the range you are using
 
@@ -1100,7 +1163,12 @@ def plot_multilingual_analysis(res, **kwargs):
     # Adjust the color bar container to remove the black edge
     cbar.outline.set_edgecolor(None)
     
-    ax.set_title(f'Shared Knowledge (Shared with Autoprompt) KNs \n across Languages  (p = {kwargs["p_thresh"]})')
+    plt.tick_params(axis='x', labelsize=20)
+    plt.tick_params(axis='y', labelsize=20)
+    
+    #ax.set_title(f'Shared Knowledge (Shared with Autoprompt) KNs \n across Languages  (p = {kwargs["p_thresh"]})')
+    plt.xlabel('Concept Shared', fontsize = 25)
+    plt.tight_layout()
     
     plt.savefig(
             os.path.join(
@@ -1236,7 +1304,7 @@ def plot_kns_exps(
         plt.xscale('log')
         #plt.xlabel('k')
         #plt.ylabel(r'$\Delta$P@k')
-        plt.title(f'P@k on T-REX - Without & Doubling KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
+        #plt.title(f'P@k on T-REX - Without & Doubling KNs\n p = {kwargs["p_thresh"]} - {kwargs["dataset_name"]} - {scores[1]["kns_mode"]} - {np.round(scores[1]["threshold"],2)}')
         
         #plt.tight_layout(rect=[0, 0, 0.8, 1])  # Adjust the right margin to leave space for the legend
 

@@ -10,7 +10,7 @@ class Config:
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True
     MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf']
-    MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased', 'flan-t5-xl']
+    MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased', 'Llama-2-7b-hf']
     
     # Data
     PATH_TO_MLAMA = os.path.join('data', 'mlama1.1')
@@ -37,8 +37,8 @@ class Config:
     ACCURACY_RANKS = [1,5,10,20,50,100] # ks in P@k
     
     # MultiLingual
-    LANGS = ['en', 'fr', 'es', 'ca', 'da', 'de', 'it', 'nl', 'pt', 'sv'] # We removed 'ru', 'fi' and 'pl'
-    
+    LANGS = ['en', 'fr', 'es', 'ca', 'da', 'de', 'it', 'nl', 'pt', 'sv'] # We removed 'ru', 'fi' and 'pl', for bert
+    #LANGS = ['sv', 'nl', 'en', 'da', 'de'] # Llama-2-7b-hf
     # Autoprompt
     N_SEEDS = 10
     N_TRIGGER_TOKENS = 5
