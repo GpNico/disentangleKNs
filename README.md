@@ -20,7 +20,7 @@ To run multilingual experiments, run:
 ```
 Give execute permission to the script beforehand:
 ```
-chmode +x ./run_monolingual.sh
+chmod +x ./run_monolingual.sh
 ```
 By default, the model is `bert-base-uncased`, but you can edit `run_monolingual.sh` and change the `MODEL_NAME` variable to: 
 - `bert-base-uncased`
@@ -43,7 +43,7 @@ To run multilingual experiments, run:
 ```
 Give execute permission to the script beforehand:
 ```
-chmode +x ./run_multilingual.sh
+chmod +x ./run_multilingual.sh
 ```
 You can also uncomment the line:
 ```
