@@ -21,6 +21,8 @@ def load_tokenizer(model_name: str):
                                              add_prefix_space = True,) # I think I should) # Not sure why
     if 'Llama' in model_name:
         return AutoTokenizer.from_pretrained(f'meta-llama/{model_name}')
+    if 'gemma' in model_name:
+        return AutoTokenizer.from_pretrained(f'google/{model_name}')
     if 'bloom' in model_name:
         return AutoTokenizer.from_pretrained(f"bigscience/{model_name}", add_prefix_space=True)
     if 't5' in model_name:
@@ -36,7 +38,7 @@ def should_lower(model_name: str) -> bool:
                       'bert-large-uncased',
                       'bert-base-multilingual-uncased']:
         return True
-    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl', 'bloom-560m', 'bloom-3b', 'bloom-7b1']:
+    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl', 'bloom-560m', 'bloom-3b', 'bloom-7b1', 'gemma-2-9b-it']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")
@@ -45,6 +47,8 @@ def is_autoregressive(model_name):
     if 'bert' in model_name:
         return False
     if 'gpt' in model_name:
+        return True
+    if 'gemma' in model_name:
         return True
     if 'Llama' in model_name:
         return True
@@ -73,6 +77,9 @@ def get_model_intermediate_layer(model: nn.Module,
         # But gate_proj act as gating values that modulate the strength
         # of up_proj so that might lead to some weird things...
         return model.model.layers[layer_num].mlp.up_proj
+    elif 'gemma' in model_name:
+        # Same as above...
+        return model.model.layers[layer_num].mlp.up_proj
     elif 't5' in model_name:
         if t5_part == 'encoder':
             model.encoder.block[layer_num].layer[1].DenseReluDense.wi_0
@@ -91,6 +98,8 @@ def get_intermediate_dim(model: nn.Module,
     elif 'bloom' in model_name:
         return model.transformer.h[0].mlp.dense_h_to_4h.out_features
     elif 'Llama' in model_name:
+        return model.model.layers[0].mlp.up_proj.out_features
+    elif 'gemma' in model_name:
         return model.model.layers[0].mlp.up_proj.out_features
     elif 't5' in model_name:
         if t5_part == 'encoder':

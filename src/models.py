@@ -3,7 +3,7 @@
 import os
 import torch
 import torch.nn as nn
-from transformers import T5ForConditionalGeneration, AutoConfig, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM, BloomForCausalLM
+from transformers import T5ForConditionalGeneration, AutoConfig, AutoModelForCausalLM, AutoModelForMaskedLM, OPTForCausalLM, PreTrainedTokenizer, XLMWithLMHeadModel, LlamaForCausalLM, BloomForCausalLM
 
 
 class ModelWrapper(nn.Module):
@@ -31,6 +31,17 @@ class ModelWrapper(nn.Module):
                                             )
             self.model = OPTForCausalLM.from_pretrained(
                                             f"facebook/{model_name}", 
+                                            config=self.config,
+                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            ).to(device)
+        if 'gemma' in model_name:
+            self.config = AutoConfig.from_pretrained(
+                                            f'google/{model_name}', 
+                                            output_hidden_states = output_hidden_states,
+                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            )
+            self.model = AutoModelForCausalLM.from_pretrained(
+                                            f"google/{model_name}", 
                                             config=self.config,
                                             torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             ).to(device)
@@ -147,7 +158,7 @@ class ModelWrapper(nn.Module):
                                                                                                           # mask tokens so this only focus on the last one
             return masked_logits[:,-1,:]
         
-        elif self.config.model_type in ['opt', 'llama', 'bloom']:
+        elif self.config.model_type in ['opt', 'llama', 'bloom', 'gemma2']:
             return logits[torch.arange(input_ids.shape[0]),
                           attention_mask.sum(dim=-1)-1] # that's a neat trick!
         elif self.config.model_type == 't5':
