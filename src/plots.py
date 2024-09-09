@@ -107,7 +107,7 @@ def plot_KNs_types_all_models(models_analysis, kns_path, plot_error_bars: bool, 
         ###
         axs[0,k].set_title(model_name)
         
-        fig.text(0.04, 0.5, 'Neurons Count', ha='center', va='center', rotation='vertical', fontsize=12)
+        fig.text(0.04, 0.5, 'Neuron Count', ha='center', va='center', rotation='vertical', fontsize=12)
         
         # Adjust layout to not overlap
         plt.tight_layout(rect=[0.05, 0, 0.9, 1])  # Adjust the right margin to leave space for the legend
@@ -257,7 +257,7 @@ def plot_sem_syn_know_layer_distribution(models_analysis, threshold: float, kns_
         axs[1,2].set_xticks(np.arange(len(layer_count)))
         
         fig.text(0.5, 0.04, 'Layers', ha='center', va='center', fontsize=12)
-        fig.text(0.04, 0.5, 'Neurons Count', ha='center', va='center', rotation='vertical', fontsize=12)
+        fig.text(0.04, 0.5, 'Neuron Count', ha='center', va='center', rotation='vertical', fontsize=12)
         
         ###
         axs[0,0].bar(-2, 1, color = COLORS_BIS['concept'], label = 'Concept')
@@ -1037,7 +1037,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.tick_params(axis='y', labelsize=20)
 
     #ax.set_title(f'Shared Semantics KNs across Languages  (p = {kwargs["p_thresh"]})')
-    ax.set_xlabel('Relation Shared', fontsize = 25)
+    ax.set_xlabel('Relation Shared\nWith AutoPrompt', fontsize = 25)
     plt.tight_layout()#rect=[0.0, 0.02, 1., 1.]) 
     
     plt.savefig(
@@ -1077,7 +1077,7 @@ def plot_multilingual_analysis(res, **kwargs):
     #plt.title(f'Shared Syntax KNs across Languages  (p = {kwargs["p_thresh"]})')
     #plt.xlabel('Languages')
     #plt.ylabel('Languages')
-    plt.xlabel('Relation Non-Shared', fontsize = 25)
+    plt.xlabel('Relation Non-Shared\nWith AutoPrompt', fontsize = 25)
     plt.tight_layout()
     
     plt.savefig(
@@ -1115,7 +1115,7 @@ def plot_multilingual_analysis(res, **kwargs):
     #plt.title(f'Shared Knowledge (English only) KNs \nacross Languages  (p = {kwargs["p_thresh"]})')
     #plt.xlabel('Languages')
     #plt.ylabel('Languages')
-    plt.xlabel('Concept Non-Shared', fontsize = 25)
+    plt.xlabel('Concept Non-Shared\nWith AutoPrompt', fontsize = 25)
     plt.tight_layout()
     
     plt.savefig(
@@ -1167,7 +1167,7 @@ def plot_multilingual_analysis(res, **kwargs):
     plt.tick_params(axis='y', labelsize=20)
     
     #ax.set_title(f'Shared Knowledge (Shared with Autoprompt) KNs \n across Languages  (p = {kwargs["p_thresh"]})')
-    plt.xlabel('Concept Shared', fontsize = 25)
+    plt.xlabel('Concept Shared\nWith AutoPrompt', fontsize = 25)
     plt.tight_layout()
     
     plt.savefig(
