@@ -80,7 +80,7 @@ class KnowledgeNeurons:
                 'bloom-560m': 24,
                 'bloom-3b': 30,
                 'bloom-7b1': 30,
-                'gemma-2-9b-it': 26
+                'gemma-2-9b-it': 42
                 }
     
     
