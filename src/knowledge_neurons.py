@@ -1292,6 +1292,10 @@ class KnowledgeNeurons:
             sentences_tok = dataset[uuid]['sentences_tok']    
             Y = dataset[uuid]['Y']
             
+            # Ugly patch but you know...
+            if self.model.config.model_type == 'gemma2':
+                Y = ' ' + Y # somehow add_prefix_space=True doesn't work for gemma2
+            
             # Target Tokenization
             target = self.tokenizer([Y]*len(sentences_tok), 
                                     return_tensors = 'pt',
@@ -1537,6 +1541,9 @@ class KnowledgeNeurons:
             Ys_ids = []
             for uuid in dataset.keys():
                 Y = dataset[uuid]['Y']
+                # Ugly patch but you know...
+                if self.model.config.model_type == 'gemma2':
+                    Y = ' ' + Y # somehow add_prefix_space=True doesn't work for gemma2
                 _Y_ids = self.tokenizer(Y, add_special_tokens=False).input_ids
                 assert len(_Y_ids) == 1
                 Ys_ids.append(_Y_ids[0])
@@ -1551,6 +1558,10 @@ class KnowledgeNeurons:
             # Get template Tokens & Y 
             sentences_tok = dataset[uuid]['sentences_tok']    
             Y = dataset[uuid]['Y']
+            
+            # Ugly patch but you know...
+            if self.model.config.model_type == 'gemma2':
+                Y = ' ' + Y # somehow add_prefix_space=True doesn't work for gemma2
             
             # Target Tokenization
             target = self.tokenizer([Y]*len(sentences_tok), 
