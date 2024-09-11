@@ -3,7 +3,7 @@ P19 Country-City
 P20 Country-City
 P27 Country
 P30 Continent
-P36 Country
+P36 City
 P31 Thing 
 P37 Language
 P39 Profession

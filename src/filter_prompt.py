@@ -66,6 +66,10 @@ def _compute_trex_scores(
             sentences_tok = dataset[predicate_id][uuid]['sentences_tok']    
             Y = dataset[predicate_id][uuid]['Y']
             
+            # Ugly patch but you know...
+            if model.config.model_type == 'gemma2':
+                Y = ' ' + Y # somehow add_prefix_space=True doesn't work for gemma2
+            
             # Target Tokenization
             target = tokenizer([Y]*len(sentences_tok), 
                                 return_tensors = 'pt',
