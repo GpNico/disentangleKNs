@@ -38,7 +38,7 @@ def should_lower(model_name: str) -> bool:
                       'bert-large-uncased',
                       'bert-base-multilingual-uncased']:
         return True
-    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl', 'bloom-560m', 'bloom-3b', 'bloom-7b1', 'gemma-2-9b-it']:
+    elif model_name in ['opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'flan-t5-xl', 'bloom-560m', 'bloom-3b', 'bloom-7b1', 'gemma-2-9b-it', 'gemma-2-9b']:
         return False
     else:
         raise Exception("Don't forget to put your model in the should_lower function :'(")

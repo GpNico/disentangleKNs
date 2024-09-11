@@ -9,7 +9,7 @@ class Config:
     
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True
-    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'gemma-2-9b-it']
+    MODELS_TO_PLOT = ['bert-base-uncased', 'bert-large-uncased', 'opt-350m', 'opt-6.7b', 'Llama-2-7b-hf', 'gemma-2-9b-it', 'gemma-2-9b']
     MULTILINGUAL_MODELS_TO_PLOT = ['bert-base-multilingual-uncased', 'Llama-2-7b-hf']
     
     # Data
