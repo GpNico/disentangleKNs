@@ -330,7 +330,7 @@ if __name__ == '__main__':
             kns_mode = 'equal' if args.equal else 'all'
             
             if not(args.plot_only):
-                scores = kn.compute_experiments(
+                scores, scores_raw = kn.compute_experiments(
                                             thresh = config.ACCROSS_UUIDS_THRESHOLD, 
                                             kns_mode=kns_mode, 
                                             exps = [1, 2], 
@@ -338,10 +338,16 @@ if __name__ == '__main__':
             
             
                 os.makedirs(os.path.join(kn.kns_path, kn.dataset_type, 'raw'), exist_ok=True)
+                # Scores
                 if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle')):
                     print('Results already exists! They will be overwritten.')
                 with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'), 'wb') as file:
                     pickle.dump(scores, file)
+                # Scores Raw
+                if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_raw.pickle')):
+                    print('Results already exists! They will be overwritten.')
+                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_raw.pickle'), 'wb') as file:
+                    pickle.dump(scores_raw, file)
             else:
                 assert os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'))
                 print("Loading data...")

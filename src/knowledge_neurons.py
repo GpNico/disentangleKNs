@@ -366,6 +366,7 @@ class KnowledgeNeurons:
         """
         
         scores = {}
+        scores_raw = {}
         
         assert kns_mode in ['all', 'equal']
         
@@ -391,6 +392,18 @@ class KnowledgeNeurons:
                         'shared_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
                         'shared_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS}
                         }
+            scores_exp1_raw = {
+                        'vanilla': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'sem_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'sem_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'syn_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'syn_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'only_know_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'only_know_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'shared_know_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'shared_know_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS}
+                        }
+            
             num_eval = {k: 0 for k in scores_exp1.keys()}
             
             for k, rela in enumerate(analysis_dict['rela_names']):
@@ -447,6 +460,7 @@ class KnowledgeNeurons:
                     for uuid in vanilla_raw_res[0]:
                         for _s in scores_exp1['vanilla'].keys():
                             scores_exp1['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
+                            scores_exp1_raw['vanilla'][_s].append(vanilla_raw_res[0][uuid][_s])
                 
                 ### Semantics Eval ###
                 
@@ -462,6 +476,7 @@ class KnowledgeNeurons:
                     for uuid in sem_wo_raw_res[0]:
                         for _s in scores_exp1['sem_wo_kns'].keys():
                             scores_exp1['sem_wo_kns'][_s] += sem_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['sem_wo_kns'][_s].append(sem_wo_raw_res[0][uuid][_s])
                             
                 sem_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -475,6 +490,7 @@ class KnowledgeNeurons:
                     for uuid in sem_db_raw_res[0]:
                         for _s in scores_exp1['sem_db_kns'].keys():
                             scores_exp1['sem_db_kns'][_s] += sem_db_raw_res[0][uuid][_s]
+                            scores_exp1_raw['sem_db_kns'][_s].append(sem_db_raw_res[0][uuid][_s])
                             
                 ### Syntax Eval ###
                 
@@ -490,6 +506,7 @@ class KnowledgeNeurons:
                     for uuid in syn_wo_raw_res[0]:
                         for _s in scores_exp1['syn_wo_kns'].keys():
                             scores_exp1['syn_wo_kns'][_s] += syn_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['syn_wo_kns'][_s].append(syn_wo_raw_res[0][uuid][_s])
                             
                 syn_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -503,6 +520,7 @@ class KnowledgeNeurons:
                     for uuid in syn_db_raw_res[0]:
                         for _s in scores_exp1['syn_db_kns'].keys():
                             scores_exp1['syn_db_kns'][_s] += syn_db_raw_res[0][uuid][_s]
+                            scores_exp1_raw['syn_db_kns'][_s].append(syn_db_raw_res[0][uuid][_s])
                             
                 ### Knowledge Eval ###
                 
@@ -518,6 +536,7 @@ class KnowledgeNeurons:
                     for uuid in only_know_wo_raw_res[0]:
                         for _s in scores_exp1['only_know_wo_kns'].keys():
                             scores_exp1['only_know_wo_kns'][_s] += only_know_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['only_know_wo_kns'][_s].append(only_know_wo_raw_res[0][uuid][_s])
                             
                 only_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -531,6 +550,7 @@ class KnowledgeNeurons:
                     for uuid in only_know_db_raw_res[0]:
                         for _s in scores_exp1['only_know_db_kns'].keys():
                             scores_exp1['only_know_db_kns'][_s] += only_know_db_raw_res[0][uuid][_s]
+                            scores_exp1_raw['only_know_db_kns'][_s].append(only_know_db_raw_res[0][uuid][_s])
                             
                 shared_know_wo_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -544,6 +564,7 @@ class KnowledgeNeurons:
                     for uuid in shared_know_wo_raw_res[0]:
                         for _s in scores_exp1['shared_know_wo_kns'].keys():
                             scores_exp1['shared_know_wo_kns'][_s] += shared_know_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['shared_know_wo_kns'][_s].append(shared_know_wo_raw_res[0][uuid][_s])
                             
                 shared_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -557,8 +578,7 @@ class KnowledgeNeurons:
                     for uuid in shared_know_db_raw_res[0]:
                         for _s in scores_exp1['shared_know_db_kns'].keys():
                             scores_exp1['shared_know_db_kns'][_s] += shared_know_db_raw_res[0][uuid][_s]
-                            
-                
+                            scores_exp1_raw['shared_know_db_kns'][_s].append(shared_know_db_raw_res[0][uuid][_s])
                             
             
             scores_exp1 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp1[k1].items()} for k1 in scores_exp1.keys()}
@@ -567,8 +587,12 @@ class KnowledgeNeurons:
             scores_exp1['kns_mode'] = kns_mode
             scores_exp1['threshold'] = thresh
             
+            scores_exp1_raw['kns_mode'] = kns_mode
+            scores_exp1_raw['threshold'] = thresh
+            
             # Storing scores
             scores[1] = scores_exp1
+            scores_raw[1] = scores_exp1_raw
             
         
         if 2 in exps:
@@ -590,6 +614,18 @@ class KnowledgeNeurons:
                         'shared_know_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
                         'shared_know_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS}
                         }
+            scores_exp2_raw = {
+                        'vanilla': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'sem_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'sem_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'syn_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'syn_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'only_know_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'only_know_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'shared_know_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'shared_know_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS}
+                        }
+            
             num_eval = {k: 0 for k in scores_exp1.keys()}
             
             for k, rela in enumerate(analysis_dict['rela_names']):
@@ -662,6 +698,7 @@ class KnowledgeNeurons:
                     for uuid in vanilla_raw_res[0]:
                         for _s in scores_exp2['vanilla'].keys():
                             scores_exp2['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
+                            scores_exp2_raw['vanilla'][_s].append(vanilla_raw_res[0][uuid][_s])
                 
                 ### Semantics Eval ###
                 
@@ -679,6 +716,7 @@ class KnowledgeNeurons:
                     for uuid in sem_wo_raw_res[0]:
                         for _s in scores_exp2['sem_wo_kns'].keys():
                             scores_exp2['sem_wo_kns'][_s] += sem_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['sem_wo_kns'][_s].append(sem_wo_raw_res[0][uuid][_s])
                             
                 sem_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -694,6 +732,7 @@ class KnowledgeNeurons:
                     for uuid in sem_db_raw_res[0]:
                         for _s in scores_exp2['sem_db_kns'].keys():
                             scores_exp2['sem_db_kns'][_s] += sem_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['sem_db_kns'][_s].append(sem_db_raw_res[0][uuid][_s])
                             
                 ### Syntax Eval ###
                 
@@ -710,6 +749,7 @@ class KnowledgeNeurons:
                     for uuid in syn_wo_raw_res[0]:
                         for _s in scores_exp2['syn_wo_kns'].keys():
                             scores_exp2['syn_wo_kns'][_s] += syn_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['syn_wo_kns'][_s].append(syn_wo_raw_res[0][uuid][_s])
                             
                 syn_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -724,6 +764,7 @@ class KnowledgeNeurons:
                     for uuid in syn_db_raw_res[0]:
                         for _s in scores_exp2['syn_db_kns'].keys():
                             scores_exp2['syn_db_kns'][_s] += syn_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['syn_db_kns'][_s].append(syn_db_raw_res[0][uuid][_s])
                             
                 ### Knowledge Eval ###
                             
@@ -741,6 +782,7 @@ class KnowledgeNeurons:
                     for uuid in only_know_wo_raw_res[0]:
                         for _s in scores_exp2['only_know_wo_kns'].keys():
                             scores_exp2['only_know_wo_kns'][_s] += only_know_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['only_know_wo_kns'][_s].append(only_know_wo_raw_res[0][uuid][_s])
                             
                 only_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -756,6 +798,7 @@ class KnowledgeNeurons:
                     for uuid in only_know_db_raw_res[0]:
                         for _s in scores_exp2['only_know_db_kns'].keys():
                             scores_exp2['only_know_db_kns'][_s] += only_know_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['only_know_db_kns'][_s].append(only_know_db_raw_res[0][uuid][_s])
                             
                 shared_know_wo_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -771,6 +814,7 @@ class KnowledgeNeurons:
                     for uuid in shared_know_wo_raw_res[0]:
                         for _s in scores_exp2['shared_know_wo_kns'].keys():
                             scores_exp2['shared_know_wo_kns'][_s] += shared_know_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['shared_know_wo_kns'][_s].append(shared_know_wo_raw_res[0][uuid][_s])
                             
                 shared_know_db_raw_res = self.eval_one_rela_by_uuid(
                         predicate_id = rela,
@@ -786,6 +830,7 @@ class KnowledgeNeurons:
                     for uuid in shared_know_db_raw_res[0]:
                         for _s in scores_exp2['shared_know_db_kns'].keys():
                             scores_exp2['shared_know_db_kns'][_s] += shared_know_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['shared_know_db_kns'][_s].append(shared_know_db_raw_res[0][uuid][_s])
                             
                 
             scores_exp2 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp2[k1].items()} for k1 in scores_exp2.keys()}
@@ -795,14 +840,19 @@ class KnowledgeNeurons:
             scores_exp2['threshold'] = thresh
             scores_exp2['db_fact'] = db_fact
             
+            scores_exp2_raw['kns_mode'] = kns_mode
+            scores_exp2_raw['threshold'] = thresh
+            scores_exp2_raw['db_fact'] = db_fact
+            
             # Storing scores
             scores[2] = scores_exp2
+            scores_raw[2] = scores_exp2_raw
             
             ### EXP 3 ###
             # Syntax KNs should increase the probability of the correct POS overall?
             # When doing multilingual correlation shared syntax tokens wrt hamming distance?
         
-        return scores 
+        return scores, scores_raw 
     
     
     
@@ -1631,7 +1681,7 @@ class KnowledgeNeurons:
                         scores[uuid][f'ccp@{k}'] += tensors_intersection_size(ids[l,:k], Ys_ids)/k
             
             assert ids.shape[0] == len(sentences_tok)
-            scores[uuid] = {k:v/len(sentences_tok) for k,v in scores[uuid].items()}
+            scores[uuid] = {k:v/len(sentences_tok) for k,v in scores[uuid].items()} # Already an average...
             
             output_probs = softmax(logits[target_pos_i, target_pos_j].cpu().float())
             probs[uuid] = output_probs[torch.arange(output_probs.shape[0]), target.flatten()].tolist()
