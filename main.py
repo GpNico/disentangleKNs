@@ -338,6 +338,8 @@ if __name__ == '__main__':
             kns_mode = 'equal' if args.equal else 'all'
             
             if not(args.plot_only):
+                print(f'Thresholds: t_r = {args.t_r} ; t_c = {args.t_c}')
+                
                 scores, scores_raw = kn.compute_experiments_v2(
                                             t_c = args.t_c,
                                             t_r = args.t_r,
