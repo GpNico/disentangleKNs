@@ -5,7 +5,7 @@ class Config:
     
     ### CONFIG ###
     
-    WANDB = True
+    WANDB = False
     
     PLOT_OLD_FIGS = False
     PLOT_ERROR_BARS = True

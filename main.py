@@ -77,6 +77,14 @@ if __name__ == '__main__':
     parser.add_argument('--run_autoprompt',
                         action="store_true",
                         help="Run Autoprompt.")
+    
+    # New Version
+    parser.add_argument('--t_r', 
+                        type=float, 
+                        help="Relation KNs threhsolds")
+    parser.add_argument('--t_c', 
+                        type=float, 
+                        help="Concept KNs threhsolds")
 
     
     # For fast run
@@ -330,24 +338,26 @@ if __name__ == '__main__':
             kns_mode = 'equal' if args.equal else 'all'
             
             if not(args.plot_only):
-                scores, scores_raw = kn.compute_experiments(
-                                            thresh = config.ACCROSS_UUIDS_THRESHOLD, 
-                                            kns_mode=kns_mode, 
+                scores, scores_raw = kn.compute_experiments_v2(
+                                            t_c = args.t_c,
+                                            t_r = args.t_r,
+                                            kns_mode = kns_mode, 
                                             exps = [1, 2], 
                                             db_fact=config.TRIVIAL_PROMPT_ACTIVATION_FACT)
             
             
                 os.makedirs(os.path.join(kn.kns_path, kn.dataset_type, 'raw'), exist_ok=True)
                 # Scores
-                if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle')):
-                    print('Results already exists! They will be overwritten.')
-                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'), 'wb') as file:
-                    pickle.dump(scores, file)
+                #if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle')):
+                #    print('Results already exists! They will be overwritten.')
+                #with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'), 'wb') as file:
+                #    pickle.dump(scores, file)
                 # Scores Raw
-                if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_raw.pickle')):
+                if os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_tr_{args.t_r}_tc_{args.t_c}_raw.pickle')):
                     print('Results already exists! They will be overwritten.')
-                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_raw.pickle'), 'wb') as file:
+                with open(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}_tr_{args.t_r}_tc_{args.t_c}_raw.pickle'), 'wb') as file:
                     pickle.dump(scores_raw, file)
+                exit(0)
             else:
                 assert os.path.exists(os.path.join(kn.kns_path, kn.dataset_type, 'raw', f'kns_exps_p_{kn.p_thresh}_{kns_mode}.pickle'))
                 print("Loading data...")

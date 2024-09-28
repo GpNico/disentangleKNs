@@ -854,6 +854,367 @@ class KnowledgeNeurons:
         
         return scores, scores_raw 
     
+    def compute_relation_concept_kns(self, t_r: float, t_c: float) -> Tuple[Dict[str, int], Dict[str, int], Dict[str, int]]:
+        
+        # ParaRel path
+        pararel_path = os.path.join(self.kns_path, 'pararel', f'kns_p_{self.p_thresh}')
+        
+        # Get relations names
+        rela_names = list(
+                        set(
+                            [n[:-5] for n in os.listdir(pararel_path) if '.json' in n]
+                            )
+                        )
+        
+        # Compute relation & concept
+        res_dict = {}
+        for i, rela in enumerate(rela_names):
+            # Getting KNs by rela for rela overlap
+            with open(os.path.join(pararel_path, rela + '.json'), 'r') as f:
+                pararel_rela_kns = json.load(f) # key uuids, value list of kns
+            
+            res_dict[rela] = {'relation': {}, 'concept': {}}
+            
+            # Count KNs
+            count_kns = {}
+            for uuid in pararel_rela_kns.keys():
+                _kns = pararel_rela_kns[uuid]
+                for kn in _kns:
+                    if (kn[0], kn[1]) in count_kns.keys():
+                        count_kns[(kn[0], kn[1])] += 1
+                    else:
+                        count_kns[(kn[0], kn[1])] = 1
+                        
+            # Classify
+            n_uuids = len(pararel_rela_kns)
+            for uuid in pararel_rela_kns.keys():
+                res_dict[rela]['relation'][uuid] = []
+                res_dict[rela]['concept'][uuid] = []
+                for kn in pararel_rela_kns[uuid]:
+                    kn_count = count_kns[(kn[0], kn[1])]
+                    # Concept
+                    if kn_count < int(t_c*n_uuids):
+                        res_dict[rela]['concept'][uuid].append((kn[0], kn[1]))
+                    elif kn_count >= int(t_r*n_uuids):
+                        res_dict[rela]['relation'][uuid].append((kn[0], kn[1]))
+                    else:
+                        ... # Don't do anything here
+            
+        return res_dict
+    
+    
+    def compute_experiments_v2(self, 
+                           t_c: float,
+                           t_r: float,
+                           kns_mode: str = 'all',
+                           exps: List[int] = [1,2],
+                           db_fact: float = 2.) -> None:
+        """
+        
+            kns_mode (str) 'all' : using all kns to compute boost
+                           'equal' : using the same amount of KNs to compute boost 
+                                     so equal to min( |sem_kns|, |syn_kns|)
+            db_fact (float) only used in exp 2 for now. It replaces the x2 in the boost experiment
+        
+        
+        """
+        
+        scores = {}
+        scores_raw = {}
+        
+        assert kns_mode in ['all', 'equal']
+        
+        kns_rela_concept = self.compute_relation_concept_kns(t_r = t_r, t_c = t_c)
+        
+        if 1 in exps:
+            ### EXP 1 ###
+            # We measure correct category proportion by boosting
+            # respectively: Semantics, Syntax & Knowledge Neurons
+            # Expected Results: Only semantics should boost correct category
+            #
+            # Remark: as the number of semantics, syntax & knowledge KNs is
+            #         not the same we can test using all & the same amounts of KNs
+            
+            scores_exp1 = {
+                        'vanilla': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'concept_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'concept_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'relation_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'relation_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        }
+            scores_exp1_raw = {
+                        'vanilla': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'concept_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'concept_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'relation_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'relation_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        }
+            
+            num_eval = {k: 0 for k in scores_exp1.keys()}
+            
+            for k, rela in enumerate(kns_rela_concept.keys()):
+                
+                print(f"{rela}... ({k+1}/{len(kns_rela_concept)})")
+                
+                if self.config.DEBUG:
+                    if k == 3:
+                        break
+                
+                ### Vanilla ###
+                
+                vanilla_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = None,
+                        rela_kns = None,
+                        correct_category = True
+                        )
+                
+                if vanilla_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['vanilla'] += len(vanilla_raw_res[0])
+                    for uuid in vanilla_raw_res[0]:
+                        for _s in scores_exp1['vanilla'].keys():
+                            scores_exp1['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
+                            scores_exp1_raw['vanilla'][_s].append(vanilla_raw_res[0][uuid][_s])
+                
+                ### Relation Eval ###
+                
+                relation_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = kns_rela_concept[rela]['relation'],
+                        correct_category = True
+                        )
+                if relation_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['relation_wo_kns'] += len(relation_wo_raw_res[0])
+                    for uuid in relation_wo_raw_res[0]:
+                        for _s in scores_exp1['relation_wo_kns'].keys():
+                            scores_exp1['relation_wo_kns'][_s] += relation_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['relation_wo_kns'][_s].append(relation_wo_raw_res[0][uuid][_s])
+                            
+                relation_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = kns_rela_concept[rela]['relation'],
+                        correct_category = True
+                        )
+                if relation_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['relation_db_kns'] += len(relation_db_raw_res[0])
+                    for uuid in relation_db_raw_res[0]:
+                        for _s in scores_exp1['relation_db_kns'].keys():
+                            scores_exp1['relation_db_kns'][_s] += relation_db_raw_res[0][uuid][_s]
+                            scores_exp1_raw['relation_db_kns'][_s].append(relation_db_raw_res[0][uuid][_s])
+                            
+                ### Concept Eval ###
+                
+                concept_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = kns_rela_concept[rela]['concept'],
+                        correct_category = True
+                        )
+                if concept_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['concept_wo_kns'] += len(concept_wo_raw_res[0])
+                    for uuid in concept_wo_raw_res[0]:
+                        for _s in scores_exp1['concept_wo_kns'].keys():
+                            scores_exp1['concept_wo_kns'][_s] += concept_wo_raw_res[0][uuid][_s]
+                            scores_exp1_raw['concept_wo_kns'][_s].append(concept_wo_raw_res[0][uuid][_s])
+                            
+                concept_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = kns_rela_concept[rela]['concept'],
+                        correct_category = True
+                        )
+                if concept_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['concept_db_kns'] += len(concept_db_raw_res[0])
+                    for uuid in concept_db_raw_res[0]:
+                        for _s in scores_exp1['concept_db_kns'].keys():
+                            scores_exp1['concept_db_kns'][_s] += concept_db_raw_res[0][uuid][_s]
+                            scores_exp1_raw['concept_db_kns'][_s].append(concept_db_raw_res[0][uuid][_s])
+                            
+            
+            scores_exp1 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp1[k1].items()} for k1 in scores_exp1.keys()}
+            
+            # Storing mode
+            scores_exp1['kns_mode'] = kns_mode
+            scores_exp1['t_r'] = t_r
+            scores_exp1['t_c'] = t_c
+            
+            scores_exp1_raw['kns_mode'] = kns_mode
+            scores_exp1_raw['t_r'] = t_r
+            scores_exp1_raw['t_c'] = t_c
+            
+            # Storing scores
+            scores[1] = scores_exp1
+            scores_raw[1] = scores_exp1_raw
+            
+        
+        if 2 in exps:
+            ### EXP 2 ###
+            # Promptless experiment: X [MASK].
+            # KNs are supposed to help even without prompts.
+            # X [MASK] boost with sem & know should help
+            # [MASK] boost with know should help but not with sem 
+            
+            
+            scores_exp2 = {
+                        'vanilla': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'concept_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'concept_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'relation_wo_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        'relation_db_kns': {f'P@{k}': 0 for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': 0 for k in self.config.ACCURACY_RANKS},
+                        }
+            scores_exp2_raw = {
+                        'vanilla': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'concept_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'concept_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'relation_wo_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        'relation_db_kns': {f'P@{k}': [] for k in self.config.ACCURACY_RANKS} | {f'ccp@{k}': [] for k in self.config.ACCURACY_RANKS},
+                        }
+            
+            num_eval = {k: 0 for k in scores_exp1.keys()}
+            
+            for k, rela in enumerate(kns_rela_concept.keys()):
+                
+                print(f"{rela}... ({k+1}/{len(kns_rela_concept)})")
+                
+                if self.config.DEBUG:
+                    if k == 3:
+                        break
+                    
+                ### Creating Custom Prompts ###
+                
+                custom_dataset = {}
+                _autoregressive = is_autoregressive(model_name=self.model_name)
+                if rela not in self.data.keys():
+                    print(f"{rela} skipped!")
+                    continue
+                for uuid in self.data[rela]:
+                    X, Y, num_prompts = self.data[rela][uuid]['X'], self.data[rela][uuid]['Y'], self.data[rela][uuid]['num_prompts']
+                    
+                    if _autoregressive:
+                        _prompt_tok = self.tokenizer(X, add_special_tokens=True).input_ids
+                    else:
+                        _prompt_tok = self.tokenizer(f'{X} {self.tokenizer.mask_token} .', add_special_tokens=True).input_ids
+                    
+                    custom_dataset[uuid] = {'sentences_tok': [torch.tensor(_prompt_tok)],
+                                            'X': X,
+                                            'Y': Y,
+                                            'num_prompts': num_prompts}
+                
+                ### Vanilla ###
+                
+                vanilla_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = None,
+                        rela_kns = None,
+                        correct_category = True,
+                        custom_dataset = custom_dataset
+                        )
+                
+                if vanilla_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['vanilla'] += len(vanilla_raw_res[0])
+                    for uuid in vanilla_raw_res[0]:
+                        for _s in scores_exp2['vanilla'].keys():
+                            scores_exp2['vanilla'][_s] += vanilla_raw_res[0][uuid][_s]
+                            scores_exp2_raw['vanilla'][_s].append(vanilla_raw_res[0][uuid][_s])
+                
+                ### Relation Eval ###
+                
+                relation_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = kns_rela_concept[rela]['relation'], # Dict[str, List[Tuple[int, int]]]
+                        correct_category = True,
+                        custom_dataset = custom_dataset,
+                        db_fact = db_fact
+                        )
+                if relation_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['relation_wo_kns'] += len(relation_wo_raw_res[0])
+                    for uuid in relation_wo_raw_res[0]:
+                        for _s in scores_exp2['relation_wo_kns'].keys():
+                            scores_exp2['relation_wo_kns'][_s] += relation_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['relation_wo_kns'][_s].append(relation_wo_raw_res[0][uuid][_s])
+                            
+                relation_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = kns_rela_concept[rela]['relation'],
+                        correct_category = True,
+                        custom_dataset = custom_dataset,
+                        db_fact = db_fact
+                        )
+                if relation_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['relation_db_kns'] += len(relation_db_raw_res[0])
+                    for uuid in relation_db_raw_res[0]:
+                        for _s in scores_exp2['relation_db_kns'].keys():
+                            scores_exp2['relation_db_kns'][_s] += relation_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['relation_db_kns'][_s].append(relation_db_raw_res[0][uuid][_s])
+                            
+                ### Syntax Eval ###
+                
+                concept_wo_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'wo',
+                        rela_kns = kns_rela_concept[rela]['concept'],
+                        correct_category = True,
+                        custom_dataset = custom_dataset
+                        )
+                if concept_wo_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['concept_wo_kns'] += len(concept_wo_raw_res[0])
+                    for uuid in concept_wo_raw_res[0]:
+                        for _s in scores_exp2['concept_wo_kns'].keys():
+                            scores_exp2['concept_wo_kns'][_s] += concept_wo_raw_res[0][uuid][_s]
+                            scores_exp2_raw['concept_wo_kns'][_s].append(concept_wo_raw_res[0][uuid][_s])
+                            
+                concept_db_raw_res = self.eval_one_rela_by_uuid(
+                        predicate_id = rela,
+                        mode = 'db',
+                        rela_kns = kns_rela_concept[rela]['concept'],
+                        correct_category = True,
+                        custom_dataset = custom_dataset
+                        )
+                if concept_db_raw_res:
+                    # Storing P@k & CCP@k
+                    num_eval['concept_db_kns'] += len(concept_db_raw_res[0])
+                    for uuid in concept_db_raw_res[0]:
+                        for _s in scores_exp2['concept_db_kns'].keys():
+                            scores_exp2['concept_db_kns'][_s] += concept_db_raw_res[0][uuid][_s]
+                            scores_exp2_raw['concept_db_kns'][_s].append(concept_db_raw_res[0][uuid][_s])
+                            
+                
+            scores_exp2 = {k1: {k2: v/num_eval[k1] for k2, v in scores_exp2[k1].items()} for k1 in scores_exp2.keys()}
+            
+            # Storing params
+            scores_exp2['kns_mode'] = kns_mode
+            scores_exp2['db_fact'] = db_fact
+            scores_exp1_raw['t_r'] = t_r
+            scores_exp1_raw['t_c'] = t_c
+            
+            scores_exp2_raw['kns_mode'] = kns_mode
+            scores_exp2_raw['db_fact'] = db_fact
+            scores_exp1_raw['t_r'] = t_r
+            scores_exp1_raw['t_c'] = t_c
+            
+            # Storing scores
+            scores[2] = scores_exp2
+            scores_raw[2] = scores_exp2_raw
+            
+            ### EXP 3 ###
+            # Syntax KNs should increase the probability of the correct POS overall?
+            # When doing multilingual correlation shared syntax tokens wrt hamming distance?
+        
+        return scores, scores_raw
+    
     
     
     
@@ -1565,7 +1926,7 @@ class KnowledgeNeurons:
                         self,
                         predicate_id: str,
                         mode: str = None,
-                        rela_kns: dict[str, List[Tuple[int, int]]] = None,
+                        rela_kns: Union[List[Tuple[int, int]], Dict[str, List[Tuple[int, int]]]] = None,
                         correct_category: bool = False,
                         custom_dataset: List[str] = None,
                         db_fact: float = 2.
@@ -1583,7 +1944,11 @@ class KnowledgeNeurons:
         if custom_dataset:
             dataset = custom_dataset
         else:
-            dataset = self.data[predicate_id]
+            if predicate_id in self.data:
+                dataset = self.data[predicate_id]
+            else:
+                print(f"{predicate_id} skipped!")
+                return None
         
         if dataset is None:
             return None
