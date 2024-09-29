@@ -27,12 +27,12 @@ class ModelWrapper(nn.Module):
             self.config = AutoConfig.from_pretrained(
                                             f'facebook/{model_name}', 
                                             output_hidden_states = output_hidden_states,
-                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            #torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             )
-            self.model = OPTForCausalLM.from_pretrained(
+            self.model = AutoModelForCausalLM.from_pretrained(
                                             f"facebook/{model_name}", 
                                             config=self.config,
-                                            torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
+                                            #torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             ).to(device)
         if 'gemma' in model_name:
             self.config = AutoConfig.from_pretrained(
