@@ -28,6 +28,10 @@ if __name__ ==  '__main__':
                         type=str)
     parser.add_argument('--lang', 
                         type=str)
+    
+    parser.add_argument('--add_prefix',
+                        action="store_true",
+                        help="Add a prefix 'Answer in one word:' to ParaRel prompts.")
 
     args = parser.parse_args()
     
@@ -62,7 +66,8 @@ if __name__ ==  '__main__':
                                 lower = utils.should_lower(args.model_name),
                                 split = split,
                                 autoregressive = utils.is_autoregressive(args.model_name),
-                                multilingual = multilingual
+                                multilingual = multilingual,
+                                add_prefix = args.add_prefix
                                 )
     
     ### CREATE KNs OBJECT ###

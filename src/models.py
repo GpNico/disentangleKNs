@@ -24,13 +24,20 @@ class ModelWrapper(nn.Module):
         self.device = device
         
         if 'opt' in model_name:
+            if model_name == 'opt-350m':
+                model_path = "../.cache/huggingface/hub/models--facebook--opt-350m/snapshots/08ab08cc4b72ff5593870b5d527cf4230323703c/"
+            elif model_name == 'opt-6.7b':
+                model_path = "../.cache/huggingface/hub/models--facebook--opt-6.7b/snapshots/a45aa65bbeb77c1558bc99bedc6779195462dab0/"
+            else:
+                raise Exception(f'Model name unknown: {model_name}')
+            
             self.config = AutoConfig.from_pretrained(
-                                            f'facebook/{model_name}', 
+                                            model_path, 
                                             output_hidden_states = output_hidden_states,
                                             #torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             )
             self.model = AutoModelForCausalLM.from_pretrained(
-                                            f"facebook/{model_name}", 
+                                            model_path, 
                                             config=self.config,
                                             #torch_dtype = torch.float16, ########## FOR FASTER INFERENCE #############
                                             ).to(device)
